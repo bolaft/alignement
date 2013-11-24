@@ -1,0 +1,101 @@
+Introduction
+It has been estimated that up to 3% of breast cancers may be diagnosed in women who are pregnant or lactating.1 However , there is an increasing trend in many developed countries for women to delay childbearing until later in life , and this incidence may therefore rise .
+The management of these women presents a considerable challenge to those involved in their care .
+This is partly due to the rarity of the association , and partly because , in contrast to other areas of breast cancer oncology , we do not have large randomized trials to guide our clinical practice .
+We are forced to rely on assumptions and anecdotes , and that it is a difficult scenario to work in , particularly when the stakes ( both medical and emotional ) are so high .
+In this review , the basic principles underlying the management of pregnant women with cancer will be discussed , before moving on to discuss pregnancy-associated breast cancer in more detail .
+Principles underlying the oncological management of pregnant women
+The first stage of foetal development is implantation , which occurs within 2 weeks post-conception .
+Physical or pharmacological insults during this period may precipitate foetal loss .
+Following this , over the next 8 weeks of foetal development , is the period of organogenesis .
+At the end of this period , despite the tiny size of the foetus ( approximately 3 cm ) all of the major organ systems have been developed .
+Insults during this period may manifest themselves as major malformations .
+However , after this period , because organogenesis is complete , major malformations are unlikely to occur .
+This does not mean that the foetus if free from risk of harm , it still needs to grow and mature , and be safely delivered .
+Moreover , some organ systems , such as the gonads and central nervous system continue to develop later through foetal life .
+However , the greatest risks of harm , and particularly the risks of major malformation are over by the completion of the first trimester .
+Pathological features of pregnancy-associated breast cancer
+Women who present with breast cancer during pregnancy have been found to frequently present with high-grade tumours , which are often large at the time of diagnosis and __ER__ negative , and between 28% and 58% have been reported to be HER2 positive.3 There has been a lot of debate as to whether these high rates of adverse prognostic features are a specific reflection of pregnancy-associated breast cancer , or whether they simply reflect the patient age-group being studied .
+Regardless , when pregnant women present with breast cancer they frequently present with adverse pathological features .
+Diagnosis and staging
+Women who present with a breast lump in pregnancy should be investigated promptly , as historically delays to diagnosis have been reported frequently in this patient group .
+Atypical cytological features may be observed in the normal breast in pregnant women , therefore the investigation of choice is a core biopsy .
+In terms of imaging investigations , ultrasounds can be performed as normal , but the greatest concerns surround the risks of exposure of the foetus to __IR__ .
+Quantifying the risks to a foetus of __IR__ exposure is difficult , as we have to extrapolate from data from the atomic bomb survivors , animal studies and children exposed accidentally to radiological investigations in utero .
+Nonetheless , the foetus is at risk of stochastic effects of __IR__ which may manifest itself as increased risk of cancer and hereditary disease in subsequent generations , and deterministic effects which may become manifest as malformations , foetal loss , and mental retardation.4 The deterministic effects of __IR__ have thresholds for their clinical effects , below which dose of __IR__ the deterministic outcomes do not occur .
+These thresholds depend on the gestational age .
+Essentially , early on in foetal life during implantation and organogenesis relatively low doses of __IR__ ( thresholds 250 - 500 mGy ) may lead to the deterministic outcomes of foetal loss and malformations .
+But later on , when organogenesis is complete and the foetus more robust these outcomes are unlikely to occur ( thresholds>1000 mGy ) .
+Chest X-rays and mammograms expose the foetus to doses of __IR__ well below these thresholds ( less than 10 mGy ) , and the thresholds are only really approached by CT scans of the abdomen and pelvis.4 Therefore , if investigations such as plain X-rays are the only means by which to gain information that will immediately effect management , then such investigations can be considered .
+However , in reality sufficient information may often be gleaned from tests , which do not utilize __IR__ , such as ultrasound and MRI , and recourse to other radiological investigations is not necessary .
+Breast surgery in pregnant women
+Surgery is the primary treatment offered to most women with early breast cancer diagnosed in pregnancy .
+However , the physiological changes associated with pregnancy : such as increased cardiac output , increased oxygen consumption and renal plasma flow , mean that general anaesthesia may be complicated in pregnant women .
+These changes are , however , predictable and large registry studies suggest that surgery and general anaesthesia can be performed in pregnant women with apparently little increase in risk to the mother or foetus .
+In the small uncontrolled case series , where breast and axillary surgery has been performed on pregnant women , there do not appear to be a significant excess of surgical or obstetric complications.5
+Radiotherapy in pregnant women
+The same risks to the foetus of __IR__ exposure exist for radiotherapy as for diagnostic radiology , only with the potential for greater harm owing to the doses of __IR__ employed .
+However , with careful dosimetry , it may be possible to irradiate some parts of the mother , distant from the pelvis , without significantly irradiating the foetus .
+The use of radiotherapy to treat the preserved breast or chest wall has been reported in pregnant women.6 Under these circumstances , it is clearly important to weigh up the pros and cons of delaying treatment until after pregnancy , and to consider alternative approaches .
+However , in the adjuvant setting , the inevitable young age of these women and the high frequency of poor pathological prognostic factors mean that adjuvant chemotherapy is often indicated following surgery .
+Under these circumstances , it is usually chemotherapy , which becomes indicated following surgery during pregnancy and radiotherapy usually only becomes indicated after delivery .
+Systemic therapy in pregnant women
+There are three main groups of factors , which may influence the effects of systemic therapy on a pregnant women and the developing foetus .
+The first of these are the maternal physiological changes associated with pregnancy .
+There are changes in circulating blood volume , renal plasma flow , plasma protein binding , hepatic metabolism and pharmacological third spaces .
+These may affect the pharmacokinetic properties of the drugs administered .
+Secondly , the placenta on which the foetus is dependent for respiration , nutrition and protection from metabolic harm , will influence to what extent drugs cross over to the foetal circulation .
+Studies looking at the transplacental transfer of cytotoxic agents have been inconclusive .
+It is clear that many chemotherapy agents have the potential to cross the placenta , the extent to which they do so depending on their physical and chemical properties .
+However , for any individual drug at a given dose the extent to which they cross into the foetal circulation is largely unknown .
+The third variable is the foetus , which as discussed may be particularly sensitive to the effects of cytotoxic agents , particularly in the first trimester .
+These three variables have implications both for the mother and the foetus .
+In terms of the mother , it becomes difficult to be certain that the optimal dose of chemotherapy is still being delivered to the sites of disease .
+This is a potentially important consideration when considering adjuvant or neoadjuvant therapies .
+However , concerns regarding the mother are often overlooked as there is greater concern regarding the foetus .
+The foetal effects of chemotherapy exposure in utero are highly dependent on gestational age .
+When chemotherapy is administered in the first trimester there are high rates of miscarriage and malformations.3 It is difficult to put an absolute figure on these outcomes , as of course these events occur in normal pregnancies at this stage .
+However , the risks are thought significantly high that chemotherapy is usually avoided in this stage of pregnancy .
+Chemotherapy has been much more widely used in the second and third trimesters , when implantation and organogenesis are complete and miscarriage and malformations are unlikely to occur .
+Complications , which have been reported when chemotherapy is given at this stage , include intrauterine growth retardation , premature labour .
+There are again background rates of these complications in otherwise normal pregnancies , and it is not known whether the underlying diagnosis of breast cancer also influences these ; so it is difficult to be certain to what extent the chemotherapy itself is causative .
+The potential problems related to chemotherapy are not restricted to intra-uterine life .
+A mother who has bone marrow suppression due to chemotherapy and who goes into labour may be at particular risk of sepsis and haemorrhage .
+In addition , there are also reports of neonates being born with low blood counts , concomitant with maternal cytopenias.7 Neonates with bone marrow suppression might be expected to be at significant risk .
+There are therefore still potential risks to delivering chemotherapy , even during the second and third trimesters of pregnancy .
+The largest and most robust body of evidence to address this issue to date is the prospective series from the MD Andersen Cancer Center.8 In this study , 57 pregnant women with localized invasive breast cancer were treated chemotherapy in the adjuvant ( 32 ) and neoadjuvant ( 25 ) settings .
+The chemotherapy used was 5 fluorouracil ( 1000 mg / m2 , days 1 and 4 ) , doxorubicin ( 50 mg / m2 , continuous infusion over 72 h ) , and cyclophosphamide ( 500 mg / m2 , day 1 only ) , administered every 3 - 4 weeks .
+The median gestational age at the time of chemotherapy initiation was 23 weeks ( range 11 - 34 weeks ) , and the median number of cycles given whilst pregnant was 4. There was one maternal death , in a woman who had a pulmonary embolism following a Caesarian section .
+In terms of foetal outcomes , there were no stillbirths , miscarriages , or perinatal deaths in the cohort of children who received FAC chemotherapy during their second and / or third trimesters .
+The median gestational age at delivery was 37 weeks ( range 29 - 42 ) , and the median birth weight 2890 g ( range 1389 - 3977 ) .
+Only the child born at 29 weeks ( as the mother developed pre-eclampsia ) weighed less than 2000 g .
+Other neonatal complications included difficulty breathing , with 10% of neonates requiring ventilation .
+One child , born by vaginal delivery , at 38 weeks had a subarachnoid haemorrhage on day 2 postpartum .
+Despite the time elapsed since the mother 's chemotherapy being more than 3 weeks , the child was both neutropaenic and thrombocytopaenic .
+No definite cause for the haemorrhage was confirmed and the child ( at 40 months ) had only minor residual leg weakness .
+Finally , one child ( born to a mother aged 32 ) had Down 's syndrome .
+Evidently , these pregnancies were not without their complications , but as ever which such series it is difficult to establish cause and effect , and be certain what the contributions of chemotherapy are relative to the underlying disease and background rates of such complications .
+These data and supporting retrospective series from France7 and London9 are reassuring , and it would be reasonable to conclude that when chemotherapy is avoided in the first trimester and around the time of delivery the absolute risks to the foetus are relatively small .
+However , there is one major concern overshadowing this area , and that is the potential for long-term sequelae from in utero chemotherapy exposure .
+As previously discussed , some organ systems , such as the gonads and central nervous system continue to develop later in foetal life .
+Are we going to be left with a population of children who are infertile themselves or who have neurological or developmental impairment ?
+These changes may be subtle and not picked up at birth , and may only become apparent many years later .
+The most comprehensive cohort to address this to date describes 84 children born to mothers who were treated with combination chemotherapy during pregnancy for haematological malignancies.10 The childrens ages ranged from 6 to 29 years at the time of assessment ( median 18.7 years ) .
+Some of these children had also become parents themselves , and these children were included in the analysis .
+In all children , including 12 second generation children , normal physical , neurological , and psychological development was observed , and there were no reports of malignancies in the cohort .
+Reports such as this are reassuring but large prospective studies are needed to provide further information regarding the longer-term sequelae of treatment .
+With this intention , a prospective register of women treated for breast cancer whilst pregnant has been set up by the German Breast Group , and this has now been extended by the Breast International Group as trial 2-03.11 The aim is to accrue as much data as possible concerning the diagnosis , treatment and outcome of breast cancer diagnosed in pregnant women .
+Outline treatment protocols are given as guidance , but compliance with these is optional .
+The primary endpoint is the foetal outcome 4 weeks after delivery .
+Secondary endpoints will include maternal and newborn outcome at 5 years , treatment given and response , the utility of the investigations used and tumour characteristics.11 Initiatives such as this will add a great deal to the limited data we have in this area .
+In terms of specific systemic agents there is a considerable body of data addressing the use of anthracyclines in pregnant women , largely because of their indications both in breast cancer and haematological malignancies.12 In contrast , there are only a handful of case reports describing the use of taxanes, but on the basis of these very limited data use outside of the first trimester does not seem to be associated with any greater risk .
+Antibodies cross the placenta ; therefore use of trastuzumab in pregnancy may be not without risk , particularly as HER2 appears to be critical to neural and cardiac development.14 Case reports are now emerging where trastuzumab has been given the pregnant women , associated with no apparent immediate adverse effects15 and with reversible anhydramnios and renal failure.16 The long-term implications of such exposures remain unclear .
+Discussion
+The diagnosis of breast cancer in pregnant women is fortunately uncommon .
+Initial investigation can be carried out as for non-pregnant women but with attention paid to the risks of exposure of the foetus of ionizing radiation .
+Surgery can be carried out as routine , within the bounds of more complex anaesthetic requirements , but radiotherapy is usually avoided .
+Chemotherapy can be administered outside of the first trimester and not around the time of delivery , with apparently few short-term implications .
+However , the long-term impact of these interventions remains unknown .
+From the outset , these patients must be managed by a multidisciplinary team , including not only the core oncological members but also incorporating obstetric , neonatal and midwifery staff .
+Such an approach ensures that a consensus as to management can be made , and clear treatment options communicated to the mother .
+Hopefully , this will enable her to make informed rational decisions at what is a very difficult time .

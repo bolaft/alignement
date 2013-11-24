@@ -34,7 +34,7 @@ public class Pipeline {
         "ADJ2PAR",
         "ADJ1PAR",
         "VNCFF",
-        "SYM",
+//        "SYM",
         "VNCNT",
         "VPAR",
     };
@@ -50,7 +50,7 @@ public class Pipeline {
         "RB",
         "RBR",
         "RBS",
-        "SYM",
+//        "SYM",
         "VB",
 //        "VBD",
         "VBG",
@@ -60,7 +60,6 @@ public class Pipeline {
     };
 	
 	public static void main(String[] args) {
-		
 		echo("Loading dictionary...");
 		Dictionary dictionary = new Dictionary(DICTIONARY_PATH);
 		echo("Dictionary loaded.");
@@ -73,10 +72,21 @@ public class Pipeline {
 		Corpus target = new Corpus(TARGET_CORPUS_PATH, TARGET_POS);
 		echo("Target corpus loaded.");
 		
+//		ArrayList<String> tokens = new ArrayList<String>();
+//		tokens.add("Jean");
+//		tokens.add("cliqueter");
+//		tokens.add("parti");
+//		tokens.add("au");
+//		tokens.add("marché");
+//		tokens.add("hier");
+//		tokens.add("soir");
+//		tokens.add(".");
+//		source.setTokens(tokens);
+		
 		echo("Vectorizing source tokens...");
 		Context sourceContext = new Context(source, WINDOW);
 		echo("Source tokens vectorized.");
-
+		
 		echo("Vectorizing target tokens...");
 		Context targetContext = new Context(target, WINDOW);
 		echo("Target tokens vectorized.");
@@ -98,12 +108,12 @@ public class Pipeline {
 		echo("Words to translate: " + wordsToTranslate.size());
 		
 		Integer i = 0;
-		HashMap<String, HashMap<String, Double>> results = new HashMap<String, HashMap<String, Double>>();
+		HashMap<String, ArrayList<String>> results = new HashMap<String, ArrayList<String>>();
 		
 		for (String word : wordsToTranslate) {
 			if (sourceToTargetVectors.containsKey(word)) {
 				echo("Finding candidates for word \"" + word + "\"...");
-				results.put(word, evaluator.test(sourceToTargetVectors.get(word), targetContext.getVectors(), TOP));
+				results.put(word, evaluator.findCandidates(sourceToTargetVectors.get(word), targetContext.getVectors(), TOP));
 				echo("Candidates found.");
 				i++;
 			}
@@ -126,7 +136,6 @@ public class Pipeline {
 	    while (it.hasNext()) {
 	        Map.Entry<?, ?> entry = (Entry<?, ?>)it.next();
 	        System.out.println(entry.getKey() + " = " + entry.getValue());
-	        it.remove();
 	    }
 	}
 }

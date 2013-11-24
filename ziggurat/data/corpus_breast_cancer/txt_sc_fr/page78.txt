@@ -1,0 +1,184 @@
+La technique du ganglion sentinelle a été développée ces dernières années pour déterminer le statut ganglionnaire axillaire sans réaliser un curage des niveaux I et II de Berg .
+Le ganglion sentinelle est défini comme le premier ganglion qui reçoit le flux lymphatique de la tumeur primaire .
+Un ganglion sentinelle non atteint exclut en_théorie un envahissement métastatique du reste de l' aisselle et rend donc le curage axillaire inutile .
+La technique du ganglion sentinelle est l' une des avancées chirurgicales les plus intéressantes dans la prise en charge du cancer du sein depuis l' introduction du traitement conservateur .
+Elle permet de diminuer la morbidité liée au curage axillaire , de concentrer les investigations histo-pathologiques sur un ganglion ou un nombre limité de ganglions , de réduire la durée et les coûts d' hospitalisation ; de plus , elle augmente l' exactitude des indications de traitement adjuvant .
+État des connaissances et essais dont les résultats sont en attente
+La fiabilité de la technique du ganglion sentinelle a été établie par de nombreuses études [ 6 , 9-11 ] .
+L' utilisation de radio-isotopes et / ou de bleu patent permet la détection d' un ganglion sentinelle dans 80 à 98 % des cas ; ce ganglion sentinelle prédit l' envahissement ganglionnaire axillaire avec exactitude dans 92 à 100 % des cas .
+Les conséquences des faux négatifs dépendent de la prévalence de l' envahissement ganglionnaire dans la population étudiée .
+Ainsi , même avec un taux de 8 % de faux négatifs , si la prévalence de l' envahissement ganglionnaire est de 15 ou de 25 % , on observera respectivement 1,2 ou 2 % de patientes sous-évaluées .
+De plus , un traitement adjuvant est actuellement prescrit environ une fois sur deux pour ces petites tumeurs sans envahissement ganglionnaire diagnostiqué .
+Il a été démontré récemment que , chez les patientes ayant une évaluation axillaire peu extensive ( staging incomplet , patientes sans envahissement ganglionnaire axillaire mais chez qui peu de ganglions ont été prélevés lors du curage axillaire ) , la chimiothérapie adjuvante compense la sous-évaluation et le risque de sous-traitement lié à la réalisation d' un curage axillaire peu informatif .
+Cette extrapolation permet de déterminer que seulement la moitié des patientes sous-évaluées sont réellement sous-traitées .
+Les résultats de plusieurs essais randomisés comparant la technique du ganglion sentinelle au curage axillaire si le ganglion sentinelle est négatif sont en cours .
+Les principaux essais sont rapportés dans le tableau 1 : l' essai de l' ESO ( Milan ) , l' essai Almanac en Grande-Bretagne , et les essais NSABP-B32 et Z010 aux États-Unis .
+Les inclusions sont encore ouvertes pour tous ces essais , sauf pour celui de l' European Institute of Oncology de Milan .
+Mais les résultats définitifs de cette étude sur les taux de rechute et de survie ne seront pas connus avant quelques années .
+Un essai multicentrique français , ayant prévu d' inclure 2300 patientes , devrait débuter en 2003 .
+Une donnée importante soutient l' utilisation de la technique du ganglion sentinelle en routine dans l' attente des résultats de ces essais randomisés : le taux d' envahissement ganglionnaire est plus important dans les séries de patientes opérées par la technique du ganglion sentinelle que dans les séries de patientes traitées par curage axillaire .
+L' utilisation de protocoles anatomopathologiques concentrant les investigations sur un ganglion est l' une des explications de l' amélioration de la stadification axillaire grâce_à la méthode du ganglion sentinelle .
+De plus , cette technique conduit parfois à trouver un ganglion en situation atypique , très bas situé , qui aurait pu être laissé en place par un curage classique .
+Du fait de sa diffusion rapide , la technique du ganglion sentinelle n' a pas été standardisée .
+La formation à cette technique soulève des problèmes .
+La nécessité de faire une courbe d' apprentissage fait l' unanimité : la courbe d' apprentissage est non_seulement celle d' un chirurgien mais_surtout celle d' une équipe pluridisciplinaire ( chirurgien , spécialiste de médecine nucléaire et anatomopathologiste ) .
+Une conférence de consensus aux États-Unis a estimé à 30 le nombre de procédures combinées ( technique du ganglion sentinelle et curage ) nécessaires avant_de passer au ganglion sentinelle en routine .
+Pour pouvoir intégrer les essais , il faut avoir réalisé 50 procédures combinées .
+Cela peut poser un réel problème car , par_exemple aux États-Unis , un gynécologue réalise en moyenne 12 curages axillaires par an et la moitié d' entre eux en fait moins de 4 par an .
+Si l' utilisation en routine de la technique du ganglion sentinelle est validée , elle passera probablement par des procédures d' accréditation qui imposeront aux chirurgiens voulant l' utiliser un seuil minimal d' activité .
+Nombre de problèmes ne sont pas encore résolus : la méthode de détection optimale , la détection des micrométastases , leur signification pronostique et l' approche thérapeutique qui en découle , les indications de curage axillaire après ganglion sentinelle , etc.
+Nous aborderons successivement les points suivants : quelle voie d' injection pour quelle détection ?
+Quel intérêt porter à la détection des ganglions mammaires internes ?
+Quelle technique anatomopathologique faut il utiliser pour les ganglions sentinelles ?
+Quelle est la signification des micrométastases ?
+Peut on éviter le curage axillaire chez des patientes ayant un ganglion sentinelle positif ?
+Site d' injection
+Il existe plusieurs techniques d' injection du bleu ou des radio-isotopes : intratumorale , péritumorale , sous-cutanée , intradermique ou sous-aréolaire .
+Le site d' injection optimal est encore un sujet de débat .
+Sachant que le but de la technique est d' identifier le ganglion drainant directement la tumeur , la méthode la plus logique est celle qui consiste à injecter le produit dans ou autour_de la tumeur .
+C' est celle qui a été la plus utilisée dans les premières études .
+Cependant , elle présente un inconvénient qui rend plus difficile le repérage des ganglions sentinelles : la diffusion du traceur est particulièrement importante dans le quadrant supéro-externe .
+Il faut donc optimiser le site d' injection pour augmenter le taux d' identification du ganglion sentinelle , tout en diminuant l' effet de diffusion .
+Plusieurs études ont été réalisées avec une injection de bleu ou de radio-isotopes en sous-cutané , en intradermique [ 6 , 20-22 ] ou en sous-aréolaire .
+La base rationnelle de l' injection sous-cutanée ou intradermique réside dans le fait que la peau et le tissu situés en regard du parenchyme mammaire ont la même origine embryologique que le tissu sous-jacent et , donc , le même réseau lymphatique .
+Ce principe a été vérifié par Borgstein_et_al. qui ont injecté du bleu en intradermique et un traceur radio-isotopique en péritumoral .
+Ils ont démontré une parfaite concordance entre le drainage lymphatique de la tumeur et la peau située en regard .
+D' autres auteurs ont démontré que l' injection intradermique ou l' injection péritumorale de radio-isotope avaient la même efficacité .
+Une autre étude a démontré que , si les réseaux lymphatiques péritumoraux et dermiques se drainent dans le même ganglion sentinelle chez la_plupart des patientes , l' injection dermique a une plus grande efficacité : 97 % versus 78 % .
+Cependant , plus la tumeur est éloignée de la peau , plus le risque de détection erronée est important .
+Le principe de l' injection sous-aréolaire repose sur le fait que l' aréole représente une voie de drainage centrale du réseau lymphatique périphérique avec ensuite un cheminement vers le ganglion sentinelle .
+Cette technique est séduisante car elle permet de résoudre le problème de l' injection en cas de tumeur non palpable et en cas de tumeur multifocale .
+Dans l' étude de Klimberg_et_al. , l' efficacité de la voie sous-aréolaire et celle de la voie péritumorale étaient identiques chez des patientes qui avaient eu une injection péritumorale de bleu et une injection sous-aréolaire de radio-isotope .
+Bauer_et_al. ont fait les mêmes constatations dans une étude portant sur 332 patientes .
+La différence majeure entre la voie péritumorale et la voie dermique repose sur la différence d' identification des ganglions mammaires internes .
+En effet , la voie dermique ne visualise presque jamais de ganglions mammaires internes , contrairement à la voie péritumorale profonde .
+Dans une étude de Leong_et_al. , aucun drainage vers la chaîne mammaire interne n' a été observé chez 50 patientes ayant eu une injection intradermique de traceurs alors qu' un marquage mammaire interne était retrouvé chez 6 patientes parmi 30 ayant eu une injection péritumorale .
+Ces données confirment celles de Roumen et al. qui ne retrouvent jamais de ganglion sentinelle mammaire interne chez les patientes ayant eu une injection intradermique alors qu' un ganglion sentinelle est retrouvé chez 14 % des patientes ayant eu une injection péritumorale .
+Ces deux techniques sont cependant optimisées par certaines équipes , dont la nôtre , qui réalisent une injection de bleu intradermique et une injection de radio-isotopes en péri tumoral .
+Dans notre expérience , sur une série de 165 patientes ayant eu une double injection , le taux d' identification du ganglion sentinelle est de 79 % si l' on ne retient que les ganglions bleus , 92 % si l' on n' analyse que les ganglions radio-actifs et , enfin , 97 % si tous les ganglions bleus et chauds sont analysés .
+En revanche , les taux de creux axillaires avec ganglion axillaire métastatique sont identiques : 32 , 32 et 31 % respectivement si seuls les ganglions bleus , seuls les ganglions chauds ou bien si à_la_fois les ganglions bleus et chauds sont analysés .
+Intérêt de la recherche des ganglions sentinelles mammaires internes
+Le ganglion sentinelle est le_plus_souvent localisé dans le bassin ganglionnaire axillaire , mais il peut être situé en mammaire interne ou en sus-claviculaire .
+L' intérêt clinique de l' exérèse des ganglions sentinelles mammaires internes est controversé .
+Le curage mammaire interne a été abandonné à la suite d' essais qui démontraient que sa réalisation ne modifiait pas la survie à long terme .
+D' autres voient dans l' exérèse des ganglions mammaires internes l' occasion d' améliorer encore la qualité de la stadification ganglionnaire en permettant de classer pN + certaines patientes sans envahissement ganglionnaire axillaire , mais avec envahissement ganglionnaire mammaire interne .
+Les métastases ganglionnaires mammaires internes existent dans 7 à 15 % des cas en l' absence d' envahissement ganglionnaire axillaire et dans 30 à 50 % des cas chez les patientes ayant des métastases axillaires .
+L' incidence de l' envahissement des ganglions mammaires internes chez les patientes sans envahissement axillaire dépend de l' âge des patientes : il atteint 20 % pour les patientes de moins de 35 ans .
+Connaître le statut des ganglions mammaires internes peut permettre de modifier les doses de drogues cytotoxiques et de justifier une radiothérapie adjuvante de la chaîne mammaire interne et du creux sus-claviculaire .
+En fait , l' amélioration de la précision de la stadification par exérèse des ganglions sentinelles mammaires internes est modeste .
+Dans notre série de 165 patientes ayant bénéficié de la technique du ganglion sentinelle en routine ( 1999-2001 ) , un ganglion mammaire interne n' était retrouvé à la scintigraphie que chez 4 patientes .
+Une seule d' entre elles avait un ganglion mammaire interne métastatique ; cette patiente avait aussi un ganglion sentinelle axillaire métastatique .
+Dans l' étude d' Harlow_et_al. , 34 patientes sur 680 ( 5 % ) présentaient un ganglion sentinelle mammaire interne et celui-ci était métastatique pour seulement 3 patientes .
+Dans l' étude de Winchester_et_al. , un ganglion sentinelle mammaire interne était retrouvé chez 20 patientes sur 180 ( 11 % ) : 3 patientes parmi ces 20 avaient un envahissement du ganglion sentinelle .
+L' envahissement ganglionnaire mammaire interne semble moins fréquent que prévu , mais la technique du ganglion sentinelle a été utilisée pour des petites tumeurs dans la_plupart des séries .
+Déterminer les taux de faux négatifs des ganglions mammaires internes semble peu réalisable , même si certains auteurs ont proposé que des curages mammaires internes systématiques soient pratiqués lors_de la courbe d' apprentissage alors_que cette intervention n' est plus réalisée depuis vingt ans .
+L' exérèse des ganglions mammaires internes est en fait limitée par le caractère invasif de cette technique à laquelle les chirurgiens ne sont aujourd'hui plus formés .
+Un autre avantage de l' analyse des ganglions mammaires internes serait de permettre d' éviter l' irradiation mammaire interne , mais le bénéfice apporté par cette irradiation est en cours d' évaluation dans une étude randomisée ( essai EORTC 22922 ) .
+Examen anatomopathologique des ganglions sentinelles
+Examen histologique : coupes multiples et marquage immunohistochimique
+L' examen anatomopathologique standard pour les ganglions d' un curage axillaire se fait sur des tranches sériées du ganglion inclus en totalité .
+L' examen standard est fait sur un niveau de coupe en coloration hématoxyline-éosine ( H & E ) .
+Cette technique est insuffisante pour l' étude du ganglion sentinelle .
+Il faut réaliser une inclusion en totalité du ganglion , des coupes sur plusieurs niveaux et un examen immunohistochimique ( marquage avec un anticorps anti-cytokératine ) [ 2 , 7 , 36-38 ] sur le ou les ganglions sentinelles .
+Cette technique anatomopathologique est nécessaire pour limiter le nombre de faux négatifs .
+Dans notre expérience , le taux de micrométastases dans le ganglion sentinelle est de 15 % ( 24 / 165 ) , l' immunohistochimie ayant permis de diagnostiquer 29 % ( 7 / 24 ) de ces micrométastases .
+Ces chiffres sont comparables à ceux de la littérature [ 2 , 7 , 33 , 36-38 ] .
+Il est très intéressant de constater que la technique du ganglion sentinelle aboutit en fait à une amélioration de la qualité de la stadification ganglionnaire : en_effet , avec la technique du ganglion sentinelle , un envahissement métastatique ganglionnaire est retrouvé chez environ 40 % des patientes ayant une tumeur classée T1 contre 20 à 25 % de celles ayant eu un curage axillaire .
+Cependant , la technique anatomopathologique d' étude du ganglion sentinelle n' a pas encore été standardisée .
+Turner_et_al. recommandent de réaliser deux coupes par bloc espacées de 0,04 mm : l' une est examinée en coloration H & E et l' autre en immunohistochimie .
+Des coupes supplémentaires n' améliorent pas la détection dans leur expérience .
+Jannink_et_al. considèrent que des coupes multiples réalisées à intervalle de 0,5 mm avec coloration H & E et immuno-histochimie sont suffisantes .
+En revanche , dans l' étude de Dowlatshahi_et_al. , des cellules tumorales étaient retrouvées chez 6 des 50 patientes avec l' examen en coloration H & E d' un niveau de coupe sur des tranches de 2 mm alors_que 30 de ces 50 patientes présentaient un envahissement ganglionnaire avec des coupes réalisées tous les 0,25 mm couplées à un marquage immunohistochimique .
+Dans notre équipe , pour l' analyse définitive , les ganglions sont inclus en totalité en tranche de 2 mm et quatre sections sont réalisées à intervalle de 150 µm .
+Une de ces sections est analysée en coloration standard et , si elle est négative , trois autres niveaux de coupes sont étudiés en coloration standard et en immunohistochimie .
+Techniques de biologie moléculaire
+C' est essentiellement l' utilisation de la RT-PCR qui a été rapportée .
+Le caractère sentinelle du ganglion repéré par le bleu patent ou les radio-isotopes en fait un candidat idéal pour la réalisation de biologie moléculaire , essentiellement pour le dépistage de micrométastases .
+Kataoka_et_al. ont rapporté l' utilisation de la RT-PCR pour dépister la présence de mammoglobine et d' __ACE__ dans le ganglion sentinelle .
+Dans leur expérience , 25 et 21 % des ganglions sentinelles négatifs en coloration H & E contenaient des ARN d' __ACE__ et de mammoglobine , respectivement .
+Cette approche est très performante : dans leur série , elle permettait de réduire le taux de faux négatifs de 6 à 3 % par_rapport_à la coloration H & E. Mais , si l' utilisation en routine de la biologie moléculaire permet d' augmenter la sensibilité de détection des micrométastases , la valeur pronostique de cette information reste à démontrer .
+De plus , l' étude en biologie moléculaire du ganglion sentinelle s' effectue uniquement sur tissu frais , ce qui implique que le pathologiste doive soustraire une partie du ganglion à l' étude histologique standard et puisse donc sous-évaluer le statut ganglionnaire tant_que la technique de biologie moléculaire n' est pas validée .
+De plus , la spécificité de la RT-PCR n' est pas parfaite , si bien_que ces méthodes biologiques sont encore du domaine de la recherche .
+Enfin , comme cette technique n' est pas morphologique , elle ne permet l' évaluation ni de l' importance de la métastase , ni de son siège .
+Examen extemporané des ganglions sentinelles et apposition sur lame
+La découverte d' un ganglion sentinelle métastatique impose à l' heure actuelle la réalisation d' un curage axillaire .
+L' idéal est de pouvoir réaliser le curage dans le même temps opératoire .
+Il faut donc disposer d' un examen histologique extemporané ayant la meilleure sensibilité possible .
+Deux méthodes sont possibles : la coupe à congélation et l' apposition sur lame .
+La sensibilité de l' examen extemporané varie entre 64 et 93 % en fonction du nombre de coupes réalisées [ 6 , 43-45 ] .
+L' apposition sur lame permet d' étudier le ganglion sentinelle sans perdre de matériel : sa sensibilité varie entre 62 et 91 % et dépend du nombre d' appositions sur lame réalisées .
+Évidemment , la présence d' une micrométastase échappe la_plupart du temps à l' examen peropératoire du ganglion sentinelle : l' équipe de Veronesi_et_al. a rapporté la possibilité de réaliser en 45 minutes un examen immunohistochimique du ganglion sentinelle .
+Mais cette technique est difficilement reproductible du fait des moyens humains qu' elle impose .
+Valeur des micrométastases dans les ganglions sentinelles
+La découverte de micrométastase ( métastase 2 mm ) dans le ganglion sentinelle renvoie le clinicien à deux questions : doit il réaliser un curage axillaire ?
+Quelle est la signification pronostique de cette micrométastase si elle est isolée ?
+Selon la définition de l' __UICC__ , on appelle micrométastase une métastase dont la taille ne dépasse pas 2 mm de grand axe .
+Mais , récemment , cette classe a été scindée en deux :
+- les cellules tumorales isolées ou groupées en petits placards et situées uniquement dans la lumière d' un vaisseau ou d' un sinus ganglionnaire sans contact avec la paroi .
+L' appellation retenue est : « cellules tumorales isolées » stade pN0 ( i+ ) .
+Les îlots de cellules inférieurs à 0,2 mm ne sont donc pas considérés comme une métastase ;
+- les métastases de_même taille mais ayant déjà infiltré la paroi des sinus et / ou le tissu ganglionnaire .
+L' appellation est « micrométastase » stade pN1a .
+La présence de cellules tumorales isolées est l' équivalent de la présence d' emboles tumoraux .
+Il est supposé qu' un très faible nombre de ces emboles tumoraux pourra s' implanter et donner naissance à une métastase .
+Le stade pN1a correspond à une vraie métastase mais de petite taille .
+La valeur pronostique du premier groupe est encore inconnue , si bien_que l' __UICC__ a préféré le classer comme N0 i+ ( i pour cellules tumorales isolées ) .
+Sa détection est parfois possible par les colorations standard , mais c' est en_général l' immunohistochimie qui pose le diagnostic .
+Il ne faut cependant pas négliger l' impact de la présence de cellules isolées dans le ganglion sentinelle : dans notre expérience , 33 % des patientes ont un envahissement des ganglions non sentinelles .
+Concernant la nécessité de réaliser un curage axillaire chez les patientes ayant une micrométastase dans le ganglion sentinelle , il a été rapporté que plus la taille de la métastase du ganglion sentinelle est grande , plus le risque de trouver un envahissement métastatique des ganglions non sentinelles est importante .
+Ainsi , lorsque le ganglion sentinelle comporte une métastase massive , le reste du curage est positif dans 65 % des cas , alors qu' il l' est à 58 % s' il s' agit d' une macrométastase du ganglion sentinelle et seulement à 15 % en cas de micrométastase du ganglion sentinelle .
+Ce taux baisse à 8 % lorsque les micrométastases sont détectées uniquement par immunohistochimie .
+Dans la série de Reynolds_et_al. , aucune des patientes ayant une tumeur mammaire classée T1 et une atteinte micrométastatique du ganglion sentinelle ne présentait une autre métastase axillaire .
+Toutefois , dans notre expérience , le risque d' envahissement des ganglions non sentinelles était comparable chez les patientes ayant une micrométastase ou une macrométastase dans le ganglion axillaire .
+La technique de détection des micrométastases ( immunohistochimie ou coloration standard ) est probablement à l' origine de cette différence .
+Un essai randomisé multicentrique mené par l' International Breast Cancer Study Group ( protocole IBCSG 23-01 ) est en cours : les patientes chez qui une micrométastase est découverte dans le ganglion sentinelle sont tirées au sort pour un curage axillaire ou pas de traitement complémentaire du creux axillaire .
+La valeur pronostique des micrométastases ganglionnaires isolées commence à être établie .
+Alors que les séries anciennes ne montraient pas d' altération du pronostic lorsque le foyer tumoral mesurait moins de 2 mm , la_plupart des séries récentes retrouvent une signification pronostique péjorative des micrométastases .
+La technique d' analyse du ganglion sentinelle est extensive : elle repose sur la réalisation conjointe de niveaux de coupe supplémentaires du bloc de paraffine et de colorations immunohistochimiques : il en résulte un up-staging .
+Il est retrouvé des métastases axillaires dans 50 à 60 % des cas pour une catégorie de patientes pour laquelle le taux attendu de curages axillaires positifs se situe aux environs de 30 % .
+La disparité entre les séries publiées quant aux pourcentages de ganglions sentinelles métastatiques est liée au nombre de niveaux de coupe réalisés à partir du bloc de paraffine , allant de 3 jusqu' à l' épuisement du bloc ( entre 8 et 10 niveaux ) .
+Plus le nombre de niveaux de coupe est élevé , plus le nombre de micrométastases détectées augmente , ce qui peut faire varier leur valeur pronostique .
+Peut on éviter le curage axillaire chez des patientes ayant un ganglion sentinelle positif ?
+Plusieurs équipes ont tenté d' établir les facteurs prédictifs de l' envahissement des ganglions non sentinelles lorsque le ganglion sentinelle est positif [ 49 , 50 , 54-57 ] .
+Ces études sont reprises dans le tableau 2. Ces facteurs prédictifs peuvent être séparés en deux catégories .
+Premièrement , les caractéristiques de la tumeur mammaire peuvent indiquer un haut risque d' envahissement des ganglions non sentinelles : dans la série de Reynolds_et_al. , les patientes ayant une tumeur de moins de 2 cm avaient un risque d' envahissement des ganglions non sentinelles inférieur à celui des patientes ayant une tumeur classée pT2 .
+Dans l' étude de Kamath_et_al. , la taille de la tumeur mammaire était aussi un facteur prédictif de l' envahissement des ganglions non sentinelles , mais respectivement 25 , 30 et 40 % des patientes ayant des tumeurs classées T1a , T1b et T1c avaient des ganglions non sentinelles métastatiques .
+Plus récemment , plusieurs études ont rapporté que la présence d' emboles lymphovasculaires est un facteur d' envahissement des ganglions non sentinelles .
+Dans notre série , il s' agit du seul facteur prédictif d' envahissement des ganglions non sentinelles .
+En fait , la taille de la tumeur mammaire et la présence d' emboles lymphovasculaires sont des facteurs d' envahissement ganglionnaire avant d' être des facteurs d' envahissement des ganglions non sentinelles .
+Deuxièmement , l' incidence de l' envahissement des ganglions non sentinelles est liée à l' importance de l' envahissement du ganglion sentinelle : nombre de ganglions sentinelles envahis et taille de la métastase ganglionnaire .
+Dans l' étude de Viale_et_al. , 15,6 % des patientes ayant une métastase de moins de 1 mm dans le ganglion sentinelle avaient une atteinte des autres ganglions contre 36,4 % des patientes ayant une métastase de plus de 1 mm .
+Deux équipes ont été capables de définir , d'_après leur expérience , un groupe de patientes avec ganglion sentinelle métastatique qui pourrait ne pas avoir de curage axillaire :
+- toutes les patientes ayant une tumeur de moins de 2 cm et une atteinte micrométastatique du ganglion sentinelle n' avaient pas de ganglion non sentinelle envahi dans l' expérience de Reynolds_et_al. ;
+- de_même , toutes les patientes ayant une tumeur de moins de 1 cm , pas d' emboles et uniquement une micrométastase dans le ganglion sentinelle n' avaient pas de ganglion non sentinelle métastatique dans la série du Memorial Sloan Kettering Cancer Center .
+Mais les résultats de ces équipes n' ont pas été confirmés par les autres équipes et , à ce jour , en_dehors d' un essai contrôlé , le curage axillaire reste obligatoire en cas de ganglion sentinelle métastatique .
+Plusieurs essais randomisés sont en cours pour déterminer la meilleure prise en charge des patientes avec ganglion sentinelle positif .
+- L' essai de l' EORTC ( Amaros ) : les patientes avec ganglion sentinelle métastatique sont randomisées pour un curage axillaire versus une radiothérapie axillaire .
+Cet essai prévoit d' inclure 3485 patientes sur 3 ans .
+L' efficacité de la radiothérapie axillaire a déjà été démontrée ( NSABP04 , essai S6 ) dans un essai d' équivalence en termes de survie .
+Quant à la morbidité , dans les dernières séries publiées de patientes ayant eu une irradiation axillaire , elle semblait en_effet moins élevée qu' après curage ; mais il ne s' agissait pas d' essais comparatifs et l' irradiation axillaire avait été réalisée par des équipes entraînées .
+Il est probable que les récidives axillaires en terrain irradié soient très difficiles à traiter et que leur signification pronostique nécessite un recul médian de 8 ans pour être affirmée ou infirmée , comme pour les récidives locales après traitement conservateur .
+Dans cette étude , la radiothérapie est effectuée dans les semaines qui suivent la chirurgie et la chimiothérapie est réalisée en dernier .
+Même si la séquence idéale de traitement n' a pas été établie , cette prise en charge va à_l'_encontre_de l' habitude de la_plupart des équipes françaises et des données conventionnelles en situation adjuvante qui montrent une perte de bénéfice de la chimiothérapie au-delà_de 2 mois postopératoires , alors_que la radiothérapie semble pouvoir sans conséquence être décalée de quelques mois .
+- L' essai de l' International Breast Cancer Study Group ( protocole IBCSG 23-01 ) : les patientes avec ganglion sentinelle porteur d' une micrométastase sont randomisées pour un curage axillaire versus pas de traitement de l' aisselle .
+Activé en décembre 2001 , ce protocole multicentrique prévoit l' inclusion de 1960 patientes .
+- L' essai Z011 de l' American College of Surgeons Oncology Group prévoit de randomiser les patientes ayant un ganglion sentinelle métastatique ( à_l'_exclusion_de celles ayant un ganglion sentinelle massivement métastatique ou plus de 2 ganglions sentinelles métastatiques ) pour un curage axillaire versus pas de traitement de l' aisselle .
+Cet essai prévoit l' inclusion de 1900 patientes sur une période de 4 ans ; certaines patientes auront été incluses au préalable dans l' essai Z010 .
+Il s' agit d' un essai audacieux qui compte sur la stérilisation des métastases axillaires laissées en place par la chimiothérapie adjuvante !
+Or , l' efficacité de la chimiothérapie peut être estimée à 40 % pour les N0 : il s' agit du downstaging axillaire constaté après chimiothérapie néoadjuvante .
+C' est probablement pour cette raison que des règles d' arrêt très strictes ont été prévues pour cet essai .
+Ganglion sentinelle et chimiothérapie néoadjuvante
+L' utilisation du ganglion sentinelle chez les patientes traitées par chimiothérapie néoadjuvante a été rapportée par plusieurs équipes : les résultats sont contradictoires .
+Les détails techniques , les taux d' identification et les taux de faux négatifs sont rapportés dans le tableau 3. Les taux d' identification du ganglion sentinelle varient de 60 à 96 % .
+Les taux de faux négatifs varient de 0 à 33 % .
+La plus grande série , rapportée par Mamounas_et_al. , est celle fondée sur les patientes incluses dans l' essai NSABP27 : le taux d' identification était de 83 % et le taux de faux négatifs de 11 % .
+Dans l' étude de Breslin_et_al. , incluant 51 patientes traitées dans une seule institution , le taux d' identification était de 84 % et le taux de faux négatifs de 12 % .
+La conclusion des auteurs était que la procédure du ganglion sentinelle est faisable et efficace après chimiothérapie néoadjuvante .
+Néanmoins , étant donné que les patientes ayant des métastases ganglionnaires prouvées par cytologie en préthérapeutique sont à risque d' avoir des métastases du ganglion sentinelle et des ganglions non sentinelles , ces auteurs recommandent de traiter l' aisselle de ces patientes soit par un curage axillaire , soit par une irradiation axillaire .
+En fait , une négativation de l' aisselle n' est observée que chez 23 % des patientes ayant des métastases axillaires prouvées par cytologie pré-thérapeutique et traitées par chimiothérapie néoadjuvante .
+Cette population est très probablement mieux traitée par un curage axillaire complet .
+Conclusion
+La technique du ganglion sentinelle nécessite une approche multidisciplinaire et une période d' apprentissage pour les chirurgiens , les médecins nucléaires et les anatomopathologistes .
+D' après les données disponibles à l' heure actuelle , le curage axillaire semble pouvoir être évité pour les tumeurs de moins de 2 cm lorsque le ganglion sentinelle est négatif .
+Il faut néanmoins attendre les résultats des essais randomisés en cours pour confirmer les données préliminaires , pour étendre l' indication de la technique du ganglion sentinelle aux tumeurs mesurant plus de 2 cm et pour ne pas réaliser de curage axillaire en cas de ganglion sentinelle positif .
+Afin d' éviter les dérives et surtout les poursuites judiciaires et pour obtenir une cotation par la caisse d' assurance maladie , la procédure du ganglion sentinelle en routine ne doit être proposée que par les équipes multidisciplinaires participant à un programme de recherche avec une évaluation permanente de leurs travaux et / ou participant à un essai avec accord du CCPPRB .

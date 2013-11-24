@@ -1,0 +1,98 @@
+Introduction
+Upon diagnosis of __MBC__ ( defined as distant metastases including ipsilateral supraclavicular disease , but excluding ipsilateral axillary disease ) , full staging of the disease is indicated .
+This is because the site of metastatic disease affects prognosis and treatment options.1 Traditionally , __MBC__ has been staged using __BS__ , liver __BS__ and __BS__ .
+In recent years , many centres , including us , have replaced __USS__ and __CXR__ with __CT__ to stage the thorax and upper abdomen.2 This is because __CT__ has a higher sensitivity for small liver and lung metastases and is also more reproducible when serial measurements of lesions are required to monitor therapy.3
+__BS__ continues to be the primary method for diagnosing bony metastases .
+However , it often cannot be relied upon in isolation due to its limited specificity.4 It remains in use though because it is very sensitive,4 can image the whole skeleton , and problems of specificity can often be resolved using plain films and __MRI__ .
+__CT__ provides skeletal images with higher spatial resolution than __BS__ and , despite the limited evidence , is thought to be highly sensitive and specific for the detection of bone metastases.4 The limitation of __CT__ is that it does not image the entire skeleton .
+From the data available in literature , it does appear that __BS__ , for a foreseeable future , will remain a simple and sensitive whole body-imaging tool for assessing skeletal metastases .
+However , we attempt to clarify the clinical utility or the futility of detecting extra bony metastases on __BS__ in the presence of either __CT__ diagnosed non-skeletal / visceral metastases or __CT__ diagnosed axial skeletal metastases .
+Most lesions that require prophylactic intervention occur in the thoracic spine , lumbar spine , acetabulum , proximal femora , and humeri.5 __CT__ scans of the thorax and abdomen include all these areas with the exception of the pelvis , proximal femora and humeri .
+If __CT__ was extended down through the pelvis to the symphysis pubis to include proximal femora then __BS__ may not add any significant information .
+The aim of the study was therefore to determine whether __BS__ could be avoided if __CT__ is extended to include the pelvis , in addition to the thorax and abdomen .
+Materials and methods
+All patients who presented with a new clinically suspected or confirmed ( for example presence of cervical lymph nodes ) diagnosis of __MBC__ to the Advanced Breast Cancer Clinic ( run jointly by K.L.C. , J.F.R. , S.Y.C. and P.A.L. ) underwent __CT__ of the thorax , abdomen and pelvis , and __BS__ for staging as per routine practice in the department .
+Conventional radiography was used as routine if there were ambiguous areas of abnormal uptake on __BS__ , and __MRI__ was performed in difficult cases .
+Additional radiology , if necessitated , also clarified the destructive / sclerotic nature of the lesions so as to help oncologists / surgeons to plan further local management The staging process is also supplemented with serum tumour markers ( CA15.3 and CEA ) as a matter of routine in the department .
+In a 12 month period ( 1 September 2004 - 31 August 2005 ) , 77 patients with signs and / or symptoms suspicious for __MBC__ had both __CT__ and __BS__ performed as described .
+The time interval between the two scans was between few days to approximately 2 weeks .
+__CT__ scan of the chest , abdomen , and pelvis was done with GE Lightspeed 16 slice with 5 mm slice reconstruction protocol .
+Images were acquired using multi-slice technique with oral and intravenous contrast .
+The data was reviewed at the workstation using standardised window settings .
+An experienced team of radiologists ( H.C.B. , E.J.C. , A.J.E. , L.H. , and J.J.J. ) specialising in __MBC__ reported on the __CT__ scans .
+They were unaware of the __BS__ findings when reporting .
+The bone scan was done with Phillips Skylight dual gamma camera used with a 500 MBq intravenous dose of Tc99m HDP .
+Radiologists reported the __BS__ scans independently with a specialist interest in nuclear medicine .
+Both were reviewed and discussed at the weekly " __MDT__ " meetings .
+This ensured that each set of __CT__ and __BS__ was reviewed independently by at least two radiologists .
+The __MDT__ team comprised of at least one consultant radiologist , one consultant surgeon , one consultant oncologist and one breast care nurse .
+The conclusion about presence or absence of the metastases was predominantly radiological and arrived at by non-objective consensus among the __MDT__ team members in the absence of an objective Reference Standard .
+If in doubt , correlation was made with clinical parameters and with serum tumour markers .
+Bone biopsy to confirm nature of suspected bone metastasis was rarely necessary and was not done in any of the patients in the study .
+Bone biopsy of each lesion identified on each test would demonstrate true accuracy of either test for ideal comparison ( in the absence of a Reference Standard ) but this is neither practical nor necessary from therapeutic point of view .
+This study involved prospective collection of data from routine clinical practice being followed in the Unit as per departmental guidelines .
+Information collected from the radiologist reports included whether patients had bone metastases detected by __CT__ , __BS__ , or both .
+The site and number of bone metastases were noted , as were additional metastatic sites detected by __CT__ .
+Information was also recorded regarding abnormal areas of increased uptake on __BS__ that were initially thought to be suspicious of metastatic disease but subsequently shown to be non-metastatic .
+Results
+Seventy-seven patients underwent staging investigations following diagnosis of __MBC__ .
+There were 76 female patients aged 35 - 90 and one male patient aged 60. The mean age was 63 and the median age was 64. About 16 / 77 ( 21% ) patients had unknown oestrogen receptor status and grade was unknown in 15 / 77 ( 19% ) patients .
+Table 1 shows the characteristics of the study group .
+There were six patients who did not have bone or visceral metastases .
+Thus , among 71 patients with metastases , a total of 231 metastatic lesions were identified in this study .
+There were 44 / 77 patients who were eventually diagnosed with bone metastases .
+__CT__ diagnosed bone metastases in 43 / 44 of these patients ( 98% ) while __BS__ identified metastases in 44 / 44 ( 100% ) .
+There were thus 43 cases where both __BS__ and __CT__ detected bone metastases .
+Table 2 and Table 3 demonstrate comparison between __CT__ and __BS__ findings when compared to conclusive " true presence " of bone metastasis .
+In Table 2 , the results from __BS__ are compared to the confirmed findings and similarly in Table 3 , the results from __CT__ are compared to the confirmed findings. Fig. 1 illustrates an example wherein both __CT__ and __BS__ showed bony metastasis .
+The number and location of metastatic sites was agreed in 20 of the __BS__ and __CT__ reports .
+In the remaining 23 cases , __BS__ and __CT__ reports agreed that metastases were present but not where they were located .
+In all these cases , __BS__ found a larger number of metastatic locations but __CT__ added extra sites not noted by __BS__ in two cases ( 3% ) .
+There was one patient in whom __BS__ diagnosed bone metastases and __CT__ did not .
+This was one of 12 / 77 ( 16% ) cases where __BS__ reported bony abnormalities when the __CT__ report was normal .
+The metastasis was in the shaft of the right femur , an area not covered by __CT__ .
+This patient had no other sites of bone metastases .
+She had no symptoms from the metastasis and received no treatment specific to this lesion .
+She also had lymphangitis and left axillary and mediastinal nodal disease and died three weeks following the diagnosis of metastatic disease .
+The remaining 11 cases were due to other bone pathologies including injury , fracture and osteoarthritis .
+All of them had additional radiographs to resolve the queries on __BS__ ( no one required additional __MRI__ ) . Fig. 3 demonstrates a patient with increased uptake on __BS__ but with radiological occult bone metastases with normal __CT__ ( not shown ) and normal __CXR__ with no obvious bone destruction .
+All __CT__ scans were positive when there was a true bone metastasis in the area covered by __CT__ .
+Discussion
+One major aim of staging a patient with newly diagnosed __MBC__ is to identify life-threatening visceral metastases that will shorten survival and require aggressive systemic therapy .
+This means that __CT__ , as the technique of choice for imaging viscera , is a vital part of staging .
+Staging also aims to detect asymptomatic bone metastases .
+Although detection of bone metastases in the presence of symptomatic visceral metastasis may not impact on survival , their identification allows bisphosphonate therapy to be instituted , which helps to prevent musculo-skeletal morbidity and thus prevent any adverse impact on quality of life of patients .
+Asymptomatic bone metastases requiring radiotherapy or prophylactic surgery may also be identified .
+Therefore , whilst diagnosing bone metastases is important , it can be argued that in any individual patient , it is not necessary to identify every metastasis .
+As previously mentioned , __BS__ is very non-specific and has a high yield of false positive results.6 If __CT__ were to replace __BS__ then , in this respect , it would also replace the need for conventional radiography and __MRI__ in some instances .
+Therefore , it would be both possible and beneficial to forgo the use of __BS__ , if __CT__ imaged the common sites of bone metastases at risk of pathological fracture and was accurate in determining whether patients have bone metastases .
+A previous study identified the commonest sites of bone metastases at presentation of metastatic disease.7 __CT__ of the thorax , abdomen and pelvis images the vast majority of the common sites of pathological fracture , which are the thoracic spine , lumbar spine , pelvis , proximal femora and proximal humeri .
+Of the 231 metastatic lesions identified in our study , only 12% were at sites not imaged by our proposed __CT__ protocol and half of these were in the skull .
+Asymptomatic skull metastases would normally not require either prophylactic radiotherapy or surgery .
+Our findings were similar to another recently published study.8 Forty-three patients with known malignancy had both __CT__ ( vertex to the knee using 16 detector multislice ) and __BS__ within 6 weeks of each other .
+__BS__ detected bone metastasis in 14 / 43 whilst __CT__ in 13 / 43 patients .
+There was equivalence between both within ±19% equivalence limits on Newcombe - Wilson statistical equivalence test .
+The authors concluded that patients having whole body __CT__ may not need additional __BS__ .
+Guidelines from the American Society of Clinical Oncology suggest initiation of bisphosphonate therapy if there are any lytic bone metastases.9 Our study has shown that __CT__ is very accurate at determining whether patients have bone metastases or not and there was only one patient in whom __BS__ detected bony metastatic disease where __CT__ did not .
+This patient had no other sites of bone metastases and so initiation of bisphosphonates would , in theory , have been delayed .
+However , this patient unfortunately died shortly after presentation from visceral disease .
+She had received no treatment for her bone metastasis and so it is unlikely that delaying its diagnosis would have benefited her clinical management .
+The patient from our study was an isolated example but it does raise the possibility that initiation of bisphosphonates would be delayed if a patient only had bone metastases outside the area covered by __CT__ .
+However , if any metastases outside the __CT__ area were symptomatic , this would initiate further investigation .
+Also , if the bone metastases were asymptomatic , prognosis may not be affected.5 Bisphosphonates could be given at a later date when either this lesion became symptomatic or other lesions developed at sites detectable by follow-up __CT__ .
+Whole body __MRI__ is an alternative to __CT__ for the evaluation of metastases .
+It is more sensitive than __CT__ for the detection of bone and hepatic lesions and allows direct visualisation of bone marrow .
+However , __MRI__ may miss small pulmonary metastases and its detection of additional bony metastases does not tend to impact on treatment.10 Whole body __MRI__ is also an impractical option for most hospitals due to cost factors and limited availability .
+At the Nottingham City Hospital , the cost of performing __CT__ of the thorax and abdomen is £127.74 and the cost of __BS__ is £97.78 .
+So , current radiological staging costs £225.52 plus the additional costs of performing plain films and __MRI__ scans when necessary .
+Scanning the pelvis on top of the thorax and abdomen would increase the cost of __CT__ to £191.61 .
+Whilst the figures given here are for this institution only , it does represent comparable costs in the UK as it belongs to the National Health Service which provides majority of the health service in the public sector , and it demonstrates that omitting __BS__ would likely result in significant cost savings and reduced inconvenience for the patient .
+Furthermore , radiation exposure is similar between __CT__ chest , abdomen , and pelvis ( 15 - 20 mSv ) and __CT__ chest and abdomen ( 10 - 15 mSv ) plus __BS__ with additional radiographs ( less-than-or-equals , slant5 mSv ) .
+Our study was a non-randomised study with prospective collection of data from routine practice being followed in the unit and hence there is no reference standard .
+However , in conclusion , our findings suggest routine __BS__ of patients presenting with __MBC__ may not be absolute necessity if __CT__ is extended to include the pelvis , in addition to the thorax and abdomen .
+In addition , identifying each extra bone lesion does not appear to have an impact on management in the presence of systemic metastatic disease .
+Further , isolated bone lesion outside the remit of __CT__ scan is uncommon and in the presence of symptoms or abnormal tumour markers would necessitate additional radiology ( in addition to __BS__ ) for management planning of such lesions .
+In the future , randomised clinical trials with a larger sample population would be able to further evaluate the superiority of __CT__ or the __BS__ in identifying clinically relevant bone metastasis .
+Our findings suggest that consideration may be given to omit __BS__ in the routine staging of __MBC__ .
+__BS__ may then be reserved for patients with symptoms suggestive of bone metastases at sites not imaged by __CT__ who have normal plain films of the symptomatic site .
+This recommended protocol would have resulted in identical treatments for every case of bone metastases in our study , and overall would be cheaper and quicker than current practice .

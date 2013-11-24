@@ -1,0 +1,93 @@
+Breast cancer is the commonest female cancer in the UK , accounting for about 30% of all cancers in women ( Cancer Research UK , 2006 ) .
+Owing to a combination of its natural history , methods for early diagnosis and effective treatment , survival from breast cancer is better than that of many other cancers ( Department of Health , 2000 ) .
+Differences in survival according to __SEB__ have , however , been reported from the UK , with women from more deprived areas showing lower survival rates than those from more affluent areas of residence , with differences of 6% at 5 years , and 10% at 10 years .
+Socioeconomic background has been associated with differences in tumour biology , such as type , grade , and oestrogen receptor ( ER ) status , stage at diagnosis , variation in diagnostic investigations and treatments and comorbidity .
+However , certain findings have been inconsistent , such as differences in stage by level of area deprivation , which have been observed in some but not in other studies .
+Attempts to explain socioeconomic differences in survival on the basis of stage and treatment have also produced conflicting results , which may reflect differing health service provisions and socioeconomic structures in the relevant countries .
+We have investigated the relationship between __SEB__ and ( a ) stage at diagnosis , ( b ) treatment patterns and ( c ) 5 year survival , in a large population-based sample of invasive breast cancer patients diagnosed in 1998 to 2000 .
+MATERIALS AND METHODS
+Women with invasive breast cancer ( ICD10 ; ( World Health Organisation , 1992 ; code C50 ) diagnosed in the years 1998-2000 and resident in the Northern and Yorkshire regions were identified from the Northern and Yorkshire Cancer Registry and Information Service database .
+Patient age and tumour stage at dia__RT__ , __RT__ , or __RT__ were given ) , the time taken to receive a hospital appointment after GP referral ( appointment delay ) , and the time taken to receive treatment after diagnosis ( treatment delay ) were extracted .
+__SEB__ was defined at the 1991 enumeration district level of residence using the Townsend index and matched to the patient using their postcode .
+An area deprivation score could not be obtained in 40 cases .
+All factors were examined in relation to quartiles of area deprivation ( Townsend score ) .
+Logistic regression analyses were used to examine any associations between __SEB__ and stage or treatment ( type of surgery , use of adjuvant treatments , appointment delay and treatment delay ) , whereas Cox proportional hazards analyses were used to evaluate any association between __SEB__ and 5 year survival .
+Models were adjusted for age or age plus stage .
+Proportionality assumptions were verified for all survival models .
+The Townsend score was scaled and included as a continuous variable such that the resulting __ORs__ or __ORs__ represent a change in the outcome per quartile increase in the Townsend score .
+As details of some factors were not available for all patients , analyses were conducted after the exclusion of unknowns for the factor under investigation .
+RESULTS
+A total of 12768 patients were included in the analyses .
+A higher pro__CI__ 43.6-47.0 ) were older than 65 years at diagnosis compared to those living in the most affluent quartile ( 35.9% ; 95% __CI__ 34.2-37.6 ) .
+Patients living in the most affluent quartile were diagnosed more frequently with stage I disease ( 42.0% ; 95% __CI__ 40.2-43.8 ) than those in the most deprived quartile ( 36.3% ; 95% __CI__ 34.6-38.1 ) , whereas a higher proportion of those with metastatic disease ( stage IV ) lived in the most deprived quartile ( 7.0% ; 95% __CI__ 6.1-8.0 ) compared to the most affluent quartile ( 3.9% ; 95% __CI__ 3.2-4.6 ) .
+A higher proportion of patients living in the most affluent quartile had __BCS__ compared to those in the most deprived quartile , either alone ( 40.4% ; 95% __CI__ 38.7-42.1 vs 31.7% ; 95% __CI__ 30.1-33.3 ) or before mastectomy ( 10.4% ; 95% __CI__ 9.4-11.5 vs 7.4% ; 95% __CI__ 6.4-8.3 ) , a greater proportion of those living in the most deprived quartile received no surgery ( 22.2% ; 95% __CI__ 20.7-23.6 vs 13.2% ; 95% __CI__ 12.0-14.4 ) .
+A higher proportion of the patients resident in the most affluent quartile received __RT__ ( 58.3% ; 95% __CI__ 56.6-60.0 ) compared to those in the most deprived quartile ( 49.0% ; 95% __CI__ 47.3-50.7 ) .
+There was no statistically significant difference in the proportion of patients having __BCS__ with subsequent __RT__ ( 86.3% ; 95% __CI__ 84.2-88.5 and 88.2% ; 95% __CI__ 86.4-90.0 in the most deprived and most affluent quartiles respectively ) nor in the proportions receiving __HT__ ( 82.1% ; 95% __CI__ 80.7-83.4 vs 80.4% ; 95% __CI__ 79.0-81.7 ) and __CT__ ( 26.4% ; 95% __CI__ 24.9-28.0 vs 29.2% ; 95% __CI__ 27.6-30.8 ) .
+Women living in the most affluent quartile were more frequently seen within 14 days of referral ( 62.7% ; 95% __CI__ 60.6-64.7 ) compared to those in the most deprived quartile ( 58.6% ; 95% __CI__ 56.6-60.6 ) but this difference was less for beginning treatment within 14 days of being diagnosed ( 61.9% ; 95% __CI__ 60.2-63.6 vs 59.3% ; 95% __CI__ 57.5-61.0 ) .
+The logistic regression analyses show that , after adjustment for age , living in a more deprived area was associated with a significantly increased odds of being diagnosed with stage III or IV disease ( OR 1.13 ; 95% __CI__ 1.08-1.18 per quartile increase in Townsend score ) .
+After adjustment for age and stage , living in a more deprived area was significantly associated with decreased odds of receiving surgery ( OR 0.85 ; 95% __CI__ 0.80-0.91 ) and __RT__ ( OR 0.91 ; 95% __CI__ 0.88-0.94 ) .
+Amongst patients receiving surgery , living in a more deprived area was associated with significantly decreased odds of having __BCS__ ( OR 0.92 ; 95% __CI__ 0.89-0.95 per quartile increase ) , and significantly increased odds of having a mastectomy ( OR 1.08 ; 95% __CI__ 1.05-1.12 ) .
+Area Townsend score was not significantly associated with the odds of __CT__ ( OR 0.97 ; 95% __CI__ 0.93-1.01 ) , although the association was of borderline significance for __HT__ ( OR 1.04 ; 95% __CI__ 1.00-1.08 ) .
+Living in a more deprived area was also associated with an appointment delay of more than 14 days ( OR 1.07 ; 95% __CI__ 1.03-1.11 ) and a treatment delay of more than 14 days ( OR 1.05 ; 95% __CI__ 1.02-1.08 ) .
+The age plus stage-adjusted results differed little from the age-adjusted results , and only in the case of treatment delay did the estimate become statistically significant after additional adjustment for stage .
+Following age adjustment , living in a more deprived area was associated with an increased risk of death ( HR 1.11 ; 95% __CI__ 1.08-1.13 per quartile increase in Townsend score ) , which was reduced after adjusting for stage ( HR 1.08 ; 95% __CI__ 1.05-1.11 ) .
+When these analyses were repeated separately for patients undergoing __BCS__ , having a mastectomy and having no surgery , there was a stronger association between Townsend score and survival for the __BCS__ group ( age plus stage-adjusted HR 1.13 ; 95% __CI__ 1.07-1.19 per quartile increase ) than for the mastectomy group ( HR 1.04 ; 95% __CI__ 1.00-1.08 ) and the no surgery group ( HR 1.03 ; 95% __CI__ 0.98-1.08 ) ; these results differed little from the age-adjusted results .
+DISCUSSION
+Our results show that patients living in more deprived areas were more likely to be diagnosed with more advanced ( stage III or IV ) disease .
+This may be related to later presentation and lower rates of mammography screening in lower __SEB__ areas .
+This finding contrasts with those of several other studies .
+However , this study was based on a much larger number of patients and staging data were available in over 90% of cases .
+Women living in more deprived areas were less likely to have surgical treatment than those in affluent areas , and when they had surgery they were more likely to have a mastectomy .
+Adjustment for stage of disease at diagnosis made little difference to these results .
+Decisions about whether or not patients receive surgery and the type of surgery performed are the outcome of , in many cases , a complex interaction between stage and evaluation of the choices offered to patients by their clinical management team , the manner in which these choices are presented , and perceptions of the risks and benefits involved .
+The extent to which the latter factors may vary by __SEB__ is poorly understood .
+__RT__ was the only adjuvant treatment found to be significantly related to __SEB__ , with women in more deprived areas being less likely to receive this .
+__RT__ for breast cancer can be intensive , involving visits to a __RT__ centre for several days each week over several weeks , and this may have more impact on the treatment decisions of women in socially deprived areas .
+Other UK studies have found no difference in the uptake of __RT__ by __SEB__ .
+When analysis was restricted to __BCS__ patients , there was no significant difference in __RT__ by __SEB__ .
+__BCS__ followed by __RT__ is considered an optimal treatment and it is reassuring that there were no differences in this by __SEB__ .
+Previous results on __CT__ and __HT__ have been inconclusive , with some studies reporting an association with __SEB__ and others not .
+In our study , there was no association between Townsend score and __CT__ , but there was a weak borderline significant association with __HT__ .
+The decision to give adjuvant therapies is complex and depends upon such factors as whether the patient has undergone surgery and the ER status of the tumour , making it difficult to draw any firm conclusions from these results .
+Current guidelines state that women should not wait longer than 14 days between GP referral and a first hospital appointment or between diagnosis and beginning treatment ( National Institute for Clinical Excellence , 2002 ) .
+During our study period , these targets were met in approximately 60% of cases .
+Women living in more deprived areas were more likely to wait more than 14 days for a hospital appointment than those in more affluent areas , though these results are limited by the fact that data were missing in 32% of cases .
+A weaker association between __SEB__ and treatment delay was also apparent , which could indicate an influence of __SEB__ on management .
+Nevertheless , although long delays by the patient are associated with decreased survival , delays by providers have not previously been linked to poorer outcomes .
+Living in a more deprived area was associated with lower 5 year survival .
+The age-adjusted HR was 1.11 ( 95% __CI__ 1.08-1.13 ) per quartile increase in Townsend score and this reduced to 1.08 ( 95% __CI__ 1.05-1.11 ) when additionally adjusted for stage .
+A previous study found that adjusting for stage did not substantially change the estimated __HRs__ for deprivation category .
+One explanation for this is that the adjustment for stage is insufficient because stage is not a sensitive enough measure to capture the variation in disease .
+For example , stage IV patients could present with early metastatic spread or may have such advanced disease that no treatment , other than palliative care , can be given .
+Stage therefore fails to act as an adequate proxy for preceding confounders associated with severity of disease .
+Several others studies have concluded that prognostic factors , such as tumour stage , grade , size , and lymph node status only partly account for the differences in survival by __SEB__ .
+Another factor associated with __SEB__ is ER status , with patients living in more deprived areas having higher levels of ER negative tumours .
+It has been reported that these tumours appear to have a worse prognosis , though the difference in ER status was estimated to explain only about a third of the survival difference by __SEB__ .
+As well as prognostic factors , there are many other potential confounders associated with __SEB__ and with survival .
+Examples that are currently unavailable from cancer registry data include level of education and comorbidity .
+A higher level of education amongst those living in the more affluent areas may result in a higher degree of health awareness , better perception of symptoms and less delay in seeking medical care , which may in turn lead to improved survival .
+The presence of co-morbidity has been associated with reduced survival in breast cancer , and patients from deprived areas may have a higher level of comorbidity .
+It appears that the association between __SEB__ and survival is stronger in patients undergoing __BCS__ , which cannot be explained by __RT__ , as there were no __RT__ differences between deprived and affluent areas .
+However , the __BCS__ group will contain a higher proportion of screen-detected tumours , which are likely to be smaller and have a good prognosis .
+If the number of screen-detected cases was higher in the more affluent areas , this may explain some of the observed survival advantage .
+Again , the staging information may not have been sensitive enough to capture such variation in disease .
+There may also be some bias in these results .
+Potentially , many risk factors linked to __SEB__ might affect breast cancer outcome .
+Statistical adjustment for a confounder or its proxy on the causal path from exposure to outcome may be subject to the bias known as the reversal paradox .
+This has recently been shown to be a potentially serious problem and may explain some of the conflicting results concerning breast cancer outcomes by __SEB__ .
+For example , a causal relationship may exist between __SEB__ and stage , perhaps mediated through reduced health awareness and later presentation amongst those in more deprived areas .
+If stage lies on the causal path , then the adjustment for confounding becomes mixed with potential bias from the reversal paradox .
+In this case , the age-adjusted estimates , though unbiased , would represent the confounder-unadjusted results , and the age- plus stage-adjusted estimates would represent the ( biased ) confounder-adjusted results .
+It then becomes impossible to determine a confounder-adjusted unbiased estimate of the impact of __SEB__ on survival .
+Despite these complexities , it is likely that the true public health effect of __SEB__ on survival is that of the age-adjusted estimate .
+Alternatively , one might make use of stage lying on the causal path , as it is then a candidate for an intermediate end point , that is , a marker or event that is assessed before the outcome ( survival in this case ) , and sufficiently associated with the outcome that it acts as its proxy .
+From this perspective , the age- plus stage-adjusted model yields estimates of the joint effect of __SEB__ and stage on survival .
+Using Freedman 's method , it can be estimated how much of the __SEB__ effect on survival is mediated via the influence of __SEB__ on stage ( 26% using the age-adjusted estimate as the denominator ) .
+This figure suggests that stage is not an ideal choice of intermediate end point , though this might be in part owing to measurement error and missing data associated with stage .
+Whether stage is considered as a proxy for preceding confounders and / or an intermediate end point , it seems poor in both respects .
+This study used an area-based measure of __SEB__ , as an individual measure is not available from cancer registry data .
+Owing to the ecological fallacy , these results cannot be extended to individual women living in each area .
+We are exploring alternative methodologies to address both the ecological problem and potentially biased adjustment for confounders that lie on the causal path between __SEB__ and survival .
+This study has shown that breast cancer patients living in more deprived areas were more likely to be diagnosed with later stage disease than those in more affluent areas and that there were significant differences in the type of treatment received .
+Living in a more deprived area was associated with decreased survival , perhaps owing to later presentation and more complex treatment decisions .
+Part of this survival gap may be reduced through policies to encourage earlier diagnosis and appropriate treatment uptake , but the association between __SEB__ and other factors , such as comorbidity , requires further investigation .

@@ -1,0 +1,181 @@
+La technique du __GS__ dans la prise en charge des cancers opérables du sein est une révolution analogue à celle du traitement conservateur qui a définitivement pris la place de la mastectomie dans l' arsenal thérapeutique , avec un recul supérieur à 20 ans dans des essais prospectifs randomisés .
+Le concept du ganglion sentinelle est en fait très ancien .
+D' abord décrit par Sappey dans sa thèse d' anatomie du siècle dernier , il a été ensuite suggéré par des travaux anatomopathologiques .
+Le vrai concept a été décrit par Cabanas au Paraguay pour les cancers de la verge .
+C' est Morton qui l' a ensuite utilisé pour les mélanomes et Giuliano , son voisin de salle d' opération à Santa Monica , l' a étendu au cancer du sein avec le succès que l' on sait .
+Comme toute nouveauté , cette technique a ses défenseurs et ses détracteurs et il est parfois difficile , pour les non-spécialistes , de s' y retrouver dans l' abondante littérature parue sur le sujet au cours des dernières années .
+Des conférences de consensus se sont tenues aux États-Unis sur le sujet mais les méthodologistes pointilleux remarqueront qu' il s' agissait plus de consensus d' experts que de conclusions validées par des essais thérapeutiques prospectifs randomisés avec des preuves de niveau I.
+Quoi qu' il en soit , nous allons essayer de débroussailler l' apparente complexité des publications récentes afin_d' éviter ou de calmer les feux des discussions de spécialistes .
+Chaque équipe chirurgicale ou chaque groupe thérapeutique , face_à cette nouvelle technique , tente d' imprimer sa marque en fonction de son recrutement , de ses malades et des conditions techniques locales .
+C' est ce que nous appellerons la « logistique » propre à chaque centre de traitement ou à chaque praticien .
+Si les données de cette logistique ne sont pas clairement définies dans les articles , ce qui est le_plus_souvent le cas , les publications peuvent apparaître comme contradictoires .
+Justification
+L' ensemble des auteurs s' accorde à dire que , du fait des campagnes de dépistage , organisées ou non , de l' information fournie aux femmes et probablement du fait de la prise d' un traitement hormonal substitutif , les cancers du sein sont diagnostiqués de_plus_en_plus tôt .
+Les tumeurs qui sont mises en évidence sont donc de_plus_en_plus petites .
+Le développement et l' amélioration des techniques de mammographie jouent un rôle majeur dans le diagnostic .
+Plus les tumeurs sont petites lors du diagnostic , moins les ganglions axillaires sont envahis et , par_conséquent , plus les chirurgiens font des curages axillaires inutiles .
+Certains chirurgiens ont même proposé de s' abstenir de curage axillaire dans certaines conditions , le profil biologique de la tumeur et les traitements postopératoires pouvant « compenser » le risque statistique d' atteinte ganglionnaire .
+La réduction ou l' abstension du curage axillaire réduit la durée d' hospitalisation et évite le drainage postopératoire , les lymphocèles dans la loge du curage et , surtout , les « gros bras » , lymphoedèmes désespérants pour lesquels les drainages lymphatiques ne limitent que modérément l' infirmité définitive .
+Le __GS__ est donc venu naturellement se placer dans la prise en charge de tumeurs de_plus_en_plus petites pour éviter ces curages apparemment inutiles , lorsque les ganglions sont indemnes d' envahissement tumoral .
+Il faut cependant se souvenir que nos confrères nord-américains étaient très « en retard » sur la réalisation des traitements conservateurs .
+Seules quelques équipes de la côte Est utilisaient le traitement conservateur en routine et près_de 75 % des cancers du sein restaient traités par la mastectomie .
+Les avocats ont joué un rôle important dans la limitation du développement du traitement conservateur aux États-Unis car les chirurgiens étant quasi systématiquement condamnés en cas de récidive locale !
+L' adhésion à la technique du ganglion sentinelle a permis ainsi à nos confrères d' Outre-Atlantique de « sauter une étape » et de reprendre un avantage sélectif sur leurs confrères européens .
+Taille de la tumeur
+Le consensus en France s' est fait sur l' utilisation de la technique du ganglion sentinelle pour des lésions de stade T1 et principalement sur des tumeurs de moins de 15 mm .
+Cette conception de la limitation du traitement conservateur en fonction de la taille tumorale a été nuancée dans les derniers Standards , Options , Recommandations édités par la Fédération nationale des centres de lutte contre le cancer à « une taille compatible avec un résultat esthétique satisfaisant en fonction du volume mammaire » .
+Les consensus nord-américains étendent la technique jusqu' à des tumeurs de 3 cm de diamètre .
+Cette taille correspond , aux États-Unis , à la taille limite admise pour un traitement conservateur dans les référentiels du traitement chirurgical , donc opposables aux avocats .
+Des conditions particulières peuvent encore nuancer la taille limite à_partir_de laquelle la technique ne peut plus être réalisée .
+La première d' entre elles est la survenue d' une localisation contro-latérale qui survient a_priori dans 15 % des cas .
+Le premier côté a , en règle , fait l' objet d' un curage axillaire classique .
+La fonction du membre supérieur de ce premier côté peut être modifiée par une raideur de l' épaule , un gros bras , voire l' association des deux .
+Le risque de survenue de complications induites par un nouveau curage controlatéral est évidemment une catastrophe .
+La technique du __GS__ y trouve là une de ses meilleures indications .
+On peut rapprocher de cette situation les patientes qui ont perdu la fonction d' un membre supérieur à l' occasion d' un traumatisme : pour elles , la conservation de la fonction du membre du côté du cancer du sein est primordiale pour leur vie relationnelle .
+Certaines professions nécessitent également la préservation de la fonction de façon primordiale : métiers manuels , coiffeurs , musiciens , chirurgiens , etc.
+Jusqu' à une époque récente , aucune mention n' était faite dans ces conférences de consensus , pas plus d'_ailleurs que dans les Standards , Options , Recommandations de la FNLCC , de la taille du sein et donc du rapport taille tumeur / taille sein qui conditionne la qualité du résultat esthétique .
+Le caractère évident de ce facteur ne peut malheureusement pas être évalué statistiquement .
+Il est prouvé depuis de nombreuses années que , plus la taille de la tumeur est grande , plus le risque d' envahissement ganglionnaire axillaire s' accroît .
+De ce fait , les problèmes techniques vont augmenter avec la taille de la tumeur aussi_bien pour l' identification du __GS__ que pour son interprétation , notamment en ce qui concerne le taux de faux négatifs .
+Plus la taille de la tumeur est grande , plus le diagnostic préopératoire par biopsie est facile ; à l' inverse , plus la lésion est petite , plus le diagnostic préopératoire est délicat et , donc , perturbe la procédure d' identification du ganglion sentinelle .
+Les publications font rarement état de la procédure diagnostique initiale : ponction cytologique à l' aiguille fine , biopsie au tru-cut , biopsie sous échographie , micro ou macrobiopsie sous stéréotaxie .
+Nos confrères nord-américains privilégient depuis des années la biopsie chirurgicale sous anesthésie locale ( excisional biopsy ) qui correspond à une tumorectomie à l' étroit .
+Chacune de ces procédures a des avantages et des inconvénients .
+Certaines sont réalisées par le chirurgien qui va ensuite opérer la patiente ; d' autres réclament impérativement la présence d' un radiologue et son environnement technique ; enfin , la présence d' un histopathologiste peut être nécessaire à la validation de la qualité du prélèvement et à la sauvegarde de matériel pour les études biologiques .
+Une stratégie thérapeutique doit impérativement être établie dès le début de la prise en charge de la maladie afin_d' éviter la répétition d' examens inutiles et parfois douloureux pour la patiente .
+Chaque équipe a développé une stratégie particulière qui s' est améliorée avec l' expérience et , aussi , avec les équipements spécifiques disponibles dans le centre , la charge de travail et l' intérêt particulier de certains spécialistes à l' égard de prises en charge particulières .
+Le coût de certaines procédures doit également être évalué dans la prise en charge .
+Les tutelles ne remboursent pas actuellement les aiguilles de macrobiopsie qui restent donc à la charge des patientes , sauf évidemment en milieu hospitalier où elles sont prises en charge par le budget global , ce qui ne fait pas disparaître leur coût pour autant .
+Isotopes
+Le type de radio-élément , son caractère filtré ou non et sa taille dépendent exclusivement du centre d' isotopes qui prend en charge les patientes et c' est en coopération étroite avec les chirurgiens que les médecins nucléaires doivent choisir le produit idéal .
+L' accord n' est pas fait sur le traceur idéal qui dépend donc du centre de soin .
+La réalisation des identifications isotopiques du __GS__ se heurte à de multiples difficultés .
+Cette technique est venue s' ajouter à des programmes d' activité déjà chargés .
+Les services d' isotopes doivent faire face_à la demande croissante de PET-scan .
+Il faut donc « faire de la place » pour des injections qui ne peuvent être réalisées , en France , qu' en milieu spécialisé .
+Les médecins nucléaires sont peu habitués à injecter des produits radio-actifs dans les seins des femmes !
+Il faut , de plus , trouver des places sous les appareils de scintigraphie pour obtenir des cartographies préopératoires .
+Le consensus n' est pas fait sur l' utilité de ces cartographies préopératoires .
+Les sondes de détection peuvent en_effet permettre de suivre le traceur sur la paroi thoracique de la patiente vers le creux axillaire et son accumulation dans le __GS__ .
+Cependant , seule la cartographie permet d' identifier avec précision des drainages ectopiques vers les chaînes mammaire interne ou claviculaire , ces drainages pouvant être exclusifs dans respectivement 13 % et 5 % des cas , quel que soit le siège de la tumeur dans le sein .
+Si on se limite à l' étude du seul creux axillaire , la cartographie n' est pas absolument indispensable .
+Le nombre de patientes recevant une injection d' isotopes n' est donc plus limité par la place sous la caméra .
+Certains centres peuvent alors faire des injections à plus de 10 malades par jour .
+Si , en_revanche , on souhaite connaître le drainage ganglionnaire de la tumeur dans son ensemble , et si , comme dans certaines équipes , on fait un curage mammaire interne en cas de drainage interne mis en évidence par la cartographie , celle-ci est indispensable et le problème des places sous les caméras peut limiter l' utilisation des isotopes .
+Le temps et la facturation de l' examen ne sont pas identiques pour une simple injection et pour une cartographie .
+Là encore , les règles du budget global ou le remboursement des actes par la sécurité sociale rendent l' évaluation économique de la procédure dans la technique du __GS__ impossible pour l' instant .
+Si certains centres de traitement ont un service d' isotopes sur le site , d' autres doivent faire les injections à leurs malades dans un lieu différent du centre chirurgical .
+La logistique de l' acte chirurgical et du centre de soin doit être organisée en_conséquence .
+Enfin , si le praticien chargé d' injecter les isotopes n' a pas de problème en cas de lésion palpable , il en va tout autrement en cas de lésion non palpable .
+C' est d'_ailleurs une des raisons qui ont présidé à la réalisation d' injections péri-aréolaires .
+On peut encore demander un repérage échographique avant l' injection des isotopes .
+Chaque médecin sait néanmoins que plus une procédure est complexe et réclame d' intervenants , moins il y a de chances que les choses se déroulent de façon satisfaisante .
+Là encore , certaines équipes ayant constitué des réseaux privilégiés à_l'_intérieur d' un centre de soins , la technique d' identification s' y déroule alors dans la sérénité .
+Ailleurs , des organisations spécifiques doivent être trouvées pour pouvoir travailler dans les conditions optimales ; tout changement , toute nouveauté prenant la place d' autres examens ou d' autres méthodes rencontre de ce fait des résistances , parfois surprenantes .
+Un consensus doit être établi sur le siège de l' injection , péritumoral ou péri-aréolaire , entre isotopistes et chirurgiens .
+Ce consensus est rarement défini dans les publications .
+La radio-activité délivrée par ces isotopes est faible et leur durée de vie courte .
+Le personnel de salle d' opération et du service d' histopathologie est parfois inquiet et réticent à manipuler des pièces ayant reçu des produits radio-actifs .
+Le bloc opératoire et le service de pathologie doivent observer des procédures spéciales de traitement des déchets radio-actifs : des consignes particulières sont à respecter pour le traitement du matériel et des déchets qui ont été en contact avec la radio-activité .
+La demi-vie courte et les doses très faibles de radio-activité employées ont été étudiées et ont fait la preuve de leur innocuité pour l' ensemble des personnels médicaux et paramédicaux concernés .
+Bleu
+Le bleu est gérable entièrement par le chirurgien contrairement aux isotopes .
+Sa simplicité d' emploi fait qu' il est utilisable en toutes circonstances et en tous lieux .
+Son coût est dérisoire .
+Son défaut principal est la coloration bleue qu' il donne au champ opératoire .
+Injecté en préopératoire ou dans le lit de la tumorectomie après extemporané , il colore le lit opératoire .
+Les champs , les gants sont tachés et une opération en règle propre et non hémorragique se transforme en un océan de bleu !
+Le passage vasculaire du colorant peut modifier artificiellement le recueil automatique de l' oxymétrie et perturber le fonctionnement des appareils en salle d' opération .
+Les anesthésistes doivent en être prévenus .
+Une coloration cutanée grisâtre des patientes en postopératoire est très fréquente , ce qui peut inquiéter familles et infirmières lors du réveil .
+Enfin , une coloration bleutée des urines et verte des selles est la règle : les patientes doivent en être prévenues .
+De très rares chocs allergiques ont été signalés .
+Les tatouages cutanés , lorsque le colorant est injecté en intradermique ou en sous-cutané , sont longs à disparaître .
+Les anatomopathologistes peuvent être très réticents , lors_de l' examen extemporané ou après la fixation en paraffine , à fournir un diagnostic sur une pièce colorée par le bleu .
+Le bleu gêne en_effet l' examen macroscopique visuel , en extemporané comme après fixation par le formol , ce qui , avec l' expérience , est compensé par une palpation soigneuse de la pièce .
+Le bleu Patent ne gêne donc pas l' étude histologique ni l' étude du grading tumoral ni celle des facteurs biologiques pronostiques par immuno-histochimie .
+À la différence des isotopes , le temps de migration du lieu d' injection vers le __GS__ est un_peu mystérieux .
+En cas d'_abord axillaire trop rapide , il n' y a pas de bleu ; s' il est trop lent , tous les ganglions axillaires sont bleus .
+Faut il masser le sein et , si oui , combien de temps ?
+Des règles , écrites ou non , sont édictées par chaque centre en fonction de l' expérience acquise .
+L' étude du __GS__ rencontre un autre problème pour le bleu mais_aussi pour les isotopes , l' obésité .
+Jamais clairement indiquée dans les publications comme facteur d' échec , l' obésité représente une limite de la méthode pour tous ceux qui pratiquent le __GS__ ( et qui ne le disent que lors des discussions informelles après les présentations officielles ! ) .
+Le colorant et / ou l' isotope se dilue dans la graisse et , ne trouvant aucun ganglion lymphatique , ne migre pas .
+On peut rapprocher de cette situation les personnes âgées dont le tissu glandulaire a été progressivement remplacé par une glande mammaire déshabitée de son tissu épithélial .
+Ces contre-indications relatives de la méthode doivent être prises en compte dans l' évaluation de la faisabilité de la technique .
+Multidisciplinarité
+Le chirurgien n' est plus seul à prendre en charge et à traiter les cancers du sein .
+L' introduction du __GS__ dans les techniques chirurgicales a obligé les radiothérapeutes et les oncologistes médicaux à modifier leurs approches thérapeutiques .
+La réduction de l' acte chirurgical ne doit pas entraîner l' augmentation des traitements médicaux postopératoires .
+C' est pourquoi la biologie tumorale est nécessaire pour guider au mieux la stratégie thérapeutique postopératoire .
+En effet , les indications d' un traitement médical adjuvant peuvent être prises sur l' âge de la patiente aussi_bien que sur la négativité des récepteurs hormonaux et / ou l' élévation de la prolifération cellulaire étudiée par la phase S ou le ki67 , alors même que le __GS__ est indemne d' atteinte tumorale à l' histologie .
+Le traitement du cancer du sein reste donc , avec la technique du __GS__ , affaire d' équipes spécialisées .
+Anatomie pathologique
+Les rapports chirurgiens-anatomopathologistes conditionnent toute la procédure .
+Ce sont les pathologistes qui vont poser le diagnostic initial de cancer invasif sur le prélèvement fourni par la biopsie préopératoire , qu' elle qu' en soit la méthode .
+Le dépistage , principalement mammographique , de lésions de_plus_en_plus petites rend le diagnostic histologique de malignité et son caractère invasif parfois difficiles à affirmer .
+Des diagnostics comme l' hyperplasie atypique avec irrégularités cytonucléaires ne sont pas rares en préopératoire .
+L' examen extemporané reste alors indispensable , voire même l' examen en paraffine .
+Cela va donc conditionner toute la procédure d' identification du __GS__ et parfois imposer une éventuelle stratégie en deux temps .
+Là encore , les procédures sont peu décrites dans la littérature , notamment aux États-Unis continue à réaliser l' excisional biopsy , c' est-à-dire une tumorectomie diagnostique sous anesthésie locale avant l' intervention proprement dite .
+L' examen histologique extemporané du foyer tumoral réclame des anatomopathologistes expérimentés en pathologie mammaire .
+En fonction du centre de traitement , sa durée est très variable , liée à de multiples facteurs aussi variés que la distance bloc opératoire-service d' anatomopathologie , l' organisation locale du transport de la pièce entre le bloc et le service d' anatomie pathologique , le nombre d' examens extemporanés qui arrivent de façon contemporaine sur la paillasse , l' expérience du pathologiste , etc.
+Si le diagnostic de cancer invasif n' a pas été fait en préopératoire , la durée prévisible de l' examen extemporané doit être prise en compte dans le temps qui va s' écouler entre l' injection de bleu et l' abord chirurgical axillaire .
+Certains chirurgiens , après avoir injecté le bleu , abordent d'_ailleurs le creux axillaire avant_de réaliser la tumorectomie en raison de la durée de l' examen qui risque d' entraîner une coloration bleue de tous les ganglions de l' aisselle , si la réponse histologique se fait attendre .
+Face à ces difficultés logistiques et dans le but d' éviter une réintervention en cas de découverte d' un envahissement sur l' examen secondaire en paraffine des ganglions , il a même été proposé de faire le traitement en deux temps , après avoir prouvé le cancer par microbiopsie : dans un premier temps , l' injection d' isotopes et le prélèvement du __GS__ sous anesthésie locale ; dans un second temps , la tumorectomie et le traitement éventuel de l' aisselle en fonction de l' envahissement du ou des ganglions axillaires .
+Ces procédures dépendent , répétons-le , principalement du centre de traitement et de l' organisation locale , ce qui rend donc les comparaisons difficiles de centre à centre .
+En ce qui concerne l' examen extemporané des ganglions , les chirurgiens ne peuvent pas prendre partie sur la meilleure technique à employer : apposition , cytologie , coupe en congélation .
+Ultérieurement , des techniques de_plus_en_plus précises ( immuno-histochimie , voire PCR ) rendent l' interprétation précise de l' envahissement ganglionnaire et sa signification exacte difficiles .
+La présence de quelques cellules néoplasiques dans le sinus périphérique d' un ganglion et un envahissement net sur une coupe n' ont probablement pas la même signification pronostique .
+Il faut de plus noter que l' étude d' un seul ganglion par de multiples coupes ( 6 à 8 en règle ) ne peut en_aucune_façon être comparée aux études classiques sur un curage complet comportant au_minimum 6 ganglions pour une interprétation fiable , le nombre de ganglions prélevés limitant évidemment le nombre de coupes .
+Ces études plus fines sur le __GS__ concernent un ou un nombre limité de ganglions et demandent également des cotations particulières pour les anatomopathologistes .
+À titre d' exemple , la nomenclature actuelle , pour les chirurgiens comme pour les anatomopathologistes , considère le prélèvement d' un ganglion comme une adénectomie axillaire .
+Le prélèvement de deux ganglions ou plus est assimilable à un curage et doit donc être coté et rémunéré en_tant_que tel .
+Une harmonisation des pratiques histopathologiques est en cours mais nécessitera encore quelques réunions nationales et internationales .
+L' importance de la confiance réciproque entre chirurgiens et pathologistes doit une_fois_de_plus être soulignée .
+Aucune technique d' identification ni d' évaluation du __GS__ n' est possible si une confiance absolue entre les intervenants n' est pas la règle .
+Cela ne remet pas en cause l' évaluation du caractère bleu ou non des ganglions prélevés en peropératoire , le pathologiste validant a_posteriori que le ou les ganglions prélevés étaient bien colorés et donc qu' il s' agit bien du __GS__ .
+La plupart des articles de la littérature font état de prélèvements ganglionnaires variant de 1 à 4-5 ganglions , ce qui ne remet pas en cause la technique du __GS__ qui , dans l' esprit de certains , ne doit concerner qu' un seul ganglion .
+En effet , en cours d' intervention , il existe parfois un groupe ganglionnaire inséparable qui est prélevé « en bloc » .
+L' exploration digitale du creux permet également de palper des ganglions suspects par leur dureté ou leur volume. Il ne viendrait pas à l' idée d' un chirurgien de laisser en place une adénopathie suspecte , même si elle ne fixe pas l' isotope ou n' est pas colorée par le bleu .
+Le contrôle de qualité est donc indispensable par le bleu et / ou l' isotope mais le prélèvement d' un groupe ganglionnaire bien identifié s' assimile alors à un « mini-curage orienté » , ce qui est tout_à_fait différent du picking ganglionnaire proposé dans les années 1970 mais relativement proche des attitudes suédoises qui proposent de se limiter à l' exérèse de 5 ganglions axillaires .
+Courbe d' apprentissage
+Tous les auteurs admettent son caractère indispensable .
+Quel chirurgien , d'_ailleurs , accepterait qu' une technique chirurgicale ne fasse pas l' objet d' une formation et d' un entraînement pour les confrères ou collègues qui débutent .
+Le nombre de patientes à opérer pour la réalisation de cette courbe d' apprentissage varie selon les auteurs .
+Le type de patiente chez qui cette courbe d' apprentissage doit être réalisée n' est d'_ailleurs pas clair .
+Faut il réaliser la procédure en prospectif chez toutes les patientes , quelle que soit leur classification TNM , ou faut il la réserver à celles chez qui un envahissement ganglionnaire est prévisible afin_d' évaluer avec précision le taux d' erreurs , notamment de faux négatifs .
+Faut il ensuite garder les patientes étudiées dans cette courbe d' apprentissage dans les statistiques ou ne faut il évaluer que les résultats des chirurgiens expérimentés en éliminant les premières patientes qui ont fait l' objet de la courbe d' apprentissage .
+Les méta-analyses qui ont été faites , recueillant par définition toutes les publications parues sur le sujet , gardent actuellement les courbes d' apprentissage dans leur casuistique , ce qui rend évidemment les résultats de la technique assez décevants , notamment en ce qui concerne le taux de faux négatifs .
+Cette courbe d' apprentissage nécessite , pour la_plupart des équipes , de 25 à 30 patientes .
+Dans les centres d' enseignement , cela pose un problème mathématique simple .
+Si l' on additionne les chirurgiens seniors , les chefs de clinique et les internes , on réalise le nombre considérable de patientes qu' il faut pour former une équipe entière à la technique du __GS__ .
+Il faut d'_abord apprendre aux internes à faire un curage axillaire classique car tous les cancers du sein ne sont pas une indication du __GS__ .
+Le nombre de patientes qui doivent être traitées dans le centre limite donc automatiquement la réalisation de cette courbe d' apprentissage .
+On réalise donc que seuls les centres à recrutement suffisant et correctement équipés peuvent pratiquer la technique du __GS__ en routine .
+Pour les autres , le curage ganglionnaire axillaire classique est et doit rester la technique de routine .
+À l' intérieur même d' un centre , on peut imaginer que le __GS__ puisse être confié uniquement à des individus ciblés .
+Coût
+Cher à nos administrateurs , le coût de la procédure d' identification du __GS__ n' est pas clairement évalué .
+Le budget global hospitalier n' est pas fait pour nous aider à cette évaluation .
+A priori , la technique du __GS__ devrait entraîner des économies .
+La durée d' hospitalisation est raccourcie à une journée , voire à une hospitalisation de jour .
+Celle du classique , en France , est liée à la présence du drainage axillaire ; elle est en règle de 5 à 6 jours .
+Cette donnée n' est pas comparable à celle de nos confrères nord-américains qui font sortir les patientes de l' hôpital avec leurs drains .
+Cette procédure évite la rééducation postopératoire et , jusqu' à ce jour , aucun lymphoedème n' a été décrit .
+Elle évite donc les drainages lymphatiques et tous les problèmes de gestion des lymphoedèmes .
+La technique du __GS__ ne fait pas faire que des économies ; en_effet , il faut évaluer le prix des examens biopsiques préopératoires dont nous avons déjà parlé .
+Le coût de l' examen extemporané doit être ajouté de_même que celui des techniques spéciales d' immuno-histochimie .
+Le prix des isotopes et de la scintigraphie doit encore être évalué .
+Enfin , en cas d' envahissement ganglionnaire , une réintervention pour curage classique est nécessaire dans 10 à 30 % des cas , ce qui impose donc une nouvelle anesthésie , une nouvelle opération et une hospitalisation de plusieurs jours ainsi_que le retour aux complications classiques du curage traditionnel .
+Si , financièrement , l' évaluation reste à faire , il est néanmoins évident que les patientes sont très satisfaites lorsque la procédure se déroule sans_encombre .
+Quelques douleurs axillaires sont signalées mais disparaissent en 2 à 3 mois .
+Ce fait est particulièrement souligné par les patientes qui , à l' occasion d' un cancer bilatéral , peuvent faire la comparaison des deux méthodes .
+Conclusion
+La technique d' identification du ganglion sentinelle s' est développée du fait des progrès considérables réalisés dans le dépistage précoce .
+La mise en évidence de tumeurs de_plus_en_plus petites par des mammographies de_plus_en_plus performantes justifie un geste chirurgical de moins en moins mutilant .
+L' uniformisation des pratiques et leur évaluation sont en cours .
+Les discordances apparentes que l' on peut relever dans la littérature sont donc souvent liées à des conditions logistiques propres à chaque centre ; elles doivent donc faire l' objet d' une étude attentive pour être comparées valablement .
+L' identification du __GS__ représente à l' évidence un progrès considérable dans la prise en charge des patientes porteuses d' un cancer du sein .
+Sa place exacte , comme pour toute nouvelle technique , mérite des études complémentaires afin_d' obtenir les consensus indispensables à son intégration définitive à tous les niveaux du processus multidisciplinaire .

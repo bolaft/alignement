@@ -1,0 +1,237 @@
+Lorsqu' un oncologue est amené à traiter une femme jeune ( nous la définirons comme une femme de moins de 40 ans ) pour un cancer du sein , il y a aujourd'hui de fortes chances pour qu' il soit amené , tôt au tard , à aborder avec elle les questions relatives à sa fertilité : le recul de l' âge de la première grossesse et les « remariages » amènent aujourd'hui nombre de jeunes femmes entre 35 et 40 ans à évoquer ces questions avec leurs médecins .
+Plusieurs raisons expliquent que l' oncologue soit , de fait , fortement impliqué dans ces discussions :
+* - les traitements adjuvants du cancer du sein peuvent avoir des conséquences importantes sur la fonction ovarienne et la fertilité ;
+* - les patientes souhaitent aujourd'hui être bien informées de ces conséquences , voire les anticiper ;
+* - des méthodes censées préserver la fertilité avant_que les traitements du cancer ne soient administrés ont été récemment décrites dans la littérature médicale , et aussi par les médias ;
+* - les progrès de l' __AMP__ engendrent chez ces jeunes femmes le désir bien compréhensible de devenir mère après un cancer du sein , désir qui signe aussi l' espoir de la guérison.. .
+Dans cet article , nous tenterons de faire le point sur ces questions et de dégager ce qu' il est possible de dire à ces jeunes femmes et à leur conjoint , ce que l' on peut leur proposer aujourd'hui , ce qui reste expérimental et les points encore non résolus .
+Conséquences des traitements adjuvants du cancer du sein sur la fertilité
+Chimiothérapie
+L' effet délétère de la chimiothérapie sur le fonctionnement des ovaires est maintenant bien établi .
+Schématiquement , cet effet dépend de l' âge de la femme , du type de chimiothérapie ( FAC , FEC , CMF ... ) , des doses prescrites et de la susceptibilité individuelle .
+Pour préciser l' effet des chimiothérapies sur la fonction ovarienne , de nombreuses études portent sur la fréquence de l' aménorrhée induite .
+Malheureusement , la définition de ce critère de jugement varie ( arrêt des règles d' une durée de 3 à 12 mois selon les auteurs ) , expliquant la diversité des résultats .
+Bines_et_al. ont bien souligné l' importance de définitions communes .
+Ils ont proposé de parler d' __ACI__ lorsqu' une période de plus de 6 mois sans règles survient chez une femme qui n' était pas ménopausée au moment du diagnostic .
+Cette __ACI__ peut être précoce ( survenant dans l' année qui suit le début de la chimiothérapie ) ou plus tardive et transitoire ou définitive .
+La réapparition de règles après 24 à 29 mois d' __ACI__ justifie d' attendre en_pratique au moins 2 ans avant_de parler de ménopause stricto_sensu .
+Il est donc difficile de chiffrer de façon précise le risque d' __ACI__ selon l' âge et le type de chimiothérapie .
+Certains auteurs ont cependant proposé des estimations à partir des données disponibles .
+En pratique , retenons que , dans la tranche d' âge qui nous intéresse ( 30 à 39 ans ) , 6 cures de FEC100 entraîneront un risque « intermédiaire » d' aménorrhée ( entre 20 et 80 % , ce qui reste très imprécis ) .
+Pour Goodwin_et_al. , le risque d' __ACI__ est approximativement de 10 % vers 35 ans , de 40 % vers 40 ans , et augmente ensuite rapidement , pour atteindre 70 à 80 % vers 45 ans .
+Chez les femmes vraiment jeunes , avant 30 ans , 6 cures de FEC auront un impact faible mais ces femmes seront plus susceptibles d' être confrontées à une ménopause prématurée .
+Récemment , Petrek_et_al. ont montré , dans une étude prospective portant sur 595 patientes , que la proportion de femmes réglées régulièrement après la chimiothérapie augmente au fil du temps après des protocoles de type AC , ACT ou ACD , alors_que , après CMF , l' évolution est inverse , traduisant une toxicité retardée : toutes les chimiothérapies n' ont donc pas le même effet sur les ovaires .
+Quant aux conséquences des taxanes et du trastuzumab , elles ne sont pas connues précisément .
+Pour évaluer les conséquences des chimiothérapies sur la fertilité , il est probablement plus pertinent de s' intéresser à la proportion de femmes restant réglées régulièrement plutôt qu' à celles qui sont en aménorrhée , mais même ce critère reste insuffisant : les spécialistes d' __AMP__ ont bien montré que certaines jeunes femmes , même parfaitement réglées , présentent déjà des stigmates biologiques annonciateurs d' une fonction ovarienne perturbée .
+Il est donc fort probable que l' on sous-estime actuellement , faute_de critères de jugement adéquats , les conséquences des chimiothérapies sur la fertilité .
+Tamoxifène
+Lorsque le cancer du sein est hormonodépendant , le tamoxifène est l' hormonothérapie adjuvante de référence chez les jeunes femmes .
+Ce SERM ( modulateur sélectif des récepteurs des estrogènes ) de première génération inhibe de façon compétitive la liaison des estrogènes sur leur récepteur .
+Du fait de son action anti-estrogénique , il stimule l' axe gonadotrope et les ovaires , qui vont libérer plus d' estrogènes .
+Cette hyperestrogénie n' est en_principe pas délétère pour le tissu mammaire en raison de l' occupation simultanée des récepteurs des estrogènes , à condition toutefois que l' exposition aux estrogènes ne soit pas trop importante : en_effet , le rapport des concentrations tamoxifène / estradiol dans le tissu mammaire doit être d' environ 1000 pour_que le tamoxifène reste efficace .
+Dans les modèles expérimentaux , l' exposition à des doses croissantes d' estradiol ( correspondant à des concentrations plasmatiques de 900 à 2000 pg / ml ) réduit progressivement l' efficacité de ce composé .
+En raison de ses propriétés , le tamoxifène était utilisé dans les années 1980 pour induire des ovulations , de la même façon que le citrate de clomifène , un autre composé triphényléthylénique auquel il est apparenté .
+Par ailleurs , l' utilisation du tamoxifène au long cours s' accompagne d' un effet tératogène : il existe une augmentation des anomalies du tractus génital chez l' animal exposé au tamoxifène pendant la gestation .
+Pour ces raisons , une contraception est indispensable chez les femmes sous tamoxifène : en_pratique , une contraception neutre sur le plan hormonal ( préservatifs , dispositif intra-utérin au cuivre ) .
+S' il est prescrit isolément chez une jeune femme , le tamoxifène n' aura pas de conséquence délétère pour la fertilité ultérieure , en_dehors du fait que sa durée de prescription ( théoriquement de 5 ans ) imposera de reculer d' autant un éventuel projet de grossesse .
+Agonistes de la LH-RH
+Les agonistes de la LH-RH , bien_que ne disposant pas d' une autorisation de mise sur le marché en traitement adjuvant du cancer du sein , sont cependant souvent utilisés dans ce cadre , soit en association avec le tamoxifène , soit isolément .
+Ils peuvent ainsi être prescrits lorsqu' il existe une contre-indication à ce composé ( antécédents thromboemboliques veineux ) .
+En outre , ils sont actuellement testés en situation adjuvante dans le cadre d' essais thérapeutiques .
+Enfin , il existe des indications « gynécologiques » aux agonistes de la LH-RH : elles concernent les femmes susceptibles d' avoir des complications sous tamoxifène en raison d' un fibrome utérin volumineux ou d' une endométriose évolutive .
+Dans tous les cas , les agonistes de la LH-RH entraînent un état d' insuffisance ovarienne profonde mais transitoire : à leur arrêt , la fonction ovarienne reprend .
+Besoin d' information des femmes sur les conséquences des traitements
+L' évaluation précise des conséquences des traitements sur la fonction ovarienne est le prérequis de l' information que nous donnerons à nos patientes .
+Ce besoin d' information est devenu une réalité dans nos consultations .
+Certaines études anglo-saxonnes ont tenté de cerner cette nouvelle demande des patientes .
+Ainsi , une équipe australienne a demandé à 228 femmes ayant été traitées pour un cancer du sein 6 mois à 5 ans plus_tôt et qui avaient moins de 40 ans au moment du diagnostic , de répondre à un questionnaire postal : 71 % d' entre elles se rappelaient avoir discuté des conséquences des traitements sur leur fertilité avec leur médecin ( le_plus_souvent l' oncologue médical ) .
+Les femmes interrogées considéraient que c' est au moment du diagnostic et des prises de décision que ces informations sur la fertilité devaient être privilégiées , notamment par rapport aux informations sur la ménopause , jugées plus utiles au cours du suivi .
+De façon prévisible , les femmes qui n' avaient pas d' enfant et celles qui avaient des projets de grossesse au moment du diagnostic étaient particulièrement demandeuses de ces informations sur la fertilité .
+Aux Etats-Unis , l' étude de Partridge_et_al. a porté sur 657 femmes âgées en moyenne de 36 ans et traitées deux années plus_tôt pour un cancer du sein .
+Elle rapporte que 72 % d' entre elles avaient évoqué cette question avec leur médecin et que 29 % disaient en avoir tenu compte dans leurs prises de décision .
+On peut arguer que toutes ces études sont rétrospectives et comportent des biais de souvenir ou de sélection ( par_exemple femmes appartenant à des groupes correspondant sur internet ) .
+Néanmoins , ces chiffres donnent à réfléchir puisqu' au moins un tiers de ces jeunes femmes ne semblaient pas avoir abordé ces questions avec leur médecin .
+En France , l' étude Parcours de femmes 2001 a porté sur l' analyse de plus de 1800 questionnaires adressés à des femmes ayant eu un cancer du sein ( pour 87 % d' entre elles ) ou gynécologique ; elle a conclu que , si elle a nettement progressé depuis quelques années , l' information des patientes reste encore insuffisante sur les effets secondaires des traitements , conduisant 60 % des femmes à rechercher des informations complémentaires par elles-mêmes ( internet , livres , associations , etc. ) .
+Il est possible qu' à l' avenir la connaissance de ces informations intervienne dans les prises de décision de ces femmes , non pas tant lorsque l' indication de la chimiothérapie correspond à un standard parce_que les caractéristiques de la tumeur orientent clairement vers cette prescription , mais plutôt dans les cas limites , lorsque plusieurs options thérapeutiques peuvent être proposées , par_exemple hormonothérapie ou chimiothérapie adjuvante pour une tumeur hormonodépendante peu proliférante .
+Actuellement , l' étude BIG Fertility , réalisée par l' International Breast Cancer Study Group , explore à l' aide d' un questionnaire les positions à_cet_égard de jeunes femmes traitées pour un cancer du sein avant l' âge de 35 ans et tente de cerner le rapport des bénéfices ( en termes de pourcentages de récidives évitées ) et des risques ( en termes de pourcentages de risque d' infertilité ) conditionnant leurs décisions vis-à-vis d' un traitement adjuvant .
+Encore faut il pouvoir chiffrer précisément le risque d' infertilité après chimiothérapie , et nous avons vu à quel point les données actuelles sont sujettes à caution .
+Peut on préserver la fertilité d' une femme atteinte d' un cancer du sein ?
+Si des traitements risquant d' altérer la fonction ovarienne sont recommandés en raison des caractéristiques de la tumeur , peut on aujourd'hui proposer des méthodes visant à préserver la fertilité avant_de les appliquer ?
+L' Asco a récemment publié des recommandations sur cette question .
+Nous envisagerons les différentes méthodes évoquées , leurs modalités , leur efficacité et les réserves éventuelles qu' elles soulèvent .
+Méthodes de préservation de la fertilité stricto_sensu
+Congélation d' embryon
+Avant de décrire cette méthode , nous rappellerons brièvement le principe de la __FIV__ .
+Une stimulation de l' ovulation à l' aide de gonadotrophines ( FSH ou HMG ) permet le développement sur les ovaires de plusieurs follicules contenant des ovocytes .
+Lorsque ceux-ci sont arrivés à maturité , une injection de gonadotrophine chorionique est pratiquée .
+Les taux d' estradiol plasmatiques sont alors élevés , de l' ordre de 1500 à 2000 pg / ml .
+Trente-six heures après l' injection , lors d' une courte anesthésie , les follicules sont ponctionnés sous échographie et les ovocytes recueillis mis en culture avec le sperme du conjoint .
+Au laboratoire , la fécondation peut être effectuée soit de façon classique , sans micromanipulation , soit par __ICSI__ .
+Les embryons obtenus peuvent être replacés « frais » dans l' utérus de la patiente .
+Les taux de succès en __FIV__ et en __ICSI__ sont souvent exprimés en pourcentages de grossesse clinique par ponction et sont conditionnés par de nombreux déterminants , notamment par l' âge de la femme , nous y reviendrons .
+Les embryons surnuméraires peuvent être congelés et replacés ultérieurement , ce qui permet d' augmenter le nombre de tentatives .
+Le transfert d' embryon congelé est donc une technique parfaitement rodée en __AMP__ .
+Son efficacité est bien établie : on obtient environ 20 à 30 % de grossesses par transfert de 3 embryons .
+Chez les femmes ayant un cancer , le principe de la méthode consiste à effectuer cette __FIV__ avant la chimiothérapie et à congeler les embryons obtenus .
+À distance des traitements , ceux-ci seront décongelés et réimplantés dans l' utérus de la patiente .
+Très peu d' équipes ont osé à ce jour proposer cette méthode à des femmes chez qui un cancer du sein venait d' être diagnostiqué : la principale réticence concerne évidemment les conséquences d' une élévation importante des taux d' estrogènes sur la maladie mammaire .
+Oktay et al. ont décrit leur expérience avec une petite série de patientes : pour stimuler leur ovulation , ils ont mis à profit les propriétés du tamoxifène et du létrozole .
+Cet inhibiteur de l' aromatase a également la particularité de favoriser l' ovulation des femmes jeunes : la réduction de l' aromatisation des androgènes en estrogènes induit , par rétrocontrôle négatif , la stimulation de l' axe hypophysaire et des ovaires .
+Dans une étude préliminaire non randomisée , les auteurs ont effectué une __FIV__ avec congélation embryonnaire chez 29 femmes .
+Avec un recul de 554 jours , il n' y a pas eu significativement plus de récidives chez celles-ci que chez des femmes témoins .
+Cette méthode de préservation de la fertilité appelle de multiples commentaires .
+Les deux points les plus importants concernent ses conséquences sur la maladie mammaire et sur l' enfant :
+* - Certes les traitements inducteurs de l' ovulation utilisés dans ces études sont aussi prescrits par les oncologues , mais la question de leur effet sur l' évolution de la maladie mammaire et d' éventuelles micrométastases doit être posée : ainsi , bien_que le tamoxifène occupe le récepteur des estrogènes , on peut craindre que son effet inhibiteur ne soit réduit en présence de taux d' oestradiolémie élevés , dépassant 1000 pg / ml , comme ceux décrits dans l' une de ces études .
+Par ailleurs , on peut s' interroger sur l' effet de taux d' estradiol modérément élevés , mais sans blocage simultané des récepteurs des estrogènes tels_que ceux obtenus sous létrozole .
+* - Une autre question importante concerne l' effet tératogène éventuel des composés utilisés , qui sont différents de ceux prescrits classiquement en __FIV__ .
+Pour certains auteurs , une induction d' ovulation par létrozole serait associée à une augmentation du risque de malformations cardiaques et de l' appareil locomoteur .
+Cet effet tératogène fait actuellement l' objet d' une controverse dans la littérature .
+Néanmoins , en accord avec l' Afssaps , le laboratoire Novartis a envoyé un courrier aux prescripteurs pour rappeler que le létrozole ne devait pas être prescrit chez les femmes non ménopausées et qu' il n' était pas indiqué dans les stimulations de l' ovulation .
+Cette question se pose également pour le tamoxifène , puisque ce composé est tératogène chez l' animal .
+La congélation d' embryon soulève encore d' autres questions :
+* - elle ne concerne que des couples constitués ;
+* - elle se heurte à des difficultés pratiques évidentes , notamment celle de pouvoir orienter rapidement les patientes dans un centre d' __AMP__ sans retarder la suite des traitements du cancer ;
+* - enfin , on peut s' interroger sur la difficulté psychologique , pour une femme , de devoir affronter successivement sur une courte période l' annonce d' un cancer du sein , une induction d' ovulation en vue d' une __FIV__ , puis la mise en route d' une chimiothérapie .
+Congélation d' ovocytes
+Ici , ce sont les ovocytes obtenus que l' on congèle , sur le même principe que la congélation de sperme avant les traitements infertilisants chez l' homme .
+Cette méthode est en_théorie applicable chez les jeunes femmes célibataires .
+À distance des traitements , les ovocytes seront décongelés et mis en culture avec les spermatozoïdes du ( futur ) conjoint .
+Bien que séduisante , cette méthode est encore expérimentale .
+La congélation , puis la décongélation des ovocytes posent d' importants problèmes techniques et le rendement de cette méthode est très faible : environ 2 % de grossesse par ovocyte décongelé !
+De plus , elle soulève les mêmes interrogations que la précédente quant aux conséquences de la stimulation sur la maladie mammaire et sur l' enfant .
+Cryopréservation de tissu ovarien
+Son principe consiste à prélever avant la chimiothérapie , du cortex ovarien , voire un ovaire , sous coelioscopie .
+Les fragments ovariens sont analysés au microscope , préparés , puis congelés .
+À distance des traitements , ils sont décongelés , puis réimplantés chez la patiente , soit à distance de leur origine ( autogreffe hétérotopique , par_exemple sur l' avant-bras ) , soit dans l' ovaire controlatéral ou sur le péritoine adjacent de la trompe restante , du côté du prélèvement ( autogreffe orthotopique ) .
+Il faut plusieurs mois pour voir apparaître une reprise de la fonction hormonale .
+Selon les cas , l' ovulation peut survenir spontanément , ou après stimulation , et la fécondation peut être naturelle , ou obtenue par __FIV__ .
+À ce jour , quelques grossesses ont été obtenues chez des femmes traitées pour des maladies hématologiques .
+Bien que les résultats en aient été immédiatement médiatisés , soulignons qu' il s' agit d' une technique encore expérimentale et qui soulève de nombreuses questions d' ordre technique ( protocole de congélation , modalités d' utilisation du prélèvement ) mais_aussi éthique ( indications , devenir des enfants nés par cette méthode ) .
+Aujourd'hui , la cryopréservation de tissu ovarien est de_plus_en_plus souvent proposée dans un cadre de recherche , notamment aux très jeunes femmes avant des traitements infertilisants dans le cadre d' hémopathies malignes , de sarcomes ou de tumeurs ovariennes borderlines , dans l' espoir que les techniques de greffes seront au point lorsque ces jeunes femmes souhaiteront devenir mères .
+L' applicabilité de cette méthode aux femmes atteintes de cancer du sein soulève plusieurs questions :
+* - cette méthode n' est proposée qu' avant 35 ans , lorsque le capital folliculaire , encore suffisant , pourra supporter congélation et décongélation ; or , à cet âge , l' ablation d' un ovaire risquerait d' être plus délétère que les conséquences d' une chimiothérapie adjuvante sur la fertilité ;
+* - l' autogreffe de tissu ovarien pourrait exposer la patiente à la réintroduction de cellules malignes par micrométastases ovariennes occultes : il s' agit là d' un risque théorique , à considérer cependant en cas de carcinome lobulaire infiltrant ou chez les jeunes femmes génétiquement prédisposées par mutation du gène BRCA1 / 2 .
+Prescription d' agonistes de la LH-RH pendant la chimiothérapie
+Le principe de cette méthode consiste à « mettre les ovaires au repos » pendant la chimiothérapie .
+Ses partisans avancent les arguments suivants :
+* - l' ovaire « infantile » serait moins sensible à l' effet délétère de la radiochimiothérapie en raison de l' état quiescent des follicules ;
+* - l' effet protecteur des agonistes de la LH-RH a été rapporté chez le rat et chez le singe traités par cyclophosphamide ;
+* - l' agoniste de la LH-RH , en mettant les ovaires au repos , empêche le recrutement de nouveaux follicules ( s' ils entraient dans un cycle de maturation , ils seraient ensuite exposés à l' effet toxique de la chimiothérapie ) ;
+* - l' agoniste de la LH-RH , en créant un état d' hypoestrogénie , diminuerait la perfusion utéro-ovarienne et , de ce fait , l' exposition des ovaires à la chimiothérapie .
+Les opposants à cette méthode répondent que :
+* - si la chimiothérapie est moins toxique sur l' ovaire infantile , c' est parce_que le stock folliculaire y est bien plus important que chez la femme adulte .
+Les petites filles qui ont reçu une chimiothérapie dans l' enfance sont plus sujettes aux ménopauses précoces ;
+* - les études chez l' animal sont divergentes : certaines ne retrouvent pas d' effet protecteur d' un cotraitement par agoniste de la LH-RH sur la préservation du capital folliculaire ;
+* - la toxicité de la chimiothérapie porte non_seulement sur les follicules en croissance , mais_aussi sur les follicules primordiaux .
+En clinique , Blumenfeld a beaucoup publié sur cette méthode .
+En 2005 , il a décrit son expérience sur une série de patientes recevant des chimiothérapies pour des hémopathies malignes ( lymphomes , leucémies ) ou des maladies auto-immunes .
+Dans ces études , les femmes qui reçoivent un agoniste de la LH-RH en_même_temps que la chimiothérapie voient plus souvent réapparaître leurs cycles menstruels que les femmes témoins .
+Quelques publications concernent des femmes atteintes de cancer du sein .
+Toutes ces études , bien qu' intéressantes , sont sujettes à caution car :
+* - il s' agit d' études d' observation , soit d' études rétrospectives , soit au mieux d' études prospectives de phase II ;
+* - les données portant sur des femmes atteintes d' hémopathies malignes sont difficilement transposables à des femmes atteintes de cancer du sein ;
+* - les séries sont hétérogènes , les traitements variés ;
+* - la durée du recul n' est pas toujours précisée ; quand elle est mentionnée , celui-ci est plutôt court ;
+* - le taux de récupération des cycles est comparé soit à celui de groupes historiques , soit à celui de groupes témoins , dont on peut se demander s' ils sont réellement comparables aux groupes traités ;
+* - si l' objectif final est celui de la préservation de la fertilité , le critère de jugement retenu , c' est-à-dire la réapparition des cycles , est peu pertinent car il n' est nullement le garant d' une réserve ovarienne satisfaisante ;
+* - enfin , la coprescription d' un agoniste de la LH-RH au_cours_de la chimiothérapie peut , en_théorie , modifier la réponse à cette dernière , notamment en cas de tumeur hormonodépendante .
+Ainsi , bien qu' en_pratique la coprescription d' agonistes de la LH-RH et de chimiothérapie soit parfois effectuée « empiriquement » par certains oncologues , son effet sur la préservation de la fertilité est loin d' être établi .
+Aujourd'hui , le recours à cette méthode ne peut se concevoir que dans un cadre de recherche clinique : deux essais sont en cours actuellement , Swog ( Southwest Oncology Group trial S0230 ) et Option ( Ovarian Protection Trial in Oestrogen Non-Responsive Premenopausal Breast Cancer Patients receiving adjuvant or neo-adjuvant chemotherapy ) .
+Ils apporteront des données sur la prévention de l' __ACI__ par cette méthode , mais ne répondront pas à la question de son effet sur le contrôle de la maladie mammaire , notamment en cas de tumeur hormonodépendante .
+En pratique.. .
+En pratique , nous pouvons conclure que , actuellement , trois des techniques évoquées ( la congélation d' ovocyte , la cryopréservation de tissu ovarien et la coprescription d' agonistes de la LH-RH ) sont encore expérimentales , et que la congélation d' embryon , dont l' efficacité est établie , soulève d' importantes questions quant_à sa faisabilité et à son innocuité pour la femme et pour l' enfant .
+Certains oncologues ont d'_ailleurs exprimé leur étonnement à la suite de la publication des recommandations de l' Asco , considérant que les niveaux de preuves des études citées sont encore bien ténus pour_que ces méthodes soient proposées en routine .
+Aussi , bien_que certains auteurs publient actuellement des algorithmes de prise en charge , il est encore difficile de proposer ces méthodes à nos patientes en_dehors d' un cadre de recherche clinique spécifique , nécessitant un encadrement médical et juridique solide , ainsi_que des financements appropriés .
+Mise au point de traitements moins toxiques pour les ovaires et « désescalade » thérapeutique
+Une autre manière de préserver la fertilité consisterait , d'_une_part , à mettre au point des traitements adjuvants moins toxiques pour les ovaires et , d' autre_part , à préciser les indications de chimiothérapies sur des critères pronostiques et prédictifs plus fins pour mieux cibler les femmes qui en retireront un réel bénéfice .
+En fait , c' est toute la question du traitement adjuvant du cancer du sein de la femme jeune qui est posée , ainsi_que celle du rapport de ses bénéfices attendus ( en termes de réduction du risque de récidives ) et de ses conséquences sur la fonction ovarienne .
+Nous n' aborderons pas cette thématique qui sort du cadre de cet article .
+Soulignons qu' il s' agit d' un important champ de recherche pour les oncologues et dont les avancées pourraient constituer la deuxième grande voie de préservation de la fertilité , la première reposant , comme nous l' avons vu , sur les progrès de l' __AMP__ .
+Comment aborder une infertilité après un cancer du sein traité ?
+Il s' agit d' un sujet sensible , sur lequel il n' existe aucune donnée solide dans la littérature , et encore moins de recommandations .
+Aujourd'hui , le traitement de l' infertilité d' un couple repose très souvent sur une induction d' ovulation , que celle-ci soit simple ou qu' elle s' accompagne d' une technique d' __AMP__ telle_que l' __IIU__ , la __FIV__ ou l' __ICSI__ .
+La prescription d' inducteurs de l' ovulation est contre-indiquée après un cancer du sein , en raison de l' élévation supraphysiologique des taux d' estrogènes sanguins que ces composés peuvent induire , élévation redoutée après un cancer hormonodépendant .
+Il s' agit pourtant d' un problème souvent posé par les patientes et leur conjoint aux oncologues .
+Que leur répondre ?
+Que faire , sachant que leur opposer une fin de non-recevoir , un refus catégorique de toute prise en charge , c' est condamner ce couple au deuil de l' enfant biologique et parfois l' exposer au recours non encadré à des techniques d' __AMP__ potentiellement risquées ?
+Face à ce dilemme , il est tout de_même permis d' avancer quelques réflexions :
+* - la prise en charge d' une infertilité n' implique pas nécessairement le recours à l' __AMP__ ;
+* - une meilleure connaissance de la physiologie de l' ovulation et l' utilisation récente de composés tels_que les antagonistes de la LH-RH permettent aujourd'hui ( et ce entre des mains expertes ) de « mimer » l' ovulation naturelle et de maintenir les taux d' estradiol dans les limites de la physiologie , et ce même en __FIV__ ;
+* - certaines techniques d' __AMP__ , telles_que le don d' ovocyte et l' accueil d' embryon , ne nécessitent pas d' induction d' ovulation chez la femme receveuse .
+Les lignes qui suivent sont simplement destinées à apporter quelques éléments de réflexion et à cerner ce qui n' est probablement pas acceptable du point_de_vue oncologique , et ce qui pourrait l' être sous des conditions à « affiner » dans le cadre d' une réflexion entre oncologues et spécialistes d' __AMP__ .
+Aspects oncologiques
+Lorsqu' au décours de sa surveillance , une jeune femme ayant été traitée pour un cancer du sein évoque , en consultation , un projet de grossesse , la première question qui se pose est de voir si cette grossesse est envisageable sur le plan oncologique .
+Bien que les données existantes ne retrouvent pas d' influence mauvaise d' une grossesse après cancer du sein traité , la_plupart des équipes recommandent de respecter un délai de sécurité car le risque de récidive est plus élevé dans les suites immédiates du diagnostic .
+Ainsi , le délai conseillé est d' environ 2 ans après le diagnostic en cas de petit cancer du sein infiltrant de bon pronostic , et de 3 ans en cas de facteurs péjoratifs .
+Par ailleurs , il est recommandé d' attendre au moins 1 an après la dernière cure de chimiothérapie , et 2 mois après l' arrêt du tamoxifène afin_d' éviter tout risque tératogène .
+En fait , le respect de ce délai de sécurité est actuellement controversé car il ne protège pas les femmes du risque de récidives tardives et expose celles qui approchent de la quarantaine à une infertilité par vieillissement ovarien .
+En fait , idéalement , le choix de la mise en route d' une grossesse devrait être pris par le couple dans le cadre d' une décision médiale partagée avec l' équipe médicale , au terme d' une information loyale sur les risques de récidives du cancer en fonction du temps .
+Lorsqu' une hormonothérapie adjuvante par du tamoxifène est prescrite , la durée de celle-ci , théoriquement de 5 ans , rallonge d' autant le délai à respecter avant la mise en route d' une grossesse .
+Certaines femmes , qui approchent de la quarantaine , demandent à leur oncologue d' arrêter le traitement plus_tôt mais cette attitude , parfois retenue , ne repose sur aucune donnée validée .
+De toute façon , avant la mise en route d' une grossesse , il sera judicieux d' effectuer un bilan mammaire ( mammographie , échographie et , en cas de prédisposition génétique ou familiale , une IRM mammaire ) et parfois général , en cas de facteurs plus péjoratifs ( CA15- 3 , radio de thorax , échographie abdominopelvienne ) .
+Quand proposer un bilan d' infertilité et quel bilan effectuer ?
+En principe , on parle d' infertilité lorsqu' une grossesse ne survient pas au terme d' un délai de 2 ans de rapports sexuels réguliers sans contraception chez un couple stable .
+En pratique , surtout chez les jeunes femmes de plus de 37-38 ans ou si une chimiothérapie a été administrée , il sera prudent d' effectuer rapidement quelques examens dès le projet de grossesse formulé , afin_de ne pas perdre un temps précieux : une courbe de température , une hystérographie , des dosages hormonaux , un spermogramme , un test postcoïtal et , surtout , une estimation du capital folliculaire .
+Ce bilan permet de déterminer la cause de l' infertilité et son origine , féminine ( ovulatoire , tubaire , liée à une endométriose ) , masculine ( par anomalies du sperme ) ou mixte .
+L' évaluation de la réserve ovarienne au troisième jour du cycle , comprends le dosage de la FSH et d' un marqueur ovarien très sensible , l' hormone antimüllérienne ( AMH ) , ainsi_qu' une échographie pelvienne pour préciser le compte des follicules antraux .
+Des chiffres élevés de FSH et bas d' AMH et de compte folliculaire antral sont en faveur d' une réserve ovarienne diminuée , voire effondrée .
+En pratique , ce sont l' âge de la patiente d'_une_part et sa réserve ovarienne d' autre_part qui vont conditionner en grande partie la conduite à tenir .
+En effet , les travaux en __AMP__ ont bien montré que dès 37-38 ans , les chances de grossesse sont bien plus faibles que chez les femmes plus jeunes , à_la_fois en cycle spontané , mais_aussi en insémination intra-utérine et en __FIV__ .
+De plus , même si une grossesse est obtenue , les risques de fausse couche spontanée s' élèvent avec l' âge , passant de 14,5 % entre 25 et 29 ans , à près_de 40 % après 42 ans .
+Ainsi , après un cancer du sein , même si une femme n' a pas reçu de chimiothérapie , c' est le simple fait d' avoir « attendu » pendant un_certain_temps qui va poser problème .
+En outre , à âge égal , les chances de grossesses seront plus faibles si la réserve ovarienne est déjà diminuée , ce qui est très souvent le cas après chimiothérapie .
+Prise en charge de l' infertilité
+Réserve ovarienne satisfaisante
+Une induction d' ovulation n' est pas nécessaire
+C' est la situation la plus simple , mais elle mérite d' être envisagée !
+Par exemple , il existe une infertilité d' origine chirurgicale par obstruction tubaire ou en raison d' une endométriose .
+La prise en charge chirurgicale de cette infertilité ne pose pas de problème après un cancer du sein .
+Une induction d' ovulation est nécessaire
+Malgré une réserve ovarienne satisfaisante , le bilan de l' infertilité retrouve une anovulation .
+Une stratégie acceptable consiste à se tourner en première intention , à chaque fois que possible , vers les alternatives aux inducteurs de l' ovulation , et il en existe : par_exemple , se rapprocher d' un index de masse corporelle dans les limites de la normale ( en cas de maigreur ou de surpoids ) , arrêter un tabagisme éventuel , recourir à un médicament hypoprolactinémiant ( en cas d' augmentation du taux de prolactine ) ou à une multiperforation ovarienne ( en cas de dystrophie ovarienne polykystique ) .
+Si ces méthodes ne sont pas indiquées ou sont insuffisantes , il reste le recours à une induction d' ovulation simple .
+Dans la mesure où l' équipe oncologique accepte qu' une femme , après un cancer du sein , retrouve une activité génitale normale , pourquoi ne pas tolérer le recours à l' induction d' ovulation , mais à_condition_que celle-ci soit strictement monofolliculaire ?
+En effet , ce n' est pas tant l' ovulation qui est redoutée , que la poly-ovulation et les taux d' estrogènes élevés qui l' accompagnent .
+Dans ces situations , pourquoi ne pas proposer , après accord des équipes d' __AMP__ et d' oncologie , une induction d' ovulation visant à la croissance et à la maturation d' un seul follicule , avec un monitorage soigneux des taux d' estradiol , qui ne devraient pas dépasser 250 à 300 pg / ml , c' est-à-dire les valeurs observées avant une ovulation « naturelle » ?
+Une technique d' __AMP__ est nécessaire : __IIU__ ou __FIV__
+Lorsqu' il existe des anomalies tubaires et / ou du sperme , ou une infertilité idiopathique , il faudrait théoriquement recourir à des méthodes d' __AMP__ : selon les cas , à l' __IIU__ ou à la __FIV__ .
+Au cours de ces techniques , la stimulation hormonale vise classiquement à la croissance de 2 à 3 follicules ( pour l' __IIU__ ) , voire de multiples follicules ( pour la __FIV__ ) et s' accompagne de taux d' estradiolémie très supérieurs à ceux observés lors du pic préovulatoire .
+Après un cancer du sein , ces taux ne risquent ils pas d' avoir un effet délétère sur la maladie mammaire ?
+Les partisans de la __FIV__ après un cancer du sein arguent que les taux d' estrogènes observés lors d' une __FIV__ seront de toute façon inférieurs à ceux d' une grossesse .
+Après un cancer du sein , plusieurs « stratégies » pour éviter les risques d' une hyperestrogénie peuvent être évoquées :
+* - le recours au tamoxifène , mais nous en avons discuté plus haut les limites ;
+* - chez les femmes qui ovulent bien , l' __IIU__ ou à la __FIV__ en cycle spontané , sans induction d' ovulation , mais les taux de réussite sont alors très faibles ( environ 7,2 % de grossesses par cycles débutés en __FIV__ ) ;
+* - enfin , actuellement , en __AMP__ , une autre option se dessine : le recours à la stimulation minimale contrôlée .
+Cette méthode a été mise au point pour réduire les risques liés à l' hyperstimulation et aux grossesses multiples , améliorer la tolérance des traitements et en réduire le coût .
+Son principe consiste à administrer un antagoniste de la LH-RH après la sélection d' un follicule dominant et à l' associer à des doses minimales de gonadotrophines .
+Ces cycles semi-naturels permettent d' obtenir des taux de grossesse acceptables en __FIV__ ( les taux de grossesse cumulés à 3 cycles sont de 34 % par patiente ) , tout en maintenant les taux d' estradiol dans des limites physiologiques ( 250 à 300 pg / ml ) : on conçoit bien l' intérêt de cette méthode chez les jeunes femmes que l' on ne souhaite pas soumettre à des taux trop élevés d' estrogènes pendant une stimulation , lorsque la prise en charge de l' infertilité nécessite une __FIV__ .
+La pratique clinique montre que , de fait , certaines femmes ayant été traitées pour un cancer du sein recourent actuellement à ces techniques , qu' il s' agisse d' induction d' ovulation simple , d' __IIU__ ou de __FIV__ : ces méthodes ne devraient être mises en oeuvre qu' après discussion multidisciplinaire , information très complète du couple , prise en charge par une équipe d' __AMP__ sensibilisée à l' oncologie , monitorage très soigneux des taux d' estradiolémie qui ne devraient pas dépasser les valeurs physiologiques , nombre de cycles limité et défini au départ et enregistrement prospectif .
+De toute façon , s' il existe déjà une diminution de la réserve ovarienne , le recours à ces méthodes ne sera plus indiqué , car leurs taux de succès , très faibles , n' en compenseront plus les risques éventuels , la lourdeur et le coût ( soit pour un cycle de __FIV__ , selon les composés prescrits , entre 2400 et 2900 euros ) .
+Réserve ovarienne basse ou effondrée
+Si le couple ne souhaite pas se tourner vers l' adoption , il reste deux solutions :
+Don d' ovocyte
+Chez les femmes ayant une insuffisance ovarienne avérée ou une ménopause précoce , le recours au don d' ovocyte permet l' obtention d' une grossesse .
+En France , ses conditions sont extrêmement réglementées .
+La donneuse est une jeune femme , déjà mère , de moins de 36-37 ans .
+Au terme d' un bilan approfondi et après accord de son conjoint , elle subit une stimulation hormonale selon un protocole classique de __FIV__ .
+Ses ovocytes sont prélevés et mis en contact avec les spermatozoïdes du conjoint de la receveuse .
+Depuis 2004 , les embryons issus de la __FIV__ peuvent être replacés à l' état frais dans l' utérus de la receveuse si les sérologies virales de la donneuse sont négatives au début de la stimulation .
+Le don est anonyme et gratuit .
+En France , la receveuse doit nécessairement avoir l' âge de procréer , donc moins de 42-43 ans .
+Chez les femmes en insuffisance ovarienne , une préparation de l' endomètre est nécessaire avant_que l' embryon ne soit transféré : il s' agit d' un traitement hormonal substitutif à base d' estradiol et de progestérone naturelle , qui est poursuivi , en cas de grossesse , jusqu' à la 10e semaine , en attendant le relais placentaire .
+Après transfert d' embryon frais , on obtient environ 30 à 40 % de grossesses évolutives , selon le nombre d' embryons replacés .
+En cas de transfert d' embryon congelé , les taux sont plus bas , d' environ 18-20 % .
+Avec cette méthode , c' est la donneuse qui subit la stimulation ovarienne et non la receveuse .
+Pour une femme ayant eu un cancer du sein , la prescription d' un traitement hormonal à doses physiologiques pendant quelques semaines paraît moins délétère qu' une hyperstimulation ovarienne dans le cadre d' une __FIV__ , pour des chances de grossesses bien plus élevées .
+En pratique , en France , le recours au don d' ovocyte reste encore difficile et les listes d' attente très longues , en raison du manque de donneuses .
+Actuellement , certaines femmes ont recours au don d' ovocyte dans d' autres pays d' Europe , où l' accès au don d' ovocyte est plus simple et plus rapide ( environ quelques mois ) : ainsi parle -t on de tourisme procréatif .
+Accueil d' embryon
+Lorsqu' à l' insuffisance ovarienne avérée est associée , chez le conjoint , à une anomalie très sévère du sperme , il reste enfin l' accueil d' embryon .
+C' est le transfert à un couple stérile d' un ovule fécondé venant d' un autre couple ayant eu recours aux techniques d' __AMP__ et ayant abandonné son projet parental .
+Cette alternative peut désormais être proposée aux couples présentant une double infertilité et pourrait l' être également à ceux qui ne souhaitent pas attendre trop longtemps un don d' ovocyte .
+Les taux de succès sont d' environ 10 à 20 % de grossesses par transfert .
+Conclusion
+Malgré des avancées récentes prometteuses , la préservation de la fertilité en cas de cancer du sein reste encore aujourd'hui expérimentale .
+L' approche d' une infertilité après un cancer du sein , très délicate , ne se conçoit que dans le cadre d' une double réflexion réunissant oncologues et spécialistes d' __AMP__ .
+L' âge de la femme et sa réserve ovarienne sont des facteurs clés qui détermineront les différentes options possibles ; il faudrait prendre en compte , pour chaque option discutée , l' évaluation lucide des chances de grossesses , les risques , les incertitudes , la lourdeur et le coût .
+Face à ces situations nouvelles et complexes , la discussion multidisciplinaire , l' information éclairée du couple , la décision médicale partagée , l' enregistrement prospectif , devraient constituer la clé de voûte de notre prise en charge .

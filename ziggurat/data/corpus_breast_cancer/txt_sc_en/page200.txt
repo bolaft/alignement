@@ -1,0 +1,225 @@
+Introduction
+A major mechanism of gene alteration in cancer is genome rearrangement , such as chromosome translocation and inversion , which can result in gene fusion , promoter insertion or gene inactivation .
+As is well known in haematopoietic tumours and sarcomas , translocations and inversions can have powerful oncogenic effects on specific genes and play a central role in cancer development .
+In the past there has been an implicit assumption that such rearrangements are not significant players in the common epithelial cancers , but this view is now being challenged .
+Most provocatively , about 70% of prostate cancers have gene fusions analogous to those found in leukaemias and sarcomas , such as fusions of transcription factors of the ETS family to the TMPRSS2 gene as a result of translocation or deletion .
+In breast cancer , we have described translocations of the NRG1 / heregulin gene in 6% primary cases , and Soda_et_al. have described fusions of ALK in 7% lung cancers .
+Other approaches also suggest that fusion transcripts are present in epithelial cancers .
+It has recently been argued that the low number of known gene fusions in epithelial cancers could simply reflect lack of data .
+The study of translocations in epithelial cancers has been limited by technology .
+It is difficult to get useful numbers of metaphase spreads from tumour tissue for cytogenetic approaches , and primary cultures of tumours may be overgrown by premalignant and normal cells .
+Chromosome analysis therefore has to be done on cell lines .
+Even when chromosome spreads can be made , the karyotypes are mostly too complex for classical cytogenetic analysis .
+24 colour chromosome painting - __SKY__ or __SKY__ analysis - helps , but it gives no direct information about breakpoints .
+There are not yet any established DNA-based methods to detect chromosome rearrangements - in particular , recent high-throughput screens for sequence change were unable to detect rearrangements , since the screens rely on being able to amplify sequencing targets by PCR , and translocation breaks will not be amplified .
+Array comparative genomic hybridization ( array CGH ) can in principle identify the breakpoints of unbalanced translocations as changes in genomic copy number , but cannot detect balanced translocations .
+The distinction between balanced and unbalanced translocations has been considered an important issue .
+Balanced translocations are more likely to have effects at their breakpoints , whereas unbalanced translocations result in gain or loss of material - in particular , loss of tumour suppressor genes - so that the breakpoints themselves may not be important .
+While the familiar gene-fusing translocations in haemopoietic disease are usually balanced , translocations in common epithelial cancers are said to be mostly , though not exclusively , unbalanced .
+As we show here , array painting is a powerful advance in the analysis of the complex chromosome rearrangements of cancers .
+Introduced in the context of constitutional chromosome abnormalities , it is a logical extension of reverse chromosome painting , which we previously applied to three breast cancer cell lines .
+In both approaches , individual chromosomes are purified using a fluorescence-activated cell sorter and the DNA amplified and hybridized to normal genomic DNA - to normal metaphase chromosomes in reverse painting and to DNA microarrays in array painting .
+Array painting gives a resolution only limited by the arrays used .
+It can be used to map all translocation breakpoints , including those of balanced translocations , and it identifies which chromosome fragments are joined , which is important in the context of looking for fusion genes .
+We report here a comprehensive analysis by array painting of the chromosome translocations of three breast cancer cell lines .
+We analysed all chromosomes to 1 Mb resolution , then analysed all balanced breakpoints and a number of unbalanced breakpoints to higher resolution by using either chromosome tiling-path arrays or custom oligonucleotide arrays , since the breakpoints of balanced rearrangements have a higher probability of targeting genes .
+Results
+We determined the complete karyotypes of three breast cancer cell lines .
+In total 200 breakpoints were identified and mapped to at least 1 Mb resolution by array painting : we flow sorted all chromosomes , amplified the chromosome DNA and hybridized it to genomic DNA microarrays .
+The DNA of almost all chromosomes was also hybridized to normal metaphase chromosome spreads : although not strictly necessary , this identified independently the chromosome fractions sorted .
+Figure 1 and Supplementary Figures 1 and 2 show flow karyotypes of the cell lines .
+Almost all chromosomes were resolved into distinct fractions - peaks on the cytometry plot - except normal chromosomes 9 - 12 which are always superimposed .
+Where chromosomes did sort together , __SKY__ data allowed us to identify which chromosomes were present in almost all cases .
+The chromosomes identified corresponded closely to the karyotypes of the three lines obtained by __SKY__ ( Davidson et al. , 2000 ; M Grigorova and PAWE , unpublished shown at ) .
+Minor discrepancies reflected the limitations of __SKY__ analysis , principally the misclassification of small fragments .
+All were clarified by conventional chromosome painting .
+A summary of all abnormal chromosomes in the three cell lines is shown in Figure 2.
+All chromosome fractions were first hybridized to 1 Mb resolution __BAC__ arrays , with amplified normal whole-genome DNA as reference .
+Regions of the genome present in the sorted chromosome gave much stronger hybridization signals than regions absent , in almost all cases clearly identifying the genome content of the chromosomes and the breakpoints .
+Cross-hybridization between large segmental duplications was occasionally seen , notably on proximal 10q , but mostly was weaker than authentic hybridization .
+Many translocations were balanced
+Definitions of balanced rearrangements vary .
+The definition we adopted of a balanced rearrangement was pragmatic , because we wanted to use it to identify rearrangements whose genetic consequences , for a given chromosome , should be confined to the breakpoint region .
+Reciprocal translocations are the simplest kind of balanced rearrangement .
+By balanced for a given chromosome , we mean that there is no net gain or loss of sequence at the resolution of the 1 Mb arrays .
+This is a realistic definition , since many near-balanced translocations have additional rearrangements , such as deletions , insertions and inversions around the translocation breakpoints ( Sinclair et al. , 2000 ; Gribble et al. , 2005 ; for references see Pole et al. , 2006 ) .
+For some of the balanced translocations we found that the two products were present in a different number of copies ( for example , for the t ( 10;13 ) of HCC1187 , __SKY__ analysis shows three copies of the derivative 13 chromosome but only one copy of the derivative 10 ) , but since we assume this reflects numerical changes subsequent to the translocation we consider this unimportant .
+The array hybridizations showed that many translocations were balanced for at least one of the participating chromosomes ( Figure 3 ; marked in bold in Table 1 ) .
+For example , in HCC1187 , two chromosome 8 translocation breakpoints were identified , one at 8p22 and one at 8q22.2 , and in both cases hybridization of the separated chromosomes to arrays showed that the translocations were balanced for chromosome 8 , at the resolution of the arrays .
+Array CGH using the 1 Mb array also showed no copy number step at the breakpoints confirming that the breaks were balanced .
+In some cases , the breaks on the partner chromosome were also balanced , forming a reciprocal translocation , but in several cases they were not .
+For example , the balanced breaks on 8q22.2 were joined to chromosome 1 breaks at 1p31.1 ( in peaks E and H , Table 1 ) and 1p13 ( in peak J ) , with net loss of 31 Mb of chromosome 1. More unexpected were the junctions of the balanced breaks on 8p22 ( peaks A and E , Table 1 ) : both were joined to chromosome 1 at 1q21 , but instead of the chromosome 1 fragments being balanced , both the chromosome 8 breaks were joined to similar fragments of chromosome 1 , extending from 1q21 towards the centromere .
+Other balanced breaks appeared to be joined to unrelated chromosomes , for example the 7p15.2 breaks in HCC1806 .
+Conventional chromosome painting confirmed that the balanced fragments were on the expected chromosomes .
+Overall , 26% ( 53 / 200 ) of breaks were balanced - 17 / 53 ( 32% ) in HCC1187 , 27 / 93 ( 29% ) in HCC1806 and 9 / 54 ( 17% ) in ZR-75-30 .
+Among the balanced translocations there were eight reciprocal translocations in the three lines , allowing for some loss or duplication at the breakpoint .
+The straightforward reciprocal translocations were the t ( 10;13 ) in HCC1187 ; t ( 4;6 ) , t ( 12;22 ) and t ( 2;7 ) in HCC1806 , the latter consisting of the der ( 7 ) t ( 2;7 ) ( peak G ) and der ( 2 ) t ( 13;11;2;7 ) ( peak P ) ; and the t ( 10;11 ) in ZR-75-30 .
+In HCC1187 , the complex rearrangement of 11 , 12 and 16 is reciprocal , comprising a der ( 11 ) t ( 11;16 ) ( p15.3;q22.1 ) del ( 11 ) ( q13.5q21 ) and a der ( 16 ) t ( 11;16 ) ( p15.3;q22.1 ) t ( 11;12 ) ( p15.4;p11.22 ) .
+HCC1187 also has a translocation between chromosomes 11 and 12 with the same 11q deletion , der ( 11 ) t ( 11;12 ) ( p15.4;p11.22 ) del ( 11 ) ( q13.5q21 ) , so the reciprocal translocation appears to have been formed between another copy of this and a normal chromosome 16 , with the break on 11 slightly proximal to the junction between 11 and 12. The t ( 3;16 ) in HCC1806 , in which the chromosome 3 break is balanced and the 16 break is close to balanced , with a duplication of around 1 Mb at the breakpoint , is likely to be a reciprocal rearrangement .
+Finally , the t ( 1;8 ) in HCC1187 , which was expected to be a reciprocal translocation from __SKY__ analysis , can be considered reciprocal with a very large deletion on chromosome 1p , as discussed above .
+A comparison of array painting results and 1 Mb array-CGH data for the three cell lines showed no copy number change where balanced breaks were expected , unless the two products of the translocation were present in different copy numbers .
+The positions of unbalanced breakpoints matched precisely , although the signal to noise ratio was much weaker by array CGH .
+Three breakpoints were recurrent at 1 Mb resolution : all three lines had breaks at 8q22 ; HCC1187 and ZR-75-30 both had breaks at 16q22 and 13q21.31 .
+High-resolution analysis of balanced breaks
+We then mapped to higher resolution of all the balanced breaks , together with some of the unbalanced breaks that were on the same chromosomes , by hybridizing at least one of the product chromosomes to either a chromosome-specific tiling-path __BAC__ array , that is an array of BACs at around 150 - 200 kb intervals or a custom oligonucleotide array designed to span the break , with oligonucleotides spaced at an average of about 120 - 170 bp .
+In addition , some breakpoints were confirmed by FISH with fosmids or BACs , or by PCR to detect presence or absence of sequences on sorted chromosomes , as listed in Supplementary Table 1. For example , the breakpoint at __CTCF__ on chromosome 16 in HCC1187 was mapped by FISH using BACs followed by fosmids , and PCR .
+Notably , fosmids W12-1762O11 and WI2-1996C17 were both positive on both products of the translocation , as were PCRs on the sorted chromosomes using primer pairs between 66.152 and 66.162 Mb ( primers CTCF1 to CTCF4 , Supplementary Table 3 ) ; while fosmid WI2-2802K11 ( 5 of __CTCF__ ) was only positive on the der ( 16 ) and two primer pairs between 66.202 and 66.203 Mb ( primers CTCF5 and CTCF6 ) gave products only with the der ( 11 ) .
+This agrees with the oligonucleotide array mapping , which places the breakpoints at about 66.197 and 66.142 Mb , with around 50 kb of sequence present on both products , that is duplicated between the two products of translocation .
+Similarly , the balanced breakpoint on 8q22 in HCC1187 , and its translocation partner breakpoint on 1p , were mapped first by FISH with __BAC__ or fosmid probes , then by PCR on sorted chromosomes ( result not shown ) .
+Finally , PCR with pairs of primers , one on each chromosome , gave a product showing fusion of the genome between 101059276 bp on 8q in the RGS22 gene and 84234152 bp on 1p in the TTL7 gene .
+This would fuse RGS22 and TTL7 in opposite directions of transcription so no fusion transcript is predicted .
+Overall about one-third of all breaks were confirmed using at least two techniques .
+An apparently novel feature of the balanced breakpoints was that some overlapped , that is a small amount of sequence was present on both products of the translocation , resulting in net duplication .
+In three cases from two cell lines , where oligonucleotide hybridization was performed on both products of the translocation , there was a clear overlap : the complex t ( 11;16 ) that breaks at __CTCF__ in HCC1187 has net duplication of about 50 kb of __CTCF__ and its upstream region , supported by FISH and PCR data ; and in HCC1806 the balanced 7p15.2 breaks at TAX1BP1 overlap by about 80 kb , and the balanced 6p21.1 breaks at FOXP4 overlap by about 50 kb .
+Low-resolution results suggested that there would be other examples , notably in the case of the reciprocal translocation t ( 3;16 ) in HCC1806 , where around 1 Mb of chromosome 16 appears duplicated by 1 Mb array analysis .
+Genes at balanced breakpoints
+Many of the breakpoints of the balanced translocations proved to be within or adjacent to genes , several of which are plausible candidates for translocation targets ( see Discussion ) .
+For example , in HCC1806 , the breakpoint at 40 Mb on 22q of the reciprocal translocation t ( 12;22 ) ( q13.2;q13.2 ) proved to be within the EP300 / p300 gene .
+The location of the break was confirmed by FISH with BACS : on the der ( 12 ) , RP11-12M9 was negative but RP11-422A16 was positive , while on the der ( 22 ) , both were positive .
+To show that at least some of the translocations resulted in fusion transcripts , two examples were investigated further .
+RIF1 - __PKD1L1__ : a classic gene fusion
+Mapping of the reciprocal translocation between chromosomes 2 and 7 in HCC1806 suggested that they would result in fusion between the RIF1 and __PKD1L1__ genes , so we investigated expression of the two genes .
+The two products of the translocation are the der ( 2 ) t ( 13;11;2;7 ) , sorted in chromosome fraction peak P , and the der ( 7 ) t ( 2;7 ) , sorted in peak G .
+Hybridization of the der ( 2 ) t ( 13;11;2;7 ) to an oligonucleotide array showed that chromosome breakpoints were at 152.017 Mb on chromosome 2 , in between exons 21 and 22 of RIF1 ( RefSeq NM018151.3 ) , and at 47.869 Mb on chromosome 7 between exons 26 and 27 of __PKD1L1__ ( Refseq NM138295.2 ) .
+The breakpoints on the der ( 7 ) product were reciprocal at the resolution of the __BAC__ arrays available , that is 1 Mb for chromosome 2 and tiling-path resolution for chromosome 7 ( 47.80 - 47.91 Mb ) .
+RIF1 is reported to be expressed widely .
+Quantitative RT-PCR , using primer pairs in adjacent exons , showed that __PKD1L1__ mRNA is expressed at low or negligible levels in most breast cancer cell lines , two normal breast cell lines , and commercial normal breast mRNA samples ( not shown ) .
+Similar very low expression was seen for exons proximal to the breakpoint in HCC1806 , but exons distal to the breakpoint were dramatically upregulated to 200 times the level of expression of the 5 end .
+This is as expected if the translocation creates a fusion transcript that is expressed from the RIF1 promoter .
+Incidentally , expression was also high in cell lines T-47D and MDA-MB-175 for both proximal and distal exon pairs tested .
+The predicted RIF1 - __PKD1L1__ fusion transcript was detected by __RT__ - PCR using primers in exon 20 of RIF1 ( exon 20 was used to permit concurrent detection of RIF1 expression with an exon 21 primer ) and exon 27 of __PKD1L1__ .
+A major band of about 350 bp was visible on agarose gel electrophoresis , but cloning of the product gave two clone insert sizes , 342 and 242 bp .
+Sequencing showed they were derived from two alternatively spliced fusion transcripts : the expected fusion of RIF1 exon 21 to __PKD1L1__ exon 27 , and direct fusion of exon 20 to exon 27 , skipping RIF1 exon 21. Quantitative PCR was then used to determine that the relative abundance of the two transcripts was around 6:1 , respectively .
+The primers and junction sequences are given in Supplementary Tables 3 and 4. The fusion transcripts were verified independently by PCR using a primer in exon 19 of RIF1 to prevent accidental reamplification of PCR product , and a third junction was cloned splicing from exon 19 of RIF1 to a cryptic exon upstream of __PKD1L1__ exon 27. To show the presence of the complete gene fusion , longer RIF1 - __PKD1L1__ cDNA fragments were cloned , from exon 1 of RIF1 to exon 28 of __PKD1L1__ and from exon 19 of RIF1 to exon 57 of __PKD1L1__ ( Supplementary Figure 6 ; primers are given in Supplementary Table 3 ) .
+TAX1BP1 - AHCY fusion
+In HCC1806 , there was a balanced 7p15.2 break , one side in a der ( 7 ) ( peak L , Table 1 ) apparently joined to 8q23.3 , the other in two der ( 20 ) s ( peaks i and M ) , joined to a piece of chromosome 20 extending from 20p to 20q11.22 .
+FISH with BACs showed the 7p15.2 break to be joined to 20q ( result not shown ) .
+On the der ( 20 ) peak M , the chromosome 7 break is at 27.752 - 27.7543 Mb , in the first intron of TAX1BP1 , while the chromosome 20 break is slightly 5 of the first exon of AHCY , S-adenosyl-homocysteine hydrolase .
+This would be expected to fuse the first exon of TAX1BP1 to the first splice acceptor in AHCY , presumably the second exon of AHCY .
+The breakpoint on the der ( 7 ) peak L is at 27.67 Mb , so that about 80 kb is common to both products of the rearrangement .
+The predicted TAX1BP1 - AHCY fusion transcript was detected by __RT__ - PCR , fusing exon 1 of TAX1BP1 and exon 2 of AHCY .
+The primers and sequence across the junction are given in Supplementary Tables 3 and 4.
+Discussion
+Array painting
+Our results illustrate the power of array painting to map the complex chromosome translocations in cancer cell lines .
+In principle , array CGH should be able to identify many of the breakpoints as step changes in copy number , but array painting proved superior in three respects : many breakpoints were balanced and therefore invisible to array CGH ; the much higher signal-to-noise ratio gave much clearer breakpoint identification than corresponding array CGH ; and where a cell line had several breakpoints on the same chromosome , array painting assigned them to particular chromosomes .
+We were able to resolve most chromosome species in these cell lines , and where two or more chromosomes sorted together , the __SKY__ karyotype enabled us to identify which they were .
+The remaining limitations of array painting are that for complex translocations of multiple fragments , the order and orientation of fragments might not be clear ; inversions are not detected and cell lines are needed - although breakpoints found can subsequently be screened for in paraffin sections of tumours by FISH .
+Many translocations were reciprocal or partly balanced
+Overall , about one quarter ( 26% ) of the breakpoints were balanced , to 1 Mb resolution ( our definition of balanced is discussed above ) , and almost half ( 46% ) of the abnormal chromosomes contained at least one breakpoint that was balanced .
+This contrasts with the standard view that the overwhelming majority of translocations in epithelial cancers are unbalanced ( see references in next paragraph ) .
+The reason for the discrepancy is mainly that such translocations are difficult to identify in these complex karyotypes , and we are not aware of any previous estimates of translocations balanced for one chromosome - likely examples can be found , for example , in our reverse chromosome painting .
+We also found six reciprocal translocations plus two additional almost-reciprocal translocations in the three cell lines , again more than expected .
+There were at most five candidate examples in the __SKY__ karyotypes : not only did all these prove to be reciprocal , but there were three additional examples that had been missed , either because they were disguised by previous or subsequent rearrangements , or because one chromosome fragment was too small to be classified by __SKY__ analysis .
+However , our chosen lines are not representative - they had been selected because the __SKY__ analysis showed one or two probable reciprocal translocations .
+__SKY__ analysis had suggested that carcinoma cell lines have on average around 0.4 reciprocal translocations per line .
+We now expect this to be a substantial underestimate .
+Some of the breaks balanced to 1 Mb resolution showed small overlaps between the breakpoints when mapped to high resolution , that is net duplication of sequence at the breakpoint .
+We believe this is a novel observation , in contrast to net loss at breakpoints which is already recognized .
+Such duplication would usually be missed in conventional FISH analysis .
+Many balanced breaks were in genes of interest
+For each of the 19 pairs of balanced breakpoints that were not at centromeres , at least one side of the break was mapped to higher resolution .
+This showed that at least 13 were in genes , and at least eight of these genes ( EP300 / p300 , PIP5K2A , FOXP4 , __CTCF__ , TAX1BP1 , RGS22 , __PKD1L1__ , RIF1 ) were clearly candidate targets of oncogenic rearrangement - by fusion , promoter insertion or simply inactivation - supporting the view that some of these translocations target specific genes .
+Among the broken genes , we were able to demonstrate two gene fusions : TAX1BP1 was fused to AHCY and RIF1 was fused to __PKD1L1__ .
+In other cases , the regions that appeared to be joined to them were either not in annotated genes , were in genes in the opposite orientation or have not yet been mapped to high resolution .
+Some of these translocations may lead to gene inactivation rather than gene fusion .
+Fusion genes : RIF1 - __PKD1L1__
+The reciprocal translocation between chromosomes 2 and 7 in HCC1806 resembled many classic chromosome translocations , producing a fusion transcript expressed at a much higher level than the normal copy of the gene ( __PKD1L1__ ) that forms the 3 end of the fusion gene .
+However , the consequences appear more complex , as two alternatively spliced fusions were detected by PCR : the expected RIF1 exon 21 to __PKD1L1__ exon 27 fusion and in addition a less abundant direct RIF1 exon 20 to __PKD1L1__ exon 27 fusion .
+The former is predicted to result in an out-of-frame fusion protein with two stop codons shortly after the junction ; while the latter should be in frame .
+These predictions are unlikely to be in error as exon 20 of RIF1 has stop codons in the other reading frames .
+Thus the more abundant mRNA encodes a truncated RIF1 , while a minor mRNA should encode a fusion protein of a large fragment of RIF1 to the multiple transmembrane segments of __PKD1L1__ .
+There is evidence that both RIF1 and __PKD1L1__ might be relevant to breast cancer , so both these protein products may be functional .
+RIF1 is a component of the __ATM__ -mediated response to DNA damage signalling , and inhibition of RIF1 results in radiosensitivity and a defect in the intra-S-phase checkpoint ( it was originally characterized in yeast as Rap1-interacting factor1 , associated with telomeres , but in mammals its role appears different ) .
+In the mutation screen of Sjoblom_et_al. , one breast cancer cell line had two non-conservative point mutations in RIF1 .
+Together with the present truncation this suggests that modification of RIF1 may play a role in breast cancer , perhaps in genetic instability .
+In the case of __PKD1L1__ , a close homologue , PKDREJ , is point mutated in breast cancers .
+The __PKD1__ family ( __PKD1__ ) are 11 transmembrane signalling molecules that he__TRP__ signalling molecules of the PKD2 family and mediate sensing of fluid flow , taste and pH .
+Mutations in __PKD1__ and PKD2 are responsible for polycystic kidney disease , which may be a non-malignant overgrowth syndrome in which __PKD1__ and 2 behave like tumour suppressor genes .
+__PKD1__ also interacts with the mTOR pathway .
+Little is known about __PKD1L1__ , though it is reported to be expressed in whole mammary gland .
+The translocation preserves the transmembrane segments of __PKD1L1__ and so one possibility is that it creates a dominant-negative , inhibiting normal activity of a heterodimer of a __PKD1__ and a PKD2 family member .
+Fusion genes : TAX1BP1 - AHCY
+A fusion transcript TAX1BP1 - AHCY was demonstrated in HCC1806 .
+TAX1BP1 ( Tax-binding protein ) is widely expressed , is a target for human immunodeficiency virus Tax protein , interacts with the nuclear factor-kappaB signalling pathway , and is a co-activator of nuclear receptors .
+AHCY ( EC3.3.1.1 ) is thought to control methylation by regulating the intracellular concentration of adenosyl-homocysteine ( UniProt database ) .
+The fusion transcript fuses the first exon of TAX1BP1 to the second exon of AHCY , but it is not clear whether this would be translated : exon 1 of TAX1BP1 has an ATG but is thought to be non-coding ; translation of AHCY is thought to begin in the first exon and , while there are four in-frame methionines in exon 2 , none are in a Kozak consensus sequence .
+As in other cases , the translocation had a small duplication at the junction , which appeared to leave an intact TAXB1P1 gene on the other chromosome translocation product .
+The presence of two different der ( 20 ) s incorporating this fusion ( peaks M and i ) suggests that this rearrangement may have been a relatively early event .
+Other genes at balanced breaks
+EP300 / p300 , on chromosome 22 , is a target of occasional point mutation in breast and other epithelial cancers , which appear to inactivate the gene , and is a target of gene fusion to MLL and MOZ in chromosome translocations described in acute myeloid leukaemias .
+It is a histone acetyltransferase and transcription co-activator and a target of Adenovirus E1a .
+The breakpoint in EP300 in HCC1806 was close to exon 22 ( of 31 exons ; Refseq NM001429 ) , retaining part or all of the histone acetyltransferase domain and the two zinc-finger domains at the 3 end .
+The two AML breakpoints are respectively in introns 1 and 14. However , the attached breakpoint on chromosome 12 is within the human ANKRD52 / FLJ34236 gene , which is transcribed in the opposite direction , so unless there is additional rearrangement the effect may simply be inactivation of p300 .
+The other product of the translocation was not mapped to high resolution .
+PIP5K2A is a phosphatidyl-inositol 5 kinase on 10p12.2 , disrupted at the breakpoint of a reciprocal translocation to 13q21.31 in HCC1806 .
+We were unable to identify any genes at the 13q21.1 breakpoint , so the gene might simply be inactivated , but as the oligonucleotide array suggests duplication of sequences flanking the 10p12.2 breakpoint , there is likely to be additional rearrangement .
+FOXP4 is a member of the forkhead box transcription factor family .
+Members of the related FOXO subfamily are fused by translocation in acute lymphoblastic leukaemias and alveolar rhabdomyosarcomas .
+A single FOXP4 somatic mutation was identified in a breast tumour in the mutation screen of Sjoblom_et_al. , in a motif that is highly conserved in vertebrates .
+__CTCF__ mediates control of gene expression by DNA methylation , by binding to unmethylated , but not methylated , CCCTC sites .
+Its best-known role is in mediating imprinting and chromatin conformation at the classic imprinted locus IGF2-H19 , which is a target of recurrent retrovirus integration in mouse __MMTV__ -induced mouse mammary tumours .
+Again , the breaks in this gene were not exactly balanced as judged by oligonucleotide array hybridization , implying partial duplication of about 60 kb of the gene .
+On the chromosome retaining the 5 end the break was mapped to intron 2 , upstream of the coding sequence .
+On the other , the break was 11 kb upstream of the 5 end and the corresponding break on the partner chromosome 11 was within the first intron of AMPD3 , which is in the opposite orientation , so while __CTCF__ appears not to be fused its promoter activity might be altered .
+RGS22 is a regulator of G-protein signalling 22. It may be significant that RGS17 is fused by translocation in MCF7 .
+Although , so far , we have only observed breaks in these genes in individual cell lines , we have previously shown that tumour sections can be screened for breaks by FISH , so that the prevalence of breaks in a given gene can be assessed in tumour tissue .
+Genes at the breakpoints of unbalanced translocations
+Some unbalanced breakpoints that were not joined to balanced breaks were mapped with sufficient precision to show that they were in genes of interest .
+For example , the 6p21.1 breakpoint in the der ( 1 ) t ( 1;6 ) of HCC1187 , is within the TRERF1 gene , retaining the 3 end of the gene .
+TRERF1 is a transcription co-activator that has been identified as a gene giving tamoxifen resistance in vitro ( Dorssers and Veldscholte , 1997 ; Genbank AM404182 ) .
+Similarly the 8q23.3 breakpoint in the der ( 7 ) t ( 8;7;17 ) of HCC1806 is within the TRPS1 gene , shown to be overexpressed in breast cancer and the 7q23.2 breakpoint , also in the der ( 7 ) t ( 8;7;17 ) , is within the BCAS3 gene , which is fused in the breast cancer cell line MCF7 .
+In addition , NRG3 , a homologue of NRG1 , is both translocated and amplified in the der ( 10 ) t ( 13;10;19 ) of HCC1187 .
+Translocations as a component of mutation in cancer
+Our observations suggest that translocations are an important part of the mutation load of the common epithelial cancers , consistent with an overall picture of mutations in cancers being very numerous , diverse and variable .
+This is clear both from mutation screens and surveys of chromosome translocations .
+Although a few mutations are highly recurrent ( APC , p53 , 9;22 translocation ) the vast majority occur in less than 20% of cases of a given tumour or leukaemia .
+The high number of genes we have found potentially affected by translocation should not be surprising : if a typical breast cancer has 20 genes point mutated why should other changes not affect as many genes ?
+We also see a suggestion that point mutation and translocation may target the same gene ( EP300 and perhaps RIF1 ) or the same pathway ( translocation of __PKD1L1__ , and point mutation of its relative PKDREJ ) .
+We chose to focus on balanced rearrangements because a priori they have a higher probablity of targeting genes at their breakpoints ( rather than , for example , leading to loss of heterozygosity of a region ) .
+However , some unbalanced breakpoints will probably also target genes and our limited data support this ( see above ) .
+The known DOC4 - NRG1 fusion gene of MDA-MB-175 , for example , is at an unbalanced translocation .
+The neglect of chromosome translocations in the common epithelial cancers can be ascribed to various factors .
+Classical cytogenetic analysis of epithelial tumours is exceptionally difficult and so there has been a lack of detailed data .
+There was also an expectation that important chromosome translocations would be highly recurrent , which is not generally true , and translocations in carcinomas were thought to be mostly unbalanced and thus could be ascribed to tumour suppressor loss .
+Conclusion
+Our data establish that array painting is a very effective way to map substantial numbers of translocation breakpoints and support the emerging view that chromosome rearrangements that fuse , activate or otherwise alter genes at their breakpoints may play an important role in common epithelial cancers , as they do in leukaemias .
+Materials and methods
+Breast cancer cell lines of the HCC series were obtained from ATCC , and grown in RPMI 1640 medium .
+ZR-75-30 and HMT3522 were from Prof MJ O'Hare ( LICR / UCL Breast Cancer Laboratory , University College Medical School , London , UK ) and were grown in 50:50 DMEM : F12 medium .
+Other cell lines were as in Davidson_et_al. or Alsop_et_al. .
+FISH on metaphases using chromosome paints ( kindly supplied by Prof M Ferguson-Smith , Department of Veterinary Medicine , University of Cambridge , UK ) , __BAC__ probes and fosmids were performed essentially as described .
+Fosmids were from the WI2 library distributed by the Wellcome Trust Sanger Institute .
+Whole-genome array CGH was performed as described .
+__BAC__ arrays were prepared as described by Fiegler et al. ( 2003a ; DOP and 1 Mb set ) .
+The 1 Mb array used the 1 Mb clone set of Fiegler et al. ( 2003a ; DOP and 1 Mb set ) .
+The 8p tiling-path clone set used the 8p clones of the Vancouver tiling path clone set combined with clones from our 8p12 array and supplementary clones to reduce the maximum gap between clones - average inter midpoint spacing is 135 kb ( SL Cooke , unpublished ) .
+The other tiling-path arrays are described elsewhere ( Seng et al. , 2005 ; Ichimura et al. , 2006 ; KI and VPC , manuscripts in preparation ) .
+All tiling-path arrays incorporated reference BACs spaced at either 5 or 10 Mb over the autosomal genome .
+Flow sorting of chromosomes was performed by standard methods .
+Between 16 and 24 h after subculture , cells were treated with 0.1 mug ml-1 colcemid for 6 - 24 h .
+Mitotic cells from adherent cell cultures were harvested by mitotic shake-off and treated with hypotonic solution and polyamine buffer as previously described .
+Chromosomes were stained overnight with Hoechst 33258 ( 5 mug ml-1 final ) and chromomycin A3 ( 40 mug ml-1 final ) at 4 °C .
+The stained chromosome suspension was treated with 10 mM trisodium citrate and 25 mM sodium sulphite for 1 h before being analysed and flow sorted on a MoFlo cell sorter ( DAKO , Fort Collins , CO , USA ) .
+For hybridization to metaphase chromosomes , aliquots of 300 chromosomes were flow sorted , amplified by __DOP-PCR__ , then reamplified with labelled dUTP .
+For array hybridization , 5000 chromosomes were flow sorted .
+For array hybridization , aliquots of 5000 chromosomes were precipitated and redissolved in 1 mul TE ; amplified with phi29 polymerase using the GenomiPhi kit ( GE Healthcare , Buckinghamshire , UK ) and amplified DNA was cleaned up using MicroSpin G-50 columns ( GE Healthcare , Buckinghamshire , UK ) .
+Hybridizsation of this DNA to __BAC__ arrays was as described for array CGH .
+A 300 ng sample of amplified DNA was labelled ( Cy3 for test and Cy5 for amplified pooled normal female DNA as reference ) using random primers and exo- Klenow fragment in 150 mul ( BioPrime Labeling Kit , Invitrogen , Paisley , UK ) overnight at 37 °C , and purified by spin column chromatography using MicroSpin G-50 columns .
+Test and reference DNA were precipitated with 90 mug human C0t-1 DNA and 400 mug yeast tRNA , dissolved in 30 mul hybridization buffer , denatured at 70 °C for 10 min , preincubated at 37 °C for 1 h , then hybridized to arrays at 37 °C for 24 h in a humid hybridization chamber ( containing 2 times SSC ( standard saline citrate ) , 20% ( v / v ) formamide ) .
+Arrays were washed in 1 times __PBS__ , 0.05% ( v / v ) Tween 20 ( 10 min , room temperature ) , in 50% ( v / v ) formamide , 0.5 times SSC ( 30 min , 42 °C ) and in 1 times __PBS__ , 0.05% ( v / v ) Tween 20 ( 10 min , room temperature ) and dried by spinning .
+The arrays were scanned on an Axon 4100A scanner ( Axon Instruments , Molecular Devices , Union City , CA , USA ) and the images analysed using GenePix Pro 4.1 Software ( Axon Instruments ) .
+Analysis of arrays was performed as described in Pole_et_al. .
+Briefly , using Microsoft Excel , the spot intensity after background subtraction was compared to the median intensity of the control Drosophila __BAC__ clones on the arrays and spots were rejected if spot intensity was less than 2 times the Drosophila clone median .
+Test / reference ratios were calculated and normalized to the median ratio for all reference BACs ( for 1 Mb arrays , all autosomal BACs ) .
+Spots were rejected if duplicate spot ratios differed by more than 25% .
+The mean of the log2 ratios was plotted against chromosome position according to the NCBI Build 36 of the Human Genome Sequence .
+To score breakpoints , a chromosome piece was counted as present if more than three adjacent BACs on the 1 Mb array gave a positive hybridization , that is at a level equal to the log2 ratio of other pieces of chromosome present in the same peak .
+This means that some very small amplifications or pieces will have been missed .
+Hybridization , of the same amplified DNA preparations , to high-resolution custom oligonucleotide arrays was purchased as a service from NimbleGen Systems ( Madison , WI , USA ) .
+Each custom 385 000 oligonucleotide array was designed to cover around 10 breakpoints .
+For each breakpoint a region of typically 5 Mb spanning the breakpoint region ( defined by the 1 Mb array ) was covered at an average spacing of around 120 bp .
+Data were averaged over 300 bp or 1 kb intervals and manually inspected .
+PCR primers are given in Supplementary Table 3. To map genomic breakpoints by PCR , selected sequences were amplified from GenomiPhi-amplified chromosomes .
+For Quantitative RT-PCR , RNA prepared using Trizol ( Invitrogen ) was reverse transcribed using oligo-dT priming and Superscript III ( Invitrogen ) and was quantitated by PCR using the SYBR green system and an ABI PRISM 7900HT Sequence Detection System ( both Applied Biosystems ) .
+Glyceraldehyde-3-phosphate dehydrogenase was used to normalize expression levels for each cell line .

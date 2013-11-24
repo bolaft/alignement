@@ -1,0 +1,202 @@
+Introduction
+The short arm of chromosome 8 is one of the most frequently altered regions in human cancers .
+__LOH__ on 8p has been described in most of the common epithelial tumors such as colorectal , lung , prostate , ovary or breast carcinoma and different candidate tumor suppressor genes have been proposed .
+Chromosomal translocations in 8p are commonly found in hematologic malignancies such as acute myeloid leukemia , and are also reported in breast tumors .
+Amplification of 8p11 - 12 is a well documented event in breast tumors , but the relevant oncogene for the region has not been clearly elucidated .
+The FGFR1 gene , which belongs to the fibroblast growth factor receptor family , has been long considered a strong candidate oncogene for the amplicon .
+However , functional analysis has failed to provide direct evidence of an oncogenic role for FGFR1 and its importance as a driver of the amplicon has been questioned .
+The use of incomplete maps and analysis of different markers has hampered definition of the key oncogene in the 8p11 - 12 region .
+With the release of the Human Genome Sequence and its subsequent refined versions very accurately annotated clone and gene assemblies for this region are available .
+In addition , the development of array comparative genomic hybridization ( array-CGH ) allows reliable assessment of DNA copy-number changes in a high-throughput manner and has proved to be very useful in the characterization of well-known amplicons .
+In a recent study , 1 Mb coverage array-CGH in combination with Southern blot analysis was used to characterize the 8p11 - 12 amplicon in three breast cell lines .
+However , very high-resolution analysis of 8p11 - 12 has not been performed , which prompted us to develop a near-tiling path CGH-array for this region .
+We report here a detailed genomic and expression analysis of the 8p11 - 12 region in a panel of samples comprising breast cancer cell lines and primary breast and ovarian tumors .
+Results
+Whole genome overview
+High-resolution analysis of chromosome 8 was provided by clones specifically selected for the 8p11 - 12 region in a near-tiling path and elsewhere on chromosome 8 at approximately 1.5 Mb resolution .
+Clones covering the whole genome at approximately 10 Mb intervals allowed us to identify genome-wide copy-number changes at low resolution and hence gain overall impression of performance of the array .
+Briefly , the most frequently gained regions in the primary breast tumors and breast cell lines were 8q , 1q , 20q , 7p and 12p , and regions of amplification were 8p11 - 12 , 17q12 , 8q24 , 11q13 and 20q13 .
+Common regions of copy loss were 17p , 22q , 9q , 8p , 1p and 18q .
+In the ovarian tumors , the most recurrently gained regions were 8q , 20q , 3q , 9p , 1q and 12p , and regions of amplification were 8q24 , 15q21 , 3q26 and 8p12 .
+The most common regions of loss were 22q , 15q , 17p , 9q or 17q .
+Fine mapping of the 8p11 - 12 amplicon
+A total number of 13 tumors and cell lines showed amplification of 8p11 - 12 , defined as a normalized log2 ratio greater than 1.0. Most of them were breast malignancies : eight out of 33 primary breast tumors ( 24% ) and four out of 27 ( 15% ) breast cancer cell lines .
+Only one primary ovarian tumor out of 20 analysed exhibited amplification at 8p11 - 12 ( 5% ) .
+The size of the amplicon was variable and ranged from as large as 11 Mb ( SUM52 ) to as small as 1 Mb ( tumor 2156 ) .
+The SUM52 amplicon , which was the largest one , spanned 31.4 to 42.5 Mb , but for the majority of samples , the amplicon boundaries were within the region between 35 and 40 Mb .
+However , the precise flanking sites varied across samples .
+Remarkably , a steep copy-number transition delimiting the distal end of the aberration was found at the same position in four breast tumors ( 35.5 Mb , clones RP11 - 20J10 and RP11 - 115J10 ; tumors 2105 , 2199 , 2219 and 2218 ) .
+The only gene mapping at this location is UNC5D , a member of the UNC5 family of netrin-1 receptors .
+In none of the cases with 8p11 - 12 amplification did the amplicon extend across the centromere .
+In a few cases ( tumors 2017 , 2219 , 2156 and 8-TB010321 ) , 8q11 was gained but as a consequence of the complete or partial gain of 8q and independent of the amplification at 8p12 .
+A minimal common region of amplification of 1 Mb was defined by tumors 2156 , 8-TB010321 and the breast cell line HCC1500 .
+The region was bounded by the nonamplified clones RP11 - 175F15 ( 36.9 Mb ) and RP11 - 701H6 ( 37.9 Mb ) .
+The genes within this region according to NCBI Build 35 of the Human Genome Sequence are only six : FLJ14299 , C8orf2 , PROSC , GPR124 , BRF2 and RAB11FIP1 .
+Importantly , other previously proposed candidate genes such as LSM1 , BAG4 , HTPAP , FGFR1 , TACC1 or SFRP1 map beyond the boundaries of this segment .
+All the cases presented slightly varying copy number across the region , but most of them did not show abrupt changes indicative of several cores of amplification .
+There were nevertheless some exceptions that showed a more complex structure .
+The profile of MDA-MB-134 appeared to have three peaks of amplification , one centered at the region of common amplification and two additional peaks centered at positions 35.6 Mb ( RP11 - 115J10 ) and 40.5 Mb ( RP11 - 51K1237 ) .
+SUM44 and the breast tumors 2199 and 2171 also presented the peak at 40.5 Mb .
+Tumor 2171 showed an extra site of amplification located around 34 Mb that was not observed in any of the other samples .
+Tumor 2138 presented two distinct levels of amplification consisting of a plateau at the minimal region of amplification and an adjacent higher peak at 38.4 Mb .
+This peak was unique to this sample .
+There were no remarkable differences between profiles obtained in the primary tumors and cell lines .
+The general higher level of amplification in cell lines is probably due to the presence of contaminating normal cells in tumors that result in suppression of ratio changes .
+In addition to the amplification , we also found two small regions of loss .
+Copy-number transitions that suggested breakpoints of unbalanced translocations within 8p11 - 12 were observed in four breast tumors , but did not have a common location .
+In two cases clones spanning the 3'-end of the NRG1 and UNC5D genes , respectively , flanked the breaks .
+Another region of chromosome 8 showing copy-number changes was 8p23 , which was frequently lost in both primary tumors and cell lines .
+In order to validate the results of the array-CGH , we performed interphase __FISH__ on imprints from frozen tumors .
+We chose tumors showing marked differences in their profile and a set of probes adequate to test that variation .
+Despite the limitations imposed by working with primary tumors in array-CGH , such as the presence of contaminating normal cells and unknown ploidy , the copy-number changes estimated by array-CGH were in very good agreement with those shown by the __FISH__ experiments ( Figure 2b and c ) .
+We also verified by metaphase __FISH__ the results obtained for HCC1500 , which showed the smallest amplicon within the cell lines .
+All eight cancers with amplification were histological grade 2 or 3 and five ( 62% ) developed distant metastasis during follow-up .
+In the group of nonamplified tumors , 24% were grade 1 and 28% developed distant metastasis .
+Neither these nor other clinical variables such as stage , disease recurrence , overall survival and estrogen receptor status were significantly associated with the presence of 8p11 - 12 amplification in the series of 33 breast tumors analysed ( Fisher 's test , P>0.1 ) .
+Similarly , the Nottingham Prognostic Index treated as a continuous variable was not significantly associated with amplification ( Pearson 's correlation value of 0.13 ; Monte-Carlo simulation , P>0.1 ) .
+However , it is likely that additional samples are required to fully explore the relationship between amplification at 8p11 - 12 and clinical parameters .
+Expression analysis
+In order to determine whether 8p11 - 12 amplification was associated with gene overexpression we performed real-time quantitative PCR ( rtq-PCR ) analysis of 10 genes in the region , three located within the minimal amplicon .
+We studied 51 samples previously analysed by array CGH ( 26 primary breast tumors and 27 breast cell lines ) .
+Except for two tumors ( 2218 and 2219 ) , we found that all the amplified samples showed overexpression relative to normal luminal breast cells for most of the genes within the amplicon .
+Among the three genes mapping within the minimal region of amplification , GPR124 and FLJ14299 demonstrated high levels of expression with a median expression increase in the amplified samples relative to normal luminal cells of 13- and four-fold , respectively .
+RAB11FIP1 was also overexpressed but at a more moderate level , with a median ratio of 1.6.
+To assess whether gene overexpression was specifically associated with amplification , we compared gene expression in the amplified samples with that observed in a set of samples where we did not detect any copy-number changes at 8p11 - 12. The level of expression in the two groups was significantly different for FLJ14299 , RAB11FIP1 , LSM1 , BAG4 and HTPAP ( Wilcoxon 's rank-sum test , P<0.05 ) .
+Significantly , GPR124 ( located within the minimal amplicon ) and FGFR1 overexpression was not specifically related to the presence of amplification .
+For example , FGFR1 was overexpressed in cell line HCC1500 , where we verified by __FISH__ that FGFR1 was not part of the amplicon , which suggests that other mechanisms are altering FGFR1 expression .
+UNC5D did not show a pattern of expression that correlated with DNA copy-number changes .
+The gene was underexpressed compared to normal luminal cells in most of the samples , including those where it was part of the amplicon .
+Furthermore , among samples whose expression was higher , some showed copy-number loss in the region .
+In all , 29 out of the 33 primary breast tumors analysed for DNA copy-number changes , including seven out of the eight amplified cases , were also characterized by expression profiling using a human oligo microarray .
+We retrieved the expression microarray data for 31 genes included in the array mapping to 8p11 - 12. This allowed us to complete the expression analysis in the minimal region of amplification and get additional information on flanking genes and genes with a more centromeric location .
+Seven genes were analysed using both rtq-PCR and oligo-microarray profiling ( Figure 4a and c ) , and the correlation of expression values was good for five of the genes ( FLJ14299 , RAB11FIP1 , LSM1 , BAG4 and HTPAP ; Pearson 's coefficients >0.55 ; Mantel test , P<0.05 ) .
+As observed with rtq-PCR , the amplified and nonamplified samples presented a very different pattern of expression in the minimal amplicon and the flanking region .
+These differences were not found for genes closer to the centromere , which were amplified in only two tumors and were not consistently overexpressed .
+The genes that presented the highest levels of overexpression were C8orf2 and BRF2 , with a median expression increase in the amplified samples of 2.5- and 3.2 fold , respectively .
+RAB11FIP1 , ASH2L and LSM1 were also overexpressed , with a median expression ratio in samples with amplification of 2.2 ( RAB11FIP1 and LSM1 ) and 2 ( ASH2L ) .
+Remarkably , BRF2 , C8orf2 and RAB11FIP1 all map in the minimal region of amplification .
+PROSC , also located within this region , did not show consistent overexpression .
+FLJ14299 did not show significant expression changes and UNC5D did not show a regular pattern of expression either within the nonamplified or amplified cases .
+When comparing the expression levels between nonamplified and amplified samples , the differences were significant for C8orf2 , BRF2 , RAB11FIP1 , ASH2L , STAR , LSM1 , BAG4 and HTPAP ( Wilcoxon 's rank sum test , P<0.05 ) .
+None of the genes located in the centromeric part of the amplicon were significantly overexpressed compared to the nonamplified ( Wilcoxon 's rank-sum test , P>0.05 ) .
+Importantly , for six out of seven genes analysed using both rtq-PCR and oligo-microarrays , the expression differences between amplified and nonamplified samples were concordant : significant for RAB11FIP1 , LSM1 , BAG4 and HTPAP and nonsignificant for UNC5D and ADAM9 .
+The seventh gene , FLJ14299 , was found differentially expressed by rtq-PCR but not by oligo-array analysis .
+Discussion
+The 8p11 - 12 amplicon has been the subject of numerous studies for many years , but the putative oncogene / s that drive this aberration have yet to be identified .
+Our long interest in the region and the fact that array-CGH has not been fully used to explore the amplicon prompted us to develop a 8p11 - 12 high-resolution array and take advantage of the increased coverage to analyse this alteration .
+The array performance was carefully tested with the appropriate validation experiments .
+Many cell lines have been extensively characterized by other methods within the group ( ) and we verified that we could detect previously known changes .
+Further validation of copy-number changes across several amplified tumors was confirmed by __FISH__ using touchprint preparations .
+In our set of breast tumors and breast cell lines , we detected well-known aberrations such as gain of 8q , 1q , 20q or 7p , loss of 17p , 8p , 1p or 18q and amplification of 8p12 , 17q12 or 11q13 .
+Similarly , in our ovary cases , we observed gain of 8q , 20q , 3q or 1q , loss of 22q , 17p or 9q and amplification at 8q24 , changes recurrently observed in these neoplasms .
+Therefore , the clones distributed throughout the whole genome at 10 Mb intervals not only allowed us a proper normalization of the data but also reported patterns of changes in breast and ovarian tumors that reproduced those previously described in literature .
+These results provided an extra reinforcement of the good performance of the array .
+We found amplification of 8p11 - 12 in 13 cases comprising eight breast primary tumors ( 24% ) , four breast cancer cell lines ( 15% ) and one ovary primary tumor ( 5% ) .
+The amplification incidence in our breast tumor series is greater than the 10 - 15% commonly reported in literature , but remarkably similar to that recently described by Ray_et_al. .
+These authors found that eight breast tumors out of 32 had high-level gene amplification in part of the 8p11 - 12 region .
+Both results taken together suggest that the 8p11 - 12 amplification might occur in a higher number of breast cancers than published so far .
+In contrast , 8p11 - 12 amplification seems to be a rare event in ovarian tumors .
+We have confirmed the previously reported 8p11 - 12 amplification in the cell lines SUM52 , SUM44 and MDA-MB-134 .
+In addition , we report now that HCC1500 also has 8p11 - 12 amplification .
+In fact , its amplicon is not much larger than the minimal region of amplification defined in this study and this cell line should be useful for functional studies of candidate genes .
+The size and boundaries of the amplicon were quite heterogeneous , but in most of the samples , the region of amplification was confined within positions 35 and 40 Mb .
+The NRG1 gene , therefore , was excluded ( except in SUM52 ) , as were the centromere and 8q11 .
+These results show that amplification does not seem to play a major role in the deregulation of NRG1 , which encodes ligands for the ErbB / EGF-receptor family ( including ErbB2 / HER2 ) , and we have recently shown it to be the target of breakpoints in 6% of breast cancers .
+Similarly , although it has been suggested that 8q11 might be worthy of further analysis , our results do not support this view .
+We were able to define a segment of minimal common amplification of approximately 1 Mb size flanked by clones centered at positions 36.9 and 37.9 Mb .
+Previously proposed candidates genes such LSM1 , BAG4 , HTPAP , FGFR1 , TACC1 or SFRP1 map beyond the proximal boundary of the minimal amplicon .
+The defined core of common amplification contains the genes FLJ14299 , C8orf2 , PROSC , GPR124 , BRF2 and RAB11FIP1 .
+FLJ14299 is a novel gene containing zinc-finger domains that are protein motifs for nucleic acid recognition and these motifs have been found in a number of tumor-related genes such as WT1 or BCL6 .
+Little is known about C8orf2 , except for its membrane-associated potential subcellular localization and the fact that is highly conserved in divergent species .
+PROSC is a highly conserved gene that encodes a protein likely to be in the soluble cytoplasmic fraction , but its function remains to be determined .
+GPR124 encodes the G-protein-coupled receptor 124 or __TEM5__ that has been reported to display elevated expression during tumor angiogenesis and neoangiogenesis .
+RAB11FIP1 or Rab coupling protein interacts with small GTPases belonging to the Ras superfamily that have regulatory roles in the formation , targeting and fusion of intracellular transport vesicles .
+BRF2 encodes one of the subunits of the __RNA__ polymerase III transcription factor complex and is specifically required for transcription of the polymerase III-type small nuclear __RNA__ genes .
+The potential role for snRNAs and dysfunctional snRNAs in the genomic instability of cancer has been considered .
+When assessing the level of expression of some selected genes distributed along the 8p11 - 12 region , we found that in most of the amplified cases the genes within the amplicon boundaries were overexpressed .
+This is in agreement with studies that report the remarkable degree to which variation in gene copy number affects gene expression in breast cancer .
+The concordance between DNA amplification and elevated gene expression highlights the difficulties in determining which gene or genes within an amplicon might play a major role in the oncogenic process .
+Among the genes localizing in the minimal region of amplification , FLJ14299 and GPR124 were the most consistently overexpressed compared to normal luminal cells by rtq-PCR analysis .
+A recent study showed that FLJ14299 was amplified and expressed at very high levels in the cell lines SUM44 and SUM225 .
+We now corroborate this good correlation between amplification and overexpression at this locus in a greater number of samples that include primary tumors and in addition show that FLJ14299 maps to the newly identified minimal region of amplification .
+In contrast to the rtq-PCR results , FLJ14299 was not found overexpressed in the oligo-array experiments .
+This is likely due to the use of a pool of all the tumors as the common reference for this analysis , which might explain the only slight upregulation in individual tumors relative to the reference .
+The ability of the rtq-PCR to detect a difference between samples with or without FLJ14299 amplification is probably due to the wider dynamic range of this method .
+C8orf2 and particularly BRF2 , both mapping to the minimal region of amplification , showed the highest levels of overexpression in the microarray experiments and showed significant differences in expression when comparing amplified and nonamplified samples .
+RAB11FIP1 presented a more moderate level of overexpression , but this was detected by both methods used and found significantly associated with amplification in both analysis .
+RAB25 has been recently implicated in the aggressiveness of ovarian and breast carcinomas through amplification .
+This suggests that RAB11FIP1 may also be a candidate .
+We did not find consistent overexpression of PROSC , and GPR124 high expression levels did not seem to be specifically attributable to amplification .
+Outside of the minimal region of amplification , we found that the UNC5D gene laid in the vicinity of the amplicon boundary in several samples and that it was the site of a breakpoint in one breast tumor .
+However , we did not find a pattern of expression consistent with these rearrangements .
+FGFR1 was not included in the minimal region of amplification , and although we found overexpression in multiple samples , this was not specifically associated with amplification .
+The most centromeric genes in the region were neither consistently found amplified nor overexpressed , which strengthens our findings indicating that the relevant gene / s are located distal to them .
+We did not find significant correlation between any of the clinical variables and the presence of 8p11 - 12 amplification in the breast tumors , which is likely due to the lack of statistical power given the number of analysed cases .
+More samples will be needed to address this issue and also to elucidate specifically whether the presence of independent amplicons within the region makes a difference when identifying subsets of tumors with different outcome .
+In summary , in our study , we have identified a 1 Mb region of common amplification that is likely to contain key genes driving the 8p11 - 12 amplicon and that does not include other previously suggested candidates .
+Among the genes within the minimal region of amplification , our data support the exclusion of GPR124 and PROSC as relevant genes .
+With a good correlation between amplification and overexpression , FLJ14299 , C8orf2 , BRF2 and RAB11FIP1 are particularly interesting candidates for further functional studies .
+Materials and methods
+Primary tumors and cell lines
+DNA was extracted from frozen samples of 33 breast and 20 ovarian primary tumors and 28 breast cell lines ( 27 carcinoma derived and one from normal luminal epithelium , detailed in Supplementary Table 1 ) using standard proteinase K digestion , phenol / chloroform extraction and ethanol precipitation .
+Tumors , all with neoplastic cellularity greater than 50% , were obtained with appropriate ethical approval and are detailed in Supplementary Tables 2 and 3. The breast tumors were primary operable invasive breast cancers from the Nottingham City Hospital Tumor Bank .
+Ovarian tumors were from Addenbrooke 's Hospital , Cambridge .
+CGH arrays
+Custom arrays were made providing high resolution over the 8p11 - 12 region ( 54 clones ) , average 1.5 Mb coverage for Chr .
+8 ( 82 clones ) , 34 clones containing cancer-related genes and 10 Mb coverage for the rest of the genome ( 285 clones ) .
+Six Drosophila clones from the RPCI-98 library ( ) were included as controls .
+The 54 BACs covering the 8p11 - 12 region were spread over 9.5 Mb , between positions 31.03 Mb ( RP11 - 473A17 ) and 40.58 Mb ( RP11 - 51K12 ) ( ) .
+These clones were selected using the Washington University fingerprint map and the UCSC Golden Path draft human genome sequence ( ) .
+All clones were from the RP11 library , except where indicated and were obtained from the Wellcome Trust Sanger Institute ( Hinxton , UK ) or from Invitrogen ( Paisley , UK ) .
+In all , 49 of the 54 clones had been checked for location on 8p by metaphase __FISH__ as described .
+The clones outside the 8p11 - 12 region were BACs from the 1 Mb clone set provided by the Wellcome Trust Sanger Institute ( ) .
+The BAC DNA was isolated using micropreps and amplified by __DOP-PCR__ as described , ethanol precipitated , dissolved in 150 mM phosphate buffer at approximately 300 ng / mul and spotted in triplicate onto amine-binding slides ( CodeLink Activated Slides , Amersham Biosciences , Buckinghamshire , UK ) using a MicroGrid II arrayer ( BioRobotics , Boston , MA , USA ) .
+DNA labeling and hybridization
+Labeling and hybridization protocols were followed as described by Fiegler_et_al. with slight modifications .
+Volumes were scaled down for an array surface of 2 cm times 2 cm and prehybridization and hybridization of the slide were performed in an open well created by sticking an adhesive plastic frame delimiting the array area .
+Evaporation was prevented by placing the slides in humid hybridization chambers ( Camlab Ltd , Cambridge , UK ) .
+Slides were washed in PBS / 0.05% Tween-20 for 10 min at room temperature before and after a main wash in 50%formamide / 0.5xSSC for 30 min at 42°C .
+Image acquisition , data analysis and array-CGH validation
+The arrays were scanned on an Axon 4100A scanner ( Axon Instruments , Union City , CA , USA ) .
+GenePix Pro 4.1 software ( Axon Instruments ) was used to perform segmentation and calculate intensities after background subtraction .
+The output file was imported into an Excel spreadsheet and spots with intensity below twice the median intensity of the Drosophila clones were rejected .
+Test / reference ratios were then calculated and normalized to the median ratio of the autosomal chromosome clones .
+Spots with ratios more than 10% different from the median of the triplicate were rejected .
+If a minimum of two spots of the triplicate were accepted , the mean of the log2 ratios was calculated and plotted against position in the chromosomes according to the NCBI Build 35 of the Human Genome Sequence .
+Cell lines that had been previously well characterized by 24 color karyotyping and metaphase __FISH__ were used to assess the ability of the array to detect copy-number changes .
+We also included cell lines such as GM04626 and GM0141 with three and four copies of the chromosome X , respectively ( Coriell Institute for Medical Research ) , to validate the array .
+In male vs female , self vs self ( female vs female ) , GM04626 vs female and GM0141 vs female hybridizations , the average ratio for the X chromosome clones was 0.64plusminus0.11 , 1.02plusminus0.06 , 1.33plusminus0.06 and 1.64plusminus0.09 , respectively , and the normalized average ratio for the autosomal clones was 1plusminus0.05 .
+This showed the capacity of the array to resolve copy-number alterations as low as single-copy change .
+When cut-off ratios of >1.2 ( log2 ratio=0.26 ) for gain and <0.8 ( log2 ratio=-0.32 ) for loss were used , the false-positive rate in these experiments was below 0.2% .
+For subsequent analysis , we adopted these thresholds to define gain and loss , respectively , and a cutoff ratio of >2 ( log2 ratio >1 ) to define amplification .
+In order to display the results and identify recurrent changes across samples , we used the CGH-analyzer software .
+To identify trends in copy-number gain or loss in a given region , we calculated the __MPG__ or loss ( MPL ) per clone as described .
+Touchprint and metaphase __FISH__
+Interphase __FISH__ was performed on imprints made from frozen tumor tissues onto APES ( 3 amino propyl tri-ethoxysilone ) -coated slides .
+Briefly , tumor imprints were fixed in Carnoy 's fixative for 15 min at -20°C and left overnight at room temperature .
+BACs selected for confirmation of array-CGH results were labeled with either biotin or FITC and the chromosome 8 centromeric probe was labeled with digoxigenin .
+Labeled probes in the presence of excess human Cot1 DNA were denatured at 72°C for 10 min and left to preanneal at 37°C for 30 min .
+The imprints were denatured in 70% formamide / 2xSSC at 72°C for 2 min and dehydrated through an ice-cold ethanol series ( 70 , 90 and 100% ) .
+Hybridization was performed at 37°C for 48 h in a humidified chamber .
+Probes were detected with FITC-labeled goat anti-rabbit and rabbit anti-FITC antibodies ( Sigma ) , streptavidin-CY5 ( Amersham , UK ) and anti-digoxigenin-rhodamine ( Roche , UK ) .
+Slides were imaged using a Zeiss Axioplan 2 fluorescent microscope and the SmartCapture VP software ( Digital Scientific , UK ) .
+Metaphase spreads of the cell line HCC-1500 were prepared using standard procedures and __FISH__ was performed as described .
+Real-time quantitative PCR
+Total __RNA__ from 26 frozen breast tumors and 27 breast cell lines was extracted by using TRIreagent ( Sigma ) and purified using RNAeasy kit ( Qiagen ) according to manufacturer 's protocol .
+__RNA__ from normal human luminal breast cells was kindly provided by Mike O'Hare ( Ludwig Institute for Cancer Research / UCL Breast Cancer Laboratory , London , UK ) .
+Details about the separation and purification of the luminal breast cells compartment and protocol used for __RNA__ preparation from this cell population can be found elsewhere . cDNA was synthesized from 2 mug of total __RNA__ using random hexamers .
+Specific primers were designed for amplifying 10 selected genes located in the 8p11 - 12 amplicon ( UNC5D , FLJ14299 , GPR124 , RAB11FIP1 , LSM1 , BAG4 , HTPAP , FGFR1 , TACC1 , ADAM9 ) and control genes ( SDHA , GAPDH , UBC ) . rtq-PCRs were performed in triplicate in 10 mul reactions containing 5 mul of SYBR® Green PCR Master Mix ( Applied Biosystems ) , 2 pmol of primers and 1.5 mul of cDNA as template .
+The cycling conditions for the ABI PRISM 7900HT Sequence Detection System ( Applied Biosystems ) were 50°C for 2 min , 95°C for 10 min , 40 cycles of 95°C for 15 s , 57°C for 30 s and 72°C for 30 s .
+Relative expression levels were calculated based on the difference in Ct values between the test samples ( labeled s ) and normal breast luminal cells ( labeled c ) .
+This was normalized with expression levels of the control genes ( labeled r ) by using the equation Unfortunately we are unable to provide accessible alternative text for this .
+If you require assistance to access this image , please contact or the author as described .
+In order to assess whether upregulation of gene expression could be directly attributed to DNA amplification , we compared the relative expression of each gene between the amplified cases and a set of samples that did not show any copy-number change at the region .
+Specifically , we used the Wilcoxon 's rank-sum test to determine whether the difference in expression was statistically significant .
+Expression microarray experiments
+In all , 29 out of the 33 primary breast tumors analysed for DNA copy-number changes were also analysed for gene expression using a human oligo-microarray .
+Total __RNA__ extraction , __RNA__ amplification and indirect labeling were performed as described .
+Labeled targets of all tumor samples were pooled as a reference and 1.5 mug of Cy3- or Cy5-labelled cRNA from each sample was hybridized against 1.5 mug of pool reference from the opposite dye .
+Hybridizations were performed in dye-reversal pairs on oligonucleotide microarrays containing 22575 features ( Agilent® Human 1A 60 mer Oligo Microarray ) following the manufacturer 's instructions .
+Scanning , feature extraction and normalization were carried out using Agilent G2565BA scanner and Agilent G2567AA software .
+The log2 ratios for 31 genes spotted in the array mapping to 8p11 - 12 including UNC5D , FKSG2 , FLJ14299 , C8orf2 , PROSC , BRF2 , RAB11FIP1 , ASH2L , STAR , LSM1 , BAG4 and HTPAP were retrieved using Spotfire® DecisionSite 8.0 ( Spotfire Inc. , Somerville , MA , USA ) .
+For these genes , we further normalized the log2 ratios to their mean expression across samples by subtracting the mean expression value from each of the log-ratio measurements .

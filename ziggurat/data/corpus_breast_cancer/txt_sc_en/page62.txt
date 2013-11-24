@@ -1,0 +1,140 @@
+1. Introduction
+A proportion of early-onset and familial breast cancer is due to germline mutations in three genes , BRCA1 , BRCA2 and TP53 .
+These mutations confer a __LFS__ or __LFS__ syndrome.4 Amongst breast cancer cases unselected for family history , the prevalence of BRCA1 / 2 mutations is dependent on the population studied and the age at diagnosis of malignancy.5 , 6 , 7 and 8 Whilst several authors have determined the proportion of BRCA1 / 2 and TP53 mutations in population-based series of breast cancer cases6 , 7 , 8 and 9 D. Sidransky , T. Tokino and K. Helzlsouer et al. , Inherited p53 gene mutations in breast cancer , Cancer Res 52 ( 1992 ) , pp. 2984 - 2986 .
+View Record in Scopus | Cited By in Scopus ( 83 ) 9 these only studied small numbers diagnosed with breast cancer at less-than-or-equals , slant30 years of age , and none undertook mutation screening of all three genes .
+In addition , the value of a full family history in identifying mutation carriers was not clarified .
+The aim of this study was to estimate the contribution of BRCA1 , BRCA2 and TP53 to early-onset breast cancer ( less-than-or-equals , slant30 years ) and to explore the utility of family history in identifying mutation carriers .
+The detection frequency and penetrance estimates from this study have been published in a short research letter.10 This paper presents the detailed analysis of the relative risk of breast / ovarian cancer in first-degree relatives in these families both with and without BRCA1 / 2 mutations .
+It also presents results of analysis from an extended series of families with an index case diagnosed with breast cancer at less-than-or-equals , slant30 years of age .
+2. Patients and methods
+2.1. Patients
+Patients were ascertained from the __NWCR__ covering a population of 4.1 million in North Western England , with a diagnosis of breast cancer at or under 30 years of age between 01/01 / 1980 and 31/12 / 1997 .
+Diagnoses were confirmed using hospital records and pathology reports .
+Those patients with a histological diagnosis other than breast carcinoma were excluded .
+Patients were approached via their consultant for permission to be interviewed and , after informed consent , to provide blood for DNA testing .
+A detailed three-generation pedigree was obtained along with copies of hospital notes where available .
+Any record within hospital records regarding family history at initial presentation or diagnosis of malignancy was noted .
+This was compared to the ascertained family history of malignancy at that point in time .
+Family histories of malignancy were confirmed via the cancer registry or death certificates .
+Patients were categorised into familial , __LFS__ , __LFS__ or non-familial groups based on family history at initial diagnosis .
+Familial patients were defined as those with a family history of breast cancer <65 years or ovarian cancer at any age in first or second-degree relatives .
+LFS and LFL were defined as in Table 1. Patients diagnosed after January 1993 were approached on a semi-prospective basis .
+A further series of families , identified through the North West Regional Genetics Service , with at least one relative diagnosed with breast cancer at less-than-or-equals , slant30 years also underwent screening for mutations in BRCA1 / 2 .
+2.2. Mutation analysis
+All samples were screened for mutations in BRCA1 , using the __PTT__ for exon 11 and single strand conformation polymorphism / heteroduplex analysis ( SSCP / HA ) for the remaining exons.11 and 12 BRCA2 was analysed using the same approach for the familial cases .
+Non-familial cases were screened by __FCCM__ analysis with hydroxylamine hydrochloride as previously described.13 This method has been reported to detect >95% of mutations14 ; however as only hydroxylamine hydrochloride ( which detects mismatched cytosine bases ) was used , this method would not be expected to detect A > T or T > A transversion mutations .
+Sequence variants were confirmed by direct sequencing .
+All mutations detected by SSCP / __PTT__ were confirmed by __FCCM__ to confirm the sensitivity of this technique .
+Further mutation screening of BRCA1 and BRCA2 has been undertaken using __MLPA__ .
+All 10 coding exons , splice junctions and the promoter region of TP53 were analysed by direct sequencing in all cases.4
+2.3. Penetrance analysis
+Pedigree information for mutation carriers was used to estimate the cumulative cancer risks in BRCA1 and BRCA2 mutation carriers using the programme MENDEL.15 The pedigree information was updated to the last point of contact with the family .
+Since ascertainment of the families was on the basis of a single affected index case the conditional likelihood of the pedigree was maximised given the phenotype and genotype of the index case at ascertainment , i.e. , L ( pedigree|index ) = L ( pedigree ) /L ( index ) .
+We parameterised the model in terms of log relative risk for breast and ovarian cancer in mutation carriers compared to population risks for the United Kingdom .
+Non-gene carriers were assumed to develop the disease at population incidence rates .
+The breast cancer __RR__ were allowed to vary with age using three age groups ; 20 - 39 , 40 - 59 , and 60 - 79. The relative risk of ovarian cancer was assumed to remain constant with age .
+The cumulative risks or penetrance were calculated from the cumulative incidence ( t ) , where :
+2.4. Risk in relatives
+The relative risks for breast or ovarian cancer for first-degree relatives of the patients identified from the __NWCR__ database were calculated for the period 1979 - 1998 .
+As a basis for calculating the expected number of cancers , population-based incidence rates for breast and ovarian tumours for each of the years 1979 - 1998 were obtained from the __NWCR__ .
+Person-years-at risk was measured from 1.1.1979 to whichever of these occurred first : 31.12.1998 , date of interview of index case or date of death of relative .
+Age group and calendar-year specific person-years at risk were multiplied by the corresponding incidence rates to produce the number of cancers that would have been expected to occur assuming that general population incidence rates applied .
+The relative risk was estimated by dividing the number of cases observed by the expected number .
+3. Results
+Two-hundred and seventy-eight women resident in the area covered by the __NWCR__ were identified on the Registry database with early-onset primary breast cancer diagnosed between 1/1 / 80 and 31/12 / 97 .
+At ascertainment , 117 ( 42% ) women were dead , 137 ( 49% ) were living .
+Information was unavailable on 24 ( 9% ) cases .
+The age of diagnosis and grade of tumour did not significantly differ between the living and dead cases .
+The mean age at diagnosis was 28 years 3 months ( range 19 years 5 months - 30 years 11 months ) .
+Consultant permission to approach the patient was refused for 7 living patients .
+Of the remaining 130 cases , 91 consented to participate , 35 refused and 4 could not be traced .
+Blood samples were obtained from 66% of living affected women and 33% of the whole series .
+A further 23 women registered with the __NWCR__ were living outside the regional boundaries .
+They were registered on the __NWCR__ as they had been treated at hospitals within the region .
+Nine agreed to take part in the study .
+In total , therefore , 100 samples were analysed for mutations in BRCA1 , BRCA2 and TP53 .
+Thirty-seven patients ( 37% ) had a significant family history , which was consistent with LFS in 2 cases and LFL in 3 cases .
+The remaining 63 cases were non-familial .
+3.1. Molecular analysis
+Overall , mutations in BRCA1 , BRCA2 and TP53 were identified in 18 / 37 ( 49% ) familial cases and 4 / 63 ( 6% ) of the non-familial cases .
+3.2. BRCA1 / 2 analysis
+Pathogenic BRCA1 mutations were identified in 10 / 100 women ( 10% ) diagnosed with breast cancer at less-than-or-equals , slant30 years .
+BRCA2 mutations were detected in 8 women ( 8% ) ( Table 2 , cases 1 - 18 ) .
+A further 5 mutations of unknown significance were also demonstrated .
+( a ) Familial cases :
+Family history was a strong predictor of mutation status ; 8 / 10 BRCA1 mutation carriers and 7 / 8 BRCA2 mutation carriers had a positive family history .
+In case 7 , the ovarian cancer was diagnosed in her mother after the diagnosis of the index patient but before the study cut-off point .
+One mutation in BRCA2 was identified after the original study by __MLPA__ analysis ( Table 2 , case 18 ) .
+In summary , mutations in BRCA1 / 2 were demonstrated in 15 / 37 ( 41% ) familial cases .
+( b ) Non-familial cases :
+Three non-familial cases ( 3 / 63 ) had pathogenic mutations , two in BRCA1 and one in BRCA2 .
+Case 5 had a paternal grandmother who developed breast cancer at the age of 66 years and was therefore classified as a non-familial case .
+This family were Ashkenazi Jews with the 185delG mutation in BRCA1 .
+The second BRCA1 mutation was demonstrated on __MLPA__ after the original study .
+This patient had developed bilateral medullary breast cancer at ages 30 and 41 years and had little information on her relatives from Eastern Europe ( case 10 ) .
+Case 14 was classified as a non-familial case and was shown to have a BRCA2 mutation .
+There was a history of early-onset breast cancer in a third-degree relative and her mother ( a mutation carrier ) has subsequently developed an endometrial malignancy .
+3.3. TP53 analysis
+In total , 4 / 100 ( 4% ) mutations were demonstrated in TP53 .
+( a ) Familial cases :
+Amongst familial cases 2 / 37 ( 5% ) mutations were isolated in the TP53 gene .
+Both were identified within families that fulfil LFS / LFL criteria , one in each group .
+Neither family history had been documented at diagnosis in the medical notes , although the family history had been significant at that point in time .
+( b ) Non-familial cases :
+2 / 63 ( 3% ) of the non-familial group had identifiable mutations in TP53 : Case 22 had a mutation at codon 273 causing an amino-acid substitution of histidine for arginine .
+This woman developed high-grade comedo DCIS aged 28 years and recurrence of comedo DCIS with several areas of invasive ductal carcinoma aged 30 years .
+Aged 31 years she developed a clear-cell renal carcinoma and at 34 years of age , a sarcoma behind the functional kidney that had been examined with numerous intravenous urograms with the resultant exposure to radiation .
+Both parents were unaffected at age 58 years and do not carry the mutation .
+A missense mutation , 366 serine to alanine , was described in case 20. This was present in the proband 's mother who was diagnosed with transitional cell carcinoma of the bladder at 61 years .
+Whilst this mutation is previously undescribed , it is likely to be pathogenic .
+366Ser is a conserved residue amongst mammals , and the mutation is inherited from an affected parent .
+3.3.1. Mutation detection frequencies with different family histories
+Table 4 presents family history data of the __NWCR__ cases and an additional 54 families referred through to the North West regional genetics service in which an individual aged less-than-or-equals , slant30 years had been diagnosed with breast cancer .
+Fifty percent of families with a history of breast cancer <60 years or ovarian cancer at any age as well as the index case , had a detectable pathogenic mutation in BRCA1 / 2 .
+As expected , a family history of ovarian cancer was more significant .
+The detection rate with a family history of only breast cancer was 20% as compared to 75% if the family history included a case of ovarian cancer .
+3 / 3 families with only a single case of ovarian cancer as well as the index case had pathogenic mutations .
+3.4. Penetrance analysis
+The cumulative risks of breast and ovarian cancer in carriers of a pathogenic mutation in BRCA1 or BRCA2 are given in Table 5. These figures are calculated from those families in the population-based study ( n = 91 ) .
+3.4.1. Relative risk analysis
+Data from a person years at risk analysis for mothers and sisters of the index cases are presented in Table 6. Cancer incidence is compared to the rates for the population covered by the __NWCR__ .
+The risk of both breast and ovarian cancer are substantially increased at around 6 fold .
+Although the majority of the excess risk is due to BRCA1 / 2 mutations , with mutation positive families having an increased risk of breast cancer of 20 fold , there is still an increased risk in the remaining families .
+4. Discussion
+This is the first comprehensive analysis of family history and mutation analysis in all three high-risk breast cancer genes in women diagnosed with breast cancer aged 30 years or less.The prevalence of BRCA1 / 2 and TP53 mutations in this cohort has been previously published.10
+The mutation detection rate in familial breast cancer in these three genes was almost 50% , demonstrating the importance of accurately documenting a family history .
+Only 55% of cases had documentation in the notes on admission for investigation of a breast lump and much of this family history was inaccurate .
+The overall number of DNA samples obtained from the cohort was only 33% , which demonstrates the limitations of a retrospective study .
+From 1993 the women were ascertained on a semi-prospective basis .
+However , as there was no difference in the proportion of familial and sporadic groups pre and post-January 1993 , it is unlikely that this biased the results .
+It could be suggested that the percentage of mutation carriers in the deceased population is higher due to the aggressive nature of breast cancer associated with BRCA1 mutations .
+However , these women are likely to have a family history and the results of the study would therefore remain consistent .
+Most BRCA1 and BRCA2 mutation carriers had at least one first or second-degree relative with breast or ovarian cancer further suggesting that family history is a reliable indicator for the presence of a pathogenic mutation in BRCA1 or BRCA2 .
+In addition , few mutations were found in those women without a family history .
+These data would therefore not support testing of BRCA1 / 2 in patients without a family history of breast cancer .
+These results are consistent with data from Loman and colleagues,7 but in contrast with the findings of Peto and colleagues6 who identified mutations in several patients in a population based study that had reported no family history in first-degree relatives .
+However , in the latter study , a complete family history to include all second-degree relatives was not elicited .
+This may exclude paternal family history .
+A study from Spain16 suggested that relying on family history alone would miss a considerable proportion of mutations in BRCA1 and BRCA2 .
+This study however , only included a minority of cases diagnosed under the age of 30 years and had a more stringent definition of family history .
+Applying our criteria for family history to the Spanish study , 7 / 9 of their mutation carriers had a family history .
+The likelihood of mutation detection in BRCA1 / 2 is increased in families with at least one relative diagnosed less than 30 years .
+In comparison to the __BCLC__ data , where BRCA1 / 2 mutations only accounted for about 50% of families with 4 or more cases of breast cancer only17 and 18 this series identified mutations in 78% of such families .
+It is unlikely that the __BCLC__ series contained many early-onset cases .
+This is the first estimation of the incidence and prevalence of TP53 mutations and suggests that the frequency of mutations is higher that expected .
+The three pathogenic mutations and one probable mutation in this series accounts for 4% of breast cancer less-than-or-equals , slant30 years and the majority of patients with second primaries outside the breast .
+Previous reports had suggested that TP53 is an infrequent cause of familial breast cancer and accounts for <1% of breast cancer <40 years.19 However , the very high relative risk of breast cancer <31 years ( __RR__ > 100 ) ( Chompret and colleagues ) means that TP53 should be considered in very young breast cancer patients as it may impact upon subsequent management .
+For example , within the North West , the management of a 20-year-old patient presenting with breast cancer was altered from a wide local excision and radiotherapy to mastectomy following discovery of a family history consistent with LFS and subsequent detection of a germline TP53 mutation .
+Excess radiation should be avoided in TP53 mutation carriers as demonstrated by the case with a sarcoma in the field of radiation from regular IVUs .
+The diagnosis of a second primary tumour should also prompt the clinician to consider a TP53 mutation .
+Renal cell carcinoma is not normally considered a feature of LFS4 but has been previously reported in a mutation carrier.20 This patient is the only de novo TP53 mutation that we have proven although de novo mutations in TP53 are relatively common.21
+The penetrance estimates from this study are similar to __BCLC__ data,1 but higher than those reported by other population based studies.22 and 23 However , they are consistent with the most recent meta-analysis of population studies.24 Whilst the confidence intervals on all these estimates are wide , a possible explanation for differences with other population-based studies is that the very early age of onset of breast cancer in our study may be due to the presence of genetic modifiers of risk .
+Given the small numbers involved in this study , it would be more appropriate when counselling families to base risk estimates on the figures from the meta-analysis.24
+The ovarian cancer risk in this cohort of patients is also higher than in previous estimates .
+All those familial cases with a family history of ovarian cancer were found to have a mutation in BRCA1 or BRCA2 in the population series and 75% ( 15 / 20 ) in the extended series .
+These mutations therefore account for all the excess ovarian cancer within this cohort of early-onset breast cancer patients and almost certainly in families presenting with ovarian cancer and breast cancer less-than-or-equals , slant30 years in genetics clinics .
+The relative risk estimates for this cohort with mutations in BRCA1 / 2 is comparable with previous studies .
+The increase in relative risk of breast cancer in those families without mutations is consistent with other genes involved in familial breast cancer .
+In summary , this study demonstrates the high likelihood of mutations in BRCA1 / 2 and TP53 in women with early-onset breast cancer in the context of a family history .
+Ascertaining this family history should therefore be an important part of the assessment of women with breast cancer diagnosed at the age of 30 years or younger .
+It will allow appropriate targeting of mutation testing and therefore management of that individual and potentially the wider family .

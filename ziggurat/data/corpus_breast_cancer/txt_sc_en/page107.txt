@@ -1,0 +1,189 @@
+The early detection of potentially treatable relapse remains a central purpose of follow-up after breast cancer ( National Institute for Clinical Excellence , 2002 ) .
+Regular clinical examination and mammography are recommended to meet this aim .
+Although studies suggest that mammography is useful for detecting metachronous contralateral disease and relapse in the conserved breast at an early and treatable stage , recent guidelines from the __NICE__ state that the yield of mammography in follow-up is low ( National Institute for Clinical Excellence , 2002 ) .
+The value of clinical examination in detecting locoregional relapse is less certain , yet it is still valued highly by those producing guidelines , who recommend regular clinical examination at least for the first 3-5 years after treatment ( American Society of Clinical Oncology , 1999 ; National Institute for Clinical Excellence , 2002 ; The Association of Breast Surgery @ BASO and Royal College of Surgeons of England , 2005 ) .
+Early detection of locoregional relapse has a beneficial effect on survival .
+However , it is uncertain whether routine clinical examination contributes to this early detection .
+Routine clinic visits are stressful for women attending them .
+Up to 70% of women report feelings of anxiety before such visits .
+While high levels of anxiety are probably attendant on all stages of the process of breast cancer diagnosis and treatment , it is not clear in the case of routine clinic visits whether they are of sufficient value to justify the anxiety they cause .
+The aim of this article is to establish , through a systematic analysis of the literature , the relative contributions of clinical examination , patient self-examination and mammography to the detection of potentially treatable relapse ( locoregional and new contralateral disease ) after breast cancer .
+The impact on survival of method of detection is also explored .
+MATERIALS AND METHODS
+MEDLINE , EMBASE , CancerLit , Web of Sciences and EBM reviews were searched for relevant studies .
+The original search was conducted in January 2006 and all English language publications between 1966 and January 2006 were considered .
+Two groups of authors allowed access to further data .
+Analysis of this further data led to delay in publication of the review and also led to an original report in the literature .
+To ensure an up to date review and to allow inclusion of the original report in this review without risk of introducing selection bias , the complete search of the literature was repeated in May 2007 .
+The search string used is reproduced as Appendix 1. Both of these initial searches were conducted independently by authors DAM and KK .
+Titles were studied to assess which abstracts should be obtained .
+For the remainder of this report , all figures refer to the complete search until May 2007 .
+All abstracts were read and considered independently by DAM and KK to establish whether the full text article should be retrieved .
+Sources of disagreement at this stage resulted in the full text article being obtained .
+References of all full text articles obtained were also searched for further relevant studies .
+Selection criteria
+Two separate analyses were conducted ; first analysis was a comparison of methods used to detect relapse and a second analysis was the effect of method of detection on survival .
+Studies were included in a comparison of methods used to detect relapse if :
+* The study group comprised women with primary operable invasive breast cancer without metastatic disease out-with the breast and axilla at initial presentation .
+* Data pertaining to isolated locoregional relapse only were presented , or such data were presented separately from distant relapse data .
+Locoregional relapse was defined as relapse within the ipsilateral breast or axilla or new contralateral disease .
+Supraclavicular lymphadenopathy was considered to be distant disease for the purpose of this analysis .
+* Data for each site of relapse analysed are presented separately .
+There may be differences in the pattern of detection of each site of relapse ( ipsilateral breast , contralateral breast or axilla ) , and this must be fully explored .
+* The method of detection ( mammography , symptoms or clinical examination ) of all types of relapse was included .
+The authors of studies which contained some relevant information were written to for extra data , and the study included if the author could provide sufficient data to meet the inclusion criteria above .
+The studies included in the analysis of methods of detection were included in the further analysis of survival if there was adequate data on survival included in the initial paper , or if the authors were able to supply outcome data after correspondence .
+Assessment of methodological quality of included studies
+Methodological quality was assessed independently by two authors ( DAM and KK ) by means of a pre-defined form .
+There are no accepted criteria for measuring methodological quality in prognostic studies and so this form was a modified version of the form created by de Bock_et_al , derived from the work by Altman and Lyman and Laupacis_et_al .
+The form is presented as Table 1.
+When analysing survival , it is of particular concern if patients who are recognised as having relapse are not analysed .
+In retrospective analyses particularly , this may be because the patient has subsequently died and case notes have been destroyed .
+Therefore , when assessing the methodological quality in each study , we have included the percentage of patients with recognised relapse not included in the final analysis due to lack of information .
+Data extraction
+Two authors , DAM and KK , extracted data from included studies independently .
+Data collected were year of publication and year of initial operation or referral , population size , age , primary therapy , study design , follow-up schedule including mammographic schedule , number of locoregional relapses and method of detection of locoregional relapse ( scheduled vs interval clinic and whether detection was by patient , clinician or mammography in the first instance ) .
+Relapse was recorded as clinically detected if it was first detected by a physician in a patient who had not noticed any relevant symptoms .
+Relapse was recorded as detected by the patient if the patient attended clinic with relevant symptoms , whether the patient waited for the next routine clinic visit or arranged an interval appointment .
+It was recorded as mammographically detected if an abnormal or suspicious mammogram was recorded before clinical examination revealed any abnormality .
+Survival after locoregional relapse was recorded if that information was available .
+Statistical analysis
+All data were analysed using SPSS version 11.01 ( SPSS Inc. , Chicago , IL , USA ) .
+For survival calculations , individual data were available for each patient allowing analysis of all individual patients .
+RESULTS
+In all , 4061 titles were studied in MEDLINE , 4563 in EMBASE , 8906 in CancerLit and 3144 in Web of sciences .
+From all EBM reviews including the Cochrane database , three review articles were retrieved .
+From these titles , 188 abstracts were read and considered independently by DAM and KK .
+Nine review articles and four letters or editorials were also obtained from the 188 abstracts to examine the references of these articles for further relevant studies .
+In total , 68 full text articles were considered for inclusion .
+From the 68 full text articles considered , 11 studies met the primary inclusion criteria for our analysis of method of detection of locoregional relapse .
+One of these contained information on long-term outcome after local relapse detection .
+A further 25 studies contained some data appropriate to our meta-analysis and the authors of these were written to .
+One was able to provide us with further information , including method of detection of local relapse and subsequent outcome for the complete study group and four additional patients , and has therefore been included in both analyses .
+From the 12 published studies , data were available for 7617 patients with 540 relapses .
+Seven of these studies analysed patients treated by conservation surgery , two a combination of mastectomy and conservation surgery and one mastectomy alone .
+Two studies did not specify original treatment , but the study by Lees_et_al includes ipsilateral breast relapse and must therefore have included some patients treated by breast conservation .
+Only two studies reported survival related to method of detection of relapse in the original report .
+One group had published data concerning outcome after locoregional relapse , and were able to supply us with the method of detection for all of these relapses after correspondence .
+In total , there are 217 locoregional relapses or new contralateral cancers from a cohort of 4625 patients for whom we were able to establish the method of detection of relapse , site of relapse and survival .
+Characteristics of all the included studies are presented as Table 2. In particular , Table 2 describes the proportion of relapses detected in the ipsilateral breast , the ipsilateral axilla and the contralateral breast for each included study .
+Quality rating of studies
+The median quality score was 6.33 out of 10 with a range from 3 to 9. Five of the 12 studies included new contralateral breast cancers in the analysis .
+Ten of the 12 included studies analysed all of the locoregional relapses , which they were aware of within their cohort .
+In the two remaining studies , one failed to analyse 2% of relapses and one failed to analyse 3% of relapses due to inadequate information on method of detection of relapse .
+Method of detection of relapse
+The proportion of relapses detected by patient symptoms , mammography and routine clinical examination for each of the studies is presented in Table 3. For Churn and Kelly , data were presented separately for mastectomy and for conservation surgery and so these results are presented separately in the table. Most of the studies were retrospective analyses and in some cases it was not certain how the relapse was detected .
+These are included in the table as unknown .
+Relapse detected during further surgery for cosmetic reasons are described as incidental relapses .
+Two studies had separate data available to allow analysis of relapse after mastectomy alone .
+It is not clear what initial surgery was employed in the study by Tate_et_al , but it is likely to have been mastectomy given the date of publication .
+Clinical examination was an important method of relapse detection in patients after mastectomy , with between 41 and 66% of relapses detected this way .
+Mammography played no role in the detection of relapse in these studies , as new contralateral disease was not included in any of the analyses .
+There have been no more recent studies of relapse in patients treated by mastectomy .
+Three studies reported on locoregional relapse in a mixed treatment population .
+In two studies , it was not possible to separate patients treated by mastectomy from those treated by wide local excision .
+Discerning a pattern of relapse detection in these studies is difficult as mammography plays a much smaller role in the follow-up of patients treated with mastectomy than in those treated with breast conservation .
+However , clinical examination detected a smaller proportion of relapses in these studies than in the mastectomy studies , with less than one-third of relapses detected this way .
+There were eight studies which looked at the issue of relapse after breast-conserving surgery .
+In these eight studies , 38% of relapses were detected by the patient , 30% by mammograms and 28% by clinical examination .
+In 4% , method of detection was unknown .
+There was some temporal overlap between these eight studies both with regards to the dates when the included patients had been treated and when relapse was diagnosed .
+Moreover , the date of relapse of included patients is not always clear in the included studies .
+The information which does exist is included in Table 2. An attempt was made to assess whether mammography has made a changing contribution to relapse detection over time .
+Comparison was made of the proportion of relapses detected by each method in the studies of relapse after breast-conserving surgery published prior to 2000 , compared with those published after 2000 .
+Date of publication was chosen as a surrogate for date of diagnosis of relapse as it was the only consistent date available for all the published studies ( see Table 2 ) .
+It is likely to underestimate any increase in the importance of mammography as the paper by Churn and Kelly was published in 2001 , yet the analysis included relapse diagnosed only until 1996 and has a pattern of relapse similar to that seen in studies published before 2000 .
+The impact of the study by Grogan_et_al is limited as so few patients are included .
+While the proportion of relapses detected by the patient remains fairly constant ( 39% in studies from those published before 2000 , 37% from those published after ) , the proportions detected by mammography and clinical examination reverse .
+Before 2000 , 15% of relapse was mammographically detected with 46% detected by routine clinical examination .
+After 2000 , 40% is mammographically detected with 15% detected by routine clinical examination .
+Three of the studies reported only on ipsilateral breast relapse after wide local excision .
+In three other studies , it was possible to extract individual data on method of detection for each area of relapse .
+Table 4 displays method of detection of ipsilateral breast relapse , Table 5 displays axillary relapses and Table 6 new contralateral breast cancers .
+Two patients from Montgomery_et_al had simultaneous bilateral breast relapse and so are not included in these tables .
+Both had their relapses detected by mammography .
+As can be seen in Table 4 , there is a trend towards increasing proportions of ipsilateral breast relapses being detected by mammography the more recently published the study .
+In contrast , clinically detected ipsilateral breast relapse becomes less common in more contemporary cohorts .
+Very little pattern can be made of axillary relapse , shown in Table 5 , as numbers are small .
+However , the two larger studies in Table 5 are from the same unit and , at least within that unit , fewer axillary relapses are detected by clinical examination in the more recent cohort .
+Very few contralateral breast cancers are detected by clinical examination .
+A total of 66.6% are detected by mammography and 24.4% by the patients themselves .
+Survival
+Outcome data were available from three studies within our analysis .
+In one study , primary surgery was mastectomy in all cases .
+In the other two studies , patients were initially treated by wide local excision .
+Mastectomy
+Snee reported on five patients who had suffered locoregional relapse after mastectomy .
+Two patients with ipsilateral axillary relapse were diagnosed by clinical examination , one in the breast clinic and one incidentally at another surgical clinic .
+Three patients had chest wall relapse , two with symptoms and one diagnosed clinically .
+There was no difference in survival related to method of detection or area of relapse , although three patients died within 2 years of relapse .
+However , there were very few relapses in this study .
+Conservation surgery
+van der Sangen_et_al provided survival data and data on method of detection of relapse for 86 patients who developed ipsilateral breast relapse more than 5 years after wide local excision , method of detection of relapse being unknown in 16 of their cohort .
+In Montgomery_et_al , method of relapse detection and survival was known for all 110 patients .
+Two patients were excluded from this analysis , having had relapse detected incidentally .
+In total , therefore , method of detection of relapse and long-term outcome is known for 194 patients from these two studies , and is presented below .
+Conservation surgery : ipsilateral breast relapse
+Figure 1 shows survival from time of original operation for all patients with ipsilateral breast relapse only .
+There is a trend towards lower 10 year survival from original diagnosis in women whose relapse is detected clinically compared with either mammographically detected or detected by the patient , but this difference has disappeared by 15-20 years and overall there is no significant difference in survival between the three groups .
+This is similar for survival from the time of relapse also .
+Conservation surgery : ipsilateral axillary relapse
+There were 25 patients who relapsed in the ipsilateral axilla alone for whom survival data were available .
+There was no significant difference in overall survival related to method of detection of relapse .
+There was no difference in time to diagnosis of axillary relapse or in time from relapse to death among the methods of diagnosis either .
+Numbers were very small in each group , however .
+Conservation surgery : contralateral breast relapse
+There were 35 patients with a new contralateral breast cancer in whom survival data were available .
+Overall 5 year survival from diagnosis of contralateral breast primary was 82.65% .
+Twenty-five of these new contralateral cancers were detected mammographically and 5 year survival from diagnosis of new cancer in these patients was 85.8% .
+There were eight new cancers detected by the patient , with a 5 year survival of 62.5% .
+There were two women whose new cancer was detected first by clinical examination .
+Both were alive and well at the time of analysis .
+There was no significant difference in overall survival or survival from time of diagnosis of new contralateral cancer by method of diagnosis .
+The number of new cancers diagnosed by means other than mammography was small , however .
+DISCUSSION
+Follow-up in breast cancer continues to be an area of importance , both clinically and economically .
+Current guidelines published by the __ASCO__ recommend frequent visits for routine clinical examination and mammography for up to 10 years after treatment .
+Clinic attendance for examination was suggested three to four monthly for 3 years , four to six monthly for two further years and then annually for 5 more years .
+There is particular emphasis on follow-up in the first 3 years after treatment as the rate of relapse has been reported to be particularly high at this time .
+In contrast to the __ASCO__ guidelines , The __NICE__ in England and Wales recommend that follow-up should be limited to the first 2-3 years after treatment followed by discharge to general practice ( National Institute for Clinical Excellence , 2002 ) .
+__NICE__ estimate the cost savings to be around £3.7 million if follow-up were limited to 5 years , and £9.3 million total savings if follow-up were limited to just 3 years ( National Institute for Clinical Excellence , 2002 ) .
+These cost savings are controversial , however , as they are not balanced by the potential increased costs of late diagnosis of relapse in women who relapse after 3 years .
+Both the __ASCO__ and __NICE__ guidelines have in common the fact that emphasis is placed on providing frequent clinical examination in the first 3-5 years after diagnosis .
+However , this approach is in disagreement with the findings in this review .
+There certainly is an increase in the hazard rate for relapse in the first 3 years after treatment .
+It is likely that this represents partly a peak in distant relapse and partly a failure on behalf of previous investigators to include new contralateral cancers as a form of relapse .
+In the analysis by Montgomery_et_al , there is an initial peak in rate of distant relapse between 2 and 3 years at around 3% of patients per year .
+This falls to around 2% per year where it remains constant for almost 10 years .
+In contrast , potentially treatable relapse occurs at a constant rate of 1-1.5% per year for at least 10 years .
+Since the aims of follow-up as stated by __NICE__ include the detection of potentially treatable locoregional disease only and not distant metastases ( National Institute for Clinical Excellence , 2002 ) , there is no justification to discharge at 2-3 years .
+However , doubt remains over the value of the __ASCO__ approach of providing regular clinical examination after breast-conservation surgery in the long term .
+Such examination is responsible for detection of only 13% of the relapses overall in the two most contemporary data sets analysed .
+Moreover , patients who develop ipsilateral breast relapse that is diagnosed clinically appear to do less well than patients whose relapse is diagnosed by other means .
+There was significantly reduced survival in patients with clinically diagnosed ipsilateral breast relapse compared with mammographically or self-detected in the study by Montgomery_et_al .
+While this was not reflected in our analysis here , this may be because the study by van der Sangen_et_al did not include relapses diagnosed within the first 5 years after treatment .
+This group report a very high survival in patients diagnosed more than 5 years after treatment and so method of detection may be less relevant after this time .
+This review indicates that in both the conserved breast and the contralateral breast , the contribution of mammography appears not only to be important , but in fact may be of increasing importance .
+While early studies such as those by Mahoney ( 1986 ) reported very few relapse detections using mammography , the proportion of relapses detected this way has increased so that in the studies published since 2000 , up to 50% of all treatable breast relapses have been diagnosed first on mammography .
+Further work is needed to assess this in more detail as there was overlap between the studies in terms date of diagnosis of relapse .
+It would be useful to assess the proportion of relapse diagnosed mammographically each year in a large cohort to confirm the impressions of this analysis .
+This change in the impact of mammography is highlighted when comparing two cohorts treated by breast-conserving surgery at the same unit .
+The number of treatable relapses diagnosed by mammography in Edinburgh has increased from 31% among patients with relapse diagnosed between 1986 and 1998 to 46% in a more recent cohort diagnosed between 1991 and 2006 .
+This has arisen from both technical improvements in mammography as well as better quality assurance .
+As a result , mammography detected 5.37 new cancers per thousand routine mammograms undertaken during follow-up in the most recent Edinburgh cohort , which compares very favourably with the observed rate at incidence screening within the NHS breast screening programme in the UK ( NHS Cancer Screening Programmes , 2003 ) .
+This fully justifies the recommendations in the __ASCO__ guidelines for providing annual mammography , and goes some way to answering the concerns of the Canadian Steering committee who highlight the lack of high quality evidence in the literature on which to base recommendations for mammography .
+Interestingly , the proportion of relapses detected by patients , particularly in the treated breast , has remained fairly constant at 30-40% throughout all the studies analysed here .
+This applies particularly to ipsilateral breast relapse and axillary relapse .
+It applies less to contralateral breast relapse , where mammography has a much larger impact , and this may reflect high pick up from mammography , less aggressive contralateral disease or simply a lack of patient awareness of the risk of contralateral breast relapse .
+There is great disparity between the findings of this analysis and the statements by __NICE__ .
+__NICE__ base their recommendations for follow-up on the findings of just one retrospective analysis , a study which was not included in our analysis due to lack of clarity of the data .
+The authors of this review report method of detection of relapse in 67 patients who developed metastatic disease and 41 locoregional relapses or new contralateral cancers .
+Follow-up was for a median of 3 years and 11 months .
+The authors report that 28 of the locoregional relapses were symptomatic and that 7 were diagnosed clinically .
+Two were discovered with imaging , but not mammography .
+The pattern of relapse detection in this cohort is very different from that reported in any of the cohorts we have analysed here .
+Much of the data in this review , particularly data relating to survival by method of detection of relapse , have come from unpublished data .
+There are only 10 studies in the literature which fully present the pattern of relapse after breast cancer with regards to how that relapse is detected .
+Only one of these reports on more than 50 patients and only one has any survival data .
+A recent systematic review of randomised-controlled trials of alternative follow-up methods by ourselves reveals that there are no randomised trials in the literature with sufficient power to inform the guidelines .
+Previous guidelines have not been based on much evidence .

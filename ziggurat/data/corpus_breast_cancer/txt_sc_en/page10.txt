@@ -1,0 +1,90 @@
+Introduction
+The number of treatment options for metastatic breast cancer has increased considerably over the past decade .
+The majority of chemotherapy regimens require intravenous administration , and are often associated with bone marrow suppression and alopecia .
+Two trials have demonstrated patient preference for orally administered chemotherapy over intravenous regimens. This is a particularly important aspect of treatment decisions in patients with metastatic breast cancer , in whom intravenous access may be difficult or inconvenient , and optimization of quality of life is crucial .
+Capecitabine is an orally administered fluoropyrimidine that is enzymatically converted to 5 - fluorouracil ( 5 - FU ) by thymidine phosphorylase .
+Thymidine phosphorylase is present in higher concentrations in neoplastic than normal tissue , leading to theoretical differential activation of this prodrug in the tumour.3 M. Miwa , M. Ura and M. Nishida et al. , Design of a novel oral fluoropyrimidine carbamate , capecitabine , which generates 5 fluorouracil selectively in tumours by enzymes concentrated in human liver and cancer tissue , Eur J Cancer 34 ( 8 ) ( 1998 ) , pp. 1274 - 1281 .
+Article | PDF ( 164 K ) | View Record in Scopus | Cited By in Scopus ( 501 ) 3 Capecitabine is generally well-tolerated ; hand - foot syndrome , fatigue , nausea and diarrhoea are the most common adverse effects. The initially approved dose for advanced breast and colorectal cancer was 2500 mg / m2 daily for 14 of every 21 days , based on the dose used in clinical trials .
+An initial phase I study found that capecitabine at 3000 mg / m2 daily was not tolerable in patients with advanced cancer.7 However , postmarketing surveillance suggests that many patients are unable to tolerate even the 2500 mg / m2 daily dose .
+A lower dose of 2000 mg / m2 daily for 14 of every 21 days appears to be much better tolerated , while maintaining similar efficacy. There is also potentially a role for capecitabine to be used as metronomic chemotherapy , whereby patients are exposed to comparatively lower doses of chemotherapy on a frequent or continuous schedule with no extended interruptions .
+The only published phase II study on capecitabine as first-line therapy for advanced breast cancer revealed an overall __RR__ of 30% vs. 16% for __RR__ .
+The capecitabine dose used was 1255 mg / m2 twice daily every 2 out of 3 weeks .
+__OS__ was similar between the 2 arms at 19.6 and 17.2 months , respectively .
+Twenty-five out of the 61 patients ( 41% ) had previously received adjuvant chemotherapy.11 Thirty-four percent of the patients required dose reduction or treatment interruption and an additional 16% discontinued treatment due to adverse events .
+The role of maintenance chemotherapy has not been established in the treatment of advanced breast cancer .
+The cumulative toxicity from most cytotoxic regimens usually limits the number of cycles of chemotherapy one can administer .
+With capecitabine , we have administered more than a fixed number of cycles ( >6 ) to responding patients with minimal toxicity .
+The starting dose of 1000 mg / m2 twice daily every 2 out of 3 weeks was used .
+The aim of this audit was to review the efficacy and tolerability of capecitabine as first-line chemotherapy for advanced breast cancer .
+Methods
+The patient population was identified from a prospectively maintained research database at the Royal Marsden Hospital Breast Unit .
+A retrospective analysis was performed on patients who received capecitabine monotherapy between April 2001 and April 2005 as first-line treatment for advanced disease outside clinical trials .
+The best response for each patient was assessed according to WHO criteria , and registered onto the database .
+__CR__ was defined as the disappearance of all clinical and radiographic evidence of disease determined on two observations at least 4 weeks apart .
+__PR__ was defined as a decrease of 50% or more in the sum of the products of the biperpendicular diameters of measurable lesions .
+__SD__ was defined as a less than 50% decrease and less than 25% increase in the sum of the products of the biperpendicular diameters of measurable lesions and no appearance of new lesions ; this had to be maintained for at least 12 weeks .
+__PD__ was defined as a greater than 25% increase in the sum of the products of the biperpendicular diameters of measurable lesions or the appearance of new lesions .
+Clinical benefit rate was defined as the proportion of patients who achieved either __CR__ , __PR__ or __SD__ .
+Toxicity was graded according to the __NCI__ common toxicity criteria , version 2.0. Dose reductions during the course of treatment were documented .
+The starting dose for this cohort of patients was 1000 mg / m2 twice daily every 2 out of 3 weeks .
+The main endpoints of this study were __RR__ and __TTP__ .
+Response duration and __OS__ were also assessed .
+Details on quality of life and performance status were available only for some patients in this cohort ; consequently these variables were not analyzed .
+__TTP__ and __OS__ were calculated from the day of commencement of capecitabine until the day of documented progression or death , respectively .
+Duration of response was calculated from the day the response was first recorded until the day of progression .
+Patients who died without documented progression were censored on the day of death or last follow-up .
+Patients who survived were censored on the day they were last known to be alive .
+Follow-up information available up to 4 January 2006 was used for the analysis .
+__TTP__ , __OS__ and duration of response were estimated using the Kaplan - Meier method .
+The Royal Marsden Hospital Audit Liaison group authorized the study .
+Results
+Sixty-three patients were prescribed single-agent capecitabine ( starting dose 1000 mg / m2 twice daily every 2 out of 3 weeks ) as first-line treatment for metastatic breast cancer between April 2001 and April 2005 .
+Table 1 summarizes the patient characteristics .
+The median age was 57 ( 30 - 79 ) years .
+The sites of disease were soft tissue and / or bone only in 24 patients ( 38% ) , and involved visceral sites in 39 patients ( 62% ) .
+Forty-five patients ( 71% ) had previously received adjuvant or neoadjuvant chemotherapy , with 33 patients ( 52% ) having received anthracyclines , and 14 patients ( 22% ) having received taxanes .
+The median number of cycles administered was 5 ( 1 - 40 ) .
+Twenty-three patients ( 34% ) received more than 6 cycles of capecitabine , with 8 patients ( 13% ) receiving 10 or more cycles .
+There were 48 patients ( 76% ) who had measurable disease with a __RR__ of 29% ( 14 / 48 ) .
+Only one __CR__ ( 2% ) was observed .
+Chemotherapy-naive patients with measurable disease had a __RR__ of 33% ( 5 / 15 ) , while patients previously exposed to neoadjuvant or adjuvant chemotherapy had a __RR__ of 27% ( 9 / 33 ) .
+Twenty-one patients ( 33% ) developed clinical or radiological disease progression on treatment , and response was not evaluable in 4 patients ( 6% ) who stopped capecitabine after 2 or fewer cycles due to medical co-morbidities .
+The overall clinical benefit rate ( __PR__ , __CR__ and __SD__ combined ) was 56% ( 27 / 48 ) for patients with measurable disease .
+The median response duration was 24 ( 9 - 68 ) weeks .
+The median __TTP__ was 18 ( range 2 - 122 ) weeks , while the median __OS__ from the start of capecitabine was 54 ( range 3 - 194 ) weeks .
+Twenty-eight patients ( 44% ) were still alive at last follow-up .
+Twenty-three patients ( 37% ) had __TTP__ of 6 months or more , including 12 patients who had visceral involvement .
+Seven patients ( 11% ) had __TTP__ of more than 1 yr ( 14 - 28 months ) .
+Six out of these 7 patients had oestrogen receptor positive tumours while 5 had bone and / or soft tissue disease only .
+Three of them received up to 8 cycles of treatment while four received between 24 and 40 cycles of capecitabine to date .
+Only 1 of the 7 patients was chemotherapy-naïve .
+Thirteen patients whose disease progressed on capecitabine received chemotherapy subsequently with other agents ; six responded to second-line chemotherapy ( __RR__ 46% ) .
+Single-agent capecitabine was well tolerated overall .
+The incidence of grade 3 or greater toxicities are displayed in Table 2. Only one patient ( 2% ) developed febrile neutropaenia .
+There were no deaths associated with the use of capecitabine .
+Hand - foot syndrome was the most common adverse effect with 14% of patients experiencing grade 3 toxicity .
+Two patients ( 3% ) stopped treatment prematurely before completing 2 cycles due to toxicity ( exacerbation of angina in one patient , and neutropaenic sepsis with grade 3 diarrhoea in another ) .
+Twenty-three patients ( 37% ) required subsequent dose reduction , most frequently for grade 2 or greater hand - foot syndrome .
+Discussion
+Our audit results on first-line capecitabine at a lower dose of 1000 mg / m2 twice daily every 2 out of 3 weeks in metastatic breast cancer are consistent with the findings from the randomized phase II study by O'Shaughnessy et al. comparing a higher dose of capecitabine ( 1255 mg / m2 twice daily ) with __CMF__ as first-line treatment for advanced breast cancer .
+A __RR__ of 30% was reported in that study , which also included patients previously exposed to adjuvant chemotherapy.11 Our overall __RR__ of 29% appears to be similar to the two phase II studies using capecitabine in taxane-pretreated metastatic breast cancer , where RRs of 26% and 28% were reported.
+Our __TTP__ of 18 weeks or 4.5 months is comparable to the 4.1 months reported in the capecitabine arm of the O'Shaughnessy study.11 In phase II studies involving anthracycline- and taxane-pretreated patients , __TTP__ of 3.2 and 4.9 months were reported by Blum5 and Fumoleau12 , respectively .
+The starting dose of capecitabine used in our patients ( 1000 mg / m2 twice daily every 2 out of 3 weeks ) was lower than that used in most trials , which administered 1250 mg / m2 twice daily for 2 of every 3 weeks as a starting dose. In these studies 34 - 65% of patients required dose reduction for toxicity , with 9.5 - 17% of patients discontinuing treatment prematurely due to toxicity .
+In our audit , 37% of patients required dose reduction , but only 3% stopped treatment prematurely due to toxicity .
+This is unlikely to have reduced the __RR__ to any major extent .
+A recent retrospective review at the MD Anderson Cancer Center comparing the FDA-approved dose of 2500 mg / m2 daily with lower doses did not reveal any significant difference in efficacy.8 A small randomized phase II study evaluating the safety and efficacy of the two doses of capecitabine in older women with advanced breast cancer supported the lower dose of 1000 mg / m2 twice daily as the " standard " for older patients.9 The __RR__ , __TTP__ and percentage of patients requiring dose reduction for the patients receiving the lower 1000 mg / m2 twice daily dose are shown in Table 3.
+Given that a significant proportion of our patients in this audit required dose reduction subsequently , the starting dose of capecitabine could be even lower than 1000 mg / m2 twice daily .
+The role of this drug as a low-dose metronomic regimen , maintaining treatment efficacy with minimal toxicity , is worth exploring .
+In this audit , 56% of patients benefited from capecitabine , achieving objective responses or __SD__ .
+In certain situations , time-to-progression may be a better surrogate marker of the efficacy of a regimen .
+Twenty-three of the patients ( 37% ) had __TTP__ of greater than 6 months , and this included 12 patients who had visceral involvement .
+The patients whose __TTP__ exceeded 1 year tended to have soft-tissue or bony disease ( 5 / 7 ) that was oestrogen-receptor positive .
+These characteristics are favorable prognostic factors .
+Eight patients ( 13% ) among the entire cohort received more than ten cycles of capecitabine .
+Four patients with __TTP__ exceeding 1 year received 24 - 40 cycles of capecitabine .
+It would be important to investigate if continuing with capecitabine beyond a fixed number of cycles is superior to stopping after 6 - 8 cycles .
+Thirty-four percent of the patients in this study received more than 6 cycles of capecitabine , but the small number of patients makes it difficult to draw any firm conclusions .
+Conclusion
+Our retrospective audit on first line capecitabine monotherapy in metastatic breast cancer using a lower dose of 1000 mg / m2 twice daily every 2 out of 3 weeks is consistent with a previously published study using a higher dose and suggests that this is a more practical and realistic schedule .
+For a subgroup of patients with predominantly soft tissue or bone disease , capecitabine can result in prolonged __TTP__ with minimal toxicity .
+Randomised clinical trials are required to evaluate the benefit of continuing capecitabine beyond a fixed number of cycles .

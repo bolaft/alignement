@@ -1,0 +1,78 @@
+Breast cancer is the commonest female malignancy and is a major cause of morbidity and mortality in the Western World .
+For example , in the UK , there are approximately 42000 new patients each year and almost 13000 deaths attributable to the disease ( CancerStats , 2003 ) .
+It is increasingly recognised that variations in outcome in cancer patients are not solely determined by the characteristics of the tumour but also by the host-response factors .
+However , the tumour-host interaction is complex and has yet to be fully understood .
+It is now accepted that the host systemic inflammatory response can be assessed by examining the changes in the concentrations of acute phase proteins , such as elevated circulating concentrations of C-reactive protein and low concentrations of albumin .
+It is of interest that , either singly or combined , these factors have been shown to be stage independent prognostic factors in patients with a variety of advanced cancers .
+There is also some evidence that the systemic inflammatory response has prognostic value in patients with metastatic breast cancer .
+For example , previous studies have reported that the presence of elevated circulating concentrations of C-reactive protein and low concentrations of albumin are associated with poorer survival .
+However , few studies have examined the prognostic value of the systemic inflammatory response in patients with primary breast cancer .
+Those studies that have , appear to have produced conflicting results with regard to whether C-reactive protein or albumin concentrations have independent prognostic value .
+For example , Mortensen and Rudczynski studied almost 300 patients with a follow-up period of 3-48 months post-surgery and reported that the presence of an elevated C-reactive protein concentrations was not an independent prognostic factor .
+In contrast , Lis_et_al reported that in almost 200 patients with a follow-up period of 6-84 months , albumin was a stage independent prognostic factor .
+However , in both these studies , median follow-up was limited and approximately 20% of patients studied had advanced disease .
+Therefore , the prognostic value of C-reactive protein and albumin in patients with primary operable breast cancer remains unclear .
+The aim of the present study was to examine the relationship between clinico-pathologic status , C-reactive protein and albumin concentrations , measured before surgery and cancer-specific survival in patients with invasive primary operable breast cancer .
+PATIENTS AND METHODS
+Three hundred patients presenting with invasive primary operable breast cancer to two hospitals ( Western Infirmary , Glasgow and Wishaw General Hospital , Lanarkshire ) in the West of Scotland between June 2001 and July 2003 were prospectively included in the study .
+The extent of deprivation was derived from the 1991 census , using the postcode of residence at diagnosis .
+The results are presented by amalgamating the seven categories into three groups : affluent ( categories 1 and 2 ) , intermediate ( categories 3-5 ) and deprived ( categories 6 and 7 ) .
+Clinico-pathological data including age , deprivation category , histological type , tumour size and grade , lymph node status , oestrogen ( ER ) and progesterone receptor status .
+The type of surgery and the use of adjuvant treatment ( chemotherapy , hormonal therapy and radiotherapy ) was recorded .
+Routine preoperative laboratory measurement of C-reactive protein , albumin and white cell count were carried out .
+At this time , no patients showed clinical evidence of infection or other active chronic inflammatory conditions such as rheumatoid arthritis or crohn 's disease .
+The coefficient of variation for these measurements was less than 10% , as established by routine quality control procedures .
+The limit of detection of C-reactive protein concentration assay was 6 mg l -1 , with the upper limit of normal values being 10 mg l-1 .
+The study was approved by the local Research Ethics committees .
+Statistics
+As appropriate , data are presented as median and range , and comparisons between patient groups were carried out using the chi2 test or Mann-Whitney U-test .
+Statistical analysis was based on the seven individual deprivation categories .
+Grouping of the laboratory variables was carried out using standard thresholds .
+The correlation between C-reactive protein , white cell counts and albumin concentrations was performed using the Spearman 's Rank correlation .
+Relapse-free , cancer-specific and overall survival analyses of the group variables were performed using the Cox proportional hazard model .
+Deaths up to the end of May 2006 were included in the analysis .
+Multivariate survival analyses , including all covariates that were significant on univariate analysis , were performed using a stepwise backward procedure to derive a final model of the variables that had a significant independent relationship with survival .
+To remove a variable from the model , the corresponding P-value had to be greater than 0.10. Analysis was performed using SPSS software version 13.0 ( SPSS Inc. , Chicago , IL , USA ) .
+RESULTS
+The baseline clinico-pathological characteristics of the patients with primary operable breast cancer ( n=300 ) are shown in Table 1. Two hundred and thirty-three patients ( 78% ) patients were over 50 years of age ; 82 ( 27% ) were in the most deprived categories 6 and 7.
+Of the 300 patients , 254 ( 85% ) patients had ductal carcinoma , 122 ( 41% ) had a tumour larger than 2 cm and 130 ( 43% ) had axillary lymph node involvement .
+The majority of patients had tumour grade II / III ( 81% ) disease .
+Sixty-two ( 21% ) had ER-negative tumours .
+Twenty out of 300 ( 7% ) patients had evidence of pre-existing comorbidity , such as liver dysfunction , cardiovascular disease or diabetes mellitus .
+In one patient , this was severe enough to interfere with planned adjuvant treatment .
+In all , 288 ( 96% ) patients received adjuvant treatment in the form of endocrine therapy and / or chemotherapy .
+The majority had a white cell count , albumin and C-reactive protein concentrations in the normal range ( 96 , 100 and 88% respectively ) before surgery .
+White cell count was correlated with C-reactive protein ( rs=0.13 , P=0.023 ) but not albumin concentration ( rs=0.03 , P=0.587 ) .
+Albumin was correlated with C-reactive protein concentration ( rs=-0.19 , P=0.002 ) .
+The minimum follow-up was 35 months ; the median follow-up of the survivors was 46 months .
+During this period , 37 patients relapsed and 25 died of their cancer ; a further 14 patients died of intercurrent disease .
+On univariate survival analysis , age ( P<0.10 ) , tumour type ( P<0.10 ) , tumour size ( P<0.0001 ) , grade ( P<0.01 ) , lymph node involvement ( P<0.01 ) , hormone receptor status ( P<0.0001 ) , albumin ( P0.001 ) , loco-regional treatment ( P<0.0001 ) and systemic treatment ( P<0.0001 ) were significantly associated with relapse-free survival .
+On multivariate analysis of these significant covariates , age ( HR 5.02 , 95%CI 1.49-16.93 , P=0.009 ) , tumour size ( HR 2.34 , 95%CI 1.18-4.62 , P=0.015 ) , albumin ( HR 3.65 , 95%CI 1.71-7.78 , P=0.001 ) , loco-regional treatment ( HR 2.56 , 95%CI 1.17-5.59 , P=0.019 ) and systemic treatment ( HR 2.26 , 95%CI 1.54-3.32 , P<0.0001 ) were significant independent predictors of relapse-free survival .
+On univariate survival analysis , tumour size ( P<0.0001 ) , grade ( P<0.01 ) , lymph node involvement ( P'0.001 ) , hormone receptor status ( P<0.0001 ) , albumin ( P<0.01 ) , loco-regional treatment ( P<0.0001 ) and systemic treatment ( P<0.0001 ) were significantly associated with cancer-specific survival .
+On multivariate analysis of these significant covariates , tumour size ( HR 2.53 , 95%CI 1.15-5.55 , P=0.021 ) , albumin ( HR 4.44 , 95%CI 1.60-12.28 , P=0.004 ) , loco-regional treatment ( HR 3.55 , 95%CI 1.30-9.67 , P=0.013 ) and systemic treatment ( HR 2.67 , 95%CI 1.56-4.57 , P<0.0001 ) were significant independent predictors of cancer-specific survival .
+On univariate survival analysis , age ( P<0.10 ) , tumour size ( P<0.0001 ) , grade ( P<0.05 ) , lymph node involvement ( P<0.05 ) , hormone receptor status ( P<0.01 ) , albumin ( P0.001 ) , loco-regional treatment ( P<0.01 ) and systemic treatment ( P<0.001 ) were significantly associated with overall survival .
+On multivariate analysis of these significant covariates , age ( HR 4.19 , 95%CI 1.26-13.91 , P=0.019 ) , albumin ( HR 3.33 , 95%CI 1.60-6.90 , P=0.001 ) , tumour size ( HR 2.48 , 95%CI 1.36-4.55 , P=0.003 ) and systemic treatment ( HR 2.10 , 95%CI 1.45-3.05 , P<0.0001 ) were significant independent predictors of overall survival .
+Patients were then grouped according to albumin concentrations ( >43 / 43 g l-1 ) as shown in Table 2. A lower serum albumin concentration ( 43 g l-1 ) was associated with deprivation ( P<0.05 ) , hormonal receptor negative tumours ( P<0.01 ) and significantly poorer 3 year relapse-free ( 85 vs 93% , P=0.001 ) , cancer-specific ( 87 vs 97% , P<0.0001 ) and overall survival ( 84 vs 94% , P=0.001 ) rates .
+DISCUSSION
+Predicting recurrence and survival following potentially curative surgical resection for primary operable breast cancer is conventionally based on standard clinico-pathological criteria such as age , tumour size and grade , nodal status and hormonal receptor status .
+However , it was of interest that other host-related factors , such as the systemic inflammatory response , have previously been shown to be associated with poor survival following a potentially curative resection for a variety of cancers including gastro-oesophageal , pancreatic , colorectal and urinary bladder cancers .
+In the present study , albumin but not C-reactive protein was a significant , stage independent , predictor of survival in patients with primary operable breast cancer .
+The relationship between albumin concentrations and outcome are therefore consistent with those previously reported in patients with advanced breast cancer .
+Previous studies have shown that elevated C-reactive protein concentrations have prognostic value in patients with a variety of primary operable tumours and also in patients with advanced breast cancer .
+It was therefore unexpected that C-reactive protein , either as a continuous or categorical variable , was not a significant prognostic factor in the present study .
+The basis of this observation is not clear .
+However , an elevated C-reactive protein concentration ( >10 mg l-1 ) was seen in only 12% of patients , a proportion lower than previously seen in both primary operable disease ( approximately 20-40% ) and in advanced cancer ( approximately 40-80% ) .
+This may , in part , reflect the relatively small number of events relating to relapse-free survival , cancer-specific and overall survival in the present study .
+It was of interest that , of the two acute-phase proteins examined in the present study , albumin , generally considered to be a relatively insensitive measure of the systemic inflammatory response , had independent prognostic value , even with values within the normal range .
+It has been previously shown that small reductions in albumin concentrations are associated with certain comorbid conditions such as liver dysfunction , cardiovascular disease or diabetes mellitus and poorer survival in the general population .
+In the present study , only 7% of patients had such comorbidity ( only one patient had planned adjuvant treatment altered ) and therefore this would suggest that there may be an interaction between breast cancer and albumin concentrations , which might impact on the survival of these patients .
+The mechanism by which a low serum albumin might impact on relapse-free , cancer-specific and overall survival is not clear .
+It may reflect the biological functions of circulating albumin including binding and transporting of hormones and growth factors , inhibition of platelet function and thrombosis .
+Furthermore , albumin in the breast cancer cell cytosol may inhibit tumour growth and tumour cell proliferation by modulating the activities of autocrine growth regulatory factors .
+In the present study , conventional prognostic factors , including tumour size , histological grade , nodal status and hormonal receptor status were significant on univariate analysis .
+However , including potentially curative loco-regional treatment and systemic treatment based on hormonal receptor status in the multivariate analysis , nodal status was not independently significant .
+This probably reflects the close association between nodal status and the treatment received , and their relative impact on relapse and survival .
+Nevertheless , lower albumin concentrations before surgery , even those within the normal range , may be a sensitive measure of those patients likely to recur and therefore be used to identify high-risk patients and alter their treatment accordingly .
+Furthermore , a follow-up measure of albumin , after the systemic inflammatory response of treatment has resolved , may be of a value to establish whether treatment of the primary tumour has resulted in recovery of albumin concentrations .
+Clearly , further studies are required to establish the prognostic value of preoperative albumin concentrations and to determine whether longitudinal albumin concentrations may also be of value .
+In summary , the results of the present study suggest that preoperative albumin concentration predicts survival , independent of tumour-based factors , in patients undergoing potentially curative surgery for primary operable breast cancer .

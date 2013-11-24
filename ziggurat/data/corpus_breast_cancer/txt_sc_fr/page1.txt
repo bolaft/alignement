@@ -1,0 +1,81 @@
+De nombreux facteurs peuvent expliquer l' évolution de l' incidence des cancers du sein : exposition environnementale , style de vie , caractéristiques de l' histoire de la vie reproductive , dépistage , traitements hormonaux .
+Récemment , une baisse de cette incidence a été observée aux États-Unis .
+Le rôle des __THM__ est discuté en raison de la diminution rapide et massive de leur usage suite à une étude quantifiant le risque de cancer du sein chez les femmes ménopausées utilisant des oestroprogestatifs .
+En France , l' incidence du cancer du sein croît de manière continue depuis plus de 20 ans et les __THM__ ont été largement prescrits à partir des années 1980 .
+Le but de cette étude est d' utiliser les données de l' assurance-maladie pour analyser l' évolution récente , entre 2000 et 2006 , de cette incidence et de la mettre en perspective avec deux facteurs susceptibles de la modifier et ayant fortement varié au_cours_de la même période : les __THM__ et le dépistage mammographique .
+Ces données médico-administratives nationales permettent de repérer des modifications dans des délais plus brefs qu' avec les sources officielles habituelles , comme les registres qui demandent plusieurs années et des extrapolations .
+Résultats
+Entre les années 2000 et 2004 , le taux d' incidence annuel moyen des nouveaux cas de cancer du sein a augmenté de + 2,1 % ( + 1,5 % chez les femmes de moins de 50 ans , + 2,5 % chez celles de 50 ans et plus ) .
+Le nombre de nouveaux cas a été maximal ( 49236 ) en 2004 .
+Depuis cette date , l' incidence a décliné ( - 4,3 % entre 2004 et 2005 , - 3,3 % entre le 1er semestre 2005 et le 1er semestre 2006 ) .
+Cependant , sa diminution a été plus forte chez les femmes de 50 ans et plus : - 6,0 % ( p < 0,001 ) entre 2004 et 2005 , - 5,3 % ( p < 0,001 ) entre le 1er semestre 2005 et le 1er semestre 2006 .
+Elle n' a pas été modifiée de façon significative chez les femmes de moins de 50 ans : - 0,5 % ( p = NS ) entre 2004 et 2005 , progression de + 2,0 % ( p = NS ) entre le 1er semestre 2005 et le 1er semestre 2006 .
+Sur la base de la tendance observée entre 2000 et 2004 , sa baisse en 2005 et 2006 correspond à un « gain » de 7700 cancers du sein chez les femmes de 50 ans et plus .
+Entre les années 2002 et 2006 , les __THM__ , exprimés en __DDJ__ pour 1000 personnes et par jour , ont diminué en France de 62 % .
+En l' espace de deux ans , entre 2002 et 2004 , période précédant la baisse de l' incidence des cancers du sein , ils ont chuté de_moitié , mais leur plus forte décroissance a été enregistrée entre 2003 et 2004 .
+Parallèlement , une forte croissance du nombre de dépistages organisés du cancer du sein a été observée : 478450 en 2000 , 2082 000 en 2006 ( + 335 % ) .
+En 2000 , 32 départements seulement étaient concernés par le dispositif , qui s' adressait à environ 50 % de la population cible de 50 à 69 ans , soit 3000 000 de femmes .
+En 2004 , le programme a été généralisé .
+De plus , à_partir_de 2002 , la population cible a été étendue aux femmes de 70 à 74 ans , soit au total 2000 000 de femmes supplémentaires .
+Discussion
+L' incidence des cancers du sein croît en France depuis plusieurs décennies avec une augmentation de 60 % du taux standardisé pour 100000 personnes-années entre 1980 et 2000 ( 55,5 et 88,9 cas respectivement ) et un nombre total des cancers qui a pratiquement doublé ( 21211 et 44845 respectivement ) .
+Son estimation est fournie par l' association des registres du cancer ( Francim ) .
+En rupture avec cette croissance continue , les données récentes de la __CNAMTS__ montrent une décroissance de cette incidence uniquement chez les femmes de 50 ans et plus ( - 6,0 % entre 2004 et 2005 ) .
+Ce changement pourrait être lié à un problème de validité des données .
+En effet , les __ALD__ ne sont pas déclarées à l' assurance-maladie dans un but épidémiologique , elles le sont pour un bénéfice social , l' exonération du ticket modérateur .
+Le recueil de cette morbidité « médicosociale » sur l' ensemble du territoire est très réactif et peut s' avérer utile pour observer des ruptures de tendance , bien avant les organismes officiels ( agrégation et extrapolation des données à partir des dix registres départementaux des cancers ) .
+Cependant , l' utilisation des données médicosociales peut présenter des biais : l' absence d' exhaustivité des cas déclarés ( le malade ne fait pas valoir son droit à l' assurance-maladie pour des raisons de confidentialité ou de couverture complémentaire estimée satisfaisante ) et le risque de double déclaration ( l' évolution longue avec des phases de rémission totale pouvant conduire à une nouvelle déclaration lors d' une rechute ) .
+Pour le cancer du sein , contrairement à d' autres __ALD__ , le risque de biais de déclaration est faible : les critères d' attribution de l' exonération sont restés inchangés pendant la période de l' étude ; la déclaration des cancers est quasi systématique avec un ratio incidence __ALD__ sur incidence réelle proche_de 1 ( en 2000 pour le cancer du sein , incidence __ALD__ 41073 , incidence réelle 41845 , ratio 0,98 ) ; enfin , aucune rupture de tendance n' a été observée pour la déclaration des autres cancers pendant la même période .
+Par ailleurs , les données sur les __ALD__ concernent aussi_bien les cancers invasifs que les cancers in_situ alors_que les données d' incidence issues des registres ne tiennent compte que des cancers infiltrants .
+Entre 50 et 74 ans , les cancers in_situ représentent environ 10 % des cas .
+Il est probable que certains carcinomes in_situ de bas grade de très petite taille , sans prise en charge spécifique après le diagnostic histologique , ne sont pas déclarés comme __ALD__ .
+Globalement , le nombre de cancers recensés dans ces données serait plutôt majoré par rapport aux chiffres estimés par les registres .
+Récemment , deux facteurs pouvant modifier l' incidence des cancers du sein ont été l' objet d' une forte variation en France : la prescription de __THM__ et la pratique du dépistage .
+La diminution brutale et massive des __THM__ observée en France ( - 62 % ) a commencé en 2003 et a été décalée d' une année par rapport aux États-Unis .
+Dans ce pays , dès 2002 , la prescription des __THM__ avait diminué de 38 % , suite à la publication des résultats de l' essai __WHI__ .
+La forte baisse de l' incidence du cancer du sein ( - 6,7 % ) observée en 2003 alimente depuis la controverse sur la place des __THM__ dans cette évolution .
+Des corrélations entre la diminution des __THM__ et celle de l' incidence du cancer du sein ont également été observées au Canada et en Allemagne .
+Les observations , fondées sur des analyses statistiques descriptives de population , ne prouvent pas un lien de causalité entre __THM__ et incidence du cancer du sein .
+La baisse d' incidence , observée surtout après 50 ans et pour les cancers avec récepteurs aux oestrogènes , rend plausible l' hypothèse que l' arrêt des __THM__ a pu ralentir ou arrêter la croissance de cancers occultes dont la détection a été impossible sur les mammographies .
+Selon une étude californienne , la variation de l' utilisation des __THM__ pourrait expliquer 57 % de la baisse d' incidence des cancers du sein .
+Ces cancers pourraient cependant croître et être diagnostiqués plus_tard , ce qui conduirait à une remontée différée de l' incidence , sans modification sur le long terme .
+En France , les prescriptions de __THM__ ont régulièrement augmenté jusqu' en 2001 .
+A titre d' exemple , en 1998 , 30 % de la population de 50 à 64 ans étaient traités d'_après des données de l' industrie pharmaceutique et , dans le département des Bouches-du-Rhône , 28 % des femmes de 50 à 69 ans participantes au programme de dépistage déclaraient suivre un __THM__ .
+Une alerte de l' Agence française de sécurité sanitaire des produits de santé ( Afssaps ) en décembre 2003 a été diffusée suite aux résultats de l' étude __WHI__ et un rapport a été publié en mai 2004 pour informer les professionnels et les femmes sur les risques du __THM__ .
+Entre 2002 et 2006 , une diminution de 62 % des remboursements de __THM__ est retrouvée dans les données de l' Assurance-maladie et cette baisse est identique dans les données du dépistage organisé du département des Bouches-du-Rhône ( 25 % de femmes traitées en 2002 contre 17 % en 2005 et 10 % en 2006 ) .
+Par ailleurs , les éventuels effets observés peuvent dépendre de la nature des __THM__ utilisés qui varient selon les pays .
+Les produits prescrits en France ont été différents de ceux utilisés aux Etats-Unis : le 17ß-oestradiol est prescrit dans plus de 80 % des cas combiné à un progestatif de synthèse ou à une progestérone micronisée .
+Aux Etats-Unis , on retrouve principalement les oestrogènes conjugués équins et l' acétate de médroxyprogestérone .
+La généralisation récente en France du programme national de dépistage organisé des cancers du sein est un facteur susceptible de modifier fortement l' incidence des cancers .
+L' augmentation de cette incidence est une conséquence directe et évidente de la première vague de dépistage d' un cancer ; elle est liée à l' importance de la participation de la population .
+L' étude du programme italien de dépistage a montré une augmentation de 36 % du taux de cancer observé par rapport aux taux prédits lors d' une première vague sur 3 ans .
+L' augmentation la plus forte a concerné les femmes de 65 à 69 ans .
+En France , l' extension du dépistage organisé , particulièrement marquée pour les femmes de 60 à 74 ans qui étaient les moins surveillées ( près_de 800000 dépistages en 2005 ) , aurait dû se traduire plutôt par une accentuation de l' augmentation précédemment constatée de l' incidence des cancers ; or , c' est le contraire qui est observé deux ans après la généralisation .
+Depuis le démarrage des premiers programmes , deux systèmes de dépistage ont coexisté , individuel et organisé , et le taux de couverture de la population a progressé au fil des ans .
+En effet , entre 2000 et 2005 , le taux de femmes qui déclarent avoir pratiqué une mammographie de dépistage organisé , de dépistage individuel ou de diagnostic au cours des 2 années précédentes a augmenté dans toutes les tranches d' âge .
+Entre 55 et 59 ans , il est passé de 62 à 72 % , entre 60 et 64 ans de 50 à 75 % , entre 65 et 69 ans de 45 à 75 % et entre 70 et 74 ans de 30 à 58 % .
+Cette progression n' a pas atteint un plateau définitif car la participation au programme augmente régulièrement ( 40 % en 2004 , 44 % en 2005 , 48 % en 2006 ) .
+Aux Etats-Unis , le dépistage n' est pas organisé mais il est implanté depuis_longtemps avec un taux de participation constant à 70 % depuis 1999 chez les femmes de plus de 40 ans .
+La baisse de l' incidence du cancer du sein pourrait être partiellement liée à un effet de plateau du dépistage avec une réduction du nombre de cancers prévalents encore non diagnostiqués .
+Cependant , les cancers sous __THM__ sont le_plus_souvent hormonodépendants , et la forte diminution d' incidence observée en 2003 aux Etats-Unis a principalement concerné les cancers ayant des récepteurs aux oestrogènes et à la progestérone , ce qui est en faveur d' un lien direct entre __THM__ et cancer du sein .
+De plus , l' observation , corroborée par notre étude , est la corrélation constatée dans les différents pays entre la diminution des __THM__ et la baisse de l' incidence des cancers du sein , et cela quels que soient l' ancienneté et le degré d' extension du dépistage .
+Bien qu' il n' existe pas de démonstration de causalité entre __THM__ et baisse d' incidence du cancer du sein , il n' y a pas à notre connaissance d' autre modification majeure dans l' environnement français pouvant permettre actuellement une explication alternative à ce phénomène paradoxal : la baisse de l' incidence du cancer du sein en pleine période de déploiement de son programme de dépistage .
+Cette première réflexion sur les données françaises devra être approfondie et confirmée dans l' avenir .
+Matériels et méthodes
+Les données d' incidence présentées concernent les nouvelles attributions d' __ALD__ pour cancer du sein aux bénéficiaires du régime général d' assurance-maladie pour la période janvier 2000 à juin 2006 .
+Le régime général couvre 56 millions d' assurés ou d' ayants droit ( 89 % de la population française ) pouvant bénéficier d' une exonération du ticket modérateur pour __ALD__ .
+Le praticien conseil donne un avis obligatoire et code l' affection exonérante selon la 10e version de la classification internationale des maladies ( CIM10 ) .
+La __CNAMTS__ concentre et valide ( contrôle de cohérence , exhaustivité des flux transmis ) les informations anonymisées .
+La structure par âge et par sexe de la population du régime général faisant l' objet d' un dénombrement annuel , les taux d' incidence à une date donnée ont été calculés en rapportant les effectifs de femmes nouvellement admises au cours des 12 derniers mois glissant en __ALD__ pour cancer du sein à la population de femmes du régime général à la même date .
+Ainsi , le taux de juin 2006 pour les femmes de 50 ans et plus est calculé en rapportant le nombre de nouveaux cas de cancers déclarés en __ALD__ entre juillet 2005 et juin 2006 à la population du régime général des femmes de 50 ans et plus .
+Les hommes ( 0,9 % des cancers du sein ) ont été exclus de cette étude .
+Une standardisation sur l' âge a été effectuée en prenant l' année 2000 comme population de référence avec deux classes d' âge correspondant à un risque très différent de cancer du sein : 30-49 ans et 50 ans et plus .
+L' évolution des __THM__ entre les années 2000 et 2006 a été obtenue à partir des bases de données de remboursements des 128 __CPAM__ de France métropolitaine .
+Les médicaments enregistrés dans ces bases sont ceux délivrés en pharmacie de ville , qu' ils aient été prescrits par un médecin libéral ou hospitalier ( ceux qui ont été délivrés au_cours_d' une hospitalisation n' ont pas été inclus ) .
+Les médicaments retenus sont les oestrogènes , seuls ou associés , indiqués dans le traitement des troubles liés à la ménopause .
+Leurs remboursements sont exprimés en __DDJ__ selon la méthode préconisée par l' OMS .
+Une DDJ correspond à la posologie journalière nécessaire pour traiter une femme ménopausée .
+Cette unité de mesure permet de s' abstraire de la composition et de la présentation des médicaments pour réaliser des études comparatives de consommation .
+L' exploitation des données anonymes a été réalisée avec le logiciel SPSS® v9.0 .
+La population incluse de l' étude s' apparentant à une population exhaustive , les résultats sont présentés sans intervalle de confiance .
+L' évolution entre 2000 et 2006 du nombre de dépistages par mammographie dans le cadre du programme national de dépistage organisé a été établie selon les données annuelles d' évaluation publiées par l' Institut de veille sanitaire .

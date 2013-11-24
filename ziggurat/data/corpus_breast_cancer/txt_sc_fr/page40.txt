@@ -1,0 +1,70 @@
+Rappels fondamentaux sur le __REGF__ et sa signalisation
+Le __REGF__ est l' un des quatre membres de la famille HER de récepteurs transmembranaires à activité tyrosine kinase : __REGF__ ou HER1 , HER2 ou C-erbB2 , HER3 et HER4 .
+C' est une protéine d' environ 1200 acides aminés possédant un domaine transmembranaire et une partie extracellulaire glycosylée qui fixe son ligand .
+Le domaine intracellulaire , caractérisé par une activité tyrosine kinase , est activé lorsque le ligand se fixe à son récepteur .
+Ce récepteur activé catalyse le transfert d' un groupement phosphate de l' ATP vers la chaîne latérale d' un résidu tyrosine , à_la_fois sur le récepteur lui-même et sur des protéines cellulaires spécifiques .
+Ainsi , la liaison du ligand sur le __REGF__ provoque la dimérisation du __REGF__ , rendant les deux domaines intracellulaires capables de se phosphoryler mutuellement sur des résidus tyrosine .
+Il existe des phénomènes d' hétérodimérisation entre le __REGF__ et d' autres membres de la famille HER .
+Les ligands préférentiels du __REGF__ sont l' EGF et le TGF .
+La phosphorylation des résidus tyrosine intracytoplasmiques déclenche des signaux de transduction intracellulaire , impliquant en_particulier la voie des MAP-kinases , des phosphatidylinositol-3 kinases et de STAT3 ( voie AKT ) .
+L' activation du __REGF__ induit des modifications de la physiologie cellulaire avec , en_particulier , une activation de la survie cellulaire et une inhibition de l' apoptose par les voies d' activation d' AKT .
+Inhiber les voies d' activation du __REGF__ a pour objectif de ralentir la division cellulaire et de restaurer en_partie les capacités apoptotiques des cellules tumorales .
+Expression tumorale du __REGF__ dans le cancer du sein
+Le cancer du sein est très certainement la localisation tumorale qui a fait l' objet de la plus large exploration de l' expression du __REGF__ .
+Ce phénomène a été déclenché par la publication initiale de Sainsbury et al. qui , il y a près_de deux décennies , suggéraient un rôle pronostique très prometteur du __REGF__ dans le cancer du sein .
+Cette valeur pronostique du __REGF__ n' a que très rarement été confirmée par_la_suite .
+Une revue de Klijn_et_al. portant sur plus de 5000 patientes confirme son absence en pathologie tumorale mammaire bien qu' une étude récente de Tsutsui et al. , menée elle aussi sur une grande série de patientes , suggère une valeur pronostique indépendante du __REGF__ dans le cancer du sein .
+Cette dernière étude japonaise est cependant critiquable car elle porte sur un suivi court et n' inclut pas le grade SBR dans l' analyse multifactorielle .
+Nous avons apporté notre contribution à ce débat sur la valeur pronostique du __REGF__ dans le cancer du sein par une étude sur 780 patientes avec un suivi médian de 8 ans .
+Il est à noter que nous avons utilisé un outil analytique réellement quantitatif : la mesure du nombre de récepteurs par technique biochimique de compétition de fixation du ligand ( Scatchard ) .
+Sur ces bases , la concentration médiane du __REGF__ dans la population étudiée était particulièrement basse ( 9 fmol / mg protéines ) avec un écart allant du non détectable à près_de 800 fmol / mg protéines .
+Il n' y avait pas de lien significatif entre l' expression tumorale du __REGF__ et les facteurs pronostiques reconnus tels_que la taille , le grade histologique SBR et l' envahissement ganglionnaire .
+En revanche , nous avons constaté une baisse constante et significative de l' expression du __REGF__ en fonction de l' âge des patientes .
+Cette analyse a permis également de mettre en évidence une relation inversement significative entre le niveau d' expression du __RE__ et celui du __REGF__ .
+La comparaison REGF-cerbB2 ( HER2 ) était attendue et a été menée par l' équipe de Tsutsui_et_al. .
+Le marquage immunohistochimique des deux récepteurs pour une population de 670 patientes a conduit à l' identification de quatre groupes : REGF- et HER2- pour 417 patientes , REGF+ et HER2- pour 136 patientes , REGF- et HER2+ pour 72 patientes et enfin REGF+ et HER2+ pour 45 patientes .
+Les auteurs notaient une valeur pronostique plus forte pour HER2 que pour __REGF__ .
+On peut raisonnablement considérer que l' expression tumorale du __REGF__ dans le cancer du sein se situe à un niveau mesurable mais relativement faible sans valeur pronostique reconnue .
+Un fait intéressant sur lequel on reviendra est la relation inverse entre __REGF__ et __RE__ .
+Relation __REGF__ et RE dans la cancer du sein
+Il existe au moins deux niveaux d' interaction cellulaire à visibilité claire entre RE et __REGF__ .
+Le premier se situe au niveau de la phosphorylation de RE médiée par la voie __REGF__ .
+Il est important de noter que cette phosphorylation active la fonction transcriptionnelle de RE indépendamment de son interaction avec l' oestradiol , et ce même en présence du tamoxifène ; cela confère une propriété d' hormonorésistance au RE phosphorylé via la voie __REGF__ .
+Le second niveau d' interaction concerne le lien entre RE et PI3K .
+En effet , non_seulement PI3K phosphoryle et active RE mais RE est capable d' interagir avec la sous-unité p85a de PI3K au niveau de la membrane cellulaire ; cette interaction RE-PI3K conduit à l' activation de PI3K et à celle de la kinase AKT .
+La relation inversement significative que nous avons antérieurement mise en évidence entre l' expression tumorale du __REGF__ et celle du RE peut être mise en rapport avec des données cliniques et précliniques qui montrent une moindre efficacité du tamoxifène dans les cancers du sein surexprimant __REGF__ et HER2 .
+De même , une résistance acquise à la déprivation estrogénique est fréquemment associée à un accroissement d' activité de la voie ERK1 / 2 MAP kinase .
+Des essais thérapeutiques ont été récemment mis en place afin_de tester l' efficacité de l' association entre hormonothérapie et ciblage du __REGF__ , afin_de contrecarrer la résistance intrinsèque et de prévenir la résistance acquise à l' hormonothérapie .
+Principaux résultats cliniques obtenus avec les inhibiteurs des récepteurs à l' EGF dans le cancer du sein
+Sur les bases de l' existence d' un cross-talk entre les voies de signalisation du __REGF__ et celles des récepteurs aux estrogènes , deux essais cliniques de phase II présentés lors du congrès de l' Asco 2003 ont testé le géfitinib ( Iressa® ) en monothérapie à la dose de 500 mg / j .
+Ainsi , Robertson et al. ont réparti les patientes en deux groupes : 13 patientes RE+ mais ayant acquis une résistance au tamoxifène et 20 patientes RE- .
+La maladie était locorégionale chez 20 patientes et métastatique chez 13. Sur les 33 patientes incluses , seules 27 ont été analysables à 6 mois .
+Les 6 premières , qui avaient toutes reçu une dose de charge , ont été sorties de l' étude pour toxicité majeure , les autres ne recevaient plus de dose de charge .
+La toxicité a été de grade 1-2 ( sauf 2 cas de rashs cutanés de grades 3-4 ) .
+Après un suivi de 6 mois , 19 patientes étaient évaluables , 4 dans le groupe RE+ où l' on observait 1 réponse partielle et 3 maladies stables , et 15 dans le groupe RE- dont 1 réponse partielle , 1 maladie stable et 13 maladies en progression .
+À noter que seules les patientes ayant une tumeur n' exprimant pas HER2 ont présenté une réponse .
+L' utilisation du géfitinib en monothérapie pourrait offrir une nouvelle ligne thérapeutique chez les patientes présentant une hormonorésistance .
+Le deuxième essai , présenté par Baselga et al. , ne retrouve un bénéfice clinique que chez 4 patientes sur 31 , et une seule toxicité de grades 3-4 ( cutanée ) .
+Sa particularité réside essentiellement dans le fait de son étude pharmacodynamique associée .
+En effet , une corrélation statistiquement significative entre l' expression du __REGF__ et celles du TGF ( ligand du __REGF__ ) , du __REGF__ phosphorylé ( activé ) et du MAPK phosphorylé ( médiateur intracellulaire du __REGF__ ) est retrouvée dans 32 échantillons tumoraux avant la mise en route du traitement .
+L' analyse de 16 échantillons tumoraux prélevés à J28 du début de l' administration du géfitinib , met en évidence une diminution significative du __REGF__ et du MAPK phosphorylés , démontrant ainsi la capacité de géfitinib à inhiber la voie de prolifération passant par le __REGF__ .
+Se fondant sur l' existence d' une interaction synergique entre le trastuzumab et l' erlotinib observée in_vitro sur des lignées d' origine mammaire humaine , Britten et al. ont rapporté à l' Asco 2004 les résultats d' un essai clinique de phase I chez des patientes porteuses d' un cancer du sein métastatique et surexprimant HER2 .
+Seize patientes ont été traitées par l' association trastuzumab et erlotinib ( 150 mg / j par voie orale en continu ) .
+Les toxicités ont été principalement de type dermatologique .
+Les doses recommandées ont été celles des mêmes produits utilisés en monothérapie .
+Il n' y avait pas d' interaction notable en termes de pharmacocinétique .
+Il est important de noter que 2 patientes ont eu une réponse partielle et une autre une réponse de type stabilité de la maladie .
+Deux études de phase II présentées à l' Asco 2004 ont fait état d' associations intéressantes .
+La première a été rapportée par Ciardiello_et_al. .
+Vingt-huit patientes ont reçu une association de docétaxel ( 75-100 mg / m2 , un cycle toutes les 3 semaines ) et de géfitinib ( 250 mg / j par voie orale en continu ) dans le cadre d' une première ligne thérapeutique de leur cancer du sein métastatique .
+En termes de toxicité , on pouvait noter 57 % de neutropénie de grades 3-4 , 1 cas de rash cutané de grade 4 et 2 cas de diarrhées de grade 3. En termes d' activité antitumorale , on observait 64 % de réponses objectives avec 2 réponses complètes et 7 réponses partielles .
+La seconde étude a été rapportée par Dickler_et_al. .
+Treize patientes métastatiques ont reçu une association d' erlotinib ( 150 mg / j par voie orale en continu ) et de bévacizumab , un anti-angiogenèse ( 15 mg / kg par voie intraveineuse , 1 cycle toutes les 3 semaines ) .
+En termes de toxicité , 1 patiente a eu une neutropénie de grade 3 , 1 des nausées / vomissement de grade 3 , 3 des diarrhées de grade 2 , 6 des rash cutanées de grade 2. En termes d' activité antitumorale , sur 9 patientes évaluables , les auteurs ont observé 1 réponse partielle et 2 maladies stables .
+Il ne s' agit là que de résultats précoces mais de tels schémas thérapeutiques apparaissent tolérables avec des taux de réponses laissant entrevoir de nouvelles options potentielles dans la prise en charge des cancers du sein métastatiques .
+En fait , la seule étude réellement publiée à ce jour sur l' emploi des inhibiteurs du __REGF__ dans la prise en charge des cancers du sein reste l' observation d' un cas clinique .
+Schneeweiss_et_al. décrivent une patiente ayant un cancer du sein métastatique en progression après quatre lignes différentes de chimiothérapie dont du trastuzumab ( Herceptin® ) et prise ensuite en charge par une association de géfitinib ( 500 mg / j ) et de trastuzumab ( 2 mg / kg par semaine ) .
+Alors que la patiente était initialement résistante au trastuzumab , une réponse majeure a rapidement été observée tant au niveau des métastases cutanées que ganglionnaires , suggérant des perspectives de relais thérapeutique avec un anti-REGF chez des patientes HER2+ devenues métastatiques et résistant au trastuzumab .
+D' autres essais cliniques tentent de mieux cibler les indications potentielles des inhibiteurs du __REGF__ , notamment chez des patientes RE- surexprimant le __REGF__ , chez des patientes résistantes au tamoxifène , en cas de carcinome in_situ , en association avec des inhibiteurs d' aromatase , du fulvestrant , du trastuzumab ou des cytotoxiques plus conventionnels chez des patientes en situation métastatique avancée .
+L' amélioration quasi constante des connaissances de la biologie de la cellule a permis de mettre en évidence de nouvelles cibles cellulaires et donc de développer des thérapies dites « ciblées » .
+Après avoir démontré le potentiel clinique en termes d' efficacité en monothérapie , c' est bel et bien dans l' association des traitements cytotoxiques plus conventionnels ( chimothérapie et / ou radiothérapie ) ou hormonothérapie ( première ou seconde génération ) avec les thérapeutiques dites « ciblées » que se trouvera le chemin de l' efficacité maximale .

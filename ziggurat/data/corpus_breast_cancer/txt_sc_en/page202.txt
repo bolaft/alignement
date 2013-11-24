@@ -1,0 +1,119 @@
+Introduction
+Breast cancer is a heterogeneous disease , encompassing a number of distinct biological entities that are associated with specific pathological features and clinical behaviour .
+For many decades , invasive breast carcinomas were only classified according to histological type , grade and expression of hormone receptors .
+The class discovery expression profile studies pioneered by the Stanford group demonstrated that the morphological heterogeneity of breast cancer was also reflected at the transcriptome level .
+These studies have demonstrated that the expression profiles of breast cancer show a systematic variation and allowed the classification of breast cancer into five main groups : luminal A and B , normal breast-like , ERBB2 ( aka HER2 ) and basal-like breast carcinomas .
+The latter group is reported to have a more aggressive clinical behaviour ( Sorlie et al. , 2001 ; van de Rijn et al. , 2002 ; Nielsen et al. , 2004 ; Brenton et al. , 2005 ) and has received considerable attention in the literature over the last few years .
+Basal-like breast carcinomas were so named because the neoplastic cells of this tumour type consistently express genes usually expressed in normal basal / myoepithelial cells of the breast , including basal cytokeratins ( 5 / 6 , 14 and 17 ) , p-cadherin and caveolin 1 ( Sorlie et al. , 2001 ; van de Rijn et al. , 2002 ; Nielsen et al. , 2004 ; Abd El-Rehim et al. , 2005 ; Matos et al. , 2005 ; Hu et al. , 2006 ; Pinilla et al. , 2006 ) .
+Historically , a subgroup of aggressive breast carcinomas showing features of myoepithelial / basal differentiation was identified by pathological methods , but basal-like breast carcinomas only gained widespread interest after their rediscovery by microarray-based expression profile analysis .
+Basal-like breast carcinomas , as defined by gene expression microarray analysis , frequently lack the expression of hormone receptors and HER2 , show p53 immunohistochemical expression and TP53 gene mutations , and express proliferation-related genes at high levels .
+Morphologically , basal-like breast carcinomas are characterized by high histological grade , high mitotic indices , the presence of central necrotic zones , pushing borders and conspicuous lymphocytic infiltrate .
+Moreover , presence of metaplastic elements and medullary / atypical medullary features are significantly more prevalent in basal-like breast carcinomas than in other types of breast cancer .
+Similarities between basal-like tumours and tumours arising in BRCA1 mutation carriers
+In the last few years , a wealth of data on the morphological and immunohistochemical features of tumours arising in carriers of germline BRCA1 mutations ( BRCA1 tumours ) has been generated ( summarized in Table 1 ) .
+It is currently accepted that BRCA1 tumours , in particular those diagnosed before 50 years of age , have characteristic pathological features , which have been successfully used to identify patients with a high probability of being BRCA1 germline mutation carriers .
+Morphological and immunohistochemical features of basal-like and BRCA1 tumours
+The morphological features and immunohistochemical profile of basal-like breast carcinomas are remarkably similar to those of tumours arising in BRCA1 mutation carriers ( Table 1 and described in greater detail in the review by Honrado et al. , 2006 , in this issue of Oncogene ) .
+BRCA1 tumours are usually characterized by high histological grade , atypical medullary features , high proliferation indices , pushing borders and conspicuous lymphocytic infiltrate .
+Similarities with basal-like phenotype at the immunohistochemical level are equally striking : the large majority of BRCA1 mutation cancers also lack ER , PgR and HER2 expression and frequently show p53 immunoexpression and TP53 somatic mutations .
+Using overlapping but not identical definitions for basal-like breast carcinomas , it has been demonstrated that the large majority of tumours arising in BRCA1 mutation carriers have a basal-like phenotype .
+Lakhani_et_al. demonstrated that 69.6% of BRCA1 tumours were negative for oestrogen receptor ( ER ) and expressed basal keratins ( Ck 5 / 6 and/or 14 ) , whereas only 8.8% of matched controls showed a similar immunophenotype .
+Therefore , it is not surprising that BRCA1 tumours have been shown to consistently segregate together with sporadic basal-like breast cancers in hierarchical clustering analysis using microarray expression profiling data .
+The immunohistochemical similarities between BRCA1 tumours and basal-like breast carcinomas are deeper than the above-mentioned parameters .
+In fact , these tumours show a peculiar pattern of cell cycle protein expression .
+Both rarely harbour CCND1 gene amplification ; however , they express significantly lower levels of p27 and p16 and higher levels of Skp2 , cyclin E and caspase 3 when compared to sporadic breast carcinomas and BRCA2 mutation tumours .
+By comparing the expression profiles of basal-like carcinomas with those of other molecular types of breast cancer , Nielsen_et_al. devised an immunohistochemical panel comprising HER2 , ER , Ck 5 / 6 and __EGFR__ , which identifies basal-like breast carcinomas with a specificity of 100% and a sensitivity of 76% , with 57% of basal-like tumours expressing __EGFR__ .
+Our group and others have demonstrated that __EGFR__ is overexpressed in up to 70% of basal-like breast carcinomas and BRCA1 tumours and that __EGFR__ gene amplification is found in 15 - 35% of EGFR-positive basal-like breast carcinomas ( Reis-Filho et al. , 2005a ; NC Turner and JS Reis-Filho , unpublished results ) .
+Interestingly , gains of genomic material on 7p , __EGFR__ genomic locus , have been described in up to 40% of BRCA1 tumours and are reported to be significantly more prevalent in these tumours when compared to controls .
+Following a comprehensive characterization of the transcriptome of normal breast myoepithelial cells , novel markers of basal-like breast carcinomas have been described .
+Caveolin-1 , a major component of caveolar membranes consistently expressed in myoepithelial cells , which is reported to have both tumour suppressive and oncogenic properties depending on the context , has been shown to be expressed in a subset of basal-like and BRCA1 tumours .
+Other interesting proteins preferentially expressed in myoepithelial cells and basal-like tumours are fascin , osteonectin , p-cadherin , 14-3-3 sigma , maspin , alpha-beta-crystallin and p75 __NGFR__ ; the latter two markers appear to identify prognostically significant subgroups of basal-like breast cancers .
+Alpha-beta-crystallin is expressed in basal-like breast cancers with pathological features suggestive of a more aggressive clinical behaviour , whereas __NGFR__ has recently been shown to be expressed in a subset of basal-like breast carcinomas with less frequent lymph node metastasis and a longer overall survival .
+These studies were carried out retrospectively in small cohorts of patients , and therefore the actual prognostic significance of these proteins for patients with basal-like and BRCA1 tumours remains to be determined .
+Molecular genetics of basal-like and BRCA1 tumours
+In recent years , increasingly more coherent data on the molecular genetic features of breast cancer have been reported .
+There are several lines of evidence to suggest that the morphological heterogeneity of breast cancer is mirrored at the genetic level and that histological grade , more than any other clinico-pathological feature , is associated with the number and type of unbalanced chromosomal changes in breast cancer .
+Interestingly , these molecular genetic pathways have also been identified in in situ lesions , suggesting that they appear at an early stage of breast cancer progression .
+Molecular genetic studies have suggested that tumours in BRCA1 carriers harbour a characteristic pattern of genomic alterations that represent a different pathway of tumour development from that of unselected sporadic cancers .
+BRCA1 tumours also show a greater degree of genomic instability .
+__CGH__ analysis of tumours arising in BRCA1 mutation carriers has revealed a higher average of copy number changes when compared to that of control cases , with losses of 2q , 4p , 4q , 5q and 12q being more prevalent in BRCA1 tumours .
+Wessels_et_al. confirmed the higher prevalence of deletions of 4p , 5q and 12q in BRCA1 cancers and identified new regions preferentially altered in these neoplasms , including deletions of 3p , 16p and 18q , and gains of 3q , 7p , 8q , 10p , 12p and 17q .
+On the basis of these results , a genomic classifier based upon chromosomal arms 3p , 3q and 5q was devised and displayed an accuracy of 84% in predicting the presence of BRCA1 germline mutations .
+However , these findings are confounded by the comparison of a group of tumours that are predominantly of high grade ( BRCA1 / basal-like ) with a mixture of grade I , II and III tumours ( non-mutation carriers / non-basal-like ) .
+Given the strong correlation between histological grade and the pattern of genetic changes , the accuracy of this classifier remains to be demonstrated in a cohort of grade-matched sporadic and BRCA1 tumours .
+Microarray-based __CGH__ ( aCGH ) analysis of 14 BRCA1 tumours confirmed the high prevalence of loss of 4p , 4q , 5q , 8p , 13q , 15q and 17p and gains of 1q , 3q , 7q , 8q and 10p .
+The increased resolution of aCGH allowed the definition of the smallest regions of overlap of gains of 3q and 7q , which mapped to 3q27.1 - 3q27.33 and 7q36.1 - q36.3 .
+Although multiple losses of 5q were observed in BRCA1 tumours , one sample harbouring a homozygous deletion mapping to a 700 kb region on 5q12.1 was identified .
+This genomic r__PART1__ and DEP domain containing 1B ( DEPDC1B , aka XPT1 ) , and the 3 flanking regions of cyclic adenosine monophosphate-specific phosphodiesterase variant ( PDE4D ) .
+Molecular genetic studies of basal-like breast c__LOH__ ( 37 vs 6 - 14% , respectively ) and more frequent deletions of 5q than tumours with a luminal phenotype .
+However , when compared to grade-matched non-basal-like tumours , Ck 14-positive-basal-like carcinomas showed a lower average of unbalanced chromosomal aberrations .
+Interestingly , only losses of 16p , 17q , 19q and Xp were more prevalent in Ck 14 positive tumours .
+From this study it is unclear if there are significant differences between the pattern of changes observed in sporadic basal-like cancers and in BRCA1 cancers , partly owing to the definition for basal-like cancers adopted by Jones_et_al. .
+Studies comparing the genetic profiles of BRCA1 tumours with those of grade-matched sporadic controls and to sporadic basal-like cancers will clarify whether BRCA1 tumours do harbour specific genomic aberrations .
+By examining seven BRCA1 , eight BRCA2 and seven sporadic breast cancers using gene expression microarrays , Hedenfalk_et_al. identified 51 genes whose variation in expression best differentiated these three groups of tumours and devised a nine-gene 'signature ( predictor ) that correctly classified all BRCA1 tumours and 14 out of 15 tumours arising in patients without BRCA1 germline mutations .
+Interestingly , the sporadic case misclassified by the gene predictor showed phenotypic characteristics of BRCA1 tumours , harboured BRCA1 gene promoter methylation and expressed the lowest levels of BRCA1 .
+Although promising , these results should be interpreted with caution , given the small sample size and the heterogeneity of the group of sporadic cancers .
+Furthermore , expression profile analysis of 18 BRCA1 tumours has demonstrated that BRCA1 tumours consistently segregate together with sporadic basal-like breast carcinomas , suggesting that the similarities between BRCA1 and basal-like tumours are not restricted to the histopathological and genetic levels .
+Therefore , it remains to be determined whether gene expression microarrays can reliably differentiate BRCA1 tumours from sporadic basal-like breast cancers .
+Why are BRCA1 tumours basal-like ?
+BRCA1 is involved in a large number of cellular processes , with functions in the DNA damage response , DNA decatenation , X chromosome inactivation , transcriptional regulation and a reported role in oestrogen signalling .
+Of these disparate functions , the maintenance of genomic stability is thought to be the principal factor underlying cancer predisposition in BRCA1 mutation carriers .
+BRCA2 also functions in DNA repair ( reviewed by Gudmundsdottir and Ashworth , 2006 , in this issue of Oncogene ) .
+Breast cancers arising in BRCA2 mutation carriers , however , do not have a predilection for the basal-like phenotype being predominantly hormone receptor-positive ( reviewed by Honrado et al. , 2006 , in this issue of Oncogene ) .
+It is therefore likely that another function of BRCA1 , other than the role in maintenance of genomic stability , underlies the subsequent restriction of tumour development to the basal-like phenotype .
+A number of studies have shown that expression of exogenous BRCA1 inhibits ERalpha signalling and that knockdown of BRCA1 by RNA interference induces ERalpha-mediated transcription .
+This connection between the ERalpha and BRCA1 could therefore be linked to the development of ERalpha-negative tumours .
+However , for many in the field the physiological significance of these findings is unclear .
+In these studies loss of BRCA1 is linked to an increase in ERalpha signalling , yet BRCA1 cancers are ER negative .
+Tumour incidence in BRCA1 carriers has an early rise in women in their 30s and 40s .
+This early rise is not found in BRCA2 carriers or in sporadic cancers in the general population , which have a peak incidence in older women .
+Tumours arising in BRCA1 carriers during this early peak are most frequently basal-like .
+In one study only 19% of BRCA1 tumours were ER+ve in women aged <45 and 38% ER+ve in women aged 55 - 65 years .
+The factors underlying this unique age distribution may therefore shed further insight on the high incidence of the basal-like phenotype .
+The relative increased incidence of BRCA1 tumours in premenopausal women suggests that lactation cycles , or changes during the breast during puberty , may be of particular importance in BRCA1 tumour biology .
+During puberty , and lactation cycles , the stem cell population in the breast is active and it has been suggested that BRCA1 cancers arise especially in this population of cells .
+A number of groups have now identified putative breast stem cells in the mouse or narrowed down the population in which the stem cell resides .
+These studies suggest that the stem cells do appear to express basal-like features , and therefore that basal-like cancers may well arise directly from this stem cell population .
+Current research points to two potential explanations for the restriction of BRCA1 cancers to the basal-like phenotype .
+Basal-like cancers , and their precursors , could be more tolerant to loss of BRCA1 function than those of other breast cancer subtypes .
+Loss of BRCA1 function is highly deleterious to cellular survival , and is only tolerated in certain cellular contexts .
+Stem cells may be more resistant to the induction of apoptosis and therefore more tolerant to loss of BRCA1 function .
+In addition , loss of BRCA1 may be tolerated when certain genetic and epigenetic events have already occurred in tumour development , such as TP53 mutations , and these events could be more common in basal-like cancers and their precursors .
+The second potential explanation for restriction to the basal-like phenotype is that loss of BRCA1 function could actively drive development of the basal-like phenotype conceivably through loss of BRCA1-mediated transcriptional events or activation of the basal-like transcriptional profile .
+Cancers that under other circumstances would have developed alternative phenotypes may become restricted to the basal-like phenotype .
+Foulkes ( 2004 ) suggested that BRCA1 may be required for stem cell differentiation , so tumours developing from stem cells that have lost BRCA1 function are unable to differentiate to alternative phenotypes .
+Interestingly there is some evidence to support a role for BRCA1 in epithelial cell differentiation , although at present there is no direct evidence to support , or contradict , the suggested role for BRCA1 in the differentiation of stem cells .
+BRCA1 pathway in sporadic basal-like cancers
+The similarity of BRCA1 cancers and sporadic basal-like cancers could suggest a role for BRCA1 , or the BRCA1 pathway , in the development of all basal-like cancers .
+Alternatively , as discussed above , BRCA1 cancers and sporadic basal-like cancers may simply share a common origin with tolerance for BRCA1 functional loss .
+A number of previous studies have shown that BRCA1 expression is lower in ER-negative cancers and lower in high-grade cancers , and these results have been reviewed elsewhere .
+However , there is considerable disagreement about whether this association is due specifically to decreased expression of BRCA1 in the basal-like subtype or is a general feature of high-grade cancers .
+Much of the confusion has arisen from the known difficulties with BRCA1 immunohistochemistry , especially in suboptimally fixed formalin sections .
+Although one small study found BRCA1 expression assessed by immunohistochemistry to be increased in basal-like cancers , this has been contradicted by larger studies that document reduced BRCA1 expression specifically in the basal-like cohort ( Abd El-Rehim et al. , 2005 ; Ribeiro-Silva et al. , 2005 ) .
+The finding of high ID4 expression , a known regulator of BRCA1 expression , in many basal-like cancers may in part explain the suppression of BRCA1 levels ( NC Turner and JS Reis-Filho , unpublished observations ) .
+Studies of BRCA1 promoter methylation in basal-like cancers have found no increased methylation in the general basal-like cohort , but increased BRCA1 methylation in specific subgroups of basal-like cancers like metaplastic carcinomas ( NC Turner and JS Reis-Filho , unpublished observation ) and medullary carcinomas .
+Finally one study examining the presence of BRCA1 nuclear foci in frozen sections of basal-like cancers , by immunofluorescence , documented the presence of normal BRCA1 foci .
+Current data point to a general reduction of BRCA1 expression in the basal-like cohort , but only an increased methylation of BRCA1 in histiologically defined subtypes of basal-like cancers .
+The reported normal BRCA1 nuclear foci in basal-like cancers would suggest that at least some functions of BRCA1 are retained in these tumours .
+Conversely , the finding of frequent X chromosome inactivation in basal-like cancers , a possible surrogate for BRCA1 dysfunction , could suggest that some functions of BRCA1 or the pathways BRCA1 acts in may be impaired in these tumours .
+It also remains unclear if the BRCA1 pathway dysfunction observed has a causative role in basal-like cancer aetiology or is a secondary phenomenon associated with the basal phenotype .
+Clinical implications of the basal-like phenotypes for BRCA1 cancers
+Cancer genetics
+According to Lakhani_et_al. , a predictive immunohistochemical test for BRCA1 germline mutations comprising ER and Ck 5 / 6 would have a sensitivity of 56% , a specificity of 97% , and positive and negative predictive values of 28 and 99% , respectively .
+It is possible that the BRCA1 basal-like phenotype may therefore allow more effective targeting of BRCA1 germline mutation screening in clinical genetic practice .
+However , at present the data are not sufficiently mature to provide the levels of certainty required for clinical decision-making .
+The test is clearly limited by the existence of sporadic basal-like cancers .
+Owing to the variation of incidence of the basal-like phenotype with age both in sporadic cancers and in BRCA1 cancers , the predictive value of the test is likely to vary according to the age at diagnosis .
+More studies are required to examine whether the current screening criteria using family history are significantly enhanced by inclusion of pathological basal-like phenotype .
+Where the basal-like phenotype may already be currently useful is in the prediction of which BRCA gene is likely to be mutated in high-risk families , where a high-risk family with basal-like cancers is much more likely to have an underlying BRCA1 mutation than BRCA2 mutation , and also in the classification of BRCA1 variants of uncertain pathogenicity .
+Tumour treatment
+The frequent expression of __EGFR__ in the basal-like cohort has led to a number of studies examining EGFR-targeted therapies in the treatment of basal-like cancers ( ) .
+In lung cancer expression of __EGFR__ does not correlate with response to EGFR-targeted therapy , probably as __EGFR__ expression is a marker of cellular origin , or line of differentiation , as opposed to a driver of tumour proliferation .
+However , data from __EGFR__ expressing , ER-positive breast cancers suggest that targeting the __EGFR__ in basal-like cancers could be effective .
+In contrast to lung cancers , there is little evidence for pathogenic __EGFR__ mutations in breast cancers , although it has been reported that 15 - 35% of basal-like cancers have __EGFR__ amplification that could be a target for therapy .
+The role of BRCA1 in the repair of DNA damage provides a potential avenue for targeted tumour treatment , as discussed by Gudmundsdottir and Ashworth , 2006 , in this issue of Oncogene .
+Although applicable to BRCA1 familial cancers , these therapies could also be used to treat sporadic basal-like cancers with dysfunction of the BRCA1 pathway .
+Conclusion
+Future studies examining phenotypes of BRCA1 familial cancers will need to be designed to take account of the similarity of these cancers with basal-like sporadic cancers and cancers with BRCA1 methylation .
+Comparison with unselected sporadic cancers may give misleading results when attempting to discover features specific to BRCA1 cancers , whereas comparison of molecular genetic changes with basal-like sporadic cancers may allow the identification of features specific to BRCA1 familial cancers .
+Using such approaches it may be possible to gain a much greater understanding of the pathways specifically involved in the tumorigenesis of BRCA1 cancers , and allow development of novel therapeutic or prophylactic strategies .

@@ -1,0 +1,191 @@
+Le docetaxel ( Taxotère® ) est entré dans l' arsenal thérapeutique dans les années 1990 .
+Comme tous les nouveaux agents cytotoxiques , il a d'_abord été évalué en situation métastatique .
+La mise en évidence d' une activité importante en situation avancée , même après un échec des anthracyclines , a conduit à son étude en première ligne métastatique , en monothérapie puis en association avec les anthracyclines .
+La démonstration de son efficacité a conduit à son incorporation dans le traitement des stades précoces en situation adjuvante ou néoadjuvante .
+C' est en_effet à ce stade qu' un impact sur la survie peut être espéré .
+Ainsi les avancées les plus marquantes en 2002 ont été les présentations des essais adjuvants ( TAC / FAC ) et néoadjuvants ( NSABP-B27 , essai d' Aberdeen ) .
+Les résultats présentés cette année en situation métastatique ne font que confirmer l' activité du docetaxel et les possibilités d' association avec les autres agents anticancéreux , comme les anthracyclines , la capécitabine ( Xéloda® ) et le trastuzumab ( Herceptin® ) .
+La prochaine étape consistera à définir une stratégie associant les agents cytotoxiques les plus actifs et des thérapeutiques ciblées , adaptées au profil biologique des tumeurs .
+Traitement adjuvant
+Essai BCIRG 001
+L' essai BCIRG 001 comparant l' association TAC versus FAC a été présenté à l' Asco en 2002 avec un recul de 3 ans puis actualisé au congrès de San Antonio 2003 .
+Dans cette étude , 1491 patientes présentant une tumeur du sein T1 - 3 N1 M0 avec un envahissement ganglionnaire ont été incluses et randomisées entre juin 1997 et juin 1999 .
+Le curage axillaire devait comporter au moins 6 ganglions .
+L' âge devait être inférieur à 70 ans .
+Une stratification était effectuée sur l' atteinte ganglionnaire ( N+ 1 à 3 et > 4N+ ) et le centre .
+Six cycles de FAC ( 500 , 50 , 500 mg / m2 ) ou TAC ( 75 , 50 , 500 mg / m2 ) étaient administrés toutes les 3 semaines .
+Après la chimiothérapie , les patientes présentant une tumeur avec des récepteurs hormonaux positifs ( RH+ ) recevaient du tamoxifène 20 mg / j pendant 5 ans .
+Une radiothérapie était systématiquement réalisée en cas de traitement conservateur .
+Après mastectomie , les indications de radiothérapie étaient laissées à l' appréciation du centre .
+Le critère principal de jugement était la survie sans récidive .
+Les critères secondaires étaient la survie globale et la toxicité .
+Les caractéristiques des patientes étaient bien équilibrées entre les deux bras : âge médian 49 ans , 76 % de RH+ , 21 % de HER2+ .
+La dose-intensité médiane était supérieure à 98 % .
+Dans le bras TAC , une amélioration significative de la survie sans récidive et une réduction du risque de récidive de 28 % sont observées ( p = 0,0010 ) .
+Concernant la survie globale , il existe une diminution du risque de décès ( 30 % , p = 0,0080 ) .
+Des analyses supplémentaires ont été planifiées de façon prospective en fonction du statut ganglionnaire , des récepteurs hormonaux et du statut HER2 .
+La survie globale est significativement meilleure pour les patientes ayant moins de 4 ganglions envahis ( p = 0,0009 ) .
+Dans la population RH , le risque de récidive est réduit de 31 % ( p = 0,029 ) .
+Mais il existe également une diminution du risque de 28 % démontrée dans la population RH+ ( p = 0,0076 ) .
+Il faut noter que 76 % des patientes étaient RH+ et qu' une aménorrhée est survenue plus fréquemment dans le bras TAC par rapport au bras FAC ( 66 % versus 54 % , p 0,05 ) , ce qui a pu contribuer à l' effet positif du TAC dans cette population de patientes .
+La toxicité hématologique a été plus fréquente dans le bras TAC avec des différences significatives en incidence de neutropénie de grade 3-4 , de neutropénies fébriles et d' anémie de grade 3-4 .
+Il y a eu plus de nausées et vomissements dans le bras FAC et plus de diarrhées et de mucites dans le bras TAC .
+L' association TAC démontre une supériorité par rapport au FAC sur la survie sans rechute et la survie globale .
+La survie sans rechute est significativement améliorée quel que soit le statut ganglionnaire , hormonal ou HER2neu .
+Étude pilote
+Les résultats d' une étude pilote évaluant en traitement adjuvant l' utilisation séquentielle du docetaxel avec la doxorubicine et le CMF ont été publiés cette année .
+Sur la survie , après un suivi de 3 ans , ils sont au moins aussi bons que ceux de protocoles à base d' anthracyclines conventionnels dans une même population .
+Les autres essais adjuvants comportant du docetaxel , en cours aux États-Unis , posent différentes questions :
+- les associations à base de taxanes ( ECOG 2197 ) ont elles une efficacité supérieure à celle des traitements standard ?
+- l' utilisation séquentielle des taxanes et des anthracyclines est elle supérieure à l' association des deux ( essais NSABP B-30 et BCIRG 005 ) ?
+- comparaison des taxanes ( taxol / docetaxel ) et d' un schéma d' administration intermittent toutes les 3 semaines ou hebdomadaire ( ECOG 1199 et CALGB 9741 ) ;
+- intégration du trastuzumab en association avec le docetaxel chez les patientes HER2+ ( BCIRG 006 ) .
+D' autres essais européens posent également la question de l' apport du docetaxel par rapport aux traitements standard ( PACS-01 , PACS-04 , BIG 02-98 ) et du trastuzumab en situation adjuvante ( HERA , PACS 04 ) .
+Ils permettront de préciser au mieux l' utilisation du docetaxel en situation adjuvante .
+Traitement néoadjuvant
+Essai du groupe Aberdeen
+Les résultats de l' essai du groupe d' Aberdeen ont été publiés en 2002 et les données de survie actualisées pour le congrès de San Antonio en 2003 .
+Le but de cet essai randomisé ( __CVAP__ 8 cycles versus __CVAP__ × 4 puis docetaxel × 4 ) était de déterminer si l' introduction du docetaxel dans le protocole de chimiothérapie néoadjuvante entraînait un bénéfice en survie chez les patientes présentant une tumeur du sein opérable non accessible à un traitement conservateur ou localement avancée .
+Les patientes présentaient des tumeurs du sein ( T2 > 4 cm , T3 ou T4 ) et ont reçu 4 cycles de __CVAP__ .
+Après évaluation de la réponse clinique , celles qui répondaient de façon partielle ou complète étaient randomisées entre 4 cycles supplémentaires de __CVAP__ ou 4 cycles de docetaxel .
+Celles qui ne répondaient pas après 4 cycles de __CVAP__ recevaient 4 cycles de docetaxel .
+Cent soixante-sept patientes ont été incluses dans l' étude , 162 étaient éligibles , 104 ont présenté une réponse et ont été randomisées .
+Le suivi médian était de 65 mois .
+Les taux de réponses cliniques et pathologiques ont été significativement supérieurs dans le bras docetaxel ( tableaux 1 et 2 ) .
+Une chimiothérapie adjuvante avec docetaxel suivant un traitement par anthracyclines entraîne de meilleures survie sans récidive et survie globale en comparaison au groupe recevant le protocole avec seulement des anthracyclines .
+De plus , il y a eu moins de réductions de doses dans le groupe avec docetaxel que dans le groupe __CVAP__ , en raison d' une plus faible incidence de neutropénie de grades 3 et 4.
+Essai NSABP B27
+Les résultats de la chimiothérapie néoadjuvante du NSABP- B27 ont été présentés au congrès de San Antonio 2001 et ont été publiés en 2003 .
+Dans cet essai , entre 1995 et 2000 , 2411 patientes ont été randomisées entre trois bras de traitement : 1 ) 4 cycles __AC__ néoadjuvant ( adriamycine 60 mg / m2 , cyclophosphamide 600 mg / m2 ) puis chirurgie , 2 ) 4 __AC__ plus 4 cycles de docetaxel ( 100 mg / m2 ) puis chirurgie , 3 ) 4 __AC__ , chirurgie puis 4 cycles de docetaxel .
+Lors de la présentation , les résultats concernant la réponse à la chimiothérapie néoadjuvante ont été exposés mais pas ceux sur la survie sans récidive et la survie globale , ni l' effet du docetaxel administré après chirurgie .
+Les patientes avaient une tumeur du sein opérable ( T1cN0 T1-T3N1 ) .
+Le diamètre tumoral moyen était de 4,5 cm ( 4 cm dans 45 % des cas ) .
+Il y avait un envahissement ganglionnaire dans 30 % des cas .
+Un traitement conservateur pouvait être proposé d'_emblée dans 50 % des cas .
+L' addition de docetaxel augmentait de façon significative le taux de réponse clinique objective de 60 % et de réponse complète histologique de 87 % .
+La diminution de l' incidence de l' atteinte ganglionnaire down-staging était de 15 % .
+Le bénéfice était identique quel que soit le statut hormonal de la tumeur .
+La toxicité était augmentée dans le bras docetaxel , ce qui fait que 15 % des patientes n' ont pu recevoir l' ensemble des 4 cycles de docetaxel .
+L' analyse finale permettra de savoir si ce bénéfice en réponse histologique se traduit par un bénéfice en survie et de déterminer quel sous-groupe de patientes bénéficie le plus de l' apport du docetaxel .
+Étude Gepar-Duo
+L' étude Gepar-Duo comparait un schéma « dose-dense » ADOC ( adriamycine 50 mg / m2 et docetaxel 75 mg / m2 tous les 15 jours sur 4 cycles ) à un schéma séquentiel AC-DOC ( adriamycine 60 mg / m2 et cyclophosphamide 600 mg / m2 × 4 suivi de docetaxel 100 mg / m2 × 4 toutes les 3 semaines ) .
+Le schéma AC-DOC donnait plus de réponses histologiques complètes que le schéma ADOC ( 22,4 % contre 11,5 % ) et un down-staging ganglionnaire plus important ( 60,7 % contre 55,4 % ) .
+Études Gepar-Trio
+Elles évaluent l' activité de l' association TAC ( docetaxel 75 mg / m2 , adriamycine 50 mg / m2 et cyclophosphamide 500 mg / 2 ) chez des patientes présentant une tumeur du sein T2-T3 ou T4 .
+Après deux cycles de TAC , les patientes présentant une réponse tumorale ( RC ou RP ) recevaient 4 cycles supplémentaires de TAC .
+En cas de stabilité tumorale , elles étaient randomisées entre 4 cycles de TAC ou 4 cycles de NX ( vinorelbine 25 mg / m2 J1 et J8 et capecitabine 2000 mg/m2 / j pendant 14 jours ) .
+Deux cent quatre-vingt-six patientes ont été incluses dans cette phase pilote .
+Le taux de réponse objective après 2 cycles de TAC était de 73,5 % .
+Les deux associations présentaient une tolérance satisfaisante .
+Le taux de réponse clinique après 6 cycles était de 88,6 % et le taux de réponse complète histologique de 18,3 % .
+Les patientes présentant une réponse clinique après 2 cycles de TAC avaient plus de chances de présenter une réponse histologique complète .
+Il n' y a pas eu de différence entre TAC et NX en termes de réponse histologique .
+Cette phase pilote a été suivie d' un essai de phase II-III suivant les mêmes schémas de chimiothérapie mais les patientes présentant une réponse après les 2 cycles de TAC étaient randomisées entre 4 ou 6 cycles de TAC .
+À ce jour , 1105 patientes ( 2259 prévues ) ont été incluses .
+Le taux de réponse clinique objective était de 75 % chez les patientes présentant une tumeur opérable et 68 % chez celles présentant une tumeur inopérable .
+Étude Accog
+L' étude Accog était un essai de phase III comparant adriamycine ( 50 mg / m2 ) et docetaxel ( 75 mg / m2 ) à adriamycine-cyclophosphamide ( 60-600 mg / m2 ) dans des tumeurs de sein de plus de 3 cm , localement avancées ( T4 ) ou inflammatoires .
+Trois cent soixante-trois patientes ont été randomisées .
+Une tendance en_faveur_de l' association AD pour la réponse clinique ( 72 % versus 62 % , p = 0,07 ) se dessinait mais sans différence significative pour le taux de réponse histologique , le statut ganglionnaire et la toxicité .
+Traitement en phase métastatique
+Études randomisées
+Les résultats de l' étude de phase III comparant en première ligne de chimiothérapie le docetaxel 100 mg / m2 en 1 heure au paclitaxel 175 mg / m2 en 3 heures tous les 21 jours chez 449 patientes ont été présentés .
+Le docetaxel a confirmé sa supériorité en termes de temps jusqu' à progression et de survie globale .
+Il était cependant associé à des toxicités de grades 3 et 4 plus fréquentes mais sans différence dans les études de qualité de vie .
+L' étude de phase III comparait l' association __EC__ à __EC__ .
+Deux cent vingt-sept patientes ont été incluses dans cet essai en premier ligne métastatique qui en prévoit 240 .
+L' analyse intermédiaire sur 182 patientes évaluables montre un taux de réponse de 53,1 % pour l' __ED__ contre 44 % avec l' __EC__ .
+Les profils de tolérance sont comparables .
+L' étude TAX 307 comparait l' association TAC au FAC en situation métastatique : 484 patientes ont été randomisées entre TAC ( 75 , 50 , 500 mg / m2 ) et FAC ( 500 , 50 , 500 mg / m2 ) , en première ligne métastatique .
+Une chimiothérapie adjuvante par anthracyclines était autorisée ( 10 % patientes ) .
+Une atteinte viscérale était présente dans plus de 70 % des cas et près_de 50 % des patientes avaient plus de trois sites métastatiques .
+Dans cette population de mauvais pronostic , l' association TAC donnait un taux de réponse significativement supérieur par comparaison au FAC ( 55 contre 44 % , p = 0,023 ) , qui ne se traduisait pas par une supériorité en termes de temps jusqu' à progression ( 31,1 semaines versus 28,9 , p = 0,51 ) .
+La survie globale était identique ( 20,6 mois contre 22 , p = 0,66 ) .
+Cependant , 46,2 % des patientes dans le bras FAC ont reçu un taxane en deuxième ligne après progression contre 16,5 % après TAC .
+Le taux de neutropénie fébrile était plus important sous TAC ( 29 % contre 5 % avec FAC ) , sans augmentation de l' incidence des infections ( 5 % contre 4 % ) ou des décès toxiques ( 2 et 3 patientes respectivement ) .
+L' étude de phase III comparant adriamycine-docetaxel ( AA 50 T 75 ) versus FAC ( 500 , 50 , 500 mg / m2 ) en première ligne métastatique a été présentée à l' ECCO 2003 .
+L' association docetaxel-adriamycine démontre une supériorité significative par_rapport_à FAC en termes de survie sans progression , de taux de réponse objective et de survie globale .
+Il est important de noter qu' un cross-over par taxane a été réalisé chez 23 % des patientes dans le bras __AT__ et 67 % des patientes dans le bras FAC .
+Les résultats de l' étude __AC__ versus __AT__ ont été publiés en 2003 .
+L' association __AT__ est supérieure à l' association __AT__ en termes de réponse objective et de temps jusqu' à progression ; la survie est similaire dans les deux groupes .
+Un essai de phase III a comparé l' association capécitabine-docetaxel ( 2500 mg / m2 pendant 14 jours - 75 mg / m2 ) au docetaxel en monothérapie ( 100 mg / m2 ) .
+L' association était supérieure en termes de réponse objective ( 42 % contre 30 % , p = 0,006 ) , de temps jusqu' à progression ( 6,1 contre 4,2 mois , p = 0,0001 ) et de survie globale ( 14,5 mois contre 11,5 , p < 0,01 ) .
+Les patientes du groupe association ont présenté plus d' effets secondaires digestifs et de syndromes mains-pieds tandis_qu' il y a eu plus de neutropénies fébriles , d' arthralgies et de fièvre dans le groupe monothérapie .
+Une analyse des traitements effectués après la sortie de l' étude a été présentée à San Antonio en 2001 .
+Le nombre de traitements était équivalent dans les deux bras .
+L' avantage en survie obtenu avec le bras docetaxel-capécitabine est peut-être sous-estimé du fait du cross-over .
+Ainsi , 28 % des patientes dans le bras docetaxel monothérapie ont ensuite reçu de la capécitabine .
+En termes de survie , les patientes qui ont reçu de la capécitabine en deuxième ligne ont eu une évolution plus favorable que celles qui ont reçu un autre traitement .
+Cette analyse pose la question d' un éventuel avantage du traitement séquentiel ( docetaxel-capécitabine ) par rapport au traitement concomitant mais la réponse ne peut être obtenue dans le cadre de cet essai .
+Un essai de phase III a comparé le docetaxel ( 100 mg / m2 toutes les 3 semaines ) à l' association 5-fluoro-uracile ( 750 mg/m2 / j perfusion continue pendant 5 jours ) et vinorelbine ( 25 mg / m2 à J1 et J5 ) en première ou deuxième ligne métastatique .
+L' activité apparaît comparable mais l' association 5FU-vinorelbine s' est révélée plus toxique en termes de neutropénie fébrile , d' infection et de stomatite .
+Les résultats actualisés de l' essai de phase II randomisée ET ( épirubicine 75 mg / m2 docetaxel 75 mg / m2 ) contre FEC75 en première ligne métastatique ont été présentés à San Antonio et à l' Asco 2003 .
+Cent quarante-deux patientes ont été incluses .
+Plus de la moitié avaient reçu une chimiothérapie adjuvante , la_plupart avec anthracyclines .
+Une grande majorité présentait une atteinte viscérale ( ET 84 % , FEC 76 % ) , notamment hépatique ( ET 64 % , FEC 57 % ) .
+Cette phase II randomisée indique que l' association épirubicine-docetaxel est très active dans le cancer du sein métastatique .
+Il faut noter que ces résultats s' observent malgré un cross-over : 57 % des patientes dans le groupe FEC ont reçu du docetaxel en seconde ligne .
+La toxicité était celle rapportée classiquement avec les deux protocoles : essentiellement des neutropénies de grade 3 et 4 ( 67 % ET , 60 % FEC ) et une incidence de neutropénies fébriles plus élevée avec le protocole ET ( 26 % ) .
+Cependant , la dose-intensité avait été parfaitement respectée dans les deux bras .
+Études séquentielles
+L' administration séquentielle ou alternée du docetaxel avec le FEC a été étudiée dans une phase II randomisée .
+L' activité apparaît similaire dans les différents bras .
+Dans une autre étude de phase II randomisée , les séquences docetaxel -AC versus AC-docetaxel étaient étudiées .
+Les taux de réponse étaient similaires dans les deux bras mais inférieurs aux résultats escomptés avec les associations docetaxel-anthracyclines , aboutissant à l' arrêt de l' essai .
+L' étude du Geicam 9903 comparait , chez 144 patientes en première ligne de chimiothérapie pour un cancer du sein métastatique , l' association soit en séquentiel d' adriamycine 75 mg / m2 tous les 21 jours suivi de docetaxel 100 mg / m2 tous les 28 jours , soit en concomitant adriamycine 50 mg / m2 et docetaxel 75 mg / m2 tous les 21 jours .
+Les taux de réponses ( 61 % adriamycine puis docetaxel , 51 % adriamycine-docetaxel ) , de survie sans progression ( 10,5 contre 9,2 mois ) n' étaient pas significativement différents .
+En revanche , le taux de neutropénies fébriles ( 34 % contre 50 % ) était significativement supérieur dans le bras concomitant .
+Le taux d' asthénie et de diarrhées était également supérieur dans le bras concomitant .
+Administration hebdomadaire
+Une grande étude de phase II a étudié l' administration de docetaxel hebdomadaire en première ou deuxième ligne métastatique à la dose de 35 mg / m2 par semaine pendant 6 semaines , suivies de 2 semaines de repos .
+Les résultats préliminaires montraient que le docetaxel hebdomadaire était efficace avec un taux de réponse objective de 42 % .
+Le profil de tolérance était amélioré avec une prémédication par dexaméthasone ( 8 mg ) réduisant les toxicités non hématologiques ( syndrome de rétention hydrique et toxicité unguéale ) .
+Dans autre étude de phase II avec docetaxel hebdomadaire , le taux de réponse est similaire ( 38 % de réponses objectives ) avec un profil de tolérance très satisfaisant .
+Les résultats préliminaires d' une étude de phase II randomisée comparant le schéma hebdomadaire au schéma toutes les 3 semaines ont été également présentés .
+Les deux schémas avaient une activité antitumorale similaire ( 43,9 % avec le schéma hebdomadaire versus 38 % avec le schéma intermittent ) .
+Leur profil de tolérance est différent avec une toxicité hématologique plus importante dans le schéma intermittent .
+Phase I-II d' association
+De nombreuses études de phase I et II ont été publiées , confirmant les possibilités d' associations du docetaxel avec de nombreux agents ( tableaux 9 et 10 ) .
+L' association docetaxel-estramustine , qui combine deux agents ciblant les microtubules , s' est révélée trop toxique sur le plan thrombo-embolique .
+Association avec le trastuzumab
+In vitro , il existe une synergie entre le docetaxel et le trastuzumab .
+Il apparaît donc logique de développer ces associations en thérapeutique .
+Dans un essai de phase II , 30 patientes ont été traitées en première ou deuxième ligne métastatique par l' association docetaxel hebdomadaire ( 35 mg / m2 ) et trastuzumab .
+En intention de traiter , le taux de réponse était de 63 % , 67 % en cas de FISH positive .
+Chez les patientes ayant une élévation de HER2 sérique , le taux de réponse objective était de 76 % contre 33 % chez celles sans HER2 sérique élevé ( p = 0,04 ) .
+Les variations de la fraction sérique de HER2 pendant le traitement pourraient donc être corrélées avec le résultat .
+Deux études pilotes ont été réalisées associant docetaxel et trastuzumab dans les cancers du sein avancés présentant une surexpression de HER2 , c' est-à-dire 2+ ou 3+ en __IHC__ , contrôlé secondairement par FISH .
+Des résultats très prometteurs ont été observés et ont conduit au développement d' essais randomisés en situation adjuvante dans les tumeurs avec surexpression de HER2 .
+Dans l' essai BCIRG 0006 , il existe trois groupes de randomisation : __AC__ suivi de docetaxel versus __AC__ suivi de docetaxel-trastuzumab versus TCH ( docetaxel , carboplatine , trastuzumab ) 6 cycles .
+L' essai de phase II randomisée M77001 comparait chez 188 patientes le docetaxel seul ( T ) à l' association docetaxel-trastuzumab en première ligne .
+Les résultats montraient une différence très significative en termes de réponse clinique ( 61 % contre 36 % ) , temps jusqu' à progression ( 10,6 contre 6,1 mois ) mais_surtout une prolongation de plus de 6 mois de la survie globale , ce qui est un fait marquant dans un essai dans le cancer du sein métastatique .
+De plus , s' il y avait un avantage en survie pour les patientes traitées dans le bras docetaxel seul à recevoir du trastuzumab en cas de progression ( cross-over 44 % ) , celles-ci ne rattrapaient pas la courbe de survie des patientes traitées d'_emblée avec l' association .
+L' association docetaxel-trastuzumab entraînait un taux supérieur de réponse objective quels que soient le traitement antérieur ( anthracyclines ) , le nombre de sites métastatiques , la présence de métastases viscérales , le statut des récepteurs hormonaux , l' intervalle libre et l' état général .
+Sur le plan de la tolérance , il y a eu plus de neutropénies fébriles avec l' association ( 23 % ) qu' avec le docetaxel seul ( 17 % ) ; l' incidence d' insuffisance cardiaque était de 2 % dans le bras association .
+Divers
+Hypersécrétion lacrymale
+Un des effets secondaires du docetaxel souvent observé est une hypersécrétion lacrymale .
+L' équipe du MD Anderson , qui a particulièrement étudié cet effet secondaire , a dosé le docetaxel dans les larmes de 6 patientes traitées .
+Ce passage du docetaxel dans les larmes peut donc être responsable de sténoses canaliculaires .
+Les auteurs recommandent une prévention par l' administration fréquente de larmes artificielles dans les 24-48 heures suivant la perfusion de docetaxel , afin_de diluer la concentration de la drogue dans les larmes , et une surveillance ophtalmologique régulière .
+Toxicité unguéale
+La toxicité unguéale du docetaxel est connue avec des altérations de l' ongle , survenant dans 40 % des cas et pouvant aller jusqu' à une onycholyse .
+Le mécanisme de cette toxicité pourrait être d' origine neurogénique , l' atteinte de l' intégrité des terminaisons périphériques étant nécessaire pour la survenue de ces modifications unguéales .
+Le processus inflammatoire de l' onycholyse serait maintenu par l' altération des terminaisons sympathiques et nociceptives .
+Dans cette hypothèse , les inhibiteurs de cyclooxygénase 2 pourraient améliorer la toxicité unguéale .
+Toxicité gastro-intestinale
+L' entérocolite survenant dans un contexte de neutropénie chez des patients traités par docetaxel est rare mais connue .
+La survenue de symptômes tels_que des douleurs abdominales , diarrhées , mucite , doit alerter et entraîner une prise en charge intensive immédiate .
+Toxicité pulmonaire
+Quatre cas de pneumopathie interstitielle bien documentés ont été décrits avec le docetaxel .
+Ce type de toxicité avait été décrit avec le paclitaxel et la gemcitabine .
+Immunologie
+Les modifications immunologiques ont été étudiées chez des patients traités par docetaxel comparés à des sujets sains .
+Un traitement par docetaxel induit une réaction lymphocytaire mixte , une activation des cellules natural killer et LAK , de_même qu' une sécrétion d' interféron et d' interleukine 2. Chez les patients présentant une réponse au traitement , ces effets sont beaucoup plus prononcés et accompagnés d' une baisse d' interleukine 1 et de TNF .
+Pharmacocinétique
+À la différence des associations paclitaxel-épirubicine , il n' existe pas d' interaction pharmacocinétique entre le docetaxel et l' épirubicine quelle que soit la séquence utilisée , ET ou TE .
+Conclusion
+L' activité du docetaxel est démontrée dans les cancers du sein avancés .
+En situation néoadjuvante , il existe deux études suggérant un rôle positif du docetaxel dans l' amélioration d' une réponse complète histologique après une chimiothérapie à base d' anthracyclines .
+Lorsque les résultats des essais adjuvants seront connus avec un suivi suffisamment long , il sera possible de préciser au mieux le rôle du docetaxel dans le traitement des stades précoces du cancer du sein .
+La nouvelle génération des études va se focaliser sur l' intégration des taxanes avec les thérapeutiques ciblées , dont le trastuzumab représente un des premiers exemples d' efficacité clinique .

@@ -1,0 +1,107 @@
+La chimiothérapie néoadjuvante représente une possibilité thérapeutique pour les patientes atteintes de tumeurs mammaires de plus de 3 cm , et donc inaccessibles à un geste chirurgical conservateur .
+Cependant , aucune étude n' a démontré que cette modalité thérapeutique prolongeait la survie des patientes par_rapport_à celle des patientes traitées par chimiothérapie adjuvante .Les objectifs principaux de la chimiothérapie préopératoire sont la diminution de la taille tumorale pour permettre une chirurgie conservatrice plus fréquente , l' obtention d' une meilleure éradication de la maladie micrométastatique par un traitement précoce avant le développement de clones résistants et alors_que le facteur anti-angiogénique ( l' angiostatine ) potentiel sécrété par la tumeur primitive est toujours présent , ainsi_que l' évaluation de la sensibilité des cellules tumorales aux cytotoxiques administrés.Le pathologiste joue un rôle majeur dans la prise en charge optimale des patientes traitées par chimiothérapie néoadjuvante pour un cancer du sein .
+En effet , la détermination histopathologique de la réponse au traitement est plus précise que les méthodes cliniques ou que l' imagerie .
+De plus , l' histopathologie évaluée après chimiothérapie néoadjuvante peut être complémentaire des résultats obtenus sur les biopsies initiales .
+Enfin , le pathologiste intervient dans la détermination de paramètres prédictifs de réponse , dans l' évaluation de la réponse au traitement et dans la détermination de paramètres pronostiques sur le résidu tumoral .
+Évaluation histopathologique de la réponse à la chimiothérapie néoadjuvante
+Évaluation de la réponse
+Lorsque le reliquat est macroscopiquement identifiable , la taille de la tumeur résiduelle macroscopique est mesurée ainsi_que la distance minimale aux berges en millimètres .
+La taille de ce reliquat tumoral pourra ainsi être comparée à la taille clinique et / ou échographique initiale .
+En cas de reliquat non identifiable macroscopiquement , des prélèvements en grille systématique de la pièce opératoire seront réalisés pour échantillonner le plus exhaustivement possible la pièce opératoire .
+Deux cas de figure sont ensuite possibles : soit un reliquat carcinomateux est identifié et sa taille sera précisée , soit il n' y pas de reliquat identifiable .
+Il faudra rechercher des signes histopathologiques d' altération tissulaire témoignant de l' existence , préalable au traitement , d' une tumeur qui a été stérilisée .
+Concernant les ganglions axillaires , chaque ganglion est étudié individuellement et la présence d' un envahissement métastatique ou les modifications thérapeutiques sont enregistrées .
+L' évaluation histopathologique est importante , puisqu' elle peut permettre aux cliniciens de modifier le schéma thérapeutique .
+Ainsi , des patientes en __RCH__ et ayant subi une mammectomie pourront ne pas recevoir de radiothérapie .
+De plus , une chimiothérapie adjuvante sera plus volontiers proposée à une patiente qui n' est pas en RCH qu' à une patiente qui est en RCH .
+Classifications histopathologiques de la réponse à la chimiothérapie
+Plusieurs équipes de pathologistes ont proposé des classifications histopathologiques de la réponse à la chimiothérapie néoadjuvante .
+Il faut cependant souligner qu' il n' existe pas à l' heure actuelle de consensus permettant de privilégier une classification plutôt qu' une autre .
+Cela complique notablement les comparaisons des taux de __RCH__ obtenues dans différentes études .
+Le tableau 1 ( Tableau 1 ) résume les différentes classifications qui ont été décrites dans la littérature .
+* - La classification de Feldman est valable seulement sur la pièce d' exérèse mammaire et non sur les ganglions lymphatiques .
+Les patientes du groupe A ont une survie sans récidive significativement plus longue que celles du groupe B. De plus , l' absence de toute tumeur résiduelle dans la pièce d' exérèse après chimiothérapie première est un excellent facteur pronostique .
+* - La classification de Chevallier étudie la réponse sur le sein et les ganglions lymphatiques .
+Elle est classique en France et reste une référence ( figures 1-3 ) .
+Cependant , la classe 3 englobe une population très hétérogène de patientes comprenant de très bons répondeurs ( pour lesquels le reliquat est minime et très altéré ) et des répondeurs partiels ( qui présentent une régression tumorale de moins de 50 % ) .
+Le grade 2 est considéré comme une rémission complète .
+* - La classification de Sataloff évalue la réponse sur le tissu mammaire et sur les ganglions lymphatiques .
+Elle est plus proche_de la réalité car elle tient compte de la viabilité cellulaire .
+En effet , elle isole un groupe de très bons répondeurs en prenant en compte les reliquats tumoraux très nécrosés non mesurables macroscopiquement , dont la signification clinique est très proche_de ceux des répondeurs complets .
+De plus , elle stratifie les répondeurs partiels en « bons répondeurs » ( effet thérapeutique supérieur à 50 % ) et « mauvais répondeurs » .
+Les auteurs ont pu mettre en évidence une survie prolongée pour les patientes qui présentaient une RCH .
+* - La classification de Viens tient également compte de la viabilité cellulaire .
+Elle a été validée en clinique sur des carcinomes inflammatoires et ne tient pas compte de la réponse ganglionnaire .
+* - La classification de Honkoop différencie le groupe de la maladie résiduelle minime du groupe de la maladie résiduelle macroscopique , qui est plus hétérogène puisqu' il englobe des répondeurs et des non-répondeurs .
+L' évaluation du statut ganglionnaire tient compte du nombre de ganglions envahis ( probablement excellent indicateur pronostique en post-chimiothérapie ) mais ne tient pas compte d' une éventuelle stérilisation des ganglions .
+* - La classification d' Aberdeen est surprenante , car elle est indexée à l' opposé des autres classifications .
+Cependant , elle est intéressante car elle isole à_la_fois les très bons répondeurs et stratifie les répondeurs partiels .
+Les classifications les plus utilisées en France sont celles de Chevallier et de Sataloff .
+Au centre Jean-Perrin , nous utilisons également ces deux classifications .
+En effet , il nous paraît fondamental de détailler la réponse ganglionnaire , cette dernière étant souvent plus faible que la réponse au site initial .
+Discordance entre les taux de réponses cliniques et histopathologiques
+La réponse à la chimiothérapie néoadjuvante est évaluée par des examens cliniques , mammographiques , échographiques et anatomopathologiques .
+Les taux de réponses pathologiques rapportés s' échelonnent de 3 à 30 % selon les études .
+Plusieurs de ces études ont montré qu' il existait un lien entre une réponse pathologique complète et une survie prolongée et entre la présence d' un envahissement ganglionnaire axillaire et une survie plus courte .
+Les taux rapportés de réponse clinique et de réponse mammographique sont généralement plus élevés que ceux de réponse histopathologique .
+Dans une étude récente , parmi un groupe de 89 patientes traitées par anthracyclines en préopératoire , 15 ( 17 % ) présentaient une réponse clinique complète dont seulement 3 avec une réponse histopathologique complète .
+D' autres travaux aboutissent à des écarts similaires .
+Cependant , quelques études rapportent des taux de réponses cliniques et pathologiques complètes proches .
+À l' inverse , le taux de réponse échographique est souvent corrélé à celui de la réponse histologique complète .
+Il apparaît donc évident que l' évaluation échographique , et surtout anatomopathologique , est plus précise .
+Évaluation des facteurs prédictifs de la réponse à la chimiothérapie néoadjuvante
+L' évaluation histopathologique des biopsies préthérapeutiques permet de démontrer l' existence de facteurs prédictifs .
+Les facteurs évalués sont soit morphologiques ( type histopathologique , grade SBR , envahissement ganglionnaire ... ) , soit immunohistochimiques ( récepteurs hormonaux , Her2 , p53 , Cox2 , Ki67 ... ) .
+Ces paramètres devraient nous permettre de sélectionner les patientes qui vont bénéficier de la chimiothérapie néoadjuvante et , ainsi , de ne pas proposer cette approche thérapeutique à celles potentiellement non répondeuses .
+L' évaluation de la valeur prédictive de nombreux paramètres établis sur la tumeur mammaire primaire a fait l' objet de nombreuses études .
+Les paramètres morphologiques sont souvent significatifs .
+C' est le cas notamment de la taille tumorale .
+De meilleurs taux de réponses histopathologiques et / ou cliniques sont observés pour les tumeurs de petite taille .
+C' est le cas également du grade histopronostique , du grade nucléaire et du type histopathologique .
+C' est ainsi_que les tumeurs de haut grade histopronostique et à fort taux de mitoses sont associées à de meilleurs taux de réponse ; il en est de_même pour les tumeurs présentant un grade nucléaire élevé .
+Concernant le type histopathologique , les carcinomes de type lobulaire présentent des taux de réponse à la chimiothérapie néoadjuvante inférieurs à ceux des carcinomes de type canalaire .
+Ces paramètres présentent , en_outre , l' avantage d' être réalisés systématiquement puisqu' il s' agit des paramètres histopathologiques classiques évalués sur la biopsie initiale .
+Les paramètres immunohistochimiques possèdent une valeur prédictive plus variable .
+C' est ainsi_que la présence de récepteurs aux oestrogènes est liée à une moins bonne réponse à la chimiothérapie et , inversement , la négativité des récepteurs aux oestrogènes apparaît liée à une meilleure réponse .
+Les autres facteurs prédictifs comme les marqueurs de prolifération , la surexpression d' Her2 , mais_aussi les marqueurs de l' apoptose semblent moins déterminés .
+Les marqueurs de prolifération peuvent être évalués par la mesure du pourcentage de cellules en phase S ou de cellules marquées par le Ki67 .
+D' après certains auteurs , une tumeur présentant un taux élevé de cellules en phase S n' est pas plus sensible à une chimiothérapie néoadjuvante qu' une tumeur ayant un taux plus faible .
+À l' inverse , d' autres équipes montrent qu' il existerait une tendance entre un pourcentage élevé de cellules en phase S et une meilleure réponse à la chimiothérapie néoadjuvante .
+Concernant le Ki67 , des taux élevés pourraient prédire une meilleure réponse à la chimiothérapie néoadjuvante .
+D' autres travaux rapportent des résultats contradictoires .
+Concernant la surexpression de Her2 , les résultats sont contradictoires .
+Ainsi , MacGrogan_et_al. ne retrouvent pas de valeur prédictive , alors_que Rozan_et_al. concluent à une tendance prédictive .
+De plus , dans une étude rétrospective de Penault-Llorca_et_al. , les tumeurs Her2+ présentent 4 fois plus de chance de répondre à la chimiothérapie néoadjuvante que les autres .
+Enfin , concernant les marqueurs de l' apoptose , la_plupart des études ne retrouvent pas de corrélation entre la p53 et la réponse à la chimiothérapie .
+Seules quelques études rapportent une résistance des tumeurs p53 aux chimiothérapies à base d' anthracyclines .
+L' étude de Makris_et_al. montre une tendance entre la surexpression de Bcl2 et la réponse au traitement .
+À l' inverse , d' autres ne retrouvent pas cette tendance .
+Ainsi , les paramètres à déterminer sur la biopsie diagnostique initiale avant le traitement sont : le type histopathologique , le grade histopronostique avec le compte des mitoses sur 10 champs au fort grandissement , le statut des récepteurs hormonaux , éventuellement le taux de cellules exprimant Ki67 ( selon les équipes ) et le statut Her2 si des protocoles néoadjuvants avec de l' Herceptin® sont envisagés .
+Évaluation des facteurs pronostiques
+L' évaluation de la valeur pronostique de nombreux paramètres a été établie sur la tumeur mammaire primaire , mais également sur la pièce opératoire .
+En situation néoadjuvante et parmi les paramètres morphologiques , plusieurs études rapportent que la taille clinique initiale , le statut ganglionnaire initial et le stade tumoral initial sont prédictifs d' une meilleure survie globale et sans rechute .
+En revanche , une étude menée dans notre institution rapporte que le grade SBR mesuré initialement , avant l' administration de la chimiothérapie néoadjuvante , ne s' avère pas pronostique .
+La chimiothérapie néoadjuvante est souvent proposée à des tumeurs mammaires de grande taille et de fort grade SBR .
+Il s' agit donc en_général de tumeurs agressives de haut stade , a_priori de mauvais pronostic .
+Après traitement , si la tumeur a été sensible à la chimiothérapie , la taille tumorale et le nombre de ganglions envahis vont diminuer .
+Ainsi , par_rapport_à la tumeur initiale , il va exister une sous-stadification clinique et pathologique du TNM .
+Malgré cela , la taille histologique mesurée à la chirurgie et l' envahissement ganglionnaire restent de puissants paramètres pronostiques .
+Par ailleurs , nous avons montré dans notre institution que la persistance d' un grade SBR élevé ou son développement sous traitement sont des facteurs de mauvais pronostic .
+De plus , de nombreuses études ont montré l' intérêt pronostique de la réponse complète histologique , à_la_fois sur le contrôle local et sur la survie globale .
+* - Sur le contrôle local , plusieurs études relient la réponse anatomopathologique obtenue en fin de chimiothérapie néoadjuvante et les rechutes locales : les patientes en RCH présentent moins de rechutes locales que les autres .
+Dans une étude menée sur des patientes atteintes de cancer du sein localement avancé , Kuerer_et_al. concluent qu' une RCH prédit une excellente survie sans rechute , tandis_que l' absence de réponse , voire une progression , induirait une survie sans rechute médiocre .
+Une autre étude réalisée au centre Jean-Perrin montre que le taux de survie sans rechute à 15 ans est significativement plus élevé chez les patientes en RCH que chez les autres .
+* - Sur la survie , l' étude citée précédemment conclut également à une survie globale significativement meilleure à 15 ans chez les patientes en RCH que chez les autres .
+La valeur pronostique de la RCH se retrouve dans d' autres études telles_que celles d' Eltahir_et_al. et de Bonadonna_et_al. .
+De plus , dans l' étude de Bonadonna_et_al. , l' envahissement ganglionnaire résiduel après chimiothérapie est également un indicateur de mauvais pronostic .
+Enfin , parmi les paramètres immunohistochimiques , la présence de cellules fortement prolifératives ( pourcentage élevé de cellules en phase S et surexpression de Ki67 ) est un marqueur de mauvais pronostic .
+Quelques études réalisées chez des patientes traitées par chimiothérapie néoadjuvante sur l' impact pronostique de la surexpression d' Her2 aboutissent à des résultats controversés : MacGrogan_et_al. rapportent une corrélation entre la surexpression d' Her2 et la survie , tandis_que Rozan_et_al. n' en retrouvent pas .
+Conclusion
+Les taux de réponse clinique et histopathologique sont souvent discordants .
+Les patientes en réponse clinique majeure présentent , dans la majorité des cas , une tumeur histopathologiquement non stérilisée .
+Une modification des méthodes d' évaluation de la réponse histopathologique ainsi_que le développement de l' imagerie mammaire fonctionnelle et de l' IRM devraient permettre de réduire cette discordance .
+La détermination de la réponse histopathologique à la chimiothérapie est essentielle , car très précise .
+Le pathologiste a donc un rôle clé dans l' évaluation du traitement dont l' objectif primaire est la réponse pathologique complète .
+En effet , de nombreuses études ont montré qu' une RCH était de bon pronostic .
+De plus , la détermination de paramètres prédictifs sur les biopsies avant traitement devrait permettre d' améliorer les taux de réponses observés et donc la survie des patientes .
+Enfin , les facteurs évalués après chimiothérapie néoadjuvante pourront être comparés avec ceux mesurés avant la prise du traitement et permettront également au pathologiste de guider le clinicien dans la prise en charge thérapeutique optimale des patientes , pour le choix des cytotoxiques utilisés après le geste chirurgical et pour la détermination du pronostic de la tumeur .

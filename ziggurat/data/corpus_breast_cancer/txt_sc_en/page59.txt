@@ -1,0 +1,114 @@
+1. Introduction
+The pharmaceutical industry invests large sums of money into the development of oral rather than injectable drugs .
+As more are developed , patient adherence to regimens becomes an increasingly important issue .
+Reported rates of adherence to oral drugs vary between 19% and 100%.1 Non-adherence to treatment represents not only a missed opportunity for health gain and waste of resources2 but also renders the interpretation of clinical trial data as potentially unrealistic in the absence of adherence data.1
+1.1. Definition and measurement of adherence
+The increase in patient autonomy has led to the term adherence replacing the more authority-laden term compliance in the literature .
+The most commonly cited definition of adherence is the extent to which a person 's behaviour coincides with medical or health advice'.3 However , it should be noted that a distinction is not always made in the literature regarding the conceptual difference between intentional non-adherence when a patient makes a specific decision not to take the prescribed medication and non-intentional non-adherence as a result of forgetting or misunderstanding instructions about the drug schedule .
+A number of different approaches have been taken when assessing adherence ; these include determining whether or not medication has been taken in the correct dose , at the correct time or by establishing the amount of the prescribed dose consumed .
+There are also different methods of measurement such as drug levels in biologic fluids , patient observation , electronic monitoring or patient self-report in the form of interview , questionnaire or diary .
+These differing means of assessment could contribute to the variable rates of adherence reported in the literature .
+Nevertheless , Powles and colleagues4 reported a 96% agreement between objective blood-testing and patient self-report of adherence amongst patients taking tamoxifen , who were participating in the IBIS chemoprevention trial .
+1.2. Factors related to non-adherence
+Adherence to medication is not necessarily related to sociodemographic factors such as age , sex , level of education or race5 but rather that patients are less likely to adhere to those therapies that have adverse side-effects,6 are complex and / or last longer.5 Evidence regarding all these issues has been mixed .
+Elwyn and colleagues6 suggest that intentional non-adherence to medication is the result of three factors : ( 1 ) a lack of information about the advantages and disadvantages of the treatment ; ( 2 ) when the benefits of treatment are not obviously apparent and ; ( 3 ) the psychological adaptation required to see oneself as in need of treatment .
+Patients often lack sufficient information regarding the pros and cons of treatment .
+Clinician-recorded side-effects tend to emphasise serious , life-threatening adverse events rather than patient-reported issues affecting quality of life.7 This means that decisions about embarking on treatment might be based on a faulty appraisal of true patient burden .
+Adherence is less likely where the benefits of drugs are not immediately obvious , this is particularly salient to women on a five-year hormone regimen which does not offer a guarantee of recurrence-free survival but does produce side-effects .
+The psychological adjustment in self-perception for someone who has to take medication may hinder adherence and is particularly relevant for women with breast cancer on hormone regimens for several years .
+If they are disease-free post surgery and chemotherapy , they may not want to continue seeing themselves as being ill .
+Tablet taking is a constant reminder .
+Most of the literature concerning patient adherence to medication has focussed on areas such as HIV , hypertension and psychiatric illness ; patients adherence to medication in illnesses such as breast cancer has received less attention .
+However where the issue has been investigated , rates of non-adherence to regimens of tamoxifen therapy have been reported as being between 15% and 50% with follow-up of between 2 and 5 years.8 , 9 , 10 and 11
+In a study investigating discontinuation of tamoxifen use , Fink and colleagues8 report that 88 out of the 516 patients with oestrogen receptor-positive breast cancer had stopped taking tamoxifen by two years .
+Factors such as age and side-effects were not associated with discontinuation , however , similar to previous findings regarding the role of patients beliefs,2 and 12 negative beliefs regarding the value of the medication and positive-node status were associated with discontinuation .
+This finding highlights the need for effective communication with patients about mode of action and benefits of medication if optimal adherence is to be achieved .
+This can be difficult in an adjuvant setting when patients recognise that they may not even need or benefit from further treatment .
+Clinicians sometimes offer reassurances that further drug treatment is merely given as an extra insurance policy but this might limit motivation to take drugs regularly even further .
+Other studies investigating adherence to tamoxifen have reported associations with side-effects.10 Demissie and colleagues report that patients who experience side-effects were significantly more likely to stop taking tamoxifen.10 Elsewhere , adherence has been associated with age , with younger women or women who had undergone mastectomy rather than breast-conserving surgery being less likely to adhere.11
+The impact that patients personal beliefs about their illness has on adherence has received limited attention .
+In one study looking specifically at intentional non-adherence , Iihara and colleagues12 suggest that patients with chronic illness facing long-term therapies make decisions about treatments based on their own beliefs .
+They found that patients who attached a greater value on knowing the side-effects were significantly more likely to intentionally non-adhere to medication than those who did not place a value on this knowledge .
+Other factors reported to be associated with intentional non-adherence were poor level of comprehension regarding general medication and age , with patients who were aged between 40 and 49 being less likely to adhere to medication than both younger and older patients .
+Variations in adherence to treatment can be explained from the perspective of social cognition theoretical models.2 Individuals develop beliefs which influence the interpretation of information which ultimately guide behaviour , thus patients may conduct a cost benefit analysis weighing the necessity of taking medication against concerns regarding potential adverse effects .
+In a sample of 83 oncology patients , the difference score between the perceived necessity and concerns was the strongest predictor of adherence to medication over and above clinical or sociodemographic factors.2
+As part of a wider study investigating breast cancer patients preferences for different routes of administration of hormone therapy,13 we also examined the adherence of those receiving medication .
+We recorded self-reported intentional and non-intentional non-adherence and the different personality and demographic factors associated with this .
+Locus of control has been discussed previously in the literature in relation to adherence .
+Partridge and colleagues14 suggest that the degree of control an individual feels they have over their illness may influence adherence to medication .
+They hypothesise that an individual who believes they have greater influence over their situation would be more likely to adhere to medication whereas individuals with a fatalistic view of their situation would be less adherent .
+The present study will therefore also investigate the role of locus of control in adherence and would anticipate that our findings support these hypotheses .
+2. Patients and methods
+2.1. Participants
+Women attending routine follow-up appointments were identified by clinic staff and invited to join a study about preferences for different routes of administration of breast cancer drugs .
+Inclusion criteria were being a minimum of two years post-diagnosis , with stable disease , ability to speak English and provide informed consent .
+Women were recruited from clinics at Christie and Withington Hospitals , Manchester ; Velindre Hospital , Cardiff ; Charing Cross Hospital , London ; Worthing Hospital , Worthing and Royal Sussex County Hospital , Brighton providing a wide geographical spread .
+A total of 208 out of 270 women , when approached in clinic by a research psychologist agreed to be interviewed at a later date in their own homes .
+The interview took approximately one hour to complete .
+One hundred and thirty one patients were currently receiving medication and are included in this study about adherence .
+3. Measures
+A semi-structured interview schedule was devised to elicit patients preferences between two routes of administration of hormone therapy ; a daily tablet or a monthly injection and included questions regarding relevant factors such as sociodemographics , information regarding medical regimens , treatment experience and adherence .
+Patients were asked about these experiences of treatment and asked to indicate whether there were any aspects of their current regimen that they disliked , for example side-effects of hormone therapy such as hot flushes or night sweats .
+Non-intentional non-adherence was assessed via the question " how often do you forget to take your tablets? " and intentional non-adherence with " how often do you choose not to take your tablets? " For both questions patients had the response options of never , occasionally , 'sometimes , quite often and very often .
+Responses to questions addressing the issues of intentional and non-intentional adherence were recoded to form two dichotomised dependent variables , adherence and intention .
+The adherence variable comprised two categories ; adherers who said they neither forgot nor chose not to take their medication ( i.e. responded never to both questions ) and non-adherers who said they either occasionally , sometimes , quite often or very often either forgot to , choose not to take their medication or both .
+The intention variable , created from the non-adherers sub-sample of the adherence variable , comprised two categories ; intentional non-adherers who reported choosing not to take their medication and non-intentional non-adherers who reported forgetting to take their medication .
+All researchers were trained in interviewing techniques and each interview was tape recorded to permit independent checking of data .
+Patients were also asked to complete the __MHLOC__ .15 The __MHLOC__ is an 18 item scale assessing respondents feelings of self-control over their illness ( internal ) and the extent to which they feel powerful others and chance factors influence their general health .
+The scale produces three scores ( derived from six items each ) .
+The scale is scored on a 6 point scale anchored at 1 = 'strongly disagree to 6 = 'strongly agree. A higher score is indicative of a stronger influence of the dimension in health behaviours .
+4. Statistical analysis
+All data were analysed using SPSS v11.5 .
+The two dependent variables , adherence and intention were then subject to 2 analysis to identify any association with relevant factors ( age , aspects of medication disliked , number of tablets currently taken , __MHLOC__ ) which were then entered into a logistic regression analysis .
+The study had full MREC and LREC approvals .
+5. Results
+The mean age of the patient population was 59.4 ( SD ± 11.53 ) .
+62.6% were married and 52.7% had received at least secondary level education .
+Sociodemograpic and treatment information is detailed in Table 1. Rates of adherence and intention to adhere are detailed in Table 2. Tamoxifen was the most commonly prescribed drug in the sample .
+Of the 72 prescribed tamoxifen , 33 reported adhering to their medication and 39 reported instances of non-adherence .
+Of the 39 who reported non-adherence , 6 reported instances of intentional non-adherence and 33 reported instances of non-intentional non-adherence .
+The second most common drug prescribed to the sample was anastrozole .
+Of the 36 women who reported taking it , 14 reported adhering to their medication and 22 reported not adhering to their medication .
+Of the 22 who reported non-adherence , 4 reported being intentionally non-adherent and 18 reported being non-intentionally non-adherent .
+5.1. Adherence
+An independent samples t test revealed that age was associated with adherence to medication as younger women were significantly more likely to non-adhere ( t = 2.483 , df = 105.377 , P = 0.015 , 95% CI : 1.002 - 8.947 ) .
+2 analysis revealed a significant association ( P = 0.001 ) between whether or not the women disliked any aspects of their current medication ( e.g. side-effects , difficulties swallowing tablets and inconvenience ) and adherence ; those who disliked aspects of their current medication were significantly more likely to non-adhere .
+The number of tablets taken for breast cancer and co-morbidities was not found to be significantly associated with adherence .
+Age and aspects of treatment disliked were then entered into a logistic regression analysis using a forward selection procedure which revealed that dislike of aspects of their current treatment was significantly predictive of adherence at P < 0.001 ( ß = - 1.415 , S.E. = 0.421 , Exp ( ß ) = 0.243 ) .
+5.2. Intention
+An independent samples t test revealed that patients who reported forgetting to take their medication had significantly higher scores on the internal ( t = 2.195 , df = 68 , P = 0.032 , 95% CI : 0.315 - 6.599 ) representing an effect size of r = 0.26 , and powerful others ( t = 2.710 , df = 67 , P = 0.009 , 95% CI : 1.380 - 9.093 ) representing an effect size of r = 0.31 , subscales of the __MHLOC__ than those who reported choosing to not take their medication .
+Means and standard deviations for all __MHLOC__ scores are detailed in Table 3. Due to the sample sizes , caution must be taken when drawing inference from these findings .
+The internal and powerful others variables were then entered into a logistic regression analysis using a forward selection procedure which revealed that participant scores on the powerful others subscale was significantly predictive of intention at P < 0.013 ( ß = - 0.166 , S.E. = 0.067 , Exp ( ß ) = 0.847 ) .
+6. Discussion
+Non-adherence to medication amongst patients treated for breast cancer clearly exists and there is some evidence to suggest that differences exist between those who forget and those who choose not to adhere to medication .
+Of the 131 patients who were currently receiving medication for their breast cancer , 55% reported that they did not adhere to medication .
+The majority of these non-adherers ( 83.3% ) reported this as unintentional because they forgot to take their medication , but approximately 1 in 6 ( 16.7% ) reported intentionally choosing not to take their medication .
+Adherence was associated with age as younger women were significantly more likely to report not taking their medication .
+Some clinicians may find this result surprising , as intuitively it would be expected that older women would be more likely to forget .
+In addition , patient reports of whether they disliked some aspect of taking their medication in particular unpleasant side-effects such as hot flushes , were significantly predictive of whether they adhered to their medication .
+Similar findings have been reported amongst women taking tamoxifen in the adjuvant setting with almost half of the non-adherent sample reporting side-effects as the reason for non-adherence.16
+There was evidence to suggest that intention regarding non-adherence was related to health locus of control .
+Patients who reported deliberately missing their medication viewed themselves according to __MHLOC__ as having significantly less influence over their own health than patients who reported forgetting to take their medication .
+Additionally , patients who reported forgetting to take their medication also had a significantly stronger belief that powerful others ( such as health professionals , family , friends ) could help improve their health than did patients who intentionally chose not to take their medication .
+This factor was significantly predictive of whether patients choose or forgot to take their medication .
+We anticipated that individuals with a higher internal locus of control would be more likely to adhere to medication .
+This was not supported with regards to whether individuals did or did not adhere to medication , but did have a role to play with regards to intention .
+There was no support for the hypothesis that individuals scoring highly on the chance dimension of the __MHLOC__ scale were less likely to adhere .
+It would appear that __MHLOC__ is useful in explaining the degree to which non-adherence to medication is intentional and should be taken into account in future research .
+One issue worthy of comment concerns the veracity of responses given by patients .
+It is possible that they found it easier to report forgetting to take tablets than the less socially desirable admission that they chose not to take them .
+Younger women in particular were more likely than older women to forget their tablets .
+Neither degree of interference in daily life from tablet taking or problems attending clinic were associated with adherence or intention .
+Future research might investigate the reasons why individuals intentionally and non-intentionally avoid taking their medication .
+In this particular population of women on hormone therapy , the reasons for non-adherence may be both physical and psychological .
+The advantages of not taking medication are that women benefit from a cessation in adverse side-effects such as hot flushes whilst avoiding the constant reminder of their illness .
+It is also conceivable that women may not feel the need to take medication as prescribed if they are asymptomatic .
+In addition , these effects are felt immediately whereas any negative affects such as disease recurrence may not be felt for a long time .
+Given the finding of Horne and Weinman2 that patients analysis of the costs and benefits was the strongest predictor of adherence in oncology patients ; further research should also investigate degree to which patients understand the mode of action and benefits of therapies received .
+The findings presented here , particularly the associations between adherence and health locus of control reflect the role of health beliefs and expectations in guiding behaviour .
+This has been discussed previously in the literature14 and a more in depth investigation of the role of underlying psychological mechanisms would enlighten and benefit future research .
+Even when faced with a potentially life-threatening illness such as breast cancer , it cannot be assumed that patients will adhere to medication .
+There is some evidence that adherence is influenced by factors such as age and behavioural characteristics but the whole area is quite complex .
+Clearly communication about the advantages and disadvantages of respective treatments may improve adherence especially if women are encouraged to report side-effects and are given effective ameliorative treatments for these .
+Also those at most risk of non-adherence could perhaps be offered drugs with alternative routes of administration .
+Finally , more research is needed into the development of interventions to improve adherence of women embarking on long-term oral hormone regimens .

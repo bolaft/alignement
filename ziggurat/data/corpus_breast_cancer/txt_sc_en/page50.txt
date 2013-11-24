@@ -1,0 +1,146 @@
+1. Introduction
+The inhibition of oestrogen production and its binding to oestrogen receptors ( ER ) is the basis by which hormone-sensitive breast cancers are treated.1 Fulvestrant ( Faslodex [ TM ] ) is an ER antagonist that reduces cellular expression ( down-regulation ) of both ER and progesterone receptors ( PgR ) . Fulvestrant is a steroidal 7greek small letter alpha-alkylsulphinyl analogue of oestradiol .
+Because it is st__SERMs__ agonists ) is the drug of choice for premenopausal women with ER-positive breast cancer .
+Fulvestrant lacks cross-resistance with many of the currently used drugs including tamoxifen and therefore potentially offers an alternative strategy in the treatment of premenopausal women .
+Fulvestrant is at least as effective as the third-generation aromatase inhibitor anastrozole in the treatment of postmenopausal women with advanced oestrogen-sensitive cancers that have progressed on prior therapy. The effects of fulvestrant in premenopausal women have yet to be fully evaluated .
+A previous study by Robertson et al. showed that at a dose of 250 mg , fulvestrant was ineffective in terms of reduction in ER , PgR and Ki67 expression.8
+The main objective of this study was to compare the effects of intramuscular fulvestrant at a dose of 750 mg with tamoxifen on ER , PgR and Ki67 levels in the tumours of premenopausal women with ER-positive primary breast cancer .
+The study also assessed the safety and tolerability of this dose of fulvestrant in premenopausal women .
+2. Patients and methods
+2.1. Study design and patients
+This was a Phase II , randomised ( randomised permuted blocks ; the allocation was made using randomised permuted blocks with the block length randomly being 6 or 8 ) open-label single-centre study that aimed to recruit 60 premenopausal women with ER-positive breast cancer ( 30 per treatment arm ) .
+The study included premenopausal women with histologically confirmed primary ER-positive breast cancer ( T1 - T3 ) .
+Sixty patients , 30 in each group , gives an 80% chance of showing a 25% difference in the two drugs in Ki67 .
+For a continuous variable , there is 80% power to detect a difference corresponding to 0.72 × SD , where SD is the standard deviation in each treatment arm .
+For binary data , 30 per group is adequate to distinguish with 80% power between rates of 10% versus 40% ( or 60% versus 90% ) .
+Premenopausal status was ensured by checking that the women were still having regular periods , or if they were irregular , hormone levels were checked to ensure that the __FSH__ and oestradiol levels fell within the premenopausal range .
+Patients were excluded if there was any evidence of metastatic disease , if they had received any form of hormonal therapy within 4 weeks of randomisation , or if they had received radiotherapy to the primary tumour .
+Patients with evidence of uncontrolled co-existing systemic disease were also excluded .
+The study was approved by Lothian Ethics Research Committee .
+Written informed consent was obtained from each patient .
+The first patient was recruited on 14/10 / 2003 and the last patient completed the study on 05/07 / 2005 .
+Once entry criteria were met patients were entered into the study .
+Randomisation was performed prior to recruitment of patients .
+Patients were numbered according to their date of recruitment .
+Patients receiving fulvestrant were given it at a dose of 750 mg as three separate 5 ml intramuscular injections into either gluteus maximus or vastus lateralis 14 - 16 days prior to surgery .
+Patients receiving tamoxifen were given 20 mg tablets daily for 14 - 16 days prior to surgery .
+2.2. Assessment of tumour markers
+2.2.1. Biopsy and surgical specimens
+Biopsies were taken from all patients at the time of diagnosis using a 14 gauge core-biopsy needle .
+Patients with suspicious lesions were asked to sign a generic consent form allowing fresh tumour to be stored assuming sufficient tissue was available .
+Once the eligibility criteria had been met , patients were invited to participate in the study and any stored fresh tumour samples were then made available .
+Following surgery the surgical excision specimens were sent to the pathology department within the hospital and extra sections of the tumour were taken for analysis .
+All samples were fixed in formalin within 1 h and embedded in paraffin within 48 h .
+For all tumour marker analyses , matched pre- and post-samples for each patient were run together in the same assay .
+A positive control slide of known marker positivity was included in each run .
+Tumour immuno-staining included areas of malignant breast tissue only as assessed by a pathologist ( DF or JT ) .
+2.2.2. ER and PgR levels
+ERgreek small letter alpha expression was assessed at the Edinburgh Breast Unit Laboratory at the University of Edinburgh .
+Recognised immunohistochemical assays were used with the anti-ERgreek small letter alpha antibody clone 6F11 from mouse melanoma p3-NS1-Ag4-1 ( supplied by Novacastra ) .
+ERgreek small letter alpha immunopositivity appears clearly as a brown nuclear signal in tumour epithelial cells against a blue background of counterstain .
+Sections were viewed at ×40 and ×10 by two personnel with the aim of looking at 2000 cells .
+A consensus value for both the percentage of cells staining and the intensity of staining were noted before allocating an Allred score ( 0 , 2 - 8 ) .
+The assay procedure for PgR was similar to that used to detect ER , but the primary antibody was an anti-PgR antibody ( Clone PgR636 - Dakocytomation ) .
+Results were also expressed as an Allred score .
+2.2.3. Ki67 levels
+Ki67 is a nuclear antigen produced by proliferating cells .
+The assay procedure was again similar to that used to detect ER and PgR , but the primary antibody was an MIB-1 anti-Ki67 antibody ( Dakocytomation ) .
+The Ki67 expression was recorded as a percentage of positively staining nuclei - two observers each counting at least 1000 cells .
+2.2.4. HER2 status
+HER2 status was assessed in the pathology department of the Edinburgh Royal Infirmary using the Dako HercepTest [ TM ] .
+Each tumour was evaluated by HercepTest scoring ( 0 , 1+ , 2+ or 3+ ) .
+All samples scored as 2+ or 3+ for HER2 status were tested by __FISH__ using Dakocytomation .
+The system uses a mixture of two probes ; HER2 labelled with Texas Red , and a reference chromosome 17 probe , labelled with fluorescein .
+A ratio of less than 1.8 for the number of HER2 signals compared with chromosome 17 signals is considered as non-amplified .
+A ratio of 2.2 or more is amplified , and 1.8 - 2.2 is borderline .
+Over-expression of __HER2__ was defined as tumours staining 2+ or 3+ , which also tested positive by __FISH__ , while all patients with tumours scored as 0 or 1+ on HercepTest scoring and __FISH__ negative were considered not to over-express __HER2__ .
+2.2.5. Plasma concentrations of fulvestrant and hormones
+Blood samples were taken on the first study day prior to any drug administration and immediately prior to surgery to determine plasma concentrations of fulvestrant , __FSH__ , __FSH__ , progesterone and oestradiol .
+Additionally , in patients randomised to receive fulvestrant , fulvestrant levels were measured after one week , at the time of surgery , 10 days following surgery and 20 days following surgery .
+Steroid hormone levels at study entry and the date of the last menstrual period were both used to determine whether patients were in the follicular or luteal phase of their cycle at the time of starting the trial .
+This was important as changes in hormone levels following drug administration might be influenced by the hormone levels and cycle phase at entry .
+For instance , the higher endogenous oestrogen levels that occur in the luteal phase may impinge upon the efficacy of both drugs .
+Patients were determined as being in the luteal phase primarily on the basis of a raised progesterone level above 6.0 pmol / ml .
+Hormone levels were measured in the department of biochemistry at Edinburgh Royal Infirmary .
+Plasma fulvestrant levels were measured at the Drug Metabolism and Pharmacokinetics Department , AstraZeneca , Macclesfield , UK .
+2.3. Tolerability
+Throughout the study adverse events were recorded .
+Safety data were summarised for all patients but were not formally subjected to statistical analysis .
+2.4. Statistical analyses
+The aim of the study was to determine whether a 750 mg dose of fulvestrant was effective in this patient population and to compare its effects with tamoxifen .
+The power required for statistical testing was therefore set at 80% .
+The three primary endpoints were changes in ER , PgR and Ki67 levels and all were considered of equal importance .
+As the study was investigating exploratory endpoints in a new patient population for fulvestrant , two arms of 30 patients were chosen for practical reasons .
+For ER and PgR expression the results are presented as medians ( with minimum and maximum values shown ) for pre-treatment , post-treatment and change from baseline values .
+Analysis has been performed on the change from baseline scores using non-parametric techniques ( since the data were not normally distributed ) :
+( i ) Signed rank test on paired data for within treatment group comparisons .
+( ii ) Wilcoxon signed rank sum test for between group comparisons .
+For K__SE__ ) for the pre-treatment , post-treatment and change from baseline data .
+Analysis has been performed on log-transformed data ( so that the assumptions of normality hold ) using
+( i ) Paired t-tests for within treatment group comparisons .
+( ii ) LS-means are presented using analysis of covariance ( including terms for treatment and covariate to adjust for baseline pre-treatment values ) for between group comparisons .
+The least square mean ( LS mean ) is the average of the post-treatment value , adjusted for the baseline score .
+This , in effect , removes some of the variability accorded to the patients , and allows a clearer indication of whether there is a true difference between the treatments .
+This method ( analysis of covariance ) also allows for skew distributions , such as is often evident in Ki67 data .
+3. Results
+3.1. Patients
+Sixty two patients were randomised for the study .
+One patient withdrew from the study following randomisation but before receiving any drug treatment and another was ruled ineligible following randomisation due to an abnormal electrocardiogram .
+Of the 60 who received drug , 30 patients had tamoxifen and 30 fulvestrant .
+Mean age and age distribution were similar for the two groups .
+3.2. Tumour markers
+Baseline levels of expression of ER and PgR were the same ( Allred score of 7 ) for both treatment arms and are shown in Chart 1 and Chart 2. Changes in ER and PgR expression are shown in Chart 3 and Chart 4. Baseline and post-treatment levels of Ki67 expression are shown in Chart 5 and Chart 6. Comparisons of the effects of fulvestrant 750 mg and tamoxifen 20 mg on ER , PgR and Ki67 levels are shown in Table 2.
+Both fulvestrant and tamoxifen caused statistically significant decreases in Ki67 and ER expression ( p < 0.0001 ) .
+However for tamoxifen , the fall in PgR score is not significant at p = 0.076 , as opposed to the fall in PgR expression with fulvestrant which is significant at p < 0.0001 .
+The results in Table 2 indicate that although treatment with fulvestrant produced numerically larger changes from baseline in both ER and PgR Allred scores compared with tamoxifen , the between group differences were not statistically significant ( p = 0.085 and p = 0.062 , respectively ) .
+Although treatment with tamoxifen would seem to be more effective in terms of reduction in Ki67 this result is not significant at 5% ( p = 0.062 ) and a larger sample size would be required to examine this further .
+There were no clear differences in the changes in hormone receptor expression between HER2-positive and -negative tumours .
+3.3. Hormones
+The main aim of this study was to analyse the effects of fulvestrant and tamoxifen on ER , PgR and Ki67 levels , therefore no statistical analysis was performed on the hormone levels .
+There were no major differences in the changes in hormone concentrations from baseline between patients receiving treatment in the luteal phase of the cycle and those in the follicular phase .
+Changes in the concentrations of __FSH__ , __LH__ and progesterone were variable , but there was no difference when comparing the effect of the two drugs .
+Fulvestrant , however , did produce a greater rise in oestradiol concentrations from baseline compared with tamoxifen , irrespective of whether the patient was in the luteal or follicular phase of the menstrual cycle .
+3.4. Tolerability
+All patients described side effects when questioned following their treatment .
+However , no patients contacted the medical staff before this time with regard to adverse events .
+None of the adverse effects described warranted medical intervention .
+The incidence and type of adverse events were similar between those receiving fulvestrant and those receiving tamoxifen .
+However those receiving fulvestrant did describe local symptoms at the site of the injections .
+Those receiving injections from a doctor were more likely to describe pain at the injection site than those receiving injections from a nurse ( p = 0.0001 ) .
+Allocation of patients to either a doctor or nurse was not randomised and therefore this observation is described merely as an interesting retrospective observation .
+4. Discussion
+This study was designed to investigate the effects of fulvestrant at a dose of 750 mg on hormone receptor expression and proliferation in premenopausal women with ER-positive early breast cancer ; 750 mg was chosen because a previous study investigating the effect of a single intramuscular injection of 250 mg fulvestrant had shown no significant effect on ER or PgR or Ki67 levels in premenopausal women.9 In contrast to the lack of effect of a 250 mg dose , fulvestrant 750 mg significantly downregulated ER and PgR and significantly reduced proliferation .
+It is clear therefore that fulvestrant is active in premenopausal women providing that it is delivered in a sufficient dose .
+This is consistent with the observations in postmenopausal women .
+In a study of postmenopausal women with primary breast cancer who received a single intramuscular injection of 50 mg , 125 mg or 250 mg a dose dependent reduction in ER levels and Ki67 was seen.4
+Fulvestrant was also active in this study at reducing PgR levels .
+The failure of fulvestrant 250 mg in the previous study of premenopausal women to do this which contrasts with the PgR fall in postmenopausal women given the same dose is likely to be related to the higher oestradiol concentrations present in premenopausal women which presumably out-compete fulvestrant for binding to ER .
+At higher doses such as 750 mg there is more fulvestrant available to compete with this oestrogen .
+Although the majority of women in this study described some side effects when questioned , and there were local symptoms related to the fulvestrant injections , the drug at the dose of 750 mg was remarkably well tolerated .
+None of the patients contacted medical staff between the time of drug treatment and surgery because of side effects .
+This suggests that even in a dose three times the conventional dose for postmenopausal women , tolerability is not a problem .
+If reformulated such that it could be adequately delivered more easily in high dose to premenopausal women then it is likely to be an acceptable treatment from a tolerability viewpoint .
+The study set out to compare the effects of 750 mg of fulvestrant with the standard dose of 20 mg of tamoxifen .
+In premenopausal women tamoxifen ( ±goserelin ) remains the hormonal agent of choice and its activity has also been demonstrated in this study .
+Almost all the tumours in patients who received tamoxifen had a reduction in proliferation following treatment .
+The magnitude of reduction in proliferation was also greater with tamoxifen than fulvestrant , although this difference did not reach statistical significance .
+ER and PgR were also significantly reduced following treatment with tamoxifen .
+The effects on PgR contrast with the effects in postmenopausal women where tamoxifen increases PgR expression .
+This is due to the fact that in the presence of high levels of oestrogen in premenopausal women , tamoxifen acts as an oestrogen antagonist whereas in postmenopausal women who have much lower levels of oestrogen the agonistic effects of tamoxifen are manifested by an increase in PgR .
+The magnitude of the effects of tamoxifen and fulvestrant is similar although there was a numerically greater reduction in ER with fulvestrant compared with tamoxifen , although this difference did not reach statistical significance ( p = 0.085 ) .
+In premenopausal women either doses of fulvestrant higher than 250 mg are required or fulvestrant should be combined with a GnRH analogue such as goserelin to reduce circulating oestrogen levels arising from ovarian activity to produce its maximum effect .
+This study showed numerically greater increases in plasma oestradiol levels after treatment with fulvestrant compared with tamoxifen .
+The increase was seen in patients in both luteal and follicular phases .
+Similar observations were seen in a previous study in premenopausal women with breast cancer treated at a dose of 250 mg4 and in an earlier study looking at the activity of fulvestrant 250 mg in women with fibroids.9 It is not clear how fulvestrant causes higher oestradiol levels as there were no major changes in __LH__ and __FSH__ .
+Cross-reactivity of the pure anti-oestrogen in the oestrogen assay is a possible explanation .
+Other studies of tamoxifen and raloxifine in premenopausal women have also shown increases in circulating oestradiol levels without a concomitant rise in pituitary hormones , suggesting this is a class effect. However , the changes in hormone levels in this study are difficult to interpret fairly in that patients were at different stages of the menstrual cycle at the time of commencement .
+A fairer interpretation would be obtained from a study in which women started their treatment on day one of the menstrual cycle .
+In the current study this would not have been feasible .
+A monthly dose of 250 mg fulvestrant is currently approved for the treatment of postmenopausal women with advanced , ER-positive breast cancer who have progressed or relapsed following primary anti-oestrogen therapy .
+The introduction of the dose of 250 mg followed biological studies showing that 250 mg reduced proliferation to a similar degree to that seen with tamoxifen .
+Consistent with its novel mode of action , 250 mg of fulvestrant significantly down regulated ER and PgR.4 Although the advent of the third-generation aromatase inhibitors has broadened the range of endocrine treatment options for postmenopausal women , the options for premenopausal women are still limited .
+Options include tamoxifen alone or rendering women postmenopausal with ovarian ablation and then treating them with one of the agents currently available for postmenopausal women .
+This study has demonstrated that at a dose of 750 mg , fulvestrant is biologically active and shows similar efficacy to tamoxifen in down-regulating Ki67 , a marker of proliferation .
+At the dose of 750 mg fulvestrant is well tolerated and although it did cause a range of side effects these were all minor ( grade 1 ) .
+While currently the dose of 750 mg cannot be recommended for use in premenopausal women it does suggest that if doses higher than 750 mg can be delivered they are likely to be tolerable and higher doses might be more efficacious .
+Further studies with this agent in premenopausal women are therefore warranted .

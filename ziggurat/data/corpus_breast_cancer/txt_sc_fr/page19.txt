@@ -1,0 +1,94 @@
+La capécitabine est une chimiothérapie orale non cytotoxique qui a obtenu , en février 2001 , une première autorisation de mise sur le marché européenne en monothérapie dans le traitement de première ligne du cancer colorectal métastasique .
+Dans cette indication , elle est inscrite sur la liste des spécialités pharmaceutiques agréées à l' usage des collectivités .
+La Commission de la transparence lui a reconnu à_cette_occasion un __SMR__ « important » et une __SMR__ de niveau II , en raison de sa forme comprimé qui « permet de conduire un traitement en ville sans recours à une perfusion » .Des essais de phase III ont montré l' efficacité et le bon rapport efficacité / tolérance de la capécitabine chez des patientes présentant un cancer du sein métastatique ou localement avancé , qui étaient en échec à un traitement par anthracycline ou par taxane .
+Dans les deux cas , outre le bon profil de tolérance , le fait d' être un traitement oral administrable à_domicile a été reconnu comme un avantage en termes de qualité de vie .
+L' indication de la capécitabine a été élargie au cancer du sein localement avancé ou métastatique , en association avec le docétaxel , et a obtenu une nouvelle évaluation par la Commission de la transparence qui lui a attribué à_nouveau un __SMR__ important et une __ASMR__ de niveau II par_rapport_à la prise en charge habituelle .
+Au-delà du bénéfice clinique du traitement , cette analyse évalue , à_partir_de l' essai SO14999 , l' implication économique de l' utilisation de la capécitabine associée au docétaxel dans le cancer du sein métastatique ou localement avancé en France comparativement au docétaxel utilisé seul .
+Résultats
+Description des populations étudiées
+Au total , 511 patientes ont été randomisées dans cet essai , avec respectivement 255 dans le groupe associant capécitabine-docétaxel et 256 dans le groupe avec docétaxel seul .
+Les caractéristiques démographiques des patientes à l' inclusion étaient équivalentes entre les groupes ( tableau 1 ( Tableau 1 ) ) .
+Résultats d' efficacité
+Le temps de traitement avant échec ( durée de suivi dans l' essai ) était significativement plus élevé dans le bras sous bithérapie comparé au bras monothérapie ( 121 versus 86 jours , p = 0,0002 ) .
+Les durées de survie sans progression de la maladie étaient statistiquement supérieures dans le bras capécitabine avec une durée médiane de 186 contre 128 jours dans le bras docétaxel seul ( log-rank p = 0,0001 ) .
+Par ailleurs , la durée de survie globale était significativement plus importante dans le bras recevant la bithérapie que dans le bras monothérapie avec , respectivement , des valeurs médianes égales à 442 versus 352 jours ( p = 0,0126 ) .
+Recours aux soins des patientes
+Les pourcentages de patientes hospitalisées sont équivalents entre les deux groupes de traitement avec 101 patientes hospitalisées dans le groupe capécitabine-docétaxel ( 40,2 % ) et 94 patientes ( 36,9 % ) dans le groupe docétaxel ( p = 0,435 ) .
+La majorité des hospitalisations surviennent relativement tôt pendant le suivi , soit entre les semaines 1 et 9 , et ce nombre d' hospitalisations décroît très rapidement avec le temps .
+La durée des séjours d' hospitalisation est en moyenne de 8,5 jours pour le bras en association et de 10,3 jours pour le bras sous docétaxel .
+Les taux d' hospitalisations liés à des événements indésirables dus au traitement d' étude sont très proches , avec un pourcentage de 27,5 % en moyenne sur les deux groupes ( 28,7 versus 26,3 % ) et de 15 % pour les événements non liés au traitement ( respectivement 15,1 et 14,9 % ) .
+Les principaux types d' événements indésirables rencontrés ayant conduit à une hospitalisation sont pour les deux branches liés à une neutropénie ( neutropénie avec fièvre , neutropénie , et infection neutropénique ) .
+Les soins médicaux associés à l' administration du docétaxel montrent que les durées moyennes d' injection sont similaires dans les deux groupes avec une durée moyenne de perfusion égale à 1 h 15 , pour une durée moyenne de séjour à l' hôpital légèrement supérieure à 12 h dans les deux groupes ( médiane 3 h ) .
+Cet écart « notable » entre les durées médianes et moyennes de séjours s' explique notamment par un pourcentage de séjours supérieurs à 24 h de l' ordre de 12 % dans le bras capécitabine-docétaxel et de 16 % dans le bras monothérapie .
+Les patientes du groupe avec capécitabine ont eu davantage recours à des consultations supplémentaires que les patientes traitées avec le docétaxel seul ( tableau 2 ( Tableau 2 ) ) ; 83,7 % des patientes du groupe sous bithérapie ont consulté au moins une fois un professionnel de santé contre 73,3 % dans le groupe docétaxel seul ( p = 0,005 ) .
+Le type de praticien consulté semblait assez différent entre les deux groupes : si 19,5 % des patientes sous capécitabine ont consulté au moins une fois un médecin généraliste , elles étaient 25,5 % dans le groupe docétaxel seul ( p = 0,108 ) .
+Le nombre moyen de consultations « généraliste » était quant_à lui estimé à 1,9 dans le premier groupe contre 2,3 dans le second .
+En ce qui concerne les visites chez le médecin spécialiste , la tendance était cette fois inversée : 71,3 % des patientes sous capécitabine ont eu recours à ces professionnels de santé contre 58,8 % des patientes sous docétaxel ( p = 0,003 ) .
+Le nombre moyen de consultations « spécialiste » était légèrement supérieur pour le groupe avec capécitabine ( 7,1 versus 5,4 ) .
+Enfin , 48,6 % des patientes recevant l' association capécitabine-docétaxel ont eu recours à des soins infirmiers ou autres consultations contre 40,4 % pour les patientes recevant du docétaxel seul ( p = 0,063 ) , avec en moyenne 8 consultations pour les personnes ayant consulté .
+Les traitements concomitants les plus fréquemment rencontrés concernent des analgésiques ( paracétamol , morphine ) , des antibiotiques , des antifongiques , des traitements antidiarrhéiques et anti-émétiques .
+Coût médical
+Le coût médical total est estimé à 11786,70 eurosen moyenne ( IC95 % = 10 982,3-12 591,0 ) dans le groupe sous capécitabine-docétaxel versus 11570,30 eurosdans le groupe sous docétaxel seul ( IC95 % = 10 719,5-12 421,2 ) , soit un écart non significatif de 216 euros ( p = 0,642 ) ( tableau 3 ( Tableau 3 ) ) .
+Le surcoût lié au traitement en association est par_conséquent minime ( 216 [ euros ] ) et permet un gain moyen de 0,23 année de vie .
+Ces résultats nous permettent d' estimer le ratio coût par année de vie gagnée à 952 euroset le ratio coût par année de survie sans progression de la maladie à 1198 [ euros ] .
+Le coût des hospitalisations pour effets indésirables est estimé à 1539,60 eurosdans le groupe en association et à 1639,40 eurosdans l' autre ; soit un écart de 100 eurosentre les deux groupes ( p = 0,565 ) .
+Avec un taux et un nombre de recours aux consultations globalement plus élevés pour les patientes sous capécitabine , le coût moyen des consultations est significativement plus élevé dans le bras en association .
+Ainsi , ce dernier est estimé à 121,50 eurosdans le groupe traité par capécitabine et à 80,70 eurosdans le second groupe ( p = 0,006 ) ( tableau 4 ( Tableau 4 ) ) .
+Les coûts des traitements concomitants relevés au_cours_de l' essai SO14999 sont sensiblement supérieurs en valeur dans le bras capécitabine avec un coût moyen estimé à 188,60 eurosdans le groupe bithérapie et 128,40 eurosdans le groupe monothérapie ( p = 0,06 ) .
+Le coût des perfusions de docétaxel est équivalent dans les deux groupes avec en moyenne 2061,70 eurospour le groupe traité par bithérapie et 1865,90 eurospour le groupe sous docétaxel seul ( p = 0,141 ) .
+Enfin , le coût d' acquisition des médicaments représente assez logiquement le poste le plus important du coût médical total , avec un coût moyen estimé à 7856 eurosdans le bras docétaxel seul contre 7875 eurosdans le bras en association .
+Dans le bras en association , le coût de la capécitabine représente 1786 eurosdans le coût de cette chimiothérapie , auquel s' ajoute le coût du docétaxel estimé à 6089,20 [ euros ] .
+Au final , les consommations de ressources restent à_la_fois très proches en valeur entre les deux stratégies .
+Quant à leur décomposition intrabranche , celle-ci est quasi strictement identique ; elle se décompose en : 67 % pour l' acquisition des « traitements d' étude » , 17 % pour les séances de chimiothérapie et 13 % pour les hospitalisations liées aux effets indésirables .
+Les autres postes représentent donc une très faible part du coût médical total .
+Analyse de sensibilité
+Dans le cas le plus favorable , l' association capécitabine-docétaxel offre un allongement significatif de la durée de survie globale et , dans le même temps , les coûts médicaux de cette stratégie ne sont pas supérieurs aux coûts de la stratégie avec le docétaxel seul .
+Il s' agit donc d' une stratégie dominante .
+Dans le cas le moins favorable à la capécitabine , le traitement en association est légèrement dominé .
+En termes de survie sans progression de la maladie , le ratio de coût par année de vie sans progression s' établit à 1198 eurospour l' association capécitabine-docétaxel versus docétaxel .
+Dans le cas le moins favorable à la capécitabine , il s' élève à 23,56 [ euros ] , ce qui demeure acceptable .
+Enfin , dans le cas le plus favorable , la stratégie en association domine une nouvelle fois la stratégie en monothérapie .
+Discussion
+Cette étude avait pour objectif d' évaluer le coût médical de l' association capécitabine et docétaxel versus l' utilisation du docétaxel en monothérapie en France et d' estimer le rapport coût / efficacité entre ces deux stratégies .
+Nous avons pour cela utilisé les résultats de l' essai clinique SO14999 montrant la meilleure efficacité des produits utilisés en association , chez des patientes en échec d' un traitement par anthracycline .
+L' association capécitabine et docétaxel 75 mg / m2 permet un allongement significatif du temps sans progression de la maladie , et de la survie globale des patientes .
+Nous avons estimé le coût médical des deux stratégies selon la perspective du payeur en France .
+Ainsi , le coût médical de la prise en charge a été évalué à 11786 eurosen moyenne par patiente pour les patientes recevant l' association capécitabine-docétaxel et à 11570 eurospour les patientes recevant du docétaxel seul .
+Le surcoût lié au traitement en association est par_conséquent minime ( 216 [ euros ] ) et permet un gain moyen de 0,23 année de vie .
+Ces résultats nous permettent d' estimer le ratio de coût par année de vie gagnée à 952 [ euros ] .
+Dans le même temps , le ratio de coût par année de vie sans progression de la maladie s' établit à 1198 [ euros ] .
+Les résultats de cette évaluation coût / efficacité témoignent de la grande efficience de l' association capécitabine-docétaxel , en comparaison aux autres interventions en oncologie ayant fait l' objet d' une évaluation économique publiée .
+Selon une analyse menée rétrospectivement dans un Centre de lutte __CLCC__ , le rapport coût / efficacité des différentes interventions dans le cancer du sein s' échelonnait entre 1063 euroset 1389 eurospar année de vie gagnée entre 1975 et 1985 .
+Plus récemment , celui de l' exémestane par rapport au mégestrol dans le traitement du cancer du sein métastatique a été estimé à 9000 CAN$ par année de vie sauvée au Canada ( soit 5490 [ euros ] ) , à 10600 US$ par année de vie sauvée aux États-Unis et dans un intervalle de variation compris entre 5000 et 13000 eurosselon les pays européens .
+Les résultats de l' étude menée au Canada par Verma , qui compare également l' association capécitabine-docétaxel au docétaxel seul dans un modèle , fournissent un ratio incrémental de 3691 CAN$ par année de vie gagnée ( soit 2252 [ euros ] ) dans le cas central .
+Peu de données sont encore disponibles en France sur l' analyse coût / efficacité dans le cancer du sein métastatique .
+La majorité des études économiques réalisées ont surtout pour objectif l' évaluation du dépistage .
+Une évaluation rétrospective du coût de la prise en charge intégrale du cancer du sein a été effectuée dans un __CLCC__ entre 1995 et 2000 ; elle estime le coût médical à 10072 eurosen moyenne par patiente .
+L' étude de Launois présente une évaluation médico-économique de la chimiothérapie de deuxième ligne dans le CSM en comparant trois attitudes thérapeutiques .
+Le docétaxel avait été montré comme stratégie dominante dans les deux cas en comparaison à la vinorelbine et au paclitaxel .
+Si l' on étend l' analyse aux autres pathologies cancéreuses , les ratios publiés restent nettement supérieurs aux ratios de la capécitabine .
+Les ratios estimés dans notre analyse seraient considérés comme coût / efficaces si l' on se réfère aux valeurs traditionnellement considérées comme « acceptables » pour les traitements oncologiques , à savoir 50000 US$ par année de vie gagnée et 20000 £ par année de vie gagnée .
+L' examen du tableau récapitulatif des coûts montre que le coût global des deux stratégies est similaire , avec un surcoût net de 216 eurospar patient .
+Le poste de coût ayant le plus fort impact sur le coût total est bien entendu le coût global de la chimiothérapie , suivi du coût des hospitalisations pour traiter les événements indésirables .
+Le coût des hospitalisations a été réduit de 100 euroscomparé au bras recevant du docétaxel seul .
+Ce différentiel de coût en faveur du bras en association pourrait être attribuable à l' utilisation d' une dose moindre de docétaxel dans ce groupe .
+Les patients recevant capécitabine-docétaxel ont tendance à consulter davantage les professionnels de santé que ceux du groupe docétaxel ( 83,7 versus 73,3 % ) et de manière plus fréquente ( 11,4 consultations versus 9,1 ) .
+De nombreuses consultations avaient eu lieu par téléphone ( près d' une consultation sur trois dans les deux groupes ) .
+Les consultations de cette nature , bien_que relevées dans l' étude , n' ont pas été prises en compte lors_de la valorisation économique .
+Le besoin de consultations « supplémentaires » dans le bras capécitabine peut refléter , au moins partiellement , la moindre connaissance de l' expérience clinique de ce produit par les patientes .
+En outre , ces consultations téléphoniques concernent principalement des appels passés aux personnels infirmiers .
+Ce mode de consultation sous-estime donc certainement le coût réel des consultations mais leur relative équi-répartition entre les groupes nous laisse penser qu' elles n' influenceraient que modestement les résultats .
+Notre analyse présente certaines limites , au premier rang desquelles on trouve l' utilisation de données de consommation de ressources issues d' un essai clinique randomisé .
+Les biais induits par l' utilisation des données d' un essai clinique sont bien identifiés .
+Ils concernent principalement l' ensemble des visites et procédures faisant l' objet de protocoles .
+Cependant , comme dans toute analyse incrémentale , la portée de ces biais est limitée , car l' effet du protocole est le même dans les deux bras de traitement .
+Par ailleurs , la prise en charge des cancers , et notamment de formes sévères tels_que le cancer du sein métastatique , semble être un cas favorable à l' utilisation d' essais cliniques pour l' analyse économique .
+En effet , le traitement et le suivi de ces patientes sont pris en charge dans des centres spécialisés qui appliquent des protocoles clairement établis , notamment grâce aux recommandations de la Fédération nationale des centres de lutte contre le cancer .
+Une autre « force » de cette analyse est que la majorité des données d' efficacité et de coût ont été collectées prospectivement pendant l' essai clinique et non après l' apparition de la progression de la maladie .
+Il n' y a pas de raison de penser que les coûts associés à la prise en charge des soins postérieurs à la progression de la maladie diffèrent entre les groupes .
+Cette étude coût / efficacité a la particularité de pouvoir être facilement transposable à d' autres pays .
+Ces derniers peuvent aisément reporter leurs données nationales de coût relevant de leur système de soins et ainsi obtenir de nouveaux ratios incrémentaux de comparaison de ces deux stratégies thérapeutiques .
+Conclusion
+L' analyse coût / efficacité en relation avec les résultats d' efficacité clinique met en évidence des rapports coût / efficacité pour la capécitabine de 952 eurospar année de vie gagnée et de 1198 eurospar année de vie sans progression de la maladie .
+Ces rapports sont bien en_deçà des standards d' acceptabilité , notamment dans une pathologie aussi grave que le cancer du sein métastatique .
+En conclusion , l' adjonction de la capécitabine au docétaxel dans le traitement des formes métastatiques ou localement avancées de cancers du sein , chez des patientes en échec d' un traitement par anthracycline , représente une alternative coût / efficace dans le contexte français .

@@ -1,0 +1,156 @@
+Biological paradigms in breast cancer
+The opening session outlined the two dominant paradigms of tumour pathogenesis which have governed the management of breast cancer over the past century ( John Benson , Cambridge , UK ) .6 According to the Halstedian paradigm , local recurrence is considered to be a cause of distant metastases with the chance of cure related to the extent of primary loco-regional treatment .
+At the extreme , mastectomy will minimize local recurrence , but acceptable rates of local control can be achieved with adequate wide excision and radiotherapy .
+Where local recurrence is a determinant of distant disease , treatment at relapse may prevent distant metastases : thus timing of diagnosis and initiation of treatment is critical .
+The Fisherian paradigm presupposes that breast cancer is predominantly a systemic disease at the outset , and local recurrence is viewed as a marker of risk for distant relapse against a background of micrometastases .
+It reflects a host-tumour relationship which favours development of distant disease or activation of processes leading to kick start of micrometastases .
+Distant disease and mortality are governed by the innate pathobiological features of the disease and not by the extent of loco-regional treatments .
+An intermediate paradigm may be relevant which encompasses elements of Halsted and Fisher but is less restrictive than either paradigm in pure form .
+Loco-regional treatments are potentially curative when disease is confined to the breast and lymph nodes .
+Under these circumstances , when local management is incomplete , cancer cells persist within loco-regional tissues and can develop into distant metastases at a later date .
+By contrast , where micrometastases are pre-existent , local recurrence would be an indicator of poor prognosis , with foci of residual tumour and distant occult disease maintained in a state of dynamic equilibrium until some event triggers recurrence .
+Molecular profiling may allow distinction between these two basic groups and avoid under- and over treatment with both loco-regional and systemic therapies.7
+__EBCTCG__ overview
+Sarah Darby ( Oxford , UK ) presented highlights of the most recent publication reporting on the local therapy trials from the __EBCTCG__ worldwide overview.5 Adjuvant radiotherapy reduced the rate of isolated local recurrence by two-thirds in 10 trials of breast conservation with or without radiotherapy .
+Most of the effect of radiotherapy on loco-regional recurrence took place during the first 5 years , and the absolute gain at 5 years was 16.1% in node negative and 30.1% in node positive disease .
+Adjuvant radiotherapy after breast conserving surgery also reduced the breast cancer mortality rate by 17% .
+Most of the beneficial effect of radiotherapy on breast cancer mortality took place more than 5 years later and at 15 years the absolute gain was 5.1% in node negative disease , 7.1% in node positive disease and 5.4% for both node negative and node positive combined .
+This is the first time that significant benefits for overall survival have been reported after breast conserving surgery .
+Radiotherapy after mastectomy with axillary clearance also prevented two-thirds of loco-regional recurrences with , once again , most of the effect observed during the first 5 years .
+Among women with node positive disease , there was an absolute gain of 5.4% at 15 years for mortality from breast cancer and an absolute gain of 4.4% for mortality from all causes .
+For node negative patients , the local recurrence rate was low in the absence of radiotherapy , with a cumulative 5 year risk of 6.3% .
+Although radiotherapy still reduced the rate of local recurrence by two-thirds , this amounted to an absolute 5 year local recurrence gain of only 4% , and there was no reduction in breast cancer mortality at 15 years .
+For those treatment comparisons where the absolute difference in local recurrence rates at 5 years was less than 10% , there was no significant gain in terms of 15 year breast cancer mortality .
+In contrast , where the absolute differences in 5 year local recurrence were substantial ( i.e. 10% or more ) , the absolute reduction in 5 year local recurrence risk was 19% , and the absolute reduction in 15 year breast cancer mortality risk was 5% .
+This represents 1 breast cancer death avoided in the first 15 years for every 4 loco-regional recurrences avoided in the first 5 years .
+These results from __EBCTCG__ overview , which are based on the analysis of individual patient data on 42,000 women in 78 randomized treatment comparisons provide firm evidence that differences in local treatment which substantially improve local control will also have definite effects on 15 year breast cancer mortality .
+Does ipsilateral breast tumour recurrence affect survival ?
+Roger Blamey ( Nottingham , UK ) and Hiram Cody ( New York , USA ) provided opposing viewpoints on how IBTR affects survival .
+Blamey presented survival data for patients with and without local recurrence and concluded that the relative risk of recurrence from avoidance of IBTR was 69% ( IBTR contributed to approximately one-third of the overall recurrence risk ) .
+IBTR was the single most important risk factor and an independent prognostic factor for survival ( ß=1.41 ; SE 0.15 p<0.001 ) .
+However , this Cox analysis did not indicate whether IBTR was causal or just associated with survival and Blamey conceded that we do not know the answer to this key question .
+It is clear that IBTR does reflect biology of a tumour and is a manifestation of risk for distant relapse ( Fisherian paradigm ) .
+Though clinical trials should provide conclusive evidence on whether surgery affects local or distant relapse , there are now relatively fewer relapse events .
+If rates of local recurrence can be minimized in the first 5 years , this will eventually impact on overall survival ( Halstedian paradigm ) .
+Cody re-affirmed that IBTR does affect survival and cited the Milan data for which local recurrence conferred an overall increased risk of distant metastases of 4.62 fold ( 95% CI 3.34 - 6.39 ) .2 When the question is re-phrased to ask whether treatments that reduce IBTR affect survival , the answer is definitely yes .
+Cody re-iterated the crucial questions ( a ) is local recurrence a cause of distant metastases and therefore worth preventing or ( b ) is it merely an effect of aggressive tumour biology and not worth preventing ?
+The debate on local recurrence as a determinant or marker of risk antecedes the era of breast conservation surgery .
+William Halsted commented that " the efficiency of a breast cancer operation is measured truer in terms of local recurrence than of ultimate cure ... . " 8 Treatments which allowed en bloc resection of tumour together with adjacent loco-regional tissues offered the best chance of cure and minimized local recurrence .
+Long-term results of B-04 and B-06 studies support Fisher 's original contention that local treatment makes little difference to overall survival.9 Cody cautiously interpreted results of the Danish10 and British Columbia11 trials examining effects of post-mastectomy radiotherapy on survival .
+Nodal retrieval rates were poor and suboptimal surgery may have led to residual loco-regional disease or " oligometastases " .
+Cody pointed out that survival was relatively favourable even after development of local recurrence that is not a death sentence .
+Though it is often considered that local recurrence within the breast developing after BCT has a better outlook than local recurrence after mastectomy , this appears not to be the case when stage of disease is controlled for.12 Rates of local recurrence are higher in node positive patients and in those with lymphovascular invasion , but it is the intrinsic biology of the tumour which is the main determinant of survival - regardless of whether the treatment has been breast conservation surgery or mastectomy .
+Cody presented evidence that local recurrence might be a cause of distant metastases from analysis of hazard rates for death in patients who have undergone mastectomy for breast cancer without systemic therapy.13 In those patients with local failure , a hazard peak was seen at or beyond 5 years which was absent in those patients without local recurrence .
+When patients with local failure or local failure and positive margins are excluded from the analysis , the late mortality peak disappears .
+It therefore appears that local failure has a causative relationship to this late mortality peak ; when this occurs , patients are " more likely to have suffered early loco-regional or contra-lateral recurrence " .14
+Cody believes that more treatment options should be available for local recurrence after BCT .
+In most countries , including the USA , completion mastectomy is the only treatment for IBTR .
+Alternative options include reconserving the breast and possibly further SLN biopsy , though prior disruption of lymphatic pathways may increase false negative rates for 'second time round sentinel node biopsy .
+It may be feasible to consider re-irradiation with brachytherapy where a booster dose has not been employed at the time of primary treatment .
+Gene expression profiling may help define patterns of relapse and indicate when ( further ) systemic therapy is appropriate at the time of clinically isolated local recurrence .
+Does surgery accelerate the appearance of distant metastases ?
+Michael Baum ( London , UK ) posed the interesting and provocative question of whether surgery per se might accelerate the appearance of distant metastases .
+He hypothesized that incidental surgery can activate latent or dormant micrometastases .
+In accordance with the Fisherian paradigm , a high proportion of tumours have already seeded micrometastases at presentation .
+The formation and activation of micrometastases do not necessarily follow the continuous growth model for cancer development.15 Micrometastases can remain dormant for long periods without progression , being in a state of dynamic equilibrium with simultaneous proliferative activity and apoptosis .
+Dormant micrometastases can be kick-started by some external signal that may be an adverse life event such as surgery .
+The microenvironment of tumour foci contains many cytokines including angiostatins .
+The act of surgery cannot only remove local and systemic inhibitors of angiogenesis , but the cascade of molecular events associated with the normal wound healing process could create the 'signal which heralds the end of dormancy in micrometastases .
+A biphasic pattern of recurrence is observed in breast cancer patients treated by surgical extirpation without adjuvant systemic therapy.16 The first peak is seen between 12 and 24 months after surgery whereas the second peak appears around 5 years after primary treatment .
+The timing of these peaks is consistent for all tumour subgroups , but the amplitude of the peak is influenced by primary tumour characteristics and nodal status .
+Baum proposes that the first peak is attributable to surgical intervention ( i.e. angiogenesis induced ) while the second , smaller peak is related to steady stochastic transitions that characterize the natural history of breast cancer .
+This pattern of recurrence is evident in several breast cancer trials of adjuvant systemic therapies .
+When hazard rates for relapse amongst __ER__ positive patients are analysed in the ATAC trial , the amplitude of the initial peak is suppressed in patients receiving upfront __AI__ .17 This suggests that AI 's may partially counter the effects of surgery upon activation of dormant metastases and patients at greatest risk of both local and distant relapse should receive initial treatment with an AI .
+Finally , the time sequence of hazard rates between local recurrence and distant metastases are identical to that between initial surgery for the primary focus and distant metastases .
+Maybe the act of major surgery in treating isolated local recurrences is responsible for the outgrowth of residual latent distant disease .
+Distinguishing between a true recurrence and a new primary
+Sarah Pinder ( Cambridge , UK ) discussed whether it is possible to distinguish between a true local recurrence within the conserved breast and a new primary .
+The site of recurrence and morphology can be helpful - a lesion occurring within the same quadrant and of the same morphology , as the original tumour is likely to be a true local recurrence .
+However , most cancers are invasive ductal carcinomas of no special type ( IDC ( NST ) ) and histology is not a useful discriminator unless the tumour types are different .
+There is usually no progression of grade between in situ , invasive , locally recurrent and metastatic phases.18 Flow cytometric analyses of DNA ploidy in primary and matching recurrent lesions reveals concordance in more than 70% of cases.19
+Microsatellite instability and LOH confers a distinctive chromosomal pattern which is shared by a true recurrence and the original tumour.20 __CGH__ has also been employed to show a genetic link between the original tumour and a true recurrence.21 Pinder pointed out that the literature on true recurrence versus new primary is a " mish-mash " and resources for molecular genetic profiling are not widely available .
+In the future antibodies could be developed to neutralize the effects of genetic and chromosomal alterations .
+Importance of appropriate loco-regional treatment
+Richard Sainsbury ( London , UK ) emphasized that patients are now more likely to have optimal treatment at first intervention - better surgery , better radiotherapy and appropriate chemohormonal therapy .
+Indeed , specialization has changed practice with improved clinical outcomes for the period 1993 - 1996 compared with 1990 - 1992 ( 79% versus 70% for disease-free survival and 12% versus 22% for 3 year recurrence rate p=0.0004 ) .22 Nonetheless , a 12% rate of local recurrence at 3 years is twice the currently accepted rate of 1 - 2% per annum and even fewer local recurrence events will be evident in the future .
+In the USA , two-thirds of patients undergo mastectomy and only one-third have conservation surgery for breast cancer .
+The rate of inappropriate breast conserving surgery increased from 12% in 1989 to 22% in 1995 .
+Therefore the relative chance of receiving appropriate surgery in 1995 compared with 1989 was 0.91 ( 95% CI 0.90 - 0.93 ) .
+This trend was more evident in younger women in urban communities .
+In Europe there are large variations in practice with average rates of 42.2% and 57.6% for mastectomy and BCT respectively in the UK .
+Axillary recurrence
+Robert Mansel ( Cardiff , UK ) discussed axillary recurrence in the era of sentinel node biopsy .
+Local recurrence within the axilla following axillary dissection is minimized by ( i ) good surgical technique ( ii ) good lighting ( iii ) definition of the level of dissection ( iv ) retraction or removal of the pectoralis minor muscle for level III clearance ( v ) labeling and orientation of the specimen ( vi ) standardization of pathology protocols .
+Reported rates of axillary recurrence following negative sentinel lymph node biopsy are very low ( <0.5% ) . Amongst a selected group of patients who have declined further axillary surgery after a positive sentinel lymph node biopsy , rates of axillary recurrence are higher but still remain relatively low ( 1.4% ) .
+It may appear counter-intuitive that rates of recurrence should be lower for SLN biopsy than ALND , but the former is a targeted procedure and is more likely to remove the biologically relevant node ( s ) .
+Chemohormonal therapy will reduce axillary recurrence by approximately one-third and thus long term rates of recurrence are unlikely to exceed 1% .
+Edinburgh breast conservation series
+Udi Chetty ( Edinburgh , UK ) reviewed the Edinburgh breast conservation series with a minimum follow up was 7 years .
+Breast cancer specific survival rates at 5 and 10 years were 91.2% and 85% , respectively .
+The pattern of breast relapse reaffirms that breast cancer is a heterogeneous disease with some patients experiencing isolated breast recurrence only and others having systemic relapse either preceding concurrent with or following breast recurrence .
+The probability of subsequent systemic relapse is related to tumour histology and Chetty concluded that adequate loco-regional treatment is important and together with systemic therapy should be tailored according to primary tumour characteristics .
+Clear surgical margins are essential to minimize local recurrence rates ; systemic treatment cannot compensate for inadequate surgery .
+Breast conservation surgery in Ireland
+Enda McDermott ( Dublin , Ireland ) reminded us that though clinical trials have shown BCT to be equivalent to mastectomy in terms of overall survival , IBTR remains a significant problem .
+Margin status and radiotherapy are crucial factors in local control .
+National guidelines in Ireland for microscopic margin clearance are 5 mm for invasive disease and 10 mm for DCIS.25 In Europe , only 30% of breast units strive for a 5 mm margin and this figure is even lower in the United States where fewer than 10% of surgeons accept a 5 mm margin for invasive carcinoma.26 There is a balance between minimizing IBTR and achieving satisfactory cosmesis .
+Predictors of compromised margins ( <5 mm ) and of residual disease were analysed in a BCT study from Ireland which aimed to correlate tumour-margin distance with residual disease at re-excision .
+More than half of patients had a risk of residual disease if only a 1 mm margin of clearance was achieved , while 20 - 25% of patients with a margin width of 4 - 5 mm had residual disease that is a surrogate marker for IBTR .
+Tumour size was a risk factor for compromised margins .
+Breast conservation surgery in Spain
+Benito Castellano ( Jerez , Spain ) summarized breast surgical practices at his own institution where 20% of patients undergo breast conservation surgery .
+The overall rate of local recurrence at a mean follow up of 6.7 years was 4.4% .
+More than three-fourth of local recurrences occurred within the first 5 years and survival was reduced in the group with IBTR ( more commonly younger pre-menopausal women ) .
+What are the limits to breast conservation surgery ?
+Christos Markopoulos ( Athens , Greece ) controversially asked whether we should be undertaking more mastectomies .
+Some women may be better served by a mastectomy at the outset ( with immediate breast reconstruction ) rather than a more radical form of BCT with a poor cosmetic outcome .
+Maurizio Nava ( Milan , Italy ) picked up the theme of surgical radicality in the context of breast conservation and asked " what does oncoplastic really mean?. " Oncoplastic surgery embraces new ways of thinking , new styles of working and in turn presents new opportunities for preserving the breast while satisfying oncological mandates .
+According to Nava , there are no limits to surgical resections , but careful selection of patients for either BCT or __SSM__ is crucial .
+Nava emphasizes that oncoplastic procedures often involve wide resections which increase the chance of tumour-free margins .
+The chance of relapse could be reduced by more aggressive approaches to breast conservation .
+The application of oncoplastic techniques to breast cancer surgery remains contentious .
+Cody accepts that such techniques may be appropriate for relatively large breasted women with a small tumour who coincidentally request a reductional procedure .
+However , this is a minor number of patients and Cody believes that the majority of patients with reasonable sized breasts are suitable for conventional BCT .
+Those women with smaller breasts should probably have a complete __SSM__ with formal breast reconstruction .
+Thus there are in reality a small number of women who are suited for true oncoplastic techniques , and whose cosmetic outcome can be genuinely improved by oncoplastic intervention .
+The role of radiotherapy in minimizing risk of IBTR
+Radiotherapy is an integral component of breast conservation therapy and helps achieve good local control .
+Nonetheless , Gill Ross ( London , UK ) admits that many patients receiving radiotherapy after breast conserving surgery are overtreated .
+However , IBTR is a treatment failure that is psychologically distressing for patients even when they are informed that overall survival is unaffected .
+Ross points out that when a tumorectomy or wide local excision is performed , it is not wide compared with a classical cancer operation .
+Radial margins of clearance at the microscopic level are often measured in millimeters and the dissection does not correspond to any anatomical plane .
+Up to 60% of patients have disease in other quadrants of the breast , but these foci can remain dormant and not be a source of de novo or recurrent cancer .
+Absolute benefits for local control from a booster dose are very small , whereas increased fibrosis can result from this additional exposure .
+The target for radiotherapy can be more difficult to identify after neoadjuvant chemotherapy that increases breast conservation rates but not overall survival .
+Indications for chest wall radiotherapy in patients with 1 - 3 positive nodes remain to be clarified .
+Current trials of partial breast irradiation compare whole breast irradiation with newer techniques such as __IORT__ , brachytherapy and intensity modulated radiotherapy .
+There is rapid attenuation of the radiotherapy beam ( 1 / r3 ) with __IORT__ and Ross questioned the radiobiological equivalence of a single treatment with __IORT__ compared with conventional multi-fraction schedules .
+She is skeptical whether it can more efficiently enhance the combined tumour-kill effect of surgery and radiotherapy and thus minimize the chance of recurrence secondary to growth of residual disease at the site of surgery .
+Outstanding issues relating to partial breast irradiation include targeting , dosage , cosmesis and long term local control .
+Should systemic therapy be given at the time of IBTR ?
+Stephen Johnston ( London , UK ) reminded us that local recurrence persists at a regular rate beyond 5 years , with patients continuing to be exposed to a risk of 1 - 3% per annum .
+This provides a rationale for extended adjuvant endocrine treatment with an __AI__ which can prolong survival in node positive women.27 Adjuvant hormonal therapies with an upfront AI or a tamoxifen-AI early switch yield a marked reduction in both loco-regional recurrence and distant metastases compared with 5 years of tamoxifen alone .
+This implies that local recurrence and distant metastases are linked and patients with IBTR have a poorer prognosis. Johnston admitted that we do not know who should receive systemic treatment at the time of IBTR but overtreatment should be avoided ( 40 - 50% of patients ) .
+Local treatment alone is potentially curative in the absence of distant metastases and recurrent tumour nodules must be excised with clear margins .
+He suggested that systemic treatment should be considered for the following categories of patients:-
+1 ) Those patients whose original disease was node positive .
+2 ) Those with evidence of lymphovascular invasion at the time of IBTR .
+3 ) Those with high nuclear grade .
+4 ) Those with short time interval to local recurrence ( IBTR ) .
+The efficacy of chemotherapy after IBTR is unknown and the BIG 1-02 trial will randomize patients to chemotherapy ( investigators choice ) or observation .
+HER2 status should be re-assessed at the time of IBTR as 10 - 12% can change from being HER2 negative to positive upon recurrence .
+Stefan Aebi ( Berne , Switzerland ) re-iterated that 40 - 50% of patients would have either further local recurrence or distant disease after IBTR .
+There is evidence that tumours which relapse loco-regionally after mastectomy have a special molecular 'signature thus allowing genomic prediction of local recurrence.28 Aebi guarded against __ER__ and progesterone receptor ( PgR ) status should be measured at the time of IBTR and if positive endocrine therapy either changed or introduced .
+Patients perspective
+Hazel Thornton ( Colchester , UK ) described how patients are more concerned about survival than about recurrence when first diagnosed with breast cancer .
+Thoughts about recurrence emerge later on once a patient has adjusted to the diagnosis : she then begins to recognize that " cure " is a relative term .
+Other speakers had already emphasized how IBTR is psychologically devastating for a patient - " the cancer has come back! " .
+An appreciation of the meaning of IBTR from a patient 's perspective is problematic - it is unlikely that she will realize that this event may not per se adversely influence survival but reflect instead a host-tumour relationship favouring distant metastatic disease .
+This is the brutal reality and inevitability of cancer.30 Thornton questioned the appropriateness of blanket therapies directed at reducing recurrence to very low levels with risk of overtreating some patients .
+She queried the rationale for adopting this approach if this does not impact on survival , whilst acknowledging recent new evidence5 already challenged.31
+Women may wonder whether recurrence thus represents a treatment failure or perhaps an erroneous choice of initial treatment .
+Thornton sees encouraging signs that the " more is not necessarily better " 32 approach is gaining public support .
+With increasing knowledge of breast cancer and its treatment , there seems to be greater uncertainty , more confusion and less confidence about interpretation of information , making shared decision making more difficult .
+Latest results from the Oxford overview should not prompt a knee-jerk reaction leading to even more women undergoing mastectomy rather than BCT .
+Patients are advised to discuss their own individual risk of IBTR with their physician in order to decide whether more radical loco-regional treatment at the outset is appropriate .
+Thornton advocated that sharing responsibility for undertaking the most relevant research by involving the public and patients in the whole research process is the best way forward .

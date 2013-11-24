@@ -49,10 +49,10 @@ public class Corpus extends Resource {
 		while (tokenizer.hasMoreTokens()) {
 			String token = tokenizer.nextToken();
 
-			String[] metadata = token.split("\\W+");
-			
-			if (metadata.length > 0 && !metadata[0].startsWith("__") && Arrays.asList(pos).contains(metadata[1])){
-			    tokens.add(metadata[0]);
+			String[] metadata = token.split("/");
+
+			if (metadata.length > 2 && !metadata[2].startsWith("__") && !metadata[2].equals("") && Arrays.asList(pos).contains(metadata[1])){
+			    tokens.add(metadata[2]);
 			}
 		};
 	}

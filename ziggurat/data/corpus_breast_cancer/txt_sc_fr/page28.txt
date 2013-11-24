@@ -1,0 +1,202 @@
+Le risque de cancer du sein chez des femmes porteuses d' une prédisposition génétique peut atteindre 70 à 80 % au_cours_de la vie .
+La connaissance d' un risque familial élevé permet de mettre en place un dépistage précoce et spécifique ( expertise collective Inserm ) .
+À l' heure actuelle , il n' existe cependant pas de mesure préventive médicale adaptée à ce risque , alors_que près_de 1000 décès par an en France pourraient être liés à ces situations de prédisposition .
+Le développement normal de la glande mammaire est sous le contrôle des hormones stéroïdes .
+Les études épidémiologiques récentes , qui ont analysé le risque de cancer du sein sous __THM__ , confirment une augmentation significative du risque relatif chez les utilisatrices au long cours .
+Parallèlement , le traitement adjuvant du cancer du sein par anti-oestrogènes diminue l' incidence des cancers du sein controlatéraux .
+Dans le cadre du __NSABP__ , un essai de chimioprévention chez les femmes à risque de cancer du sein élevé , défini par les antécédents familiaux ou la présence de lésions mammaires bénignes , a montré une réduction d' incidence dans le groupe traité par tamoxifène de près_de 50 % .
+L' hormonodépendance des formes héréditaires du cancer du sein est donc une question essentielle pour la prise en charge des femmes à risque par le clinicien .
+Elle est au centre de deux interrogations récurrentes en_pratique courante : en présence d' antécédents familiaux , l' hormonothérapie substitutive ou une contaception orale peut elle être prescrite sans majorer le risque ?
+Les traitements par anti-oestrogènes pourraient ils diminuer ce risque ?
+Pour tenter de répondre à ces deux questions , nous rappellerons dans cet article les données , souvent indirectes ou rétrospectives , dont nous disposons dans la littérature .
+Hétérogénéité des formes héréditaires de cancer du sein
+Hétérogénéité génétique
+Les prédispositions génétiques aux cancers du sein constituent un groupe hétérogène .
+Parmi elles , les prédispositions transmises selon un mode monogénique sont à l' origine de 5 % des cancers du sein .
+Deux gènes répondant à un mode de transmission autosomique dominant ont été identifiés à ce jour : __BRCA1__ et BRCA2 localisés respectivement sur les chromosomes 17 et 13. Les altérations des gènes BRCA sont à l' origine de 65 % des cas familiaux comptant au moins quatre cas survenus avant l' âge de 60 ans et appartenant à la même branche parentale .
+Il existe donc vraisemblablement un ou plusieurs autres gènes responsables de ces prédispositions génétiques majeures .
+Malgré plusieurs études de liaisons génétiques , aucun autre locus n' a pu être formellement identifié .
+Il est possible que les formes familiales sévères non liées aux gènes __BRCA1__ et BRCA2 soient le fait de modèles de transmission plus complexes à appréhender , récessif ou oligogénique .
+De plus , il existe certainement des prédispositions encore_plus complexes répondant à un déterminisme multigénique associé à des interactions gènes-environnement .
+Ce type de prédisposition serait alors à l' origine d' un plus grand nombre de cas de cancers du sein isolés .
+Mettons à_part trois prédispositions autosomiques dominantes au cancer du sein survenant dans un contexte familial ou individuel spécifique et rare , les syndromes de Li et Fraumeni ( mutation constitutionnelle du gène TP53 ) , de Cowden ( mutation de PTEN ) et de Peutz-Jeghers ( mutation de STK11 ) .
+Nous ne discuterons dans les lignes qui suivent que les prédispositions liées à une mutation des gènes __BRCA1__ ou BRCA2 .
+Les protéines __BRCA1__ et BRCA2 sont impliquées dans la réparation des altérations de l' ADN .
+__BRCA1__ a un rôle probable de détecteur d' altérations de l' ADN , qu' il s' agisse d' altérations nucléotidiques ponctuelles , de cassure simple brin ou de cassure double brin .
+La protéine __BRCA1__ , activée par phosphorylation , induit des modifications du cycle cellulaire et la mobilisation de protéines de réparation .
+__BRCA1__ intervient via une activité transcriptionnelle .
+BRCA2 est impliquée de façon plus spécifique dans la réparation de cassures double brin par recombinaison homologue ; son partenaire protéique majeur est la protéine Rad51 .
+Il existe un très grand nombre de mutations constitutionnelles connues des gènes __BRCA1__ et BRCA2 ( près_de 1000 mutations différentes ont été rapportées dans la base de données du National Cancer Institute ) .
+Ces mutations sont inactivatrices .
+Aujourd'hui , de faibles corrélations ont été faites entre une mutation donnée et les risques tumoraux , mammaires ou ovariens .
+Elles sont peu utilisées en_pratique clinique .
+Au niveau tumoral , on retrouve généralement une inactivation du deuxième allèle du gène BRCA concerné , qui peut être due à une perte de la région chromosomique portant le gène , à une mutation ou bien encore à une méthylation du promoteur de __BRCA1__ .
+Cela est en accord avec l' hypothèse d' inactivation bi-allélique de gènes oncosuppresseurs émise par Knudson .
+De façon inattendue , les mutations __BRCA1__ et BRCA2 sont quasi-exclusivement constitutionnelles et ne paraissent pas impliquées dans la progression tumorale des cancers du sein sporadiques ( c' est-à-dire survenant en_dehors d' un contexte familial ) .
+Cependant , une inactivation de __BRCA1__ par méthylation de la région promotrice ( aboutissant au blocage de la transcription de __BRCA1__ ) a été décrite dans des cancers sporadiques .
+Hétérogénéité phénotypique
+Les cancers liés à des mutations de __BRCA1__ ou de BRCA2 présentent des caractéristiques tumorales sensiblement différentes de celles des tumeurs sporadiques .
+Ainsi les cancers __BRCA1__ présentent plus souvent un index mitotique élevé , et un grade SBR III .
+Une histologie de type médullaire est plus fréquemment retrouvée dans les formes __BRCA1__ ( de l' ordre de 10 % des cas __BRCA1__ versus 1 % des cas sporadiques ) .
+Les cancers BRCA2 sont également plus souvent de grades SBRII et III que les cancers sporadiques .
+Le pronostic des formes __BRCA1__ pourrait être par_ailleurs plus réservé , bien_que cette notion soit encore débattue .
+Dans une analyse récente regroupant 10 études , la positivité des __RE__ était de 17 % dans les tumeurs associées à une mutation de __BRCA1__ et de 63 % dans les tumeurs liées à une mutation de BRCA2 .
+Plus de 70 % des tumeurs du sein survenant chez des femmes porteuses d' une mutation de __BRCA1__ n' expriment pas les __RE__ .
+Rappelons que le taux de positivité des __RE__ dans les cas sporadiques est de l' ordre de 70 % .
+Cette expressivité tumorale moindre des __RE__ dans les cancers du sein liés à __BRCA1__ par rapport aux cancers sporadiques serait surtout présente avant l' âge de 50 ans .
+Aspects biologiques
+De nombreuses données expérimentales ont mis en évidence des interactions entre oestrogènes et expression des gènes __BRCA1__ et BRCA2 .
+OEstrogéno-induction de __BRCA1__
+L' expression de __BRCA1__ dans le tissu mammaire est augmentée durant la puberté et la grossesse , au moment où les taux d' oestrogènes sont élevés .
+L' hypothèse d' un lien entre oestrogènes et expression de __BRCA1__ est étayée par le fait que les oestrogènes et la progestérone stimulent l' expression mammaire de __BRCA1__ chez des souris ovariectomisées .
+De façon concordante , la déplétion en oestrogènes de lignées de cancer du sein __RE__ + ( MCF7 , BT20 ) réduit l' expression de __BRCA1__ , alors_que le traitement par oestradiol augmente son expression .
+Notons cependant qu' il n' existe pas d' élément de réponse fonctionnel aux oestrogènes ( ERE , séquence d' ADN spécifique sur laquelle se fixe le complexe récepteur-oestrogène ) sur le gène __BRCA1__ et que le mécanisme d' induction paraît être indirect .
+Par ailleurs , les oestrogènes induisent un phénotype distinct au niveau de la glande mammaire chez des souris hétérozygotes pour des mutations __BRCA1__ et BRCA2 .
+Ainsi , les souris mutées ont un développement morphologique des canaux galactophores inhibé par l' action des oestrogènes , à la différence des souris non mutées .
+Ces observations sont en accord avec l' hypothèse que la perte du processus de réparation de l' ADN dans des cellules mammaires ayant des mutations de __BRCA1__ ou de BRCA2 entraîne une inhibition de la croissance et de la différenciation oestrogéno-induites .
+En conclusion , __BRCA1__ et BRCA2 pourraient participer activement à la prolifération et à la différenciation induite par les oestrogènes , en_particulier au cours des périodes d' exposition hormonale importante .
+__RE__ et __BRCA1__
+Les oestrogènes se fixent sur leurs récepteurs spécifiques , les __RE__ et ß , qui agissent comme des facteurs de transcription .
+Le complexe oestrogène-RE se fixe sur la région promotrice de gènes cibles et en active la transcription .
+Dans les cancers sporadiques , il semble qu' il existe une relation entre l' expression des ARN messagers de __BRCA1__ et du __RE__ .
+En outre , la méthylation du promoteur de __BRCA1__ apparaît être corrélée à la perte d' expression des __RE__ et des __RP__ .
+À notre connaissance , il n' y a pas d' études disponibles dans la littérature analysant l' expression du second type de __RE__ , appelé REß , dans les tumeurs liées à __BRCA1__ .
+Les travaux de Fan ont montré que la réponse cellulaire aux oestrogènes peut être régulée par __BRCA1__ .
+Dans des lignées de cancer du sein et de la prostate , __BRCA1__ inhibe la transcription dépendante du __RE__ de gènes impliqués dans la prolifération cellulaire .
+Cela suggère qu' en_plus_de maintenir la stabilité du génome pendant des périodes de division cellulaire rapide ( comme lors_de la puberté ou de la grossesse ) , __BRCA1__ pourrait aussi réduire l' expression de gènes oestrogéno-induits .
+Ainsi , une des fonctions essentielles de __BRCA1__ durant la puberté et la grossesse pourrait être de protéger le sein contre l' instabilité génétique secondaire à la prolifération induite par les oestrogènes via l' activation du __RE__ , d' induire la différenciation et de réparer les lésions de l' ADN .
+Une étude récente analysant la survenue de cancers chez des jumeaux homozygotes étaye cette hypothèse .
+La plupart des cancers héréditaires ne seraient pas liés à la succession des événements hormonaux de la vie mais plutôt à la précocité de la puberté résultant possiblement d' une sensibilité anormale de la glande mammaire aux hormones à cette période de la vie .
+Les formes sporadiques , au_contraire , seraient plus liées à une exposition répétée et cumulée aux hormones durant la vie adulte .
+Bien que l' expression de __BRCA1__ et BRCA2 soit ubiquitaire , les mutations constitutionnelles de ces deux gènes n' augmentent fortement le risque de cancer qu' au niveau des tissus mammaires et ovariens .
+Cette tissu-spécificité reste une énigme .
+Monteiro a proposé récemment une hypothèse selon laquelle la perte d' hétérozygotie de __BRCA1__ serait plus fréquente dans le tissu mammaire et ovarien .
+D' autres explications , telles_que la présence de cofacteurs ou de mécanismes de réparation redondants dans d' autres tissus , peuvent être avancées .
+__BRCA1__ et expression des __RE__ : un lien paradoxal ?
+Les oestrogènes exercent un effet prolifératif bien caractérisé sur les cellules mammaires possédant des récepteurs aux oestrogènes et ont par_là un effet mutagène indirect .
+En effet , le simple fait d' augmenter la prolifération sous-tend une augmentation du risque d' erreurs de réplication , et donc de mutations .
+De plus , les oestrogènes peuvent provoquer des lésions directes de l' ADN par leurs métabolites ( appelés adduits de l' ADN ) .
+Cet effet mutagène direct leur confère donc un rôle initiateur potentiel en_plus_de leur effet promoteur .
+Ainsi , la perte de fonction de la protéine __BRCA1__ , impliquée dans les mécanismes de réparation de l' ADN , pourrait rendre la cellule plus sensible aux effets mutagènes , directs ou indirects , des oestrogènes .
+Plusieurs hypothèses concernant la négativité des __RE__ fréquemment retrouvée dans les cancers du sein liés à des mutations __BRCA1__ peuvent être évoquées .
+D' une part , il est bien établi que les cellules épithéliales mammaires normales et cancéreuses régulent négativement l' expression des __RE__ sous l' effet des oestrogènes .
+Cette downregulation des __RE__ pourrait aussi constituer un mécanisme de défense cellulaire visant à protéger la cellule vis-à-vis du stimulus oestrogénique prolifératif non contrôlé par la protéine __BRCA1__ altérée .
+L' hypothèse d' une régulation négative des __RE__ sous l' effet des oestrogènes peut être étayée par l' observation d' une négativité des __RE__ observée uniquement en période d' activité génitale .
+La perte d' expression des __RE__ dans les tumeurs mutées pour __BRCA1__ pourrait enfin correspondre à un événement moléculaire tardif de la progression tumorale .
+Cette perte d' expression des __RE__ serait alors elle-même facilitée par l' instabilité génomique due à la perte de fonction de __BRCA1__ .
+Aspects cliniques
+Arguments épidémiologiques : les oestrogènes endogènes ou exogènes pourraient moduler le risque génétique
+La pénétrance - c' est-à-dire la probabilité d' être atteint lorsque l' on est prédisposé - des mutations de __BRCA1__ pour le cancer du sein est incomplète .
+Ainsi , environ 20 à 30 % des patientes prédisposées ne développent pas de cancer du sein .
+L' augmentation du risque de cancer du sein sporadique en fonction de facteurs de la vie reproductive , tels qu' une puberté précoce , une ménopause tardive , une nulliparité , une première grossesse menée à terme tardive ou un index de masse corporelle élevé , est bien établie .
+Cependant , l' influence des oestrogènes d' origine endogène ou exogène reste peu connue chez les femmes porteuses d' une mutation du gène __BRCA1__ .
+Les principales données disponibles dans la littérature sont résumées dans le tableau 2. Signalons qu' une étude de cohorte française ( Groupe génétique et cancer , FNCLCC ) est en cours pour analyser l' influence de certains de ces facteurs d' environnement .
+- Ovariectomie
+L' ovariectomie prophylactique chez les femmes porteuses d' une mutation de __BRCA1__ diminue le risque de cancer du sein dans trois études concordantes .
+Il s' agit d' un argument important car ces trois études montrent une réduction significative du risque de 47 à 68 % .
+Ainsi , dans l' étude prospective de Kauff qui porte sur 170 femmes porteuses d' une mutation de __BRCA1__ ou de BRCA2 , la réduction du risque de cancer du sein ou de cancers gynécologiques liés à __BRCA1__ atteint 75 % ( RR = 0,34 ; IC = 0,08-074 ) .
+Dans l' étude de Rebbeck portant sur 241 femmes porteuses d' une mutation des gènes __BRCA1__ ou BRCA2 , on observe une diminution du risque de cancer du sein de 53 % ( RR = 0,47 ; IC = 0,29-0,77 ) après ovariectomie prophylactique .
+Cette intervention semble également retarder l' âge d' apparition des cancers du sein d' environ 3 ans .
+- OEstrogènes exogènes
+Une première étude a suggéré que , chez les femmes porteuses d' une mutation des gènes __BRCA1__ ou BRCA2 , la __CO__ utilisée avant la première grossesse augmenterait le risque de cancer du sein .
+Cette observation initiale portait sur un petit échantillon de patientes ( n = 50 ) .
+Une étude plus importante a porté sur des patientes ayant un risque familial élevé sans_que des mutations aient été caractérisées .
+Les apparentées au premier degré ( soeurs et filles ) de patientes atteintes de cancer du sein qui avaient utilisé la __CO__ avaient un risque plus élevé que les apparentées de second degré ( petites-filles et nièces ) : ainsi , le risque relatif de cancer du sein était de 3,3 ( IC = 1,6-6,7 ) pour les filles et les soeurs ayant utilisé une __CO__ , et de 1,2 ( IC = 0,8-2,0 ) , pour les nièces et les petites filles sous __CO__ .
+Cette étude retrouvait aussi une augmentation du risque sous __CO__ d' autant plus importante que le nombre de cancers du sein dans les familles était élevé ou que la __CO__ avait été prise avant 1975 ( les contraceptifs étaient alors beaucoup plus dosés en oestrogènes ) .
+Ces observations paraissent confortées par une étude cas-témoin multicentrique incluant 1311 femmes porteuses d' une mutation des gènes __BRCA1__ ou BRCA2 atteintes d' un cancer du sein , appariées à 1311 femmes également prédisposées génétiquement mais indemnes .
+Les résultats montrent que , parmi les femmes porteuses d' une mutation de __BRCA1__ , celles qui utilisaient la contraception avant 30 ans ( ou pour une durée de 5 ans ou plus ) ont un risque accru de cancer du sein précoce .
+Globalement , l' augmentation du risque est de 20 % ( RR = 1,2 ; IC = 1,02-1,4 ) .
+Cette augmentation du risque n' est pas retrouvée pour les femmes porteuses d' une mutation de BRCA2 .
+Cette étude est intéressante car elle porte sur un effectif relativement important de patientes génotypées .
+Cependant , elle ne permet pas d' analyser l' effet des différents types de contraception orale ni de la dose d' oestrogène utilisée .
+Dans la population générale , la __CO__ semble réduire le risque de cancer ovarien , avec un risque relatif d' environ 50 % .
+Chez les femmes à risque familial de cancer de l' ovaire , l' effet protecteur de la contraception orale est débattu .
+Ainsi , une étude cas-témoins , portant sur 207 femmes ayant un cancer de l' ovaire héréditaire et 161 soeurs , retrouve une diminution du risque de cancer de l' ovaire de 50 % sous __CO__ ( RR = 0,5 ; IC = 0,3-0,8 ) .
+La diminution du risque n' était significative que chez les femmes porteuses d' une mutation de __BRCA1__ .
+Cependant , une autre étude de population portant sur des femmes juives ashkénazes n' a pas retrouvé cet effet protecteur de la contraception orale chez les femmes porteuses de mutations des gènes BRCA 1 ou BRCA2 .
+Très peu d' études analysant l' effet du __THM__ sur le risque familial de cancer du sein sont disponibles dans la littérature .
+Dans une méta-analyse , le __THM__ ne semblait pas conférer d' augmentation supplémentaire du risque familial , mais il ne s' agissait pas de femmes présentant une mutation caractérisée .
+Dans l' étude de Rebbeck , portant sur une petite cohorte de femmes portant une mutation du gène __BRCA1__ qui ont subi une ovariectomie prophylactique , le __THM__ ne semblait pas augmenter le risque de cancer du sein après l' intervention .
+- OEstrogènes endogènes
+Les facteurs de la vie reproductive de la femme , tels_que l' âge de la puberté et de la ménopause , la parité , l' âge de la première grossesse menée à terme , pourraient influencer le risque de cancer du sein dans les formes familiales .
+Dans certaines études , les femmes porteuses d' une mutation de __BRCA1__ qui ont eu un enfant ( en_particulier avant 30 ans ) ont plus de risque de développer un cancer du sein que les femmes nullipares .
+Ainsi , Jernstrom rapporte qu' une grossesse pourrait augmenter le risque de cancer du sein avant 40 ans chez les femmes génétiquement prédisposées ( RR = 1,71 ; IC = 1,13-2,62 ) , et que chaque grossesse successive augmente le risque de cancer du sein par rapport aux femmes nullipares .
+D' autre_part , Johannsson trouve que le risque d' avoir un cancer du sein associé à une grossesse ( c' est-à-dire au_cours_de la grossesse ou l' année qui suit ) est plus élevé en cas de mutation du gène __BRCA1__ ( RR = 3,9 ; IC = 1,4-10,0 ) .
+Dans l' étude de Rebbeck 2001 , les femmes nullipares porteuses d' une mutation des gènes __BRCA1__ ou 2 , mais_aussi celles qui avaient eu une première grossesse après 30 ans , semblaient avoir un risque de cancer du sein augmenté ( RR = 3,06 ; IC = 1,52-6,16 ) .
+La multiplicité des facteurs confondants et l' hétérogénéité des mutations étudiées sont peut-être en_partie à l' origine de ces discordances .
+Il serait donc prématuré de conseiller les femmes génétiquement prédisposées sur le risque lié à la grossesse .
+Une attitude de prudence consiste à mettre en place une surveillance mammaire pendant et au décours d' une grossesse chez ces femmes .
+Alors qu' un __IMC__ élevé à l' âge de 12 ans n' est pas un facteur de risque indépendant de cancer du sein sporadique , un __IMC__ élevé à l' âge de 12 ans - dont on connaît l' association à un taux élevé d' oestrogène circulant - augmente d' un facteur 4 le risque de cancer du sein chez les femmes ayant des antécédents familiaux évocateurs d' une prédisposition génétique .
+Anti-oestrogènes et mutations de __BRCA1__ / BRCA2
+Le tamoxifène a montré une réduction de l' ordre de 50 % de l' incidence des cancers en chimioprophylaxie dans une population de femmes à risque .
+En outre , nous avons vu_que le traitement par ovariectomie prophylactique diminuerait le risque de cancer du sein chez les femmes porteuses d' une mutation de __BRCA1__ de près_de 50 % également .
+Les thérapeutiques de suppression oestrogénique pourraient donc constituer une chimioprévention potentielle des formes familiales de cancer du sein .
+- Chimioprophylaxie par le tamoxifène
+L' étude américaine de prévention par l' antioestrogène tamoxifène ( NSABP1 ) montre une réduction d' incidence du cancer du sein dans le sous-groupe ayant des antécédents familiaux traité par rapport au groupe placebo .
+Ainsi , les femmes avec des antécédents familiaux avaient une diminution du risque de 50 % par rapport au groupe témoin , ce qui est similaire à la réduction du risque observé dans la population générale .
+Cependant , dans le sous-groupe des femmes présentant 3 antécédents familiaux ou plus , la réduction du risque n' était pas significative , peut-être en raison du faible nombre de patientes dans ce sous-groupe ( RR = 0,51 ; IC = 0,15-1,55 ) .
+Là encore , il faut moduler cette observation en rappelant que les femmes dont la probabilité de prédisposition génétique est estimée à_partir_de l' histoire familiale constituent un groupe hétérogène qui dépasse les prédispositions génétiques __BRCA1__ ou BRCA2 caractérisées .
+Une étude récente a plus précisément analysé un sous-groupe du NSABP1 de 288 femmes ayant développé un cancer après être entrées dans l' essai .
+Le tamoxifène diminue le risque de cancer du sein chez les femmes porteuses d' une mutation de BRCA2 ( d' environ 60 % , RR = 0,38 ; IC = 0,06-1,56 ) , mais pas chez les femmes porteuses d' une mutation de __BRCA1__ ( RR = 1,67 ; IC = 0,32-10,07 ) .
+Les auteurs ont mis en parallèle cette efficacité supérieure dans le groupe BRCA2 avec le faible taux de tumeurs __RE__ positives dans le groupe __BRCA1__ ( 17 % de __RE__ + ) par rapport au groupe BRCA2 ( 76 % de __RE__ + ) .
+Il s' agit cependant de résultats d' une analyse rétrospective portant sur un petit nombre de patientes porteuses d' une mutation de __BRCA1__ / BRCA2 ( n = 19 ) et la largeur des intervalles de confiance et leur caractère non significatif incitent à interpréter ces résultats avec prudence .
+L' étude de chimioprophylaxie anglaise conduite au __RMH__ par Powles comprenait un nombre plus important de femmes à risque génétique que l' étude du __NSABP__ .
+Powles a étudié récemment des sous-groupes de femmes à forte probabilité de prédispositions BRCA estimée à l' aide de logiciels d' analyse d' arbres généalogiques BRCAPRO et Cyrillic .
+Cette étude montre que , chez les femmes avec un risque de cancer du sein inférieur à 50 % , le tamoxifène exerce un effet protecteur ( réduction du risque de 53 % ) alors , que chez les femmes ayant un risque de cancer du sein supérieur à 50 % , on observe une augmentation du risque ( de 37 % ) .
+Récemment , Powles a fait état de l' analyse génétique de patientes du __RMH__ .
+Seulement trois mutations de __BRCA1__ ( n = 1 ) ou de BRCA2 ( n = 2 ) ont été identifiées sur les 70 cancers du sein présentant une forte probabilité de prédisposition familiale .
+Cela montre encore l' hétérogénéité génétique des formes héréditaires de cancer du sein et la nécessité d' établir à l' avenir des corrélations génotype de prédisposition / phénotype hormonal .
+- Traitement adjuvant par tamoxifène et diminution du risque de 2e cancer
+Une étude cas-témoins appariée a rapporté que le traitement adjuvant par tamoxifène pour un premier cancer du sein semblait protéger contre le risque de cancer du sein controlatéral pour des patientes génétiquement prédisposées .
+Ainsi , parmi les femmes porteuses d' une mutation de __BRCA1__ ou de BRCA2 , celles qui avaient reçu du tamoxifène avaient un risque de cancer du sein controlatéral diminué .
+La réduction du risque de cancer du sein controlatéral était de 62 % ( RR = 0,38 ; IC = 0,19-0,74 ) pour les femmes porteuses d' une mutation de __BRCA1__ , et de 37 % ( RR = 0,63 ; IC = 0,2-1,5 ) pour une mutation du gène BRCA2 , ce qui n' est pas significatif .
+Une tendance à la réduction du risque de cancer controlatéral semblait aussi observée chez les femmes traitées par ovariectomie ou par chimioprévention .
+Dans une étude récente , Duffy et Nixon ont estimé l' effet prophylactique du tamoxifène chez des femmes à haut risque de mutation de __BRCA1__ ou de BRCA2 de façon plus modeste ( 13 % et 27 % pour de groupe __BRCA1__ et le groupe BRCA2 , respectivement ) .
+Enfin , des études de simulation ont également montré un bénéfice potentiel du tamoxifène .
+- Tamoxifène et pronostic des cancers liés à __BRCA1__
+Foulkes a analysé l' impact des mutations de __BRCA1__ sur la réponse au traitement adjuvant par tamoxifène dans une cohorte de 292 femmes juives ashkénazes .
+L' analyse statistique multivariée a montré que le risque relatif de décès par cancer du sein dans le groupe qui n' avait pas reçu de tamoxifène était augmenté pour les femmes porteuses de mutation de __BRCA1__ ( RR = 2,16 ; IC = 1,0-4,68 ) .
+À l' inverse , pour les femmes qui avaient reçu du tamoxifène , la présence d' une mutation de __BRCA1__ constituait un facteur de pronostic favorable , avec une diminution du risque de décès ( RR = 0,73 ; IC = 0,04-2,49 ) .
+Ces données pourraient donc suggérer que le tamoxifène a un effet bénéfique chez les femmes présentant des mutations de __BRCA1__ , mais il faut souligner , là encore , la largeur de l' intervalle de confiance .
+En pratique , que dire ? que faire ?
+On propose actuellement à une femme porteuse d' une prédisposition génétique au cancer du sein la mise en place d' une stratégie de surveillance renforcée ( expertise collective Inserm , qui sera remise à jour en 2004 ) .
+Sur le plan mammaire , il s' agit d' un examen clinique tous les 6 mois et d' une mammographie annuelle qui peut être complétée par une échographie mammaire ou une IRM ( dans un cadre évaluatif ) à_partir_de l' âge de 30 ans , ou 5 ans avant l' âge d' apparition du premier cancer dans la famille .
+Comme nous l' avons vu , les effets de la vie reproductive , des oestrogènes et des anti-oestrogènes sur les cancers du sein génétiquement prédisposés restent mal connus .
+Grossesse et facteurs de la vie reproductive
+Les modifications des risques liés à la parité ou aux autres facteurs de la vie génitale sont controversées dans les formes familiales de cancer du sein .
+Il convient cependant d' être vigilant sur le plan de la surveillance mammaire , pendant et au décours d' une grossesse , en raison des observations rapportées précédemment .
+Traitement adjuvant après cancer du sein
+Un traitement adjuvant par tamoxifène peut être proposé selon les modalités habituelles de l' hormonothérapie adjuvante ( expression des récepteurs aux oestrogènes ) lors d' un cancer du sein survenant chez des femmes présentant une prédisposition génétique avérée ou un contexte familial évocateur .
+Chez ces femmes souvent jeunes , qui peuvent rester réglées malgré la chimiothérapie , l' adjonction à ce traitement d' un agoniste de la LH-RH doit être discutée compte tenu de l' effet inducteur de l' ovulation du tamoxifène et du risque de kystes ovariens .
+L' ovariectomie peut être indiquée en présence d' antécédents familiaux de cancers ovariens dans un double objectif de prophylaxie ovarienne et de suppression oestrogénique .
+Contraception orale
+En cas de désir de contraception , les contraceptions non hormonales , telles_que le dispositif intra-utérin , devraient être privilégiées en raison de leur neutralité .
+Cette option est certainement idéale lorsque l' on peut la proposer , mais elle ne peut être prescrite aux jeunes femmes nullipares .
+Il n' y a pas d' arguments actuellement pour privilégier un type de contraception hormonale plutôt qu' un autre .
+L' utilisation de pilules minidosées ou de microprogestatifs a cependant été évoquée .
+__THM__
+L' indication du __THM__ chez les femmes à haut risque familial , que la ménopause soit spontanée ou induite par une ovariectomie prophylactique , est une question fréquente en_pratique clinique .
+La mise en évidence récente d' une augmentation modérée , mais significative , du risque de cancer du sein sporadique sous __THM__ doit en_effet faire peser soigneusement l' indication d' un __THM__ chez ces femmes à très haut risque de cancer du sein .
+Très récemment , l' étude randomisée contre placebo sur l' utilisation des oestrogènes en post-ménopause ( __WHI__ ) semble montrer de plus une augmentation du risque de cancer ovarien sous oestrogénothérapie substitutive .
+Comme nous l' avons vu , nous disposons de peu d' informations sur l' effet d' un __THM__ chez les femmes à risque génétique .
+Dans ce contexte , la prudence est de mise et il faut savoir informer la femme du risque de cancer du sein sous __THM__ dans la population générale et préciser les bénéfices attendus .
+Schématiquement , un __THM__ sera surtout discuté en cas de ménopause précoce ( par_exemple en cas d' ovariectomie prophylactique ) , de retentissement très important sur la qualité de vie ou d' ostéoporose .
+Il est probablement préférable de ne pas trop prolonger la durée de ce traitement ( pas plus de 5 ans ) .
+L' abstention thérapeutique peut être conseillée dans les autres cas .
+Enfin , il faut souligner l' existence d' alternatives aux oestrogènes utilisables en cas de déminéralisation osseuse : les biphosphonates et le raloxifène .
+Le raloxifène est un modulateur sélectif des récepteurs des oestrogènes , ayant une action agoniste vis-à-vis_de l' os ( indication pour laquelle ce composé dispose de l' AMM en France ) et parallèlement une action antagoniste potentiellement bénéfique au niveau du sein .
+Vers une chimioprévention anti-hormonale ?
+Il n' existe pas à ce jour en France de composé disposant d' une AMM en prévention du cancer du sein .
+L' utilisation du tamoxifène en prévention du cancer du sein est approuvée par la Food and Drug Administration aux États-Unis , mais après évaluation des bénéfices et des risques , notamment thrombo-emboliques veineux et de cancer de l' endomètre .
+Lors de l' étude de prévention de l' ostéoporose More , qui comparait le raloxifène à un placebo , a été mise en évidence une diminution notable du risque de cancer du sein hormonodépendant chez les femmes ostéoporotiques sous raloxifène ( RR = 0,35 ; IC = 0,21-0,58 ) .
+Ces résultats sont encourageants mais n' autorisent pas à prescrire le raloxifène en prévention du cancer du sein , l' étude More n' ayant pas été construite dans cet objectif .
+L' étude de prévention Star , actuellement en cours , compare les effets du tamoxifène et du raloxifène chez les femmes à risque de cancer du sein et permettra , on peut l' espérer , de mieux préciser les effets de ces composés en prévention du cancer du sein , notamment dans le sous-groupe des femmes à très haut risque familial .
+D' autres composés sont également testés en chimioprévention telles_que les anti-aromatases .
+Il s' agit notamment de l' essai Ibis II , qui compare l' anastrozole à un placebo chez les femmes à risque de cancer du sein , et de l' essai ApreS , qui compare l' exemestane à un placebo chez des femmes porteuses d' une mutation des gènes __BRCA1__ et BRCA2 .
+Conclusion
+Les arguments cliniques et expérimentaux dont nous disposons suggèrent d' importants liens entre les oestrogènes et les cancers du sein survenant dans un contexte de mutation de __BRCA1__ ou BRCA2 .
+La spécificité tissulaire mammaire et ovarienne des cancers imputables à __BRCA1__ - dont l' expression est ubiquitaire - et la faible pénétrance des cancers du sein chez l' homme soulignent également l' effet potentiel des oestrogènes dans le déterminisme de ces cancers génétiquement prédisposés .
+Malgré le fort taux de négativité des __RE__ dans les cancers du sein liés à des mutations de __BRCA1__ , il est possible que certaines de ces formes soient sensibles à l' influence des oestrogènes , comme le suggère la réduction du risque de cancer du sein après ovariectomie ou sous tamoxifène .
+Il serait donc prématuré de conclure à une absence de bénéfice du tamoxifène ou d' autres thérapeutiques de suppression oestrogénique dans le traitement et la prévention du cancer du sein chez des femmes porteuses d' une mutation du gène __BRCA1__ .
+Chez les femmes génétiquement prédisposées , le tamoxifène ne peut cependant pas actuellement être proposé en France en prévention du cancer du sein , en l' absence de données cliniques complémentaires .
+Les études ciblées de chimioprévention actuellement en cours devraient permettre dans les années qui viennent de mieux situer la place des thérapeutiques anti-hormonales préventives chez les femmes génétiquement prédisposées au cancer du sein .

@@ -1,0 +1,237 @@
+Le lien entre cancer du sein et le rôle des oestrogènes a été mis en évidence il y a plus de 100 ans par Beatson , montrant la rémission de tumeurs du sein métastatiques chez des patientes préménopausées lors d' une castration chirurgicale .
+Plusieurs décennies plus_tard , la présence de récepteurs des oestrogènes a été mise en évidence dans les cellules d' utérus de rat .
+Ces données furent transférées de la recherche à la clinique par la mesure des __RE__ dans les tumeurs du sein afin_de prédire la réponse à un traitement hormonal .
+Il fut alors établi que les patientes dont les tumeurs exprimaient des RE ( RE+ ) répondaient à une privation hormonale ( tumeurs hormonodépendantes ) , et non les patientes dont les tumeurs étaient RE négatives ( tumeurs hormono-indépendantes ) .
+Ultérieurement la synthèse in_situ d' oestrogènes dans les cancers du sein fut montrée .Chez les femmes préménopausées , les oestrogènes proviennent principalement de la sécrétion ovarienne ; chez les femmes ménopausées , après arrêt de la fonction ovarienne , des oestrogènes continuent à être synthétisés par aromatisation d' androgènes , d' origine surrénalienne .
+Ils stimulent la prolifération de tumeurs mammaires hormonodépendantes.Pendant trois décennies , le tamoxifène , antioestrogène , a représenté la référence dans le traitement hormonal des cancers du sein .
+Depuis la fin des années 1990 , de nouvelles molécules inhibant spécifiquement l' aromatase , et donc la conversion des androgènes en oestrogènes , ont été mises sur le marché.Quatre approches pharmacologiques principales permettent de bloquer les effets des oestrogènes dans les cancers du sein :
+* - antagonistes forts des oestrogènes avec effet agoniste faible : le tamoxifène et le torémifène qui agissent par compétition au niveau du récepteur des oestrogènes de la tumeur ;
+* - inhibiteurs d' aromatase responsables d' une inhibition de la synthèse d' oestrogènes chez la femme ménopausée ;
+* - suppression ovarienne chimique ou physique chez la femme pré-ménopausée ;
+* - antagonistes purs des récepteurs des oestrogènes .
+Seules seront abordées ici les deux premières modalités thérapeutiques.La suppression ovarienne ne concerne que la femme préménopausée .
+Les antioestrogènes purs sont représentés par le fulvestrant ( Faslodex® ) qui est indiqué dans le traitement du cancer du sein localement avancé ou métastasé , chez la femme ménopausée .
+C' est un antioestrogène pur sans effet agoniste faible .
+Il se lie au récepteur des oestrogènes avec une affinité comparable à celle de l' oestradiol et accélère la dégradation du RE , c' est un estrogen receptor downregulator .
+Le tamoxifène
+Le tamoxifène est un __SERM__ .
+Les __SERM__ représentent un groupe de médicaments de structure chimique non stéroïdienne qui exercent des effets antagonistes et / ou agonistes des oestrogènes selon le tissu cible .
+Il s' agit de dérivés triphényl-éthylènes : le tamoxifène , le torémifène ( chlorotamoxifène ) , le droloxifène ( 3 hydroxytamoxifène ) et le citrate de clomifène et de dérivés benzothiophènes : le raloxifène et l' arzoxifène .
+Tous se lient de façon spécifique aux récepteurs des oestrogènes .
+Récepteurs des oestrogènes
+La plupart des effets des oestrogènes et des __SERM__ sont médiés par des récepteurs spécifiques , les __RE__ .
+Récemment , une nouvelle forme de RE a été identifiée , le REß , et le classique RE a alors été renommé RE .
+Ils sont codés par deux gènes distincts positionnés sur les locus chromosomiques ( 6q25-1 pour RE et 14q22-24 pour REß ) .
+Ils appartiennent à la superfamille des récepteurs nucléaires , qui comprend les récepteurs des différentes hormones stéroïdes , des hormones thyroïdiennes et des rétinoïdes .
+Les deux récepteurs comportent six domaines ( A / B , C , D , E , F ) et sont très homologues , en_particulier au niveau du domaine de liaison de l' hormone ( LBD , domaine E ) ( liaison des oestrogènes et des __SERM__ ) et du domaine de liaison à l' ADN ( DBD , domaine C ) .
+Physiologiquement , les oestrogènes se lient spécifiquement aux RE , puis les RE se dimérisent et se lient à des séquences spécifiques de l' ADN ( __ERE__ ) situées à plus_ou_moins grande distance des promoteurs des gènes cibles des oestrogènes ( ( figure 1 ) , A ) .
+Les RE forment des homo- ou hétérodimères : RE / RE ; REß / REß et RE / REß .
+L' hétérodimérisation a été démontrée in_vitro sur des modèles humains et murins .
+L' activation consécutive des gènes dépendants de l' hormone est sous la dépendance de deux domaines distincts d' activation de la transcription ( AF2 situé dans le LBD et AF1 situé dans le domaine A / B ) .
+Les études de cristallographie , permettant de visualiser chaque ligand à_l'_intérieur du domaine de liaison de l' hormone , ont permis de montrer que la liaison de chaque ligand au RE induit une conformation ligand-RE différente et unique .
+Les RE activés peuvent alors interagir avec différentes protéines co-régulatrices ( co-régulateurs ou co-répresseurs ) , régulant l' activité de transcription des RE et modulant leur fonction ( soit co-activation soit co-répression ) selon le ligand , mais_aussi selon le tissu cible .
+Plus de vingt co-régulateurs distincts se lient aux RE et modulent leurs fonctions .
+Mécanisme d' action
+Le tamoxifène exerce son activité par une inhibition compétitive au site de liaison des oestrogènes à leurs récepteurs spécifiques .
+Le tamoxifène se lie spécifiquement aux récepteurs des oestrogènes , les RE se dimérisent et se lient aux __ERE__ sur l' ADN des cellules hormono-dépendantes ( ( figure 1 ) , B ) .
+Il peut se lier aux deux isoformes de RE et ß .
+L' affinité relative du tamoxifène est identique pour les deux isoformes .
+Dans des modèles de cellules hormono-indépendantes à qui l' on fait exprimer par transfection du gène ER ou ERß et dans les deux cas __ERE__ comme gène reporter , le tamoxifène se comporte comme un antagoniste et un agoniste partiel quand son effet est médié par RE , mais il se comporte comme un antagoniste pur quand son effet est médié par REß .
+L' effet de l' antioestrogène est donc lié au contenu cellulaire en RE et REß libres et à la structure de l' antioestrogène .
+Le tamoxifène a un effet prédominant antioestrogénique au niveau du sein , du vagin et du système nerveux central .
+Dans la majorité des autres tissus cibles , ses effets prédominants sont oestrogéniques , en_particulier au niveau de l' endomètre , de l' os et du foie .
+Dans les cancers du sein , le tamoxifène agit principalement comme antagoniste .
+Au niveau du tissu mammaire , alors_que la liaison des oestrogènes facilite l' interaction du récepteur avec les co-activateurs , la liaison du tamoxifène au RE entraîne préférentiellement une interaction avec des co-répresseurs ( SMRT , N-CoR , REA & HET / SAF-B ) , conduisant à une inhibition de la transcription des gènes oestrogénodépendants ( effet antagoniste ) [ 13 , 21-24 ] .
+L' effet principal du tamoxifène est cytostatique , il entraîne un blocage du cycle cellulaire en phase G1 , puis une diminution de la proportion de cellules tumorales en phase S et une diminution de la prolifération cellulaire .
+Le tamoxifène contrôle la réplication cellulaire directement par interaction nucléaire ou par un mécanisme médié par les facteurs de croissance .
+En effet , il a un effet direct en augmentant la production de TGFß ( transforming growth factor ß ) qui inhibe la prolifération cellulaire , par les cellules stromales mammaires 28 , 29 ] .
+A l' inverse , le tamoxifène diminue l' expression de facteurs de croissance tels_que l' IGF1 , TGF et EGF .
+Au niveau de l' endomètre , le tamoxifène entraîne une activation de la transcription des gènes oestrogénodépendants par recrutement de co-activateurs ( effet agoniste ) .
+Il induit la formation de o-quinolone qui forme des adduits avec les déoxynucléosides .
+Il est responsable de l' augmentation de l' incidence des cancers de l' endomètre chez les patientes traitées .
+De même , le tamoxifène a un profil agoniste sur l' os chez les patientes ménopausées .
+Mais chez les patientes préménopausées , la densité osseuse peut diminuer sous traitement en raison de son effet agoniste qui est inférieur à celui des oestrogènes endogènes .
+De façon similaire , le tamoxifène a un effet favorable sur le métabolisme des lipides avec une réduction du cholestérol total et du cholestérol des LDL , mais sans augmentation du HDL cholestérol .
+Pharmacocinétique
+Le tamoxifène est administré par voie orale , à la dose de 20 mg par jour .
+Sa biodisponibilité est excellente ( 98 à 100 % ) .
+Le tamoxifène et ses métabolites sont fortement liés aux protéines plasmatiques ( > 98 % ) .
+Sa demi-vie est de 7 jours , ainsi l' équilibre pharmacocinétique est il obtenu après quatre semaines .
+Il est métabolisé par le foie en de nombreux métabolites dont les principaux sont le N desméthyltamoxifène et le 4-OH-tamoxifène ( dont l' affinité pour le RE est supérieure à celle du 17ß E2 ) .
+L' excrétion se fait après un cycle entérohépatique .
+Après arrêt du traitement , le produit reste présent dans l' organisme 4 à 6 semaines .
+Une interaction peut survenir en cas de traitement préalable avec des anticoagulants oraux , avec un risque d' augmentation de son effet nécessitant une surveillance plus fréquente .
+Inhibiteurs d' aromatase
+Aromatase
+La production d' oestrogènes après la ménopause est principalement liée à la conversion d' androgènes d' origine surrénalienne en oestrogènes , principalement au niveau du tissu adipeux sous-cutané ( ( figure 2 ) ) .
+Les enzymes de la stéroïdogenèse sont des hydroxylases qui convertissent un stéroïde en un autre .
+La production d' oestrogènes est la dernière étape du métabolisme des hormones stéroïdes .
+L' aromatisation est spécifique et irréversible .
+L' aromatase humaine n' a que 18 à 24 % d' homologie avec les autres enzymes de la stéroïdogenèse , 11ß - hydroxylase , 17 - hydroxylase et les autres enzymes couplés au cytochrome P 450 .
+L' aromatase est un complexe enzymatique essentiel , responsable de la décarboxylation du C ( 19 ) et de l' aromatisation du cycle A du stéroïde , caractéristique des oestrogènes .
+C' est une enzyme de la superfamille des cytochromes P450 et le produit du gène CYP19 , porté par le chromosome 15q21-2 .
+Des variants de CYP19 ont été décrits , sans relation avec un risque particulier de cancer du sein .
+L' activité aromatase la plus forte est retrouvée au niveau du placenta et des cellules de la granulosa des follicules ovariens .
+L' aromatase est également exprimée dans le tissu adipeux , le foie , le muscle , le cerveau , le sein normal et tumoral .
+Par ailleurs , il a été montré chez des patientes ayant un cancer du sein que la concentration d' oestrogènes au niveau du tissu mammaire tumoral était supérieure à la concentration plasmatique du fait d' une activité aromatase intratumorale , ceci quel que soit le statut en RE de la tumeur et le statut ménopausique de la patiente .
+L' activité aromatase et le niveau de transcrits d' aromatase sont plus élevés dans le quadrant du sein où se situe la lésion tumorale .
+Inhibiteurs d' aromatase
+Des inhibiteurs d' aromatase sont développés depuis plus de 25 ans , mais seuls les inhibiteurs d' aromatase les plus récents ont une grande spécificité d' action .
+Ils suppriment la synthèse d' oestrogènes à_partir_d' androgènes surrénaliens chez les femmes ménopausées ( ( figure 2 ) ) .
+L' activité aromatase est inhibée par les inhibiteurs d' aromatase tels_que l' anastrozole ( Arimidex® ) , le létrozole ( Femara® ) et l' exémestane ( Aromasine® ) ( ( figure 1 ) , c ) .
+Pour certains auteurs , l' activité aromatase intratumorale avant traitement pourrait prédire la réponse à un traitement par inhibiteur d' aromatase .
+L' aminoglutéthimide ( Orimétène® ) , le premier inhibiteur d' aromatase a été initialement développé comme anticonvulsivant , mais fut abandonné car il induisait une insuffisance surrénalienne .
+Il fut alors montré qu' il inhibait plusieurs enzymes de la stéroïdogenèse et fut utilisé pour induire une surrénalectomie chimique dans les cancers du sein avancés en association avec un traitement substitutif glucocorticoïde .
+Son effet principal était une inhibition de l' aromatase , ce qui a conduit au développement de nouveaux inhibiteurs d' aromatase plus spécifiques .
+Deux types d' inhibiteurs d' aromatase sont définis en fonction de leur structure et de leur mode d' action : les inhibiteurs stéroïdiens de type I et les inhibiteurs non stéroïdiens de type II ( ( figure 3 ) ) .
+Tous ont en_commun leur mode d' action , l' inhibition sélective de l' aromatase sans interférence avec la production des autres hormones stéroïdes .
+Les inhibiteurs de type I , stéroïdiens , sont des analogues structuraux de l' androstène-dione , substrat naturel de l' aromatase , avec lequel ils entrent en compétition .
+Ils lient de façon covalente et irréversible le site catalytique de l' enzyme .
+La restauration de l' activité nécessite une synthèse de novo d' aromatase .
+Il s' agit d' analogues de l' androstène-dione qui laissent intact le noyau A indispensable à la liaison à l' aromatase .
+Le premier inhibiteur décrit est le 4-hydroxyandrostène-dione ( 4-OHA ) ( formestane , Lentaron® ) administré par voie intramusculaire .
+Sa commercialisation a été suspendue fin 2002 .
+Actuellement seul l' exémestane , le 6-methylèneandrosta-1,4 dione-3 , 17 dione ( Aromasine® ) administré par voie orale est disponible .
+Il se lie de façon spécifique à l' aromatase avec un Ki très élevé ( 4,3 nmole / L ) .
+Il ne se lie pas aux récepteurs des oestrogènes , et a une très faible affinité pour les récepteurs des androgènes et de la progestérone .
+La plupart des inhibiteurs non stéroïdiens de type II disponibles sont des dérivés azoles .
+Ils incluent l' aminoglutéthimide ( Orimétène® ) non spécifique , le fadrozole non approuvé en France , et plus récemment des dérivés triazoles , plus puissants et spécifiques : l' anastrozole ( Arimidex® ) et le létrozole ( Femara® ) .
+Ces composés agissent en se liant à un atome d' azote du radical hème de l' aromatase .
+La structure chimique de l' hétérocycle est importante , car elle interagit avec l' aromatase par l' intermédiaire de liaisons hydrogènes ou de van der Waals .
+La liaison entre le résidu protéique et le fer de l' hème est cruciale dans cette interaction .
+Ces inhibiteurs peuvent se dissocier de l' enzyme permettant à de nouvelles molécules de bloquer l' enzyme .
+Chez des patientes ménopausées présentant un cancer du sein , ces composés permettent d' inhiber de plus de 98 % l' aromatase , sans autres effets hormonaux que ceux liés à la déprivation oestrogénique .
+Les inhibiteurs d' aromatase ne sont pas indiqués chez les patientes préménopausées car ils ont une efficacité réduite sur l' aromatase ovarienne et du fait de la déprivation oestrogénique , ils augmentent la stimulation gonadotrope .
+Pharmacocinétique
+Les inhibiteurs d' aromatase ( anastrozole , létrozole et exémestane ) sont administrés per os et présentent une excellente biodisponibilité .
+Leur demi-vie d' élimination est respectivement de 40-50 h , 2-4 jours et 27 h pour 1 mg / j d' anastrozole , 2,5 mg / j de létrozole et 25 mg / j exémestane , ce qui permet leur administration en une prise quotidienne unique .
+Le plateau de concentration plasmatique est obtenu après 7 jours pour l' anastrozole et l' exémestane et 60 heures pour le létrozole .
+Ils sont métabolisés par le foie .
+La liaison aux protéines plasmatiques est de 40 % pour l' anastrozole , 60 % pour le létrozole et 90 % pour l' exémestane .
+L' anastrozole subit un métabolisme intense , moins de 10 % de la dose administrée est excrétée dans les urines sous forme inchangée dans les 72 heures suivant l' administration .
+L' anastrozole est métabolisé par N-désalkylation , hydroxylation et glycuroconjugaison .
+Le triazole , principal métabolite , n' inhibe pas l' aromatase et est éliminé par voie urinaire .
+L' anastrozole inhibe le CYP1A2 et le CYP2C8 mais sans retentissement clinique , car leurs concentrations sont insuffisantes .
+Le létrozole est métabolisé par le foie en un métabolite inactif le 4.4' -méthanol bisbenzonitrile .
+Plus de 90 % est retrouvé dans les urines sous forme glucuronide .
+Le létrozole inhibe principalement l' isoenzyme 2A6 du cytochrome p450 et , lorsqu' il est saturé , sa clairance métabolique est médiée par le CYP3A4 , là encore à des concentrations supérieures à celles observées in_vivo .
+L' exémestane est métabolisé par le CYP3A4 , mais il a été aussi montré qu' il pouvait être métabolisé par une voie alternative lors_de la prescription simultanée d' inhibiteurs de CYP3A4 .
+Là encore on ne retrouve aucun retentissement clinique .
+Bien que l' on observe quelques différences pharmacocinétiques entre les différents produits , l' inhibition complète de l' aromatase est observée dans les mêmes délais , ce qui semble suggérer qu' elle est obtenue avant l' obtention du plateau d' équilibre .
+L' association de tamoxifène et d' anastrozole n' a pas montré d' efficacité supérieure dans le traitement adjuvant .
+Cette association n' a pas d' impact sur la concentration plasmatique du tamoxifène comme cela a été montré pour l' anastrozole , le létrozole .
+Par contre , l' association entraîne une diminution des concentrations plasmatiques de létrozole de 35 à 40 % et d' anastrozole de 27 % [ 59 - 61 ] .
+Il est important de noter que , dans l' étude Atac , il n' est observé aucune différence en termes de réduction d' oestradiolémie entre le bras anastrozole seul et le bras anastrozole et tamoxifène , ce qui semble montrer que la modification de pharmacocinétique de l' anastrozole n' est probablement pas l' élément essentiel de la différence en termes de survie sans récidive entre ces deux bras .
+L' une des hypothèses serait que la carence oestrogénique sous anastrozole seul serait plus profonde .
+Une étude préliminaire portant sur 18 patientes ne montre pas de modification de la concentration plasmatique d' exémestane après 4 semaines de traitement par tamoxifène .
+Le problème de la résistance croisée entre les différents types d' inhibiteurs d' aromatase a été posé dans sept études incluant de 20 à 136 patientes traitées successivement par deux types d' inhibiteurs d' aromatase pour un cancer du sein métastatique .
+Elles répondent en deuxième ligne dans 4,8 à 25,6 % des cas .
+On peut penser qu' il n' existe pas une totale résistance croisée entre ces produits .
+Il faut cependant nuancer par le fait que dans quatre études , la première ligne d' inhibiteurs était l' aminoglutéthimide , moins puissant que les inhibiteurs plus récents .
+Cependant , deux études montrent une stabilisation de la maladie durable chez des patientes traitées par formestane après rechute sous anastrozole et létrozole semblent confirmer l' absence de résistance croisée .
+Résultats des essais cliniques et effets secondaires indésirables
+Les résultats cliniques présentés dans cette revue concernent essentiellement des patientes ménopausées , les inhibiteurs de l' aromatase chez des patientes préménopausées étant contre-indiqués .
+Données cliniques en situation métastatique
+La démarche chronologique a été la suivante .
+Essais en deuxième ligne
+L' intérêt clinique des inhibiteurs de l' aromatase s' est d'_abord imposé dans les années 1990 avec la démonstration d' une meilleure efficacité en comparaison avec l' acétate de mégestrol ( Megace ) après échec du tamoxifène .
+Ces principaux essais sont résumés dans le tableau 1 ( Tableau 1 ) , montrant des différences le_plus_souvent modestes en faveur des inhibiteurs de l' aromatase .
+Cependant , c' est surtout une meilleure tolérance qui a caractérisé les inhibiteurs d' aromatase , en_particulier sur les risques thromboemboliques et la prise de poids , lors_de ces essais en phase avancée .
+Essais de première ligne
+Au vu des résultats en deuxième ligne , le développement des inhibiteurs d' aromatase s' est porté vers la première ligne en phase métastatique en comparaison au tamoxifène ( tableau 2 ( Tableau 2 ) ) .
+Ainsi , le groupe de l' __ILBC__ a comparé dans un essai de phase III le létrozole au tamoxifène en première ligne d' hormonothérapie chez des patientes ménopausées métastatiques .
+Le létrozole donnait un taux de réponse supérieur ( 32 % contre 21 % , p = 0,0002 ) et une plus longue survie sans progression ( 9,4 mois contre 6 mois , p < 0,0001 ) .
+La différence en survie globale ( 34 contre 30 mois ) n' est pas significative , mais environ la moitié des patientes de chaque bras ont bénéficié d' un cross-over pouvant expliquer cette absence de différence .
+Trois études ont comparé l' anastrozole au tamoxifène .
+L' analyse combinée des deux premières études comparant l' anastrozole au tamoxifène en première ligne d' hormonothérapie chez 1021 patientes ménopausées métastatiques a montré une meilleure activité antitumorale et une meilleure tolérance de l' anastrozole en_particulier sur le plan thromboembolique .
+Chez les patientes présentant une tumeur dont les récepteurs hormonaux sont positifs , l' anastrozole est significativement supérieur au tamoxifène avec un temps jusqu' à progression de 10,7 mois contre 6,4 mois ( p = 0,02 ) .
+Une des deux études ( Target ) comportait 55 % de patientes pour lesquelles le statut des RH n' a pas été déterminé .
+En revanche la survie globale n' est pas différente ( 41,3 contre 40,8 mois de médiane ) .
+Une analyse rétrospective de la réponse au tamoxifène après traitement en première ligne par anastrozole montre un taux de réponse objective de 10,1 % et un bénéfice clinique de 56,8 % .
+Enfin , un essai de phase III de l' EORTC , poursuivant une phase II randomisée , a comparé l' exémestane au tamoxifène .
+La survie sans progression était significativement supérieure dans le bras exémestane ( test de Wilcoxon p = 0,04 ) .
+Le taux de réponse objective était de 46 % contre 31 % dans le bras de référence .
+Cette différence était très significative ( p = 0,005 ) .
+Le bénéfice clinique ( réponse et stabilisation 6 mois ) était également supérieur dans le bras exémestane .
+La survie globale était comparable dans les deux groupes ( p = 0,8 ) .
+La tolérance était bonne dans les deux bras avec plus d' arthralgies et de myalgies dans le bras exémestane ( 18 % contre 12 % ) , et plus de bouffées de chaleur , de sueurs et de pertes vaginales dans le bras tamoxifène .
+Il n' y a pas d' effet délétère sur les lipides .
+Essais de comparaison des inhibiteurs de l' aromatase
+Un essai de phase IV a comparé en ouvert le létrozole ( 2,5 mg / j ) à l' anastrozole ( 1 mg / j ) chez 713 patientes présentant un cancer du sein métastatique ayant déjà reçu des antioestrogènes .
+Le taux de réponse objective est significativement plus élevé chez les patientes traitées par létrozole ( 19,1 % contre 12,3 % , p = 0,013 ) .
+En revanche , aucune différence n' a été observée pour le bénéfice clinique , le temps jusqu' à progression ou la survie globale .
+Essais cliniques adjuvants
+Tamoxifène
+Le tamoxifène administré en traitement adjuvant pendant 5 ans chez les patientes opérées d' un cancer du sein ayant des récepteurs hormonaux positifs était , jusqu' à_présent , le traitement standard internationalement reconnu depuis plus de vingt ans .
+Ce traitement réduit de 25 % le risque de décès , ce qui se traduit par une amélioration en valeur absolue de 10 % à 10 ans chez les patientes ayant une atteinte ganglionnaire et de 5 ans chez les patientes sans envahissement ganglionnaire .
+Dans la méta-analyse d' Oxford , une durée de traitement de 5 ans par tamoxifène donne un bénéfice supérieur à celui d' un traitement d' une durée inférieure .
+La prolongation de la prise de tamoxifène adjuvant au-delà_de cinq ans n' a pas montré de bénéfice dans deux grands essais : le Scottish adjuvant tamoxifen trial avec qunize ans de recul et le NSABP B14 .
+Cette dernière étude randomisée comparait , chez 1172 patientes ayant un cancer du sein sans envahissement ganglionnaire et ayant déjà reçu du tamoxifène pendant 5 ans , l' arrêt du traitement versus la poursuite du traitement pendant une durée indéterminée .
+L' hormonothérapie adjuvante a contribué à la réduction de la mortalité par cancer du sein qui est décrite depuis la fin des années 1990 .
+Cependant , l' efficacité du tamoxifène n' est pas absolue .
+De plus , le tamoxifène est associé à une augmentation du risque de cancer de l' endomètre .
+Ce risque est cependant bien inférieur au bénéfice apporté par la réduction de la mortalité par cancer du sein .
+Le tamoxifène augmente également le risque thromboembolique , de bouffées de chaleur et de pertes vaginales .
+Compte tenu des résultats observés en situation métastatique , les inhibiteurs de l' aromatase ont donc logiquement été testés dans le traitement adjuvant des cancers du sein chez les patientes ménopausées en vue d' améliorer la tolérance et l' efficacité .
+Anastrozole
+L' essai de phase III Atac comparait l' anastrozole au tamoxifène ou à l' association anastrozole-tamoxifène chez 9366 patientes ménopausées .
+Lors de l' actualisation des résultats après 4 ans de suivi médian , 885 événements ( récidive locale ou métastatique , cancer du sein controlatéral , ou décès ) ont été observés , 413 dans le groupe anastrozole et 472 dans le groupe tamoxifène .
+La survie sans récidive locale ou métastatique est supérieure dans le bras anastrozole seul ( réduction du risque de récidive de 17 % , p = 0,015 ) par rapport aux patientes recevant du tamoxifène ( tableau 3 ( Tableau 3 ) ) .
+En excluant de l' analyse les patientes non hormonosensibles ( RH - ) , le bénéfice est majoré ( réduction du risque de récidive de 22 % , p = 0,007 ) .
+Chez les femmes RH+ , le nombre de cancers du sein controlatéraux est diminué sous anastrozole ( p = 0,04 ) .
+On ne dispose pas encore de données en survie globale .
+Des analyses de sous-groupes réalisées a_posteriori suggèrent que le gain en efficacité de l' anastrozole ne serait pas significatif par rapport au tamoxifène chez les patientes ayant également reçu de la chimiothérapie adjuvante .
+En revanche , la différence en_faveur_de l' anastrozole serait plus importante dans les tumeurs RE+ / RP - que dans les tumeurs RE+ / RP+ .
+Le profil de tolérance est globalement meilleur pour l' anastrozole ( tableau 4 ( Tableau 4 ) ) , en_particulier avec moins d' accidents vasculaires cérébraux et moins de troubles thrombo-emboliques en comparaison avec le tamoxifène .
+Sur le plan osseux , la première analyse à 1 an avait révélé une différence statistiquement significative en faveur du tamoxifène avec une perte osseuse plus importante dans le bras anastrozole .
+Cette nouvelle analyse à 4 ans de suivi confirme ces résultats .
+Sur le plan gynécologique , les données des patientes américaines et européennes ont été comparées aux registres disponibles dans ces pays sur des femmes du même âge .
+L' incidence des cancers de l' endomètre sous anastrozole était plus faible qu' attendue ( 3 versus 4,14 ) alors qu' elle était plus élevée dans le bras tamoxifène .
+Ceci pourrait suggérer un effet protecteur de l' anastrozole sur l' endomètre .
+Dans un essai __ITA__ , 426 patientes ménopausées présentant une tumeur du sein RH+ , avec envahissement ganglionnaire ont été randomisées après deux à trois ans de traitement par tamoxifène entre la poursuite du tamoxifène pendant 5 ans au total ou le passage à l' anastrozole pour deux à trois ans .
+Les résultats sont en_faveur_de l' anastrozole , le risque relatif de rechute est de 0,36 ( 0,17-0,75 ; p = 0,006 ) , le risque relatif de décès est de 0,18 ( 0,02-0,57 ; p = 0,07 ) .
+Il faut noter que cet essai n' a pas encore été publié et que les effectifs sont faibles pour permettre une conclusion .
+Létrozole
+L' étude MA17 a montré , chez les femmes ménopausées ayant reçu pendant 5 ans une hormonothérapie adjuvante par le tamoxifène , qu' un relais par le létrozole améliore significativement la survie sans maladie .
+Cette étude a inclus 5187 femmes randomisées entre 5 ans de létrozole et placebo après leur traitement par le tamoxifène .
+Lors de la première analyse intermédiaire , soit après une durée médiane de 2,4 ans , le nombre de récidives locales ou métastatiques ou de tumeurs controlatérales est de 75 dans le groupe létrozole contre 132 dans le groupe placebo .
+La survie sans maladie à 4 ans est estimée respectivement à 93 % et 87 % ( p < 0,001 ) dans les bras létrozole et placebo .
+Lors de l' Asco 2004 , P. Goss a présenté une actualisation des résultats [ communication ] .
+Ainsi , l' analyse en sous-groupe chez les patientes ayant un envahissement ganglionnaire ( N+ ) , qui représentent environ 46 % de la population étudiée , montre un avantage en survie globale du létrozole , avec une réduction de 39 % de la mortalité ( p = 0,035 ) .
+Sur l' ensemble de la population étudiée ( N - et N+ ) , la réduction de mortalité était de 18 % , non significative .
+Les bouffées de chaleur , les arthralgies , et les myalgies sont plus fréquentes dans le groupe létrozole , mais les hémorragies vaginales sont moins nombreuses .
+De nouveaux cas d' ostéoporose sont apparus chez 5,8 % des femmes du groupe létrozole et 4,5 % de celles du groupe placebo ( p = 0,07 ) , et les taux de fractures sont similaires dans les deux groupes .
+L' étude a été interrompue après une analyse intérimaire planifiée et les patientes ont été informées .
+Aussi , avec cet arrêt précoce , la question de la durée optimale du traitement après cinq ans de tamoxifène ainsi_que la tolérance à long terme restent sans réponse .
+Exémestane
+Un schéma adjuvant séquentiel a été testé avec l' exémestane .
+Dans cette étude , 4742 patientes ont été randomisées après un traitement initial de 2 à 3 ans de tamoxifène , entre exémestane ou la poursuite du tamoxifène jusqu' à un total de cinq ans de traitement adjuvant .
+Après un suivi médian de 36 mois , 449 événements ( récidive locale ou métastatique , cancer du sein controlatéral , ou décès ) ont été observés , 183 dans le groupe exémestane et 266 dans le groupe tamoxifène , correspondant à un hazard ratio non ajusté de 0,68 pour l' exémestane contre le tamoxifène ( p < 0,001 ) , soit une réduction du risque de 32 % , et un bénéfice absolu en termes de survie sans maladie de 4,7 % .
+Trois ans après la randomisation , la survie sans maladie est ainsi de 91,5 % dans le groupe exémestane et 86,8 % dans le groupe tamoxifène .
+Il n' y a pas de différence significative entre les deux groupes concernant la survie globale ( p = 0,41 ) .
+Le nombre de cancers du sein controlatéraux était également diminué dans le groupe exémestane ( p = 0,04 ) .
+La toxicité thromboembolique était diminuée dans le bras avec exémestane associée cependant à une augmentation des arthralgies , de l' ostéoporose , des troubles visuels et des diarrhées .
+Ainsi , la survie sans maladie de patientes ménopausées ayant présenté un cancer du sein après un traitement de 2 à 3 ans par le tamoxifène est significativement augmentée lorsqu' elles sont traitées ensuite par l' exémestane à la place du tamoxifène pour une durée totale de 5 ans .
+Cette étude randomisée multicentrique suggère que l' utilisation séquentielle de composés hormonaux de mode d' action distincts aurait le potentiel de surmonter la résistance rencontrée chez les femmes traitées par le tamoxifène seul .
+Une autre explication pourrait être qu' un inhibiteur de l' aromatase serait plus efficace que le tamoxifène seul , comme démontré par l' essai Atac .
+Essais néoadjuvants
+Dans plusieurs petits essais non randomisés chez des patientes âgées présentant des tumeurs volumineuses ( > 3 cm ) , un traitement préopératoire par létrozole , anastrozole ou exémestane a entraîné une régression du volume tumoral supérieur à ce qui était rapporté avec le tamoxifène .
+Un essai randomisé a comparé le létrozole au tamoxifène en traitement néoadjuvant en double aveugle pendant 4 mois chez 324 patientes âgées présentant une tumeur RH+ non accessible à un traitement conservateur .
+Le taux de réponse clinique était supérieur ( 55 % contre 36 % , p < 0,001 ) avec le létrozole , ce qui a permis un plus grand nombre de traitements conservateurs .
+De plus , l' analyse d' un sous-groupe a montré que le létrozole est plus efficace que le tamoxifène chez les patientes surexprimant HER2 et / ou HER1 ( REGF ) .
+L' essai__AT__ pendant 3 mois .
+Trois cent trente patientes ont été incluses .
+La même efficacité en termes de réponse clinique ( 36 , 37 et 39 % respectivement ) a été observée dans les trois groupes .
+Cependant , il y a eu plus de traitement conservateur dans le bras anastrozole ( 46 % contre 22 et 26 % , p = 0,03 ) .
+Dans cet essai , une biopsie était effectuée avant traitement , après 2 semaines de traitement , et lors_de la chirurgie à 12 semaines .
+Il a été observé une diminution significative de l' expression du KI67 dans les trois bras à deux semaines .
+Cette baisse de la prolifération cellulaire était plus importante dans le bras anastrozole ( p < 0,01 ) .
+Conclusion
+Ce qui est acquis en 2004 :
+* - La prescription d' inhibiteur d' aromatase seul en adjuvant chez la femme ménopausée présentant un cancer du sein hormonodépendant augmente la survie sans rechute par rapport au tamoxifène seul pendant 5 ans ( montré pour l' anastrozole ) .
+* - L' utilisation combinée d' inhibiteurs d' aromatase et de tamoxifène ne présente aucun avantage par_rapport_à la prescription de chacun des produits seuls .
+* - Il y a globalement moins d' effets indésirables sous traitement par inhibiteur d' aromatase en comparaison au tamoxifène sauf sur le plan osseux .
+Ce qui est n' est pas connu en 2004 :
+* - La durée optimale de traitement .
+* - La définition de la séquence optimale de traitement et l' intérêt d' un traitement séquentiel ( antioestrogènes suivi d' inhibiteurs d' aromatase ou la séquence inverse ) .
+* - La tolérance à long terme .

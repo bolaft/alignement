@@ -37,6 +37,17 @@ public class Context {
 				} else {
 					vectors.get(head).put(token, vectors.get(head).get(token) + 1);
 				}
+				
+
+				if (!vectors.containsKey(token)){
+					vectors.put(token, new HashMap<String, Integer>());
+				}
+				
+				if (!vectors.get(token).containsKey(head)){
+					vectors.get(token).put(head, 1);
+				} else {
+					vectors.get(token).put(head, vectors.get(token).get(head) + 1);
+				}
 			}
 		
 			if (!heads.contains(token)){
@@ -52,42 +63,23 @@ public class Context {
 	}
 	
 	public HashMap<String, HashMap<String, Integer>> translateVectors(HashMap<String, ArrayList<String>> translations){
-		Iterator<Entry<String, HashMap<String, Integer>>> it = vectors.entrySet().iterator();
-	    
-	    while (it.hasNext()) {
-	        Map.Entry<String, HashMap<String, Integer>> entry = (Entry<String, HashMap<String, Integer>>)it.next();
-	        
-	        String head = entry.getKey();
-	        
-	        if (!translatedVectors.containsKey(head)){
-	        	translatedVectors.put(head, new HashMap<String, Integer>());
-	        }
-	        
-	        Iterator<Entry<String, Integer>> subit = entry.getValue().entrySet().iterator();
-	        
-	        while (subit.hasNext()) {
-	        	Entry<String, Integer> subentry = subit.next();
-	        	String token = subentry.getKey();
-	        	Integer count = subentry.getValue();
+		for (String head : vectors.keySet()) {
+			translatedVectors.put(head, new HashMap<String, Integer>());
+			
+			for (String word : vectors.get(head).keySet()){
+				String translation;
+				
+				if (translations.containsKey(word)) {
+					translation = translations.get(word).get(0);
+				} else {
+					translation = word;
+				}
 
-	    		ArrayList<String> translatedTokens = new ArrayList<String>();
-	    		
-	        	if (translations.containsKey(token)) {
-	        		translatedTokens = translations.get(token);
-	        	}
-	        	
-	        	for (String translatedToken : translatedTokens){
-	        		HashMap<String, Integer> headTranslations = translatedVectors.get(head);
-	        		
-	        		if (!headTranslations.containsKey(translatedToken)){
-	        			headTranslations.put(translatedToken, count);
-	        		} else {
-	        			headTranslations.put(translatedToken, count + headTranslations.get(translatedToken));
-	        		}
-	        	}
-	        }
-	    }
-	    
+				translatedVectors.get(head).put(translation, vectors.get(head).get(word));
+			}
+			
+		}
+		
 		return translatedVectors;
 	}
 

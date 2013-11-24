@@ -1,0 +1,91 @@
+1. Introduction
+Breast Cancer is the most common cancer to affect women in the United Kingdom , and develops in 1 in 9 to 1 in 11 women in their lifetime.1 In women with a family history of the disease the risk can be substantially increased and starts at an earlier age than in the general population.2 Recognition of this , along with the identification of the high-risk susceptibility genes BRCA1 and BRCA2 , has led to the emergence and subsequent expansion of breast cancer __FHCs__ .
+Such centres offer accurate assessment of the increased risk by virtue of family history and advice on preventative measures .
+Strategies of risk reduction , including lifestyle , hormonal and surgical measures have attracted a broad spectrum of medical and lay media interest.3 , 4 and 5 The evidence base for these has been expanding in recent years but the more interventionist approaches such as chemoprevention and prophylactic surgery are at present indicated only for especially high-risk groups.4 , 6 , 7 and 8 The other key element of the FHC process is the provision for increased mammographic surveillance , starting at a younger age than is routinely available , aiming to detect tumours earlier when the prognosis is better and to improve outcome .
+This is motivated partly by the fact that some women at very high-risk would prefer intensive surveillance and early treatment to more radical measures such as surgery in the absence of disease , but also by the need to offer less aggressive options to the larger group of women whose family history indicates an increased risk of breast cancer but which is not sufficient to suggest a serious chance of a high-risk gene .
+There is emerging evidence to suggest that such surveillance is likely to be effective , both in the setting of FHCs9 , 10 , 11 , 12 and 13 and in long-term follow-up studies of population based screening programmes.14 .
+There is an urgent need to further evaluate these surveillance programmes in family history subjects .
+The clinicians providing them need to know if the intervention is resulting in earlier detection and , most importantly , if it is preventing the outcome , death from breast cancer .
+In this study we investigate the potential benefits of mammographic screening of young women at increased risk of breast cancer .
+We compare the tumours and the outcomes of the women under fifty years of age in a surveillance programme in Manchester , both screen detected and interval cancers , with women presenting symptomatically to a breast cancer __SC__ during the same twelve-year period .
+2. Patients and methods
+Between 1 January 1991 and 31 December 2002 , 3016 asymptomatic women aged less than 50 years , who were at increased risk of breast cancer by virtue of their family history , were screened in the Manchester FHC at Withington Hospital .
+All were assessed at a 1 in 6 , or greater , lifetime risk of developing breast cancer primarily using the Claus tables as previously described.2 and 15 These included 32 asymptomatic known carriers of BRCA1 / 2 mutations .
+Mammographic screening was performed at 12 - 18 monthly intervals and commenced at presentation to the clinic , but not before the age of 35 years unless there were relatives in the family who were affected at a very early age .
+In such circumstances screening commenced 5 years before the earliest age breast cancer was diagnosed , but not before 30 years .
+All women were offered instruction in breast self-examination and were encouraged to contact the clinic staff immediately , if they should detect any changes in their breasts .
+Screening took the form of mammography ( two-view from 1999 onwards and at baseline and one-view for follow-up screens prior to 1999 ) and clinical breast examination .
+The histological characteristics of the tumours detected , including type , size , grade and lymph node status , were systematically collated .
+All affected patients were screened for germ-line BRCA1 and BRCA2 mutations .
+Current disease status was confirmed from the hospital records .
+To allow for interval cancers the follow-up period included women diagnosed within 2 years of a normal screen up to 31.12.2004 , but did not include screen detected cases in the extra 2 years .
+During 1991 - 2002 data was collected from women aged less than 50 years who had presented symptomatically with breast cancer to the same Breast Unit at Withington Hospital .
+Women who had undergone any form of screening , for example in The Age Trial,16 were excluded .
+Therefore these women had all been diagnosed following their presentation with symptoms .
+The tumour characteristics of the breast cancers suffered by these women were similarly collated and current disease status confirmed from the hospital records .
+Women were followed-up to the end of 2004 for recurrence , death from breast cancer and death from other cancers .
+All women in both groups were followed-up in the same way , by surgeons at the unit , and oncologists at Christie Hospital .
+No differences in treatment occurred apart from an increase in risk reducing contralateral mastectomy in the FHC group .
+Differences with respect to categorical variables between the FHC women and the __SC__ women were evaluated using the Pearson Chi-squared test .
+Survival curves were generated by the Kaplan-Meier method .
+Cox regression was used to compare the survival experience of the two groups .
+For the primary survival analysis , we considered survival to death from breast cancer , with cases alive at the end of the follow-up period or dying of other causes treated as censored .
+In addition , we performed disease-free survival analysis , with survival defined as to first recurrence , whether local , regional or distant or death from any cause , whichever occurred first .
+In the latter analysis , subjects still alive and having had no recurrence at the end of follow-up were treated as censored .
+A supplementary survival analysis was performed , making a conservative adjustment to the survival time , subtracting the estimated additional observation time of the screen-detected cancers occurring due to lead time .
+This additional observation time is a function of the rate of progression from asymptomatic screen-detectable disease to clinical symptomatic disease , which in turn is the inverse of the mean sojourn time , the average duration of the preclinical screen-detectable period .
+The mean sojourn time was estimated as the prevalence-incidence ratio.12 This is the rate of cancers detected at first screen divided by the annual incidence rate .
+Details of the calculation of the additional observation time due to lead time are given in the Appendix .
+3. Results
+The screening programme conducted in the FHC detected 62 breast cancers ( median age at diagnosis 45 years ) over the 14 year period .
+Nine of the women diagnosed with breast tumours were BRCA1 mutation carriers and 8 were carriers of a pathogenic BRCA2 mutation .
+There were 19 prevalent screen cancers giving a rate of 5.97 per 1000 , 26 incident cancers and 17 interval cancers .
+The tumour characteristics of the cancers are summarised in Table 1. There were 10826 women years of follow-up , giving an annual incidence rate of 3.97 per 1000 women years .
+Thus , the prevalence-incidence ratio was 1.59 , indicating a mean sojourn time of 19 months .
+Significantly more prevalent screen cancers were in situ lesions compared with the incident and interval cancers ( P = 0.013 ) .
+Significantly , more grade 3 tumours were observed in the incident and interval cancers ( P = 0.032 ) .
+Although the interval and incident screen cancers had a high proportion of node-positive tumours , as one would expect from the fact that they include 14 clinical cases , this was not statistically significant .
+The tumour characteristics and outcome for women diagnosed under forty years of age were similar to those diagnosed over forty years .
+The annual incidence rates were higher in the older group , although not substantially so .
+Between 1 January 1991 and 31 December 2002 , 1108 women aged less than 50 years were seen with symptomatic breast cancers in the SCs at the same Breast Unit at Withington Hospital ( median age at diagnosis 44 years ) .
+The histological characteristics and outcomes of the FHC cancers compared with those that presented symptomatically to the __SC__ are summarised in Table 3. Significantly more women were diagnosed with __DCIS__ within the setting of the FHC than in the __SC__ ( 30% vs 8% , P < 0.001 ) .
+Nine of the 19 in situ lesions were reported as high-grade and three of the women diagnosed with __DCIS__ at prevalence screening were carriers of BRCA2 mutations .
+Tumours were significantly smaller in the FHC group with 72% of the infiltrating lesions being less than 2 cm compared to 39% in the __SC__ .
+Significantly ( P = 0.013 ) more invasive tumours were node-negative at surgery in the FHC programme ( 66% ) compared to in the __SC__ ( 47% ) .
+The grades of tumours found in the two settings were not significantly different ( P = 0.511 ) .
+Outcomes differed significantly , with lower proportions of recurrences and deaths in the FHC ( P = 0.008 ) .
+In particular there were significantly fewer breast cancer deaths in the FHC ( P = 0.013 ) .
+The survival curves of breast cancer death for the two populations are shown in Fig. 1. Cox regression analysis indicated a relative hazard of death from breast cancer of 0.19 ( 95% CI 0.07 - 0.52 , P < 0.001 ) .
+When adjusted for additional observation time in the FHC due to lead time , the relative hazard was 0.24 ( 95% CI 0.09 - 0.66 , P = 0.005 ) .
+For disease-free survival , the relative hazard unadjusted for lead time was 0.19 ( 95% CI 0.08 - 0.43 , P < 0.001 ) , and adjusted for lead time was 0.25 ( 95% CI 0.11 - 0.57 , P < 0.001 ) .
+The survival curves include BRCA1 carriers even though it is well established that the cancers they suffer are associated with a worse prognosis.17 and 18 Of the nine BRCA1 carriers , one had died by the time follow-up was censored and the other eight were alive without recurrence .
+4. Discussion
+This study has shown that the tumours detected in women under 50 with a family history of breast cancer in a screening programme were significantly smaller , less likely to be node-positive and less likely to be invasive than tumours that present symptomatically in similar aged women .
+This resulted in a survival advantage for women in the screening programme over a group of women of the same age but who were not exposed to screening , even taking into account the lead time .
+There were significantly more deaths from breast cancer ( and from all causes ) in the comparison group .
+The majority of poor prognosis invasive tumours were in the prevalent group with 4 out of the 9 invasive tumours leading to an adverse outcome .
+In comparison , the outcome for the women with interval / incidence tumours was particularly good as only two of the women with invasive cancers died .
+We have further confirmed that the reported detection rates for women in a FHC setting are comparable to those in population screening programmes for women 10 - 15 years older.9 , 10 and 18 The rate of detection was 5.97 per 1000 at prevalent screening and 4.84 at incident screening compared to 5.5 per 1000 and 4.6 per 1000 respectively in the NHS Breast Screening Programme.19
+Favourable pathological features of screen detected cancers in women under 50 with a family history of breast cancer have been reported previously.9 , 10 and 11 This includes an increased proportion of in situ lesions being detected and our study confirms this finding .
+An argument could be made to suggest that some of those might not have become invasive and caused a clinical problem .
+Whilst only about 40% of untreated low-grade lesions become invasive on long-term follow-up,20 this figure is thought to be higher for the more aggressive forms of __DCIS__ .
+With the majority of the FHC lesions being of high-grade , and the identification of three BRCA2 carriers in this subset , this strongly suggests that the pathway to invasive disease in these high-risk women involves __DCIS__ .
+Indeed the combination of the presence of a family history and atypia is known to confer an increased risk of invasive disease21 and suggests that a high proportion of __DCIS__ detected would have become malignant if untreated .
+There has been a misconception amongst many clinicians that BRCA related cancers are not associated with __DCIS__ as less in situ disease was found in blocks surrounding invasive breast cancers in mutation carriers than in other familial breast cancer or sporadic disease.22 The fact that 3 / 8 BRCA2 carriers presented with stand alone __DCIS__ and that 18% of in situ lesions had a BRCA2 mutation should help dispel this possible misinterpretation .
+Although criticism could be made of our selection of control group this was the most appropriate available .
+Randomised studies in the FHC setting are near impossible and no adequate other control group could be identified .
+The patients were all treated at the same unit with the same surgeons and oncologists and came from the same geographical area .
+The main concern would be if familial breast cancer had a better prognosis than sporadic breast cancer , then the use of a general population control group would be inappropriate .
+There is no good evidence to suggest that familial breast cancer has a more favourable prognosis and some evidence to suggest that BRCA1 carriers have a poorer prognosis than sporadic breast cancer.18 BRCA2 carriers appear to have an equivalent prognosis to unselected cases.18 The grade of the FHC tumours was very similar to that of the surgical clinic controls and as such the effect of screening appears to have been to downstage the cancers to being smaller and more likely lymph node-negative .
+It is possible that some of the effect of down-staging could be due to greater awareness amongst our motivated women .
+It is clear that greater awareness can have an effect on stage at presentation , as Stockton and colleagues23 found a reduction in advanced stage cancers in East Anglia occurring just before the screening programme started , but when there was considerable publicity related to breast cancer and early detection .
+This awareness could at least partly explain the good prognosis of even the interval cancers .
+Nonetheless there is no good evidence to suggest that self examination alone would have been sufficient to improve survival .
+Although it has not yet been fully evaluated , it is prudent clinical practice that mammograms be offered on an annual basis to women at increased risk by virtue of their family history from the age of 4024 and this strategy has been long adopted by __FHCs__ .
+Those clinicians involved in such services need to know whether the activity does actually benefit the subjects in terms of their risk of death from breast cancer .
+Our study provides some evidence that it does .
+Even after adjustment for lead time , the results are significant and suggest a substantial reduction in risk of breast cancer death in the FHC programme .
+With increasing years of follow-up , more precise estimates of the survival benefits for women screened as part of our FHC service are anticipated .
+Whilst MRI screening has been shown to be superior to mammography in detection of early breast cancer in a screening setting for high-risk women,25 it is unlikely to be financially viable to offer this to all women at increased risk .
+The large prospective study26 underway to further evaluate mammographic surveillance services in women between the ages of 40 and 49 with a family history of breast cancer will hopefully also clarify the benefits further .
+Interestingly the tumour characteristics and outcome in the under 40 age group appear to be similar to the 40 - 49 age range suggesting further studies on the younger age group may be worthwhile .

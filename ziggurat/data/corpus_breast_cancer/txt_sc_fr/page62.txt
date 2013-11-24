@@ -1,0 +1,174 @@
+En France , le cancer du sein est le plus fréquent des cancers de la femme avec une incidence de 37000 nouveaux cas par an ( 35 % des cancers ) et une mortalité de 10000 patientes par an .
+La probabilité , pour une femme , d' avoir un cancer du sein est d' environ 10 % .
+Plus de 50 % des patientes décéderont à cause d' une maladie métastatique .
+La particularité de ce cancer est son hormonodépendance que l' on constate aussi_bien chez les femmes pré , péri et ménopausées et qui est reconnue par la présence des __RE__ et à la progestérone ( RP ) .
+Le taux de positivité des __RE__ rapporté dans la littérature varie de 59 à 81 % , tandis_que le taux de positivité des RP varie de 52 à 71 % selon la technique de détection utilisée , biochimique ou immunohistochimique : cette dernière a été recommandée par la conférence de consensus du National Institute of Health de novembre 2000 .
+Le seuil de positivité est défini par au moins 10 % de cellules marquées .
+Ce sont des facteurs prédictifs primordiaux quant_à la réponse au traitement hormonal en situation métastatique , adjuvante et néoadjuvante .
+Le bénéfice du tamoxifène a été clairement démontré en situation métastatique et adjuvante .
+La méta-analyse d' Oxford , publiée en 1998 , a confirmé que la prise de tamoxifène pendant 5 ans en adjuvant diminuait de 42 % le risque de rechute ( SSR ) , de 26 % le risque de mortalité par cancer du sein ( SG ) et de 47 % le risque de survenue d' un cancer dans le sein controlatéral .
+Ces bénéfices s' accompagnent cependant d' effets indésirables non négligeables comme une augmentation significative des cancers endométriaux ( p = 0,02 ) et des événements thrombo-emboliques ( p = 0,0006 ) et osseux ( p = 0,0001 ) .
+Le déve__AA__ stéroïdiens ( exémestane ) et non stéroïdiens ( anastrozole , létrozole ) de troisième génération va permettre à l' oncologue de bénéficier d' un arsenal thérapeutique plus efficace et mieux toléré .
+Au fur et à_mesure des essais , les __AA__ et le nouvel anti-oestrogène pur ( fulvestrant ) ont confirmé leur bénéfice clinique , d'_abord en deuxième ligne métastatique après échec du tamoxifène , puis en première ligne métastatique révélant une efficacité et une tolérance meilleures .
+Récemment , Atac a montré le bénéfice apporté par l' anastrozole tant en termes d' efficacité ( p = 0,013 ) que de tolérance .
+Le champ d' action thérapeutique des nouveaux anti-oestrogènes tend à s' élargir avec de récentes études cliniques en néoadjuvant ( phase II ) retrouvant des résultats cliniques intéressants par rapport au tamoxifène qu' il sera nécessaire de confirmer par des études de phase III .
+Les cancers localement avancés ( stades T3 et plus ) , malgré les campagnes de dépistage , représentent encore 15 % des cancers du sein aux États-Unis .
+De plus , ils représentent environ 70 % des cas de cancer dans le monde .
+Ils ont été les premiers modèles d' études cliniques néoadjuvantes .
+Actuellement , il est de pratique courante de proposer un traitement néoadjuvant systémique aux patientes ayant ce type de cancer inopérable d'_emblée .
+De nombreux essais ont étudié l' intérêt de la chimiothérapie comme traitement néoadjuvant mais peu se sont focalisés sur l' hormonothérapie néoadjuvante dans les cancers hormonosensibles .
+Pourtant , la place de la chimiothérapie par_rapport_à l' hormonothérapie , en phase métastatique ou adjuvante chez les femmes de plus de 70 ans , demeure imprécise , car celles-ci représentent désormais 25 % de l' ensemble de la population atteinte d' un cancer du sein en 1995 d'_après une étude nord-américaine .
+En effet , la_plupart des essais thérapeutiques excluent cette population et les différentes méta-analyses publiées ne peuvent apporter d' éclaircissement sur le rôle des deux types de traitement adjuvant ( la méta-analyse de l' EBCTCG des stratégies adjuvantes dans le cancer du sein concernait seulement 7 % des patientes de plus de 70 ans pour les essais hormonaux et 2 % des femmes ayant eu une chimiothérapie ) .
+Par ailleurs , seule la chimiothérapie néoadjuvante a montré une survie globale équivalente à celle observée après un traitement adjuvant .
+Historiquement , de nombreuses études , dont la_plupart étaient non randomisées , ont rapporté l' utilisation du tamoxifène comme traitement initial des cancers du sein opérables chez la femme âgée de plus de 70 ans .
+L' hormonosensibilité de ces patientes étant élevée , on espérait obtenir un contrôle tumoral par le tamoxifène sur une période prolongée sans geste chirurgical invasif .
+L' hormonothérapie néoadjuvante est née de l' extrapolation des résultats de l' hormonothérapie première chez la femme âgée .
+Elle ne doit donc encore être utilisée que dans le cadre d' essais cliniques , notamment chez les femmes âgées atteintes d' un cancer du sein hormonosensible et bien différencié ( SBR I ) ou chez celles ayant un carcinome lobulaire dont on connaît la faible chimiosensibilité .
+L' hormonothérapie a un profil de tolérance plus acceptable que la chimiothérapie néoadjuvante .
+Elle offre la possibilité d' une poursuite du traitement pendant la période périopératoire et permet de connaître précocement l' hormono- sensibilité de la tumeur .
+Les potentialités de l' hormonothérapie néoadjuvante dans le cancer du sein , extrapolées à partir des résultats de la chimiothérapie néoadjuvante , paraissent importantes .
+Elle nous donne des informations in_vivo sur la réponse tumorale au traitement ( facteurs prédictifs de réponse ) et permet :
+- une réduction de la taille tumorale et , dans certains cas , de l' envahissement ganglionnaire contribuant à l' augmentation du taux de conservation mammaire ;
+- une diminution de la croissance des micrométastases qui permettrait une amélioration des survies sans récidive et globale ;
+- une diminution de la résistance tumorale en exposant précocement le cancer à un traitement systémique afin_d' améliorer les survies sans récidive et globale ;
+- une adaptation de la stratégie thérapeutique le plus précocement possible en fonction de la réponse tumorale .
+Bases théoriques
+De nombreuses études suggèrent que le potentiel d' éradication des micrométastases est plus favorable avec un traitement systémique précoce et pourrait augmenter la survie .
+Il faut savoir que tous les modèles théoriques ont été évalués avec des chimiothérapies néoadjuvantes .
+L' hypothèse de Goldie et Coldman est que plus le traitement est précoce , plus le risque de voir des cellules tumorales devenir chimiorésistantes par mutation spontanée est faible .
+De plus , Skipper pense que l' exérèse tumorale première s' accompagnant d' une diminution du nombre de cellules tumorales favoriserait la croissance des micrométastases résiduelles .
+Cela a été confirmé par des modèles animaux : le taux de prolifération métastatique augmente avec l' exérèse ou l' irradiation de la tumeur primitive , ce qui serait dû à des facteurs de croissance .
+Un traitement systémique premier pourrait potentiellement inhiber cet effet et théoriquement augmenter la survie .
+Études pharmacologiques
+À l' état physiologique , les taux d' oestradiol dans le tissu mammaire de la femme ménopausée sont de 4 à 6 fois supérieurs aux taux plasmatiques ; ainsi les femmes en activité ovarienne et les femmes ménopausées présentent les mêmes taux d' oestradiol intramammaire alors_que les taux périphériques sont effondrés après la ménopause .
+En cas de cancer du sein , les taux d' estradiol et l' activité de l' aromatase sont multipliés par 1,7 par_rapport_à la normale , expliquant le rôle de ces substances important dans la croissance tumorale .
+Le tamoxifène est un composé non stéroïdien qui inhibe compétitivement la liaison des oestrogènes à leur récepteur .
+Les inhibiteurs de l' aromatase inhibent cette enzyme qui permet la transformation des androgènes et du cholestérol en oestrogène au niveau des tissus mous périphériques .
+L' activité aromatase des tissus graisseux est la source majeure de production d' oestrogène circulant chez la femme ménopausée .
+Dans l' étude de Defriend_et_al. comparant le fulvestrant au placebo en préopératoire ( 7 jours de traitement néoadjuvant ) chez respectivement 37 et 19 patientes ayant une tumeur mammaire RE-positive , on retrouve une réduction significative de l' expression des récepteurs hormonaux __RE__ et RP ( p < 0,0001 ) et de l' indice de prolifération cellulaire Ki67 ( p < 0,05 ) .
+Une étude randomisée multicentrique comparant fulvestrant , tamoxifène et placebo en néoadjuvant sur une période de 14 à 21 jours tente de confirmer ces résultats chez 200 patientes ayant un cancer de stade T1-T3 RE-positif .
+Boeddinghaus_et_al. réalisent actuellement une étude de phase III comportant trois bras chez 300 patientes ménopausées ayant un cancer opérable RE-positif , comparant anastrozole ( 1 mg / j ) et tamoxifène et les deux traitements combinés pendant 12 semaines .
+L' objectif principal est de déterminer si le Ki67 est un facteur prédictif de réponse à l' hormonothérapie .
+L' évaluation des 49 premières patientes a révélé que le Ki67 serait un facteur prédictif précoce de l' évolution clinique des tumeurs __RE__ et RP-positives .
+De Jong_et_al. ont étudié l' efficacité pharmacologique de l' exémestane dans la tumeur et le tissu mammaire adjacent dans une étude de phase II comptant 26 patientes : 16 traitées par exémestane ( 25 mg / j ) et 10 par placebo pendant 6 à 14 jours en préopératoire .
+Deux critères biologiques étaient recherchés : le titrage de l' activité aromatase et la mesure de l' oestradiol à_la_fois au sein de la tumeur mais_aussi dans le tissu graisseux mammaire adjacent .
+Les résultats ont été exploitables pour 9 patientes du groupe exémestane et pour 7 patientes du groupe placebo .
+Ils ont montré que l' exémestane diminuait l' activité aromatase respectivement de 95 % ( p = 0,0006 ) et de 58 % ( p = 0,04 ) dans le tissu tumoral et le tissu mammaire adjacent .
+La concentration d' oestradiol diminuait également respectivement de 81 % ( p = 0,03 ) et 32 % ( p = 0,03 ) .
+Geisler_et_al. ont étudié l' action pharmacologique de l' anastrozole sur les hormones sexuelles tissulaires et plasmatiques .
+L' anastrozole ( 1 mg / j ) a été administré pendant 15 semaines chez 12 patientes ayant un cancer mammaire de stade T3-T4± N+ .
+La diminution des taux plasmatiques et tissulaires après traitement était majeure .
+Ces données biologiques indiquent que l' hormonothérapie néoadjuvante pourrait être capable de produire un effet antitumoral même après une courte période chez les femmes ménopausées .
+Des études cliniques sont venues corroborer ces premiers résultats biologiques .
+Il est indispensable , pour évaluer l' efficacité d' un traitement néoadjuvant , d' avoir des données objectives quant_à l' évolution tumorale sous ce traitement .
+Évaluation de la réponse thérapeutique
+L' évaluation thérapeutique est un temps important du traitement néoadjuvant : faut il le poursuivre , le modifier ou pratiquer l' exérèse plus_tôt que prévu ?
+Cette évaluation est le_plus_souvent difficile aussi_bien cliniquement qu' à partir des résultats de l' imagerie ( mammographie et échographie ) .
+À titre d' exemple , l' absence clinique de tumeur résiduelle lors_de l' évaluation thérapeutique est associée à la présence d' une tumeur résiduelle à l' examen histologique dans 60 % des cas , alors_que 30 % des patientes sans aucune maladie résiduelle à l' histologie présenteront des anomalies cliniques , mammographiques et / ou échographiques lors_de l' évaluation .
+Cependant , l' évaluation de la maladie résiduelle après chimiothérapie ou hormonothérapie est importante car les patientes sans maladie résiduelle ont de meilleures survies sans récidive et globale .
+Le chirurgien a besoin de connaître l' extension tumorale précise avant d' envisager une tumorectomie ou une mastectomie .
+L' __IRM__ permet de déterminer avec une grande fiabilité l' extension initiale et l' évolution de la tumeur résiduelle après traitement néoadjuvant .
+D' autres méthodes ne sont utilisées que dans le cadre de protocoles de recherche , comme l' écho-doppler dans l' étude des modifications de la vascularisation tumorale sous traitement médical et la __TEP__ .
+Les classifications histopathologiques établies par les anatomopathologistes ont donc pour rôle non_seulement d' évaluer les facteurs prédictifs de réponse à la chimiothérapie ou à l' hormonothérapie néoadjuvante mais également les facteurs pronostiques pertinents malgré la migration de stade ( down-staging ) .
+En effet , les survies sont corrélées au degré de réponse histopathologique .
+La réponse histopathologique aux traitements prend en compte les pièces de tumorectomie , de mastectomie et de curage axillaire post-thérapeutique .
+Ces classifications ont toutes été réalisées afin_d' évaluer la réponse à la chimiothérapie et non à l' hormonothérapie .
+Celle-ci ayant un mécanisme d' action différent ( l' efficacité tumorale étant temps-dépendant ) , il faudra probablement modifier les critères d' évaluation de ces classifications quant_à la réponse à l' hormonothérapie .
+Plusieurs classifications existent sans qu' il y ait de consensus admis sur une classification dite de référence .
+Certaines semblent avoir plus de valeurs scientifiques compte tenu de leur validation sur un nombre important de patientes traitées par chimiothérapie néoadjuvante dans des études prospectives .
+Elles ont été hiérarchisées en fonction de leur ordre d' importance .
+Dans l' étude du NSABP-B18 , 1523 femmes ayant un cancer localement avancé ont été randomisées avec le même protocole de chimiothérapie à base d' anthracycline administré soit en néoadjuvant , soit en adjuvant .
+La réponse tumorale clinique était répartie en réponse complète ( cRC ) , incomplète ( cRP ) ou en non-réponse ( cNR ) .
+Parmi les cRC , les tumeurs étaient classées en pRC si on ne retrouvait pas de cellules malignes ou seulement un carcinome in_situ et en pINV si on mettait en évidence des cellules malignes .
+Il n' y avait pas de différence significative en termes de survie globale et de survie sans récidive à 5 ans entre les deux groupes .
+En revanche , le devenir était meilleur chez les femmes dont les tumeurs étaient pRC par_rapport_à celles dont les tumeurs étaient pINV , cRP ou cNR ( taux de survie sans récidive à 5 ans respectivement de 85,7 , 76,9 , 68,1 et 63,9 % avec p < 0,001 ) .
+La classification de Payne et Miller ( Aberdeen Breast Group ) a été évaluée chez 168 patientes ayant un cancer localement avancé , traitées par une chimiothérapie néoadjuvante .
+Elle a été déterminée d'_après l' étude microscopique des pièces mammaires et axillaires selon cinq grades : G1 ( pas de changement ) , G2 ( persistance de foyers tumoraux ) , G3 ( réduction majeure du nombre de cellules tumorales ) , G4 ( quelques cellules tumorales résiduelles ) et G5 ( pas de cellules tumorales ) .
+Les taux de pRC ( G5 ) oscillaient entre 16 et 34 % en fonction du bras de randomisation .
+Kuerer_et_al. du MD Anderson ont évalué une classification histopronostique sur 372 patientes traitées pour un cancer localement avancé par une chimiothérapie à base d' anthracycline .
+La réponse histologique était soit complète ( pRC ) en l' absence de maladie résiduelle ou persistance d' un foyer de carcinome in_situ , soit incomplète ( pRP ) dans les autres cas .
+La réponse ganglionnaire était répartie en trois sous-groupes ( N - , 1-3N+ , > 3N+ ) .
+Soixante-douze pour cent des patientes en pRc n' avaient pas d' atteinte ganglionnaire contre seulement 26 % des autres patientes .
+De plus , la survie globale et la survie sans récidive à 5 ans étaient significativement ( p < 0,01 ) plus élevées dans le groupe avec pRC ( 89 et 87 % , respectivement ) par_rapport_à l' autre groupe ( 64 et 58 % , respectivement ) .
+La classification de Chevallier_et_al. évalue la réponse macroscopique et microscopique sur pièce opératoire et curage axillaire d'_après une étude prospective néoadjuvante de 120 patientes .
+Il existe quatre grades : G1 ( rémission complète , disparition tumorale complète macro et micro dans le sein et l' aisselle ) , G2 ( carcinome in_situ , curage négatif : attention , la tumeur peut être palpable mais uniquement composée d' un foyer intracanalaire ) , G3 ( carcinome invasif avec altération stromale ) et G4 ( rares altérations ou absence d' altération des cellules tumorales ) .
+Dans la_plupart des études , le pRC correspond aux grades 1 et 2. Le grade 3 recouvre un spectre hétérogène allant de réponses quasi complètes ( rares cellules tumorales résiduelles ) à des réponses partielles , voire faibles .
+À noter qu' une tumeur stérilisée ( réponse complète histologique ) mais accompagnée d' un envahissement axillaire résiduel est cotée G3 .
+Devant l' hétérogénéité de l' évaluation de la réponse tumorale , il semble difficile d' extrapoler les résultats des essais cliniques néoadjuvants utilisant des classifications histopathologiques différentes .
+Études cliniques
+Wilscher et al. ont réalisé une étude randomisée de phase III chez 108 malades avec cancer localement avancé ( T > 5 cm ) comparant le tamoxifène ( n = 53 à 20 mg / j ) à la chimiothérapie ( n = 55 selon le protocole MMM : mitoxantrone 7 mg / m2 , méthotrexate 30 mg / m2 et mitomycine C 7 mg / m2 sur 4 cycles ) en situation néoadjuvante , précédant le traitement chirurgical et complété par un traitement adjuvant associant radiothérapie et tamoxifène .
+Les réponses objectives étaient de 57 % ( 31 / 54 ) après 4 cycles et 36 % ( 19 / 53 ) dans le bras tamoxifène avec 32 % ( 17 / 53 ) de maladies stables .
+Après un recul de 52 mois , ces auteurs n' ont retrouvé aucune différence significative sur la survie sans récidive et la survie globale .
+Mauriac_et_al. , lors d' une étude rétrospective portant sur 199 femmes âgées de 50 à 70 ans et traitées par tamoxifène en néoadjuvant , ont montré un taux de conservation mammaire de 54 % pour les femmes ayant une tumeur opérable d'_emblée et de 44 % pour celles ayant une tumeur localement avancée .
+Toutes les tumeurs avaient des récepteurs stéroïdiens positifs .
+Devant la meilleure efficacité des nouveaux traitements hormonaux , des études cliniques ( phases I et II ) les comparant au tamoxifène ont été réalisées .
+Anastrozole
+Dixon_et_al. ont évalué , en phase I , l' anastrozole 1 et 10 mg / j pendant 3 mois chez 24 patientes ménopausées ayant une tumeur de plus de 3 cm ( T2 = 21 patientes , T3 = 2 patientes , T4b = 1 patiente ) , opérables d'_emblée , RE-positives .
+La taille tumorale a été estimée cliniquement , par échographie ( initialement , à 1 , 2 et 3 mois ) , par mammographie ( initialement et à 3 mois de traitement ) , puis histologiquement sur les pièces opératoires en fin de traitement .
+La réduction tumorale a été de 75,5 % pour les deux groupes comprenant chacun 12 patientes avec une réduction de plus de 50 % chez 23 patientes sur 24. Par ailleurs , sur 17 patientes nécessitant une mastectomie d'_emblée , 15 ont eu une chirurgie conservatrice après le traitement .
+Milla-Santos_et_al. ont traité 112 patientes ayant un cancer localement avancé ( stades IIIA : 41 % et IIIB : 59 % ) par anastrozole 1 mg / j pendant 3 mois .
+Les taux de réponse clinique complète et partielle ont été respectivement de 55 % et 29 % .
+Dix-neuf patientes en progression ont bénéficié d' une radiothérapie ; les 93 patientes restantes ont eu une mastectomie associée à de l' anastrozole pendant 2 ans .
+La réponse histologique retrouvait 12 % de pRC ( n = 13 ) et 71 % de pRP ( n = 80 ) .
+Sanchez_et_al. ont étudié , chez 25 patientes préménopausées atteintes d' un cancer localement avancé __RE__ et / ou RP-positif , les effets de la combinaison de trois molécules ( goséreline : 3,6 µg tous les 28 jours , tamoxifène : 20 mg / j et anastrozole : 1 mg / j ) administrées dès 84 jours avant l' intervention .
+L' intérêt de cette association est de bloquer à_la_fois la synthèse de l' oestradiol aux niveaux ovarien ( goséreline ) et périphérique .
+Sur le plan clinique , les auteurs ont obtenu 32 % de réponses cliniques complètes ( n = 8 ) , 44 % de réponses partielles ( n = 11 ) , 20 % de stabilités tumorales ( n = 5 ) et 4 % de progressions ( n = 1 ) .
+À la mammographie ( 23 patientes évaluables ) , ils ont obtenu 9 % de réponses complètes ( n = 2 ) , 43 % de réponses partielles ( n = 10 ) et 44 % de stabilisations tumorales .
+Au moment du diagnostic , 17 patientes sur 25 étaient inopérables d'_emblée .
+Au décours de l' hormonothérapie néoadjuvante , 20 ont été opérées dont 7 ( 28 % ) d' une tumorectomie .
+Parmi les 8 patientes opérables d'_emblée , 2 ont eu une mastectomie et 6 une tumorectomie .
+Ces résultats en termes d' efficacité restent acceptables ; cependant l' effectif est modeste et les auteurs n' ont mentionné aucun résultat histologique .
+Létrozole
+Dixon_et_al. ont traité , dans une étude de phase I , 24 patientes ménopausées avec un cancer localement avancé RE-positif , par létrozole 2,5 ou 10 mg / j pendant 3 mois .
+Dans le bras létrozole 2,5 mg ( n = 12 ) , les taux de réponses complètes et partielle ont été respectivement de 42 % ( n = 5 ) et 58 % ( n = 7 ) alors_que , dans l' autre bras ( n = 12 ) , il y a eu 75 % de réponses partielles et 25 % de stabilisations tumorales .
+Du point_de_vue radiologique ( échographie , mammographie ) , il y a eu 1 réponse complète , 9 réponses partielles et 2 stabilisations tumorales dans le bras létrozole 2,5 mg et 8 réponses tumorales et 4 stabilisations tumorales dans le bras létrozole 10 mg .
+Par ailleurs , 9 patientes sur 24 étaient candidates au moment du diagnostic à une chirurgie conservatrice et toutes le sont devenues après 3 mois de traitement .
+Sur le plan histologique , ont été obtenues 1 pRC chez une patiente en réponse complète clinique , 23 pRP et stabilisations au niveau mammaire alors_que , au niveau ganglionnaire il y avait 10 curages positifs ( 5 dans chaque bras ) et 14 curages négatifs .
+Une réponse pharmacologique a été étudiée sur 20 tumeurs retrouvant une diminution du taux d' oestradiol ( p = 0,022 pour 2,5 mg et p = 0,004 pour 10 mg ) dans les deux groupes .
+D' un point_de_vue de la tolérance , on note une thrombopénie chez une patiente du groupe 10 mg et un épisode diarrhéique pendant moins de 48 heures chez une patiente du groupe 2,5 mg .
+Devant ces résultats encourageants , une étude de phase III comparant le létrozole au tamoxifène a été entreprise .
+Eierman_et_al. ont réalisé une étude randomisée en double aveugle chez 327 femmes présentant un cancer du sein localement avancé __RE__ et / ou RP-positif contre-indiquant la tumorectomie selon deux bras : 157 patientes ont été traitées par létrozole ( 2,5 mg / j ) et 170 par tamoxifène ( 20 mg / j ) pendant 4 mois .
+L' objectif principal était de connaître le taux de réponse et le devenir chirurgical après traitement .
+Les 327 patientes ne pouvaient initialement avoir un traitement conservateur et 14 % étaient inopérables d'_emblée .
+Les résultats ont montré que le taux de réponse objective clinique était de 55 % dans le groupe létrozole contre 36 % dans le groupe tamoxifène ( p < 0,001 ) .
+L' apport de l' imagerie ( échographie , mammographie ) pour l' évaluation de la réponse objective confirme une différence significative en faveur du bras létrozole .
+Le taux de conservation mammaire était également significativement amélioré dans le bras létrozole ( 45 % contre 35 % , p = 0,022 ) .
+Ellis_et_al. ont analysé dans un même laboratoire l' expression d' ErbB1 et ErbB2 de toutes les tumeurs des patientes de l' étude d' Eierman .
+L' étude de la réponse tumorale en fonction de l' expression d' ErbB1 et / ou d' ErbB2 a révélé une hormonorésistance dans le bras tamoxifène pour les tumeurs surexprimant ErbB1 et 2. En effet , le taux de réponse tumorale était significativement moindre pour les tumeurs ErbB1 et / ou ErbB2-positives dans le bras tamoxifène ( 88 % contre 21 % avec p = 0,0004 ) alors_que , pour les tumeurs ErbB1 et / ou ErbB2-négatives , la réponse dans les deux bras était identique : 54 % contre 42 % avec p = 0,078 .
+Dixon_et_al. , dans une étude de phase II concernant 13 patientes ménopausées ayant une tumeur RE-positive de plus de 3 cm contre-indiquant la tumorectomie et traitées par exémestane 25 mg / j pendant 3 mois , ont obtenu 85,5 % de réduction tumorale clinique , 84 % mammographiquement et 82,5 % échographiquement .
+En termes d' efficacité , une réponse partielle a été obtenue chez 10 patientes et une stabilité tumorale chez 2. Sur le plan de la tolérance , on a retrouvé chez 3 patientes une asthénie , une insomnie et des paresthésies ainsi_qu' un décès non toxique .
+Au total , 10 patientes sur 12 ont bénéficié d' une chirurgie conservatrice .
+Dans le but d' augmenter de façon optimale le taux de réponse histologique , l' association exémestane-chimiothérapie a été évaluée en situation néoadjuvante dans deux études de phase I .
+Les auteurs ont choisi une nouvelle approche en combinant l' exémestane avec l' épirubicine ou le docétaxel administré de manière hebdomadaire .
+Wolf_et_al. ont traité de façon préliminaire 14 patientes avec cancer localement avancé par de l' exémestane ( 25 mg / j ) associé à 3 doses croissantes d' épirubicine ( 25 , 30 et 35 mg/m2 / semaine ) pendant 8 à 12 semaines .
+L' efficacité clinique et histologique a été évaluée chez 10 patientes .
+En termes de réponse clinique , on retrouve 20 % de RC , 40 % de RP , 30 % de stabilisation et 10 % de PD .
+La chirurgie a été réalisable chez 9 patientes , avec une tumorectomie conservatrice chez 66 % d' entre elles .
+La réponse histologique montrait une bonne réponse tumorale avec 1 pRC et 9 pRP .
+En conclusion , l' association exémestane-épirubicine semble intéressante : une étude de phase II est en cours .
+Lichtenegger_et_al. ont réalisé une étude portant sur 11 femmes ayant un cancer du sein localement avancé traitées en néoadjuvant par docétaxel ( 20 , 25 et 30 mg/m2 / semaine ) associé à l' exémestane ( 25 mg / j ) pendant 8 à 12 semaines .
+Les résultats ont été exploitables seulement chez 9 patientes .
+La réponse clinique a été de 78 % de RP ( 7 / 9 ) , de 22 % de SD ( 2 / 9 ) .
+La réponse pathologique a retrouvé 78 % de tumeurs de grade 1 ( 7 / 9 ) et 22 % de grade 2 ( 2 / 9 ) selon la classification de Chevallier .
+Au total , l' étude de faisabilité semble concluante : une étude de phase II associant exémestane et docétaxel ( 20 mg/m2 / semaine ) est en cours .
+Perspectives
+Différentes voies de recherche portant sur l' hormonothérapie néoadjuvante sont actuellement explorées , notamment les associations hormono-chimiothérapie et hormonothérapie-thérapies ciblées .
+Le groupe d' étude Genari ( Allemagne ) a décidé de démarrer trois essais de phase II randomisés chez des patientes ménopausées ayant un cancer du sein localement avancé RE-positif utilisant une hormonochimiothérapie concomitante .
+Cette combinaison associe l' exémestane à l' épirubicine , au docétaxel ou au paclitaxel .
+D' autres essais sont en cours évaluant des marqueurs prédictifs de réponse au traitement néoadjuvant en utilisant la technique des microarrays ou bien en recherchant un effet prédictif du taux d' ARNm de l' aromatase intratumorale pour des cancers du sein de la femme ménopausée ( étude de phase II de la FNCLCC ) .
+Une étude de phase III comparant létrozole et fulvestrant a également été mise en place .
+L' association célécoxib et hormonothérapie semble prometteuse .
+La cyclo-oxygénase 2 ( cox2 ) est une enzyme active dont la fonction est de synthétiser des prostaglandines impliquées dans les processus tumoraux et inflammatoires , mais peut-être aussi dans la néoangiogenèse et la régulation de l' aromatase .
+Les prostagandines E2 contribueraient donc à augmenter la synthèse d' oestradiol intratumoral .
+L' ensemble de ces données a largement contribué au rationnel des essais en cours associant les traitements hormonaux dont l' exémestane à l' inhibiteur de la cyclo-oxygénase 2 ( célécoxib ) .
+À ce titre , les travaux précliniques ( étude de 23 tumeurs mammaires de 1 cm de diamètre chez le rat induites par le DMBA ) de Pesenti_et_al. ont d' ores et déjà démontré une réduction plus importante de la croissance tumorale lorsque l' exémestane et le célécoxib sont utilisés en association par_rapport_à une administration en monothérapie : après 4 semaines de traitement , le taux de réponse objective était de 5 % pour l' exémestane seul contre 48 % pour le traitement combiné .
+D' autres thérapies moléculaires ciblées associées à l' hormonothérapie sont testées .
+Par exemple , il a été évoqué l' association du létrozole avec les inhibiteurs de l' epidermal growth factor et de l' angiogenèse .
+Conclusion
+L' hormonothérapie néoadjuvante est un nouveau concept dans la prise en charge des patientes atteintes d' un cancer du sein localement avancé .
+Elle n' est actuellement pas un traitement standard mais elle pourrait être une approche intéressante pour les femmes âgées ayant des tumeurs opérables , hormonosensibles , bien différenciées ( SBR I ) et d' évolution lente ou pour les patientes ayant un carcinome lobulaire de grade I habituellement peu chimiosensible .
+Elle permet précocement d' évaluer la sensibilité thérapeutique ( réponse in_vivo ) nécessaire aux modifications de stratégies en cours de traitement contrairement aux stratégies adjuvantes .
+Ce nouveau concept répond parfaitement aux indications d' une approche multidisciplinaire nécessaire au moment du diagnostic .
+Les premières études randomisées en néoadjuvant , quel que soit le traitement ( chimio ou hormonothérapie ) , n' ont pas permis une augmentation des survies sans récidive et globale .
+Le principal résultat de ces études a été l' augmentation du taux de chirurgie conservatrice chez les patientes ayant un cancer du sein localement avancé .
+L' étude comparative des paramètres tumoraux avant et après traitement permettra à l' avenir de mettre en évidence des marqueurs prédictifs ( Ki67 et autres ) de la réponse antitumorale et des facteurs pronostiques facilitant l' adaptation des stratégies thérapeutiques .

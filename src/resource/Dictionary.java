@@ -18,8 +18,6 @@ public class Dictionary extends Resource {
 		String key = extractKey(line);
 		String value = extractValue(line);
 		
-		// map
-		
 		if (!this.map.containsKey(key)) {
 			this.map.put(key, new ArrayList<String>());
 		}
@@ -36,7 +34,7 @@ public class Dictionary extends Resource {
 	}
 
 	protected String extractKey(String line){
-		return line.substring(0, line.indexOf("::") - 1);
+		return line.substring(0, line.indexOf("::"));
 	}
 
 	protected String extractValue(String line){

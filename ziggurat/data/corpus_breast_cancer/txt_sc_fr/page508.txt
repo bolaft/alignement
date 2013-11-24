@@ -1,0 +1,39 @@
+La notion de __GS__ en cancérologie du sein a été proposée pour la première fois par Giuliano et al. en 1994 .
+Depuis , de nombreux auteurs ont confirmé la pertinence de cette technique qui est devenue la méthode de référence d' évaluation du creux axillaire pour beaucoup dans les cancers du sein au stade T1 .
+La technique classique consiste à réaliser la recherche et l' exérèse du ( ou des ) __GS__ sous anesthésie générale lors_de la tumorectomie .
+L' examen extemporané du __GS__ permet de décider de la nécessité de réaliser ou non le curage axillaire complet .
+L' examen extemporané du __GS__ est donc déterminant pour la suite de l' intervention : s' il est positif un curage complet est réalisé dans le même temps , s' il est négatif , le curage n' est pas fait .
+La sensibilité et la spécificité de l' examen __EEGS__ doivent être optimales car en cas de faux-positif le chirurgien réalisera un curage inutile ; en cas de faux-négatif il devra réopérer la patiente lorsqu' il disposera des résultats définitifs pour réaliser secondairement le curage .
+Deux méthodes classiques ont été proposées pour évaluer le __GS__ en extemporané .
+La technique des coupes congelées et la cytologie d' empreinte .
+Des auteurs ayant cherché à comparer les deux méthodes trouvent des résultats tout_à_fait opposés : favorables aux sections congelées pour Van Diest_et_al. ; à la cytologie d' empreinte pour Motomura_et_al. .
+Si les données de la littérature ne permettent pas de se faire une idée en_faveur_de l' une ou l' autre de ces techniques , il semble cependant se dégager un consensus en_faveur_de la cytologie d' empreinte dans les travaux récents .
+Un des avantages de la cytologie d' empreinte , par rapport aux coupes congelées , est d' éviter toute perte de matériel .
+Ce risque reste certes très faible avec un technicien entraîné , mais il augmente malgré_tout avec le nombre de coupes réalisées .
+Enfin certains auteurs ont essayé d' appliquer des techniques d' immunohistochimie en extemporané , avec des durées de réponse avoisinant la demi-heure , et un gain en performance qui ne paraît pas majeur .
+La plupart des auteurs a comparé les résultats de l' __EEGS__ à l' examen définitif réalisé par __HE__ et __HE__ .
+Certains , cependant , n' ont utilisé que l' __HE__ , méconnaissant ainsi probablement un taux non négligeable de micrométastases mieux vues en __IHC__ .
+Il est donc vraisemblable que ces auteurs surestiment la sensibilité de l' __EEGS__ .
+Turner a en_effet démontré que la sensibilité de l' __EEGS__ diminuait de 91,6 à 74,2 % selon_que l' on utilisait l' __HE__ ou l' __IHC__ .
+L' existence de micrométastases ganglionnaires ( classiquement définies comme des métastases inférieures ou égales à 2 mm ) fait encore davantage baisser les performances de l' __EEGS__ .
+Les auteurs qui se sont intéressés à ce problème démontrent que si la sensibilité est correcte pour les macrométastases , elle devient très mauvaise , inférieure à 30 % , en cas de micrométastases .
+Une autre difficulté liée à l' __EEGS__ est l' existence de rares faux-positifs rapportés par certains auteurs , cette situation pouvant entraîner la réalisation d' un curage axillaire complet chez une patiente qui n' en avait pas besoin .
+Terminons en signalant les travaux de Veronesi_et_al. et Zurrida_et_al. and qui obtiennent une bonne sensibilité de 95,8 % , mais en augmentant considérablement la lourdeur de l' __EEGS__ , avec un délai de réponse de 40 minutes !
+Enfin , il ne faut pas perdre de vue que l' EE est une analyse imparfaite et que tous les efforts entrepris pour la rendre plus fine , ne parviendront jamais à égaler les résultats obtenus par un examen définitif classique des ganglions , associé aux techniques d' __IHC__ voire de PCR pour déceler les micrométastases .
+Plus grave , la réalisation « forcenée » d' EE de_plus_en_plus longs et compliqués , proposés par certaines équipes , est responsable d' une perte de matériel tissulaire qui peut faire définitivement méconnaître des microlésions ganglionnaires .
+Toutes ces raisons font que nous n' apprécions pas beaucoup l' __EEGS__ et que nous avons imaginé une stratégie afin_de l' éviter : la détection du __GS__ sous anesthésie locale et l' attente de son analyse définitive par __HE__ et __IHC__ pour opérer la patiente de sa tumeur et pratiquer un curage axillaire si nécessaire .
+Ceci nous évite :
+- les reprises chirurgicales pour réaliser un curage axillaire en cas de faux-négatif de l' __EEGS__ ;
+- la réalisation abusive du curage en cas de faux-positif de l' __EEGS__ .
+Ce risque , qui semble impossible avec des pathologistes entraînés , a néanmoins été rapporté dans la littérature par de nombreux auteurs ;
+- le risque de méconnaître définitivement certaines micrométastases en multipliant les coupes congelées .
+Ceci permet également aux anatomopathologistes de travailler dans de meilleures conditions : sachant qu' ils n' ont qu' un examen définitif à faire sur les __GS__ , ils peuvent les conditionner de manière plus satisfaisante en évitant les dégâts occasionnés par l' analyse per-opératoire , surtout sur les petits ganglions .
+Cette stratégie nous amène à gérer différemment nos cancers du sein .
+Nous possédons désormais , avant_de les opérer , la grande majorité des facteurs pronostiques qui conditionnent le traitement : taille tumorale évaluée sur l' imagerie ; type histologique , grade SBR , existence de récepteurs hormonaux évalués sur la biopsie de la tumeur et le statut ganglionnaire axillaire évalué sur le prélèvement du __GSAL__ .
+Nous avons démontré la parfaite faisabilité de l' exérèse du __GSAL__ dans une population non sélectionnée , avec les mêmes taux de détection que sous anesthésie générale ( un seul échec sur plus de 100 patientes ) .
+D' autres auteurs sont parvenus aux mêmes résultats que nous en terme de détection sous anesthésie locale .
+Nous proposons désormais cette stratégie en première intention à toutes nos patientes T0 , T1 ou T2 inférieures à 3 cm et N0 , M0 .
+Enfin l' exérèse du __GSAL__ permet pour les tumeurs inférieures à 1 cm de proposer ensuite la tumorectomie sous anesthésie locale sur table stéréotaxique dédiée ( ABBI ® ou Site Select ® ) .
+Nous avons ainsi pu traiter quelques patientes de notre série , entièrement sous anesthésie locale .
+Cette approche nous semble être une procédure tout_à_fait intéressante dans le cadre de la chirurgie du sein mini-invasive .
+Ainsi nous estimons que la meilleure manière d' éviter les aléas de l' examen extemporané du __GS__ ... c' est de ne pas faire d' examen extemporané !

@@ -1,0 +1,394 @@
+Ces dernières décennies , des avancées significatives ont été réalisées dans le domaine de la recherche fondamentale concernant les mécanismes impliqués dans les processus d' acquisition d' un phénotype malin par une cellule normale du sein .
+Des cibles thérapeutiques potentielles ont ainsi été identifiées .
+Des molécules dirigées contre ces cibles thérapeutiques on été développées par la recherche académique et industrielle .
+Un certain nombre de ces agents cytostatiques biologiques sont en cours d' évaluation clinique .
+Dans cet exposé , nous nous intéresserons aux molécules en développement dans le cancer du sein qui inhibent la transduction du signal au sein de la cellule néoplasique .
+Généralités
+Le passage d' une cellule eucaryote de la phase quiescente ( G0 ) à la phase de mitose ( M ) , en réponse à des stimuli extérieurs , est un processus multi-étape .
+Il requiert la transduction de signaux divers ( prolifération , migration , différenciation ) et l' activation de protéines intracellulaires .
+Ce processus finement régulé est altéré au sein des cellules néoplasiques , engendrant une prolifération , une migration et une différenciation cellulaires non contrôlées .
+Cette communication inter et intracellulaire peut être schématiquement divisée en deux étapes : la fixation sur un récepteur transmembranaire d' un signal extracellulaire , puis l' activation de seconds messagers intracellulaires entraînant l' activation de facteurs de transcription qui vont pouvoir agir directement sur la transcription de gènes impliqués dans les processus de prolifération , de migration et de différenciation cellulaires .
+Six familles de récepteurs à tyrosine kinase sont actuellement décrites se différenciant par leur ligand et leur structure chimique et sept récepteurs dit « orphelins » :
+- un domaine extracellulaire , site de fixation du ligand ( partie N terminale de la molécule ) ;
+- un domaine intracellulaire , site d' ancrage dans la membrane cytoplasmique ;
+- un domaine intracellulaire riche en résidu tyrosine , possédant une activité tyrosine kinase .
+Récepteurs transmembranaires de la famille HER
+Cette famille comprend quatre membres dénommés : R-EGF ou HER1 , cErb2 ou HER2 , cErb3 ou HER3 et cErb4 ou HER4 .
+Fonction physiologique
+Le mécanisme d' action est des plus classiques .
+Le ligand se fixe à son récepteur , ce qui induit une dimérisation et une auto-activation des résidus tyrosine du domaine C terminal .
+Des molécules adaptatrices possédant un domaine d' homologie Src ( SH2 domaine ) et un domaine de fixation à tyrosine sont à leur tour activées .
+Deux grandes voies de la transduction du signal sont privilégiées , la voie Ras/Raf/MAKK-MEK / ERK et la voie des phospho-inositol/PI3Kinase / AKT , mais_aussi les voies passant par la phospholipase C et la voie STATS ( PAK-JNKK-JNK ) .
+Elles vont induire la phosphorylation de facteurs de transcription ( Jun , Fos , myc , cycline D1 ) ainsi_que la transcription de protéines impliquées dans les mécanismes de prolifération cellulaire , d' angiogenèse , de migration , de différenciation cellulaire ou bien encore dans la survie cellulaire .
+Il est à noter que , en fonction de tel ou tel ligand , les récepteurs formeront des homodimères ou des hétérodimères .
+La protéine HER3 a perdu son activité tyrosine kinase et , à ce jour , aucun ligand spécifique de HER2 n' est connu .
+Altération des récepteurs de la famille HER2 dans le cancer du sein
+Plusieurs mécanismes peuvent expliquer leur propriété oncogénique et leur implication dans le processus de cancérogenèse :
+- réarrangement du gène induisant la synthèse d' une protéine oncogénique de fusion avec le site catalytique et le site de dimérisation / activation ;
+- gain de fonction par une mutation ou une délétion du gène au niveau du site de régulation ;
+- surexpression de la protéine par amplification du gène ;
+- perte du mécanisme de régulation de l' activité d' auto-phosphorylation .
+Les anomalies décrites dans le cancer du sein sont des mutations ou des amplification géniques : HER1 ( 37 % ) , HER2 ( 25 à 30 % ) , HER3 ( 25 à 71 % ) , HER4 ( 49 à 60 % ) .
+Dans le cancer du sein , HER1 et HER2 sont fréquemment co-exprimées ( 50 % des cas ) .
+HER3 est surexprimée dans plus de 50 % des cas du cancer du sein et elle est fréquemment co-exprimée avec HER2 laissant supposer qu' elle joue un rôle prépondérant dans le processus de cancérogenèse .
+Stratégies thérapeutiques développées pour bloquer le récepteur et son activité
+Différentes stratégies ont été développées ces dernières années afin_de bloquer l' activité du récepteur :
+- l' immunothérapie vise à empêcher le signal induit par la fixation du ligand à son récepteur en bloquant directement le domaine extracellulaire du récepteur ou en neutralisant le ligand ;
+- l' immunoconjugué : anticorps qui reconnaît la cible cellulaire couplée à une toxine ( Pseudomonas ) , à un agent cytotoxique ou à un élément radioactif ;
+- l' inhibition de l' activité intracellulaire tyrosine kinase par des molécules agissant directement sur le domaine intracellulaire à activité __TK__ ;
+- l' inhibition de la traduction de l' ARNm par des sondes oligonucléotidique anti-messager ;
+- la destruction de l' ARNm via les ribozymes ;
+- la dégradation de la protéine synthétisée via la voie d' ubiquitination : analogue de l' ansamycine .
+L' inhibition de la l' activité tyrosine kinase par des anticorps dirigés contre le domaine extracellulaire ou inhibant le domaine intracellulaire est en cours d' évaluation clinique avec des résultats encourageants .
+Le trastuzumab est un anticorps monoclonal recombinant de type IgG1 humanisé dirigé contre le récepteur transmembranaire HER2 .
+Cette protéine est codée par l' oncogène cerb-2 , qui est dans 25 à 30 % des cas surexprimé à la surface des cellules néoplasiques .
+Cette surexpression induit une prolifération anarchique des cellules .
+Les modèles précliniques démontrent que cet anticorps possède des propriétés cytostatiques et qu' il a , en association avec certains agents cytotoxiques ( sels de platine et taxanes ) , une action synergique ou additive .
+Son activité cytotoxique observée in_vitro est confirmée par des études cliniques de phase II en monothérapie et en association aux agents cytotoxiques ( cisplatine , taxanes , vinorelbine ) .
+Deux études de phase II ont été rapportées avec le trastuzumab en monothérapie .
+La première étude , de Baselga_et_al. , a porté sur 46 patientes présentant un cancer du sein métastatique , surexprimant l' oncogène cerbB2 ( 63 % avaient déjà bénéficié d' au moins deux lignes de chimiothérapie pour maladie métastatique ) .
+Le trastuzumab était administré selon un schéma hebdomadaire pour une durée de 10 semaines ( dose de charge de 250 mg puis de 100 mg ) .
+Le taux de réponse était de 11,6 % ( 1 réponse clinique et 4 réponses partielles ) et 37,2 % des patientes présentaient une réponse mineure ou stable .
+Le temps médian jusqu' à progression était de 5,1 mois .
+Aucune toxicité sévère n' est rapportée par les auteurs .
+La deuxième étude de phase II est rapportée par Cobleigh_et_al. .
+Cette étude prospective multicentrique regroupant 54 centres , internationale ( Amérique du Nord , Europe et Australie ) , avait inclus 222 patientes ( 213 traitées ) présentant un cancer du sein métastatique en progression après une première ou une deuxième ligne de chimiothérapie et surexprimant l' oncogène cerbB2 ( 22 % : 2 + et 78 % : 3 + , anticorps 4D5 et CB11 ) .
+La plupart des patientes avaient bénéficié d' au moins deux lignes de chimiothérapie pour maladie métastatique ( 68 % ) .
+Quatre-vingt-quatorze pour cent des patientes avaient reçu des anthracyclines et 67 % des taxanes .
+Le taux de réponse objectif était de 15 % ( 4 réponses cliniques et 26 réponses partielles ) .
+La durée médiane de réponse était de 9,1 mois et la médiane jusqu' à progression était de 3,1 mois .
+Les auteurs constatent que les patientes qui présentaient une surexpression de l' oncogène HER2 en immunohistochimie à 3 + avaient un taux de réponse plus important que les patientes 2 + ( 18 versus 6 % , p = 0,06 ) .
+La tolérance , tout comme dans l' étude de Baselga , était satisfaisante .
+Dix patientes ont présenté une toxicité cardiaque ( 4,7 % ) .
+Parmi ces 10 patientes , 9 avaient reçu une dose cumulative de doxorubicine supérieure à 400 mg / m2 .
+Une patiente est décédée d' une arythmie ventriculaire après la dernière injection de trastuzumab .
+En monothérapie , le trastuzumab induit un taux de réponses chez des patientes lourdement prétraitées , en échec des anthracyclines et / ou des taxanes , comparable , voire même supérieur , à certains agents cytotoxiques .
+Il n' existe pas de dose-réponse avec le trastuzumab comme tend à le démontrer l' étude de Vogel_et_al. , un essai de phase III chez des patientes non prétraitées par une chimiothérapie pour maladie métastatique et surexprimant cerb2 .
+Deux schémas ont été comparés , dose de charge de 4 mg / kg puis dose d' entretien de 2 mg / kg contre dose de charge de 8 mg / kg puis dose d' entretien de 4 mg / kg .
+Le taux de réponse en première ligne est de 26 % pour toute les patientes incluses dans l' essai .
+Il n' existe aucune différence entre les deux bras en termes de réponse objective , de temps jusqu' à progression et de survie globale .
+Concernant l' association du trastuzumab à des agents cytotoxiques , Salmon_et_al. ont rapporté les résultats d' une étude de phase III internationale , multicentrique , prospective , conduite chez 469 patientes présentant un cancer du sein métastatique , en première ligne , et surexprimant l' oncogène cerbB2 ( en immunohistochimie , 2 + et 3 + à l' Herceptest® ) .
+Les patientes étaient randomisées entre chimiothérapie seule et chimiothérapie plus trastuzumab .
+Celles qui avaient reçu une chimiothérapie par anthracycline recevaient le paclitaxel ( 175 mg / m2 à J1 et J21 ) , les autres une associationanthracyclines , doxorubicine 60 mg / m2 ou épirubicine 75 mg / m2 , + cyclophosphamide 600 mg / m2 .
+Les résultats de cette étude , en termes de réponse objective ( 50 versus 32 % , p < 0,001 ) , en durée de réponse ( 9,1 versus 6,1 mois , p < 0,001 ) et en survie ( 25,4 versus 20,3 mois , p = 0,046 ) , étaient en_faveur_de l' association chimiothérapie-trastuzumab quel que soit le régime de chimiothérapie ( paclitaxel ou anthracyclines / cyclophosphamide ) .
+Cependant , le taux d' insuffisance cardiaque congestive était plus élevé dans le bras anthracycline + trastuzumab ( 16 % de grades 3-4 ) que dans le bras paclitaxel + trastuzumab .
+L' association paclitaxel + trastuzumab est actuellement recommandée pour les patientes en situation métastatique .
+D' autres études sont actuellement en cours , avec d' autres agents cytotoxiques ( docétaxel , capécitabine , gemcitabine , vinorelbine ) , en situation métastatique , néo-adjuvante ou adjuvante .
+Le MDX-H210 est un anticorps bivalent dirigé contre le récepteur HER2 et le récepteur Fc .
+Les premiers résultats de phase I semblent démontrer que ses effets secondaires sont modérés .
+Les auteurs rapportent des stabilisations .
+À noter que , à notre connaissance , aucun essai clinique de phase II dans le cancer du sein n' a commencé .
+Le C225 ou cétuximab est un anticorps chimérique ( partie variable d' origine murine et partie constante d' origine humaine ) .
+Les données précliniques démontrent qu' il possède une grande affinité pour le récepteur HER1 , en inhibant son autophosphorylation .
+Il induit un arrêt du cycle cellulaire en favorisant la synthèse de la protéine p27 ( inhibiteur de cycline ) et entraîne une diminution du taux circulant du facteur angiogénique , VGEF .
+Sur les modèles de xénogreffe , le cétuximab semble être actif contre les tumeurs malignes épidermoïdes , de la prostate , du rein et du côlon .
+En association aux agents cytotoxiques , on constate une réponse dose-dépendante et additive .
+En association à la radiothérapie , son action est synergique .
+Les études de phase I ont été réalisées selon un schéma hebdomadaire en monothérapie ou en association avec le cisplatine hebdomadaire .
+Elles ont inclus 52 patientes .
+Il n' est rapporté aucune réponse objective en monothérapie .
+En association avec le cisplatine , les auteurs rapportent 4 réponses partielles ( tête et cou ) et 2 réponses complètes ( tête et cou et côlon ) .
+Les données de pharmacologie démontrent qu' il existe une saturation des récepteurs à une dose supérieure à 200 mg / m2 .
+Chez 1 patient , les auteurs rapportent la détection d' anticorps anti-C225 .
+Les effets secondaires rapportés sont de type immunoallergique ( rash cutané , fièvre et frisson ) , asthénie et élévation transitoire des transaminases .
+En association avec le cisplatine , le cétuximab n' a aucune interférence pharmacologique .
+Les auteurs rapportent comme __DLT__ : diarrhée , glottite , dyspnée , choc anaphylactique de grade 3-4 .
+Des résultats encourageants ont été rapportés en association avec la radiothérapie dans les cancers de la tête et du cou avec un taux de réponse de 87 % .
+À notre connaissance , aucune étude dans le cancer du sein n' est en cours .
+Le MDX-447 , anticorps monoclonal bivalent dirigé contre HER1 , est en cours d' évaluation .
+Il induit notamment des phénomènes d' hypotension de grade 3 .
+- Agents dirigés contre le domaine intracellulaire : inhibiteurs de l' activité tyrosine kinase
+Nous avons vu_que , pour_que ces récepteurs soient fonctionnels , il faut que le ligand se fixe au domaine extracellulaire du récepteur pour induire une dimérisation et une autophosphorylisation des résidus tyrosine du domaine intracellulaire .
+De petites molécules capables d' inhiber cette activité __TK__ en inhibant la phosphorylation du récepteur ont été développées .
+Le ZD1839 ( Iressa® ) appartient à la famille des anilinoquinazolines .
+Actif par voie orale , il inhibe de manière réversible l' activité __TK__ de HER1 .
+Les données précliniques démontrent qu' il induit une diminution des capacités de la cellule tumorale en termes de migration , d' adhésion , de prolifération cellulaire , d' angiogenèse .
+Dans les modèles de xénogreffe , il diminue la croissance tumorale de manière dose-dépendante .
+Il existe une potentialisation , additive et synergique , en association avec les agents cytotoxiques ( taxanes , sels de platine , anthracyclines , étoposide , topotécan ) , la radiothérapie et le trastuzumab .
+Cinq études de phase I ont été rapportées portant sur 254 patients .
+Elles ont étudié deux schémas d' administration par voie orale en une seule prise :
+- 14 jours on et 14 jours off puis reprise ;
+- prise continue sur 28 jours .
+Les paliers de doses étaient compris entre 50 et 1000 mg / j .
+Quel que soit le schéma d' administration , il s' agit d' une drogue bien tolérée .
+Des réactions cutanées ( acné et rash cutané ) et des diarrhées de grades 1-2 ont été décrites .
+Les toxicités de grades 3-4 ont été rapportées sur la population de patients japonais comprenant une élévation transitoire de transaminases et des diarrhées à la dose de 700 mg / j avec le schéma discontinue et à la dose de 1000 mg avec le schéma continu .
+Les données de pharmacologie ont démontré qu' une seule prise quotidienne était validée .
+La demi-vie est de 46 heures et le plateau plasmatique est atteint en 7 jours .
+Des réponses ont été rapportées chez des patients présentant des cancers de l' ovaire , du côlon , de la prostate ( hormono-réfractaire ) , bronchopulmonaire non à petites cellules .
+Des études d' association du ZD 1839 avec le paclitaxel et le carboplatine ont été menées avec une tolérance acceptable chez des patients présentant un cancer du poumon non à petites cellules à un stade avancé non prétraité .
+Des cas de fibrose pulmonaire , essentiellement au Japon chez des patients présentant un cancer bronchopulmonaire , ont été rapportés .
+Actuellement , des essais dans le cancer du sein en situation métastatique sont conduits en monothérapie ( 500 mg / j en une prise quotidienne en continu ) ou en association au trastuzumab .
+L' ECOG rapporte des résultats préliminaires d' une étude de phase II d' association ZD1839 et trastuzumab chez des patients ( hommes et femmes ) présentant un cancer du sein métastatique et surexprimant HER2 ( Dako 3 + ou FISH + ) .
+L' objectif de cette étude était de déterminer la survie sans progression .
+Le trastuzumab était administré de manière hebdomadaire ( 2 mg/kg / semaine après une dose de charge de 4 mg / kg ) et le ZD1839 à la dose de 500 mg / j jusqu' à progression .
+Chez les patients ayant reçu une chimiothérapie préalable , le taux de réponse est de 20 % et le temps jusqu' à progression est de 3 mois .
+Chez ceux qui n' ont pas reçu de chimiothérapie , ce taux est de 35 % et le temps jusqu' à progression est de 6 mois .
+Albain_et_al. ont rapporté les résultats préliminaires d' une étude de phase II en monothérapie chez 63 patientes présentant un cancer du sein localement avancé ou métastatique .
+Les auteurs rapportent 1 réponse partielle et 2 SD .
+Robertson_et_al. rapportent les résultats d' une étude clinique de phase II portant sur 22 patientes ( 16 patientes récepteurs hormonaux négatifs et 6 patientes RH + mais résistantes au tamoxifène ) .
+Les résultats préliminaires montrent que le taux de réponse à 4 semaines est de 9 % ( 2 réponses partielles ) et le temps médian sans progression de 2 mois .
+L' OSI-774 ou Tarceva® est un dérivé quinazoline qui possède une activité inhibitrice __TK__ réversible sur HER1 par voie orale .
+Il induit un arrêt du cycle cellulaire en G1 avec une accumulation de la protéine p27 , inhibitrice de cycline , et une entrée des cellules tumorales en apoptose .
+En association avec le cisplatine , son action est potentialisée .
+Deux études de phase I ont été conduites avec deux schémas d' administration différents , une prise orale une fois par semaine pendant 3 semaines sur 4 puis pendant 3 jours consécutifs pendant 3 semaines ou une prise orale continue quotidienne pendant 3 semaines .
+Les paliers de doses variaient de 100 à 1600 mg / j .
+La __DMT__ était de 1600 mg par semaine .
+Il s' agit d' une drogue bien tolérée .
+Des toxicités de grades 1-2 , de type éruption cutanée ou diarrhée , ont été décrites .
+Les données de pharmacologie montrent qu' il existe une variabilité inter-patient et intra-patient .
+Les études de phase II sont en cours dans le CPNPC et le cancer de l' ovaire .
+En 2002 , ont été rapportés les résultats d' un essai de phase I d' association OSI774 ( prise orale continue ) et docétaxel ( perfusion de 1 heure toutes les 3 semaines ) , paclitaxel-carboplatine et gemcitabine-cisplatine .
+En association avec le docétaxel , les __DLT__ rapportées sont des neutropénies fébriles .
+Les auteurs rapportent une réponse complète ( cancer du nasopharynx ) .
+L' association OSI774-gencitabine-cisplatine est mal tolérée .
+Au premier palier de dose ( OSI774 de J1 à J28 à la dose de 100 mg / j , cisplatine 100 mg / m2 à J1 , gemcitabine 100 mg / m2 à J1 et J8 ) , les auteur rapportent un décès toxique ( sepsis sur neutropénie de grade 4 ) , une toxicité rénale de grade 3 et un allongement du temps de prothrombine ( grade 3 ) .
+Le protocole a été amendé , l' OSI774 n' est donnée que de J1 à J21 , la dose de gemcitabine reste inchangée mais celle du platine n' est plus que de 60 mg / m2 .
+L' essai se poursuit .
+Quant à l' étude d' association avec le carboplatine ( AUC = 6 ) et le paclitaxel ( 225 mg / m2 ) au premier palier de dose , l' OSI774 était donné à la dose de 100 mg / j .
+Les auteurs rapportent 2 DLT sur les 6 patients inclus ( neutropénie et thrombopénie de grade 3 ) et , au palier 150 mg / j , une DLT sur les 3 patients inclus ( rash cutané de grade 3 ) .
+L' essai se poursuit .
+Le PKI-166 est un dérivé pyrrolo-pyrimidine qui inhibe de manière réversible l' activité __TK__ de HER1 .
+Les résultats de trois essais de phase I ont été présentés à l' Asco 2002 .
+Le premier a étudié un schéma de prise orale en continue ( paliers variant de 50 à 600 mg / j ) incluant 32 patients .
+Les toxicités décrites sont des diarrhées , rash cutanés , asthénies et élévations de la pression artérielle .
+Le deuxième essai a testé un schéma de prise orale trois fois par semaine incluant 16 patients .
+La DLT rapportée par les auteurs est une élévation de la pression artérielle à la dose de 400 mg / j .
+Le troisième essai a étudié un schéma de prise orale continue sur 2 semaines suivi de 2 semaine off ( 25 patients inclus ) .
+Comme pour la précédente étude , la toxicité limitante est une hypertension artérielle de grade 3 à la dose de 900 mg / j .
+Le CI-1033 est un dérivé quinazoline qui possède une action inhibitrice de l' activité __TK__ de HER1 , 2 , 4 et EGFR-vIII ( forme mutée de HER1 ) mais aucune sur HER3 ( pas de site __TK__ ) .
+Il peut aussi inhiber d' autres récepteurs __TK__ comme le FGF-R et le PDGF-R .
+Il aurait une synergie d' action avec le cisplatine .
+Il inhiberait les capacités de la cellule à réparer les dommages induits sur l' ADN par le cisplatine .
+Dans l' essai de phase I , le schéma d' administration était le suivant : une prise quotidienne par voie orale pendant 7 jours toutes les 3 semaines , avec des doses variant entre 50 et 750 mg / j , chez 53 patients , dont 2 présentant un cancer du sein en échappement thérapeutique .
+Les événements indésirables de grades 1-2 rapportés par les auteurs sont cutanés ( rash urticarien ) et digestifs ( nausée , vomissements , diarrhée , mucite ) .
+À la dose de 650 mg / j , les auteurs rapportent une thrombopénie de grade 4 et une réaction d' hypersensibilité de grade 3 à la dose de 560 mg / j .
+Ils considèrent que la DLT est de 750 mg / j .
+Ils constatent une réponse partielle et 18 stabilisations dont une chez une patiente présentant un cancer du sein .
+Une étude de l' inhibition de la phosphorylation de HER1 par technique de western-blot était réalisée sur des biopsies avant et 7 jours après le traitement .
+Les auteurs ont détecté cette inhibition de l' activité __TK__ dans au moins 50 % des cas et une absence de dose-réponse .
+Parmi les inhibiteurs des récepteurs transmembranaires , actuellement , seul le trastuzumab a fait la preuve de son efficacité , les autres sont en cours d' évaluation .
+Transduction du signal : les seconds messagers
+Voie Ras/Raf/MEK / MAPK-ERK
+Le récepteur transmembranaire activé va induire une cascade d' événements .
+Une molécule adaptatrice va se fixer sur son site phosphorylé via un domaine d' homologie SH2 .
+Cette molécule Shc activée va activer à son tour une protéine G intracytoplasmique , qui va recruter une protéine « d' échange de guanine nucléotide » , SOS1 .
+Cette dernière est nécessaire à l' activation de Ras .
+La protéine Ras-GDP devient active sous la forme Ras-GTP permettant l' activation de facteur en_aval , notamment les voies :
+- Raf / mitogen activated phosphoryled kinase kinase : MAPKK ou MEK / MAPK ou ERK qui vont activer des facteurs de transcription comme fos , c-jun , c-myc ;
+- Rho / Rac impliquée dans la réorganisation du cytosquelette : invasion et adhésion cellulaire ;
+- __PI3K__ /AKT : impliquée dans la survie cellulaire et l' initiation de la traduction protéique .
+- Molécules agissant sur RAS
+Les protéines de la famille Ras sont mutées dans 30 % des cancers humains mais uniquement dans 5 % des cancers du sein .
+Il est décrit trois proto oncogènes Ras : H-Ras , K-Ras et N-Ras qui codent pour quatre protéines de 21 kD : H-Ras , N-Ras , K-Ras-4A et K-Ras-4B .
+Le gène Ras code pour une protéine de 21 kDa constituée de 188 à 189 acide aminés .
+Pour être active , cette protéine doit être localisée à la face interne de la membrane cytoplasmique .
+Les quatre derniers acides aminés en position C-terminale jouent un rôle primordial : il s' agit de la séquence CAAX ( C représente un résidu cystéine , AA un acide aminé aliphatique et X une méthionine ou une sérine ) .
+Cette protéine est synthétisée sous la forme d' un pro-peptide qui va nécessiter des modifications post-traductionnelles sur sa partie C-terminale pour augmenter son hydrophobie et ainsi permettre son ancrage à la face interne de la membrane cytoplasmique .
+Les processus post-transcriptionnels sont :
+- la farnésylation : l' adjonction d' un résidu d' isoprène à 15 carbones , groupement farnésyl , à l' extrémité C-terminale de la protéine .
+Cette réaction est catalysée par une enzyme nommée __FT__ .
+La protéine K-Ras - 4B possède la propriété de pouvoir être prénylée aussi par un groupement géranylgéranyl via une géranylgéranyltransférase .
+La forme génranylgéranyl est plus hydrophobe que la forme farnylée .
+La protéine K-Ras peut même être palmytolée ;
+- le clivage par une protéase après le C terminal : AAX ;
+- la carboxy-méthylation sur le nouveau C terminal , réaction catalysée par une carboxyl-méthylase .
+- Stratégie thérapeutique
+Différentes stratégies sont actuellement développées afin_de bloquer l' activité de Ras en agissant soit directement ( action spécifique ) sur cette dernière via l' utilisation de sonde anti-messager , soit indirectement en utilisant le fait que , pour être active , Ras doit être fixée sur la face interne de la membrane cellulaire via l' action de la farnésyl transférase ( action peu spécifique ) .
+Il a été démontré sur des données expérimentales que les FTI pouvaient avoir d' autres cibles potentielles .
+La protéine Rho est une protéine de 21 kDa impliquée dans l' organisation du cytosquelette activée par Ras .
+Rho induit par_ailleurs une inhibition de p21 ( inhibiteur de cycline ) , une entrée de la cellule dans le cycle cellulaire ( G1 / S ) et un signal de survie cellulaire .
+L' inhibition de la farnésylation de Rho entraîne une accumulation de la forme géranylée induisant une inhibition de la prolifération cellulaire et une entrée en apoptose de la cellule .
+En agissant sur la voie PI3kinase / AKT , les FTI bloquent la traduction protéique en inhibant la protéine ribosomiale S6 kinase ( p70S6K ) et la phosphorylation de Bad , induisant une hétérodimérisation bad / bcl-xl favorisant l' apoptose .
+Ils inhibent aussi la prénylation des protéines centromèriques , CENP-E et CENP-F , bloquant ainsi l' organisation des centromères au décours de la mitose cellulaire .
+Les agents inhibant les __FT__ peuvent être classés de la manière suivante :
+Tableau 3. Les quatre classes d' inhibiteur de __FT__
+Peptidomimétique 	L778-123
+Diphosphate analogue 	Acide -hydroxyfarnésylphosphonic
+Bi-substrat inhibiteur 	BMS186511
+Inhibiteurs non peptidomimétiques 	R115777 ( Zarnestra ) , SCH66336
+- utilisation de substrats qui vont entrer en compétition avec le substrat naturel de la __FT__ : farnésyl diphosphate analogue ;
+- utilisation de tétrapeptides contenant la région CAAX box : les peptidomimétiques ( substitution des acides aminés aliphatiques par des acides aminés aromatiques , modification de la réaction de méthylation en C-terminal ) ;
+- utilisation d' un bi-substrat analogue qui possède à_la_fois un groupement farnésyl diphosphate et une séquence CAAX box ;
+- des agents inhibiteurs non peptidomimétiques .
+Certains de ces agents sont actuellement en cours d' évaluation .
+Le R115777 ou Zarnestra est un inhibiteur non peptidomimétique actif sur les lignées cellulaires Ras non muté ou bien présentant une mutation de H-Ras ou N-Ras mais peu sur les lignées K-Ras .
+Les résultats in_vivo semblent démontrer que cet agent a des propriétés anti-angiogéniques et inhibe la prolifération cellulaire .
+Les études de phases I ont été conduites selon deux schémas d' administration différents :
+- deux prises orales quotidiennes en continue ,
+- deux prises orales quotidiennes pendant 5 jours reprise à J1 ,
+- deux prises orales quotidiennes pendant 21 jours et reprise à J28 ,
+- deux prises orales quotidiennes pendant 28 jours et arrêt de J35 à J42 .
+Selon le schéma , la __DMT__ varie entre 600 et 1000 mg / j .
+Les doses limitantes toxique sont des toxicités hématologiques ( myélosuppression ) et neurologiques ( déficit neuromoteur et neurosensoriel , polyneuropathie ) .
+Il est aussi décrit des toxicités non limitantes cutanées .
+Des réponses cliniques sont rapportées ( cancer bronchopulmonaire , cancer colorectal , cancer du pancréas ) .
+En association , des études ont été conduites avec la gemcitabine , le topotécan , le docétaxel , la capécitabine , le trastuzumab et l' association 5-fluoro-uracil-acide folinique .
+La dose maximale recommandée varie entre 200 et 400 mg × 2 / j et les DLT rapportées sont essentiellement myélotoxiques .
+Une réponse complète et une réponse partielle ont été rapportées en association avec le docétaxel ( Zarnestra de J1 à J14 ) et une réponse partielle avec la capécitabine .
+Nous disposons actuellement des résultats d' une étude de phase II chez 76 patientes présentant un cancer du sein métastatique en 1re ou 2e ligne de traitement .
+Deux cohortes ont été définies selon le schéma d' administration .
+La première cohorte comportait 41 patientes dont 69 % avaient reçu une première ligne hormonale pour maladie métastatique et 49 % une première ligne de chimiothérapie .
+Le Zarnestra était pris en continu à la dose initiale de 400 mg × 2 / j puis à 300 mg × 2 / j .
+Les auteurs rapportent 10 % de réponse partielle et 15 % de stabilisations .
+La deuxième cohorte a inclus 35 patientes ( 83 % avaient bénéficié d' une première ligne hormonale et 68 % d' une première ligne de chimiothérapie ) selon un schéma de prise quotidienne à la dose de 300 mg × 2 / j pendant 21 jours puis 7 jours d' arrêt .
+Il a été observé 11 % de réponse partielle et 11 % de stabilisations .
+Les toxicités rapportées sont hématologiques et neurologiques .
+Il semble que la tolérance soit meilleure avec le schéma de prise en discontinu .
+Le BMS186511 est un bi-substrat analogue dérivé imidazolé qui peut être administré per os , en IV ou en intrapéritonéal .
+En essai de phase I , il a été administré par voie orale et par voie IV en monothérapie .
+L' administration orale était biquotidienne et précédait d' une semaine l' administration IV .
+L' étude de biodisponibilité comparant la voie orale et la voie IV n' a pas démontré de différence significative entre ces deux voies .
+Cependant , la voie orale a été abandonnée à cause d' une toxicité digestive importante : nausée , vomissements ( DLT ) , diarrhées , crampes abdominales , fièvre et asthénie .
+Par voie IV , trois schémas ont été testés : perfusion de 1 heure toutes les 3 semaines , perfusion de 1 heure hebdomadaire ou perfusion de 24 heures hebdomadaire .
+Les DLT décrites sont des nausées , vomissements , crampes abdominales , diarrhées , anorexie , asthénie , insuffisance rénale , élévation des transaminases , fièvre et neutropénie .
+La MTD est de 278 mg / m2 en perfusion hebdomadaire de 1 heure , la dose recommandée de 245 mg / m2 .
+Les auteurs rapportent une réponse mineure .
+Les études d' association sont en cours , notamment avec le cisplatine et le paclitaxel .
+Le SCH66336 est un inhibiteur non peptidomimétique tricyclique .
+Les données in_vitro et in_vitro démontrent qu' il est actif sur des lignées cellulaires pr__REGF__ ou la protéine de fusion bcl-abr .
+Dans les modèles de xénogreffe il existe une synergie d' action avec le cyclophosphamide , la vincristine , les taxanes , les sels de platines et le 5 fluoro-uracile .
+Deux études ont été conduites en phase I par voie orale .
+La première a porté sur un schéma d' administration de deux prises quotidiennes pendant 7 jours puis reprise à J21 .
+La __DMT__ est de 800 mg / j et la dose recommandée est de 350 mg × 2 / j .
+Les toxicités limitantes sont d' ordre digestif : nausées , vomissements , diarrhées .
+Les auteurs ont rapporté une corrélation entre la réponse clinique et la diminution de la farnélysation de la prélamine A. La deuxième étude a évalué la prise orale biquotidienne en continue .
+La __DMT__ est de 300 mg × 2 / j et la dose recommandée de 200 mg × 2 / j .
+Les toxicités décrites sont d' ordre hématologique ( neutropénie et thrombopénie de grade 4 ) ainsi_que des troubles neurologiques centraux à type de confusion et de désorientation temporo-spatiale .
+Des études d' association ont été menées avec la gemcitabine et le paclitaxel .
+Avec la gemcitabine administrée à J1 , J8 et J15 reprise à J28 associée au SCH66366 en deux prises quotidiennes en continue , la __DMT__ est de 1000 mg / m2 pour la gemcitabine et de 100 à 150 × 2 / j pour le FTI .
+Les DLT sont d' ordre digestif et hématologique ( lignée granulocytaire ) .
+En association avec le paclitaxel , la __DMT__ est 175 mg / m2 pour le paclitaxel et de 100 mg × 2 / j pour le FTI .
+Les DLT rapportées sont déshydratation , fièvre , neutropénie fébrile , élévation de la bilirubine .
+À notre connaissance , aucun essai n' a débuté dans le cancer du sein .
+Le L778-123 est un peptidomimétique .
+Deux études de phase I en monothérapie et une phase I en association avec le paclitaxel ont été conduites .
+La première a testé un schéma d' administration d' une perfusion continue sur 7 jours reprise à J21 .
+Aucune toxicité de grade 3-4 n' a été rapportée .
+La seconde a porté sur une administration continue sur 2 et 4 semaines .
+Pour une administration sur 2 semaines , la dose recommandée est de 560 mg/m2 / j .
+Les toxicités limitantes décrites sont une neutropénie de grade 4 et un allongement de l' espace de QT supérieur à 0,49 ms .
+Pour une administration de 4 semaines en continu , la dose recommandée n' a pas été définie .
+En association avec le paclitaxel , le L778-123 a été administré pendant 7 jours en perfusion continue .
+L' escalade de dose n' a pas été possible au-delà du premier palier de dose ( paclitaxel : 175 mg / m2 et L778-123 : 280 mg/m2 / j ) compte tenu des toxicités rapportées : neutropénie de grade 4 avec sepsis , neuropathie neuro-sensorielle de grade 3 , dyspnée de grade 3 , asthénie de grade 3. Quatre patients ont présenté un allongement modéré de l' espace QT .
+Il semblerait que cette molécule ne fasse plus l' objet d' étude clinique en raison des toxicité rencontrées .
+La plupart de ces études de phase I n' ont pas établi de corrélation entre la dose recommandée et la dose biologique efficace .
+- Inhibiteurs de l' activité kinase intracellulaire : inhibiteurs des séronine thréonine kinases
+Raf peut être activé par Ras mais_aussi via la protéine kinase C et la protéine anti-apoptotique Bcl2 .
+Raf est impliqué dans les mécanismes de chimiorésistance médiée par la P-gp .
+Les modèles précliniques ont montré que l' Isis 5132 était hépatotoxique et pouvait activer le complément , induisant des syndromes hémorragiques .
+Cet agent est une sonde anti-messager qui inhibe la traduction au niveau des ribosomes de l' ARNm de Raf .
+Il a fait l' objet de trois études de phase I .
+La première a été conduite sur 31 patients avec une administration trois fois par semaine , pendant 3 semaines , en une perfusion de 2 heures .
+Aucune DLT n' a été rapportée .
+Les effets secondaires décrits sont un syndrome fébrile ( non dose-dépendante ) , une anémie et une asthénie .
+La deuxième étude a porté sur 34 patients .
+L' Isis 5132 était administré en perfusion continue sur 21 jours .
+Les auteurs rapportent un syndrome fébrile associé à une hypotension ( grade 3 ) , une thrombopénie ( grade 3 ) et une cytolyse hépatique ( grade 3 ) .
+Dans la troisième étude de phase I , les auteurs ont administré l' Isis 5132 en une perfusion de 24 heures toutes les semaines .
+Chez les 14 premiers patients inclus , la __DMT__ n' était pas atteinte , la DLT était de grade 3 chez un patient .
+Ce patient a présenté une activation du complément associée à un allongement du temps de la thromboplastine sans manifestation clinique .
+L' essai se poursuit .
+La sonde anti-messager Isis 3521 est dirigée contre l' ARNm de la PKC : les essais sont en cours .
+Au congrès de l' Asco 2002 ont été rapportés les résultats des essais de phase I concernant les inhibiteurs de MEK1 et 2 : le CI1040 .
+Le CI1040 est administré par voie orale , en deux prises pendant 21 jours , avec reprise après 7 jours d' arrêt .
+Sa dose recommandée est de 800 mg × 2 / j par voie orale .
+Ses effets secondaires décrits sont : diarrhée , asthénie , nausées , rash , vomissements , oedèmes périphériques .
+Il existe une corrélation entre la dose et l' inhibition de l' activité MAPK sur les cellules mononucléées sanguines , avec une inhibition de 100 % pour une concentration plasmatique du CI1040 à 200 ng / ml .
+Dans la deuxième étude de phase I , le CI1040 a été administré en continu pendant 21 jours avec reprise au jour 28 du cycle .
+La dose recommandée était , comme pour le première étude de phase I , de 800 mg × 2 / j .
+Aucune DLT n' a été rapportée .
+Une réponse partielle a été observée chez un patient présentant un cancer du pancréas .
+Les essais se poursuivent .
+Voie PI3K/PTEN/AKT / mTor
+Les lipides transmembranaires jouent un rôle important dans la transduction de second messager .
+Ils sont riches en résidu phosphatidyl-inositol ( PtdIns ) .
+Le 4,5-phosphatidyl-inositol-diphosphate est transformé sous l' action de la phospholipase C en deux seconds messagers , le diacylglycerol et l' inositol-triphosphate .
+Ces phospholipides peuvent être activés par des réactions de phosphorylation en position 3' par une __PI3K__ .
+Il s' agit d' une famille enzymatique constituée d' une sous-unité catalytique , p110 , et d' une sous-unité régulatrice , p85 .
+Sur des modèles cellulaires , une surexpression de la sous-unité catalytique peut induire des tumeurs et une mutation de la sous-unité régulatrice peut induire des lymphomes chez la souris athymique .
+En fonction de la spécificité du substrat , des sous-unités catalytiques et régulatrices , trois classes de PI3K sont décrites .
+L' activation de ces phospholipides par la PI3K permet d' activer un certain nombre d' effecteurs en_amont impliqués dans les processus d' invasion , de métastase , d' angiogenèse , de prolifération , de différenciation , de survie cellulaire et d' organisation du cytosquelette .
+Le principal effecteur est la kinase AKT qui existe sous trois isoformes ( AKT1 , 2 , 3 ) , possède un domaine kinase central , un domaine PH-pleckstrine nécessaire aux interactions protéine-protéine ou protéine-lipide en position N-terminale et un domaine riche en proline ( région hydrophobe ) et un domaine Tail en position C-terminale .
+Pour être active , cette enzyme va subir un certain nombre de modifications post-traductionnelles .
+Les seconds messagers engendrés par la PI3K vont se fixer au domaine PH de AKT , entraînant une délocalisation de l' enzyme du cytoplasme à la face interne de la membrane cellulaire .
+La fixation du complexe kinase PDK1-PRK2 ( 3 phospho-inosotide dependant proteine kinase ) engendre une modification de conformation de l' AKT et , par_la_suite , une phosphorylation ( résidu sérine et thréonine ) par la PDK1 seule .
+AKT activée va phosphoryler un certain nombre de protéines impliquées dans le processus apoptotique : Bad , facteur de transcription forkhead , caspase 9 , IKB .
+AKT favorise la phosphorylation de Bad .
+Bad phosphorylée va devenir inactive et s' associer , dans le cytoplasme , à la protéine chaperon 14-3-3 .
+Le complexe Bad / Bcl-Xl est dissocié de la face interne de la mitochondrie et Bcl-Xl peut ainsi s' opposer à l' entrée en apoptose de la cellule .
+AKT va moduler l' expression de gènes impliqués dans l' exécution de l' apoptose en neutralisant les membres de la famille de transcription forkhead ( FKHR ) .
+FKHR une fois phosphorylé est séquestré dans le cytoplasme par la protéine 14-3-3 .
+AKT va dissocier le complexe IKB / NFB en activant la kinase IKKB .
+IKB va être dégradé par le protéosone ( ubiquination ) et le facteur de transcription NFB va pouvoir induire la transcription de gènes impliqués dans la survie cellulaire ( protéine de la famille bcl2 et inhibiteur des caspases IAP ) .
+AKT peut être aussi activé par la voie médiée par la __PKA__ .
+La __PKA__ va augmenter la concentration intracellulaire du calcium .
+Le calcium va se fixer au complexe calcium-calmoduline qui va activer une kinase ( calcium/calmoduline / kinase-kinase ) qui , à son tour , va pouvoir activer AKT .
+L' activité oncogénique de PI3K est contrebalancée par une protéine suppresseur de tumeur dénommée PTEN pour phosphatase and tensin homologue deleted on chromosome ten .
+Il s' agit d' une enzyme qui déphosphoryle les groupements 3' hydroxyinositol des phospholipides membranaires , et notamment des composées PtdIns .
+Dans le cancer du sein , cet anti oncogène peut être inactivé de différentes manières .
+Il est décrit des mutations germinales responsables du syndrome de Cowden ( association de tumeurs bénignes et malignes , cancer du sein bilatéral chez les sujets jeunes ) , des mutations somatiques responsables de cas sporadiques ou de délétions hétérozygotes sur le chromosome 10 ( LOH10q23 ) et d' inactivations du gène par inactivation de son site promoteur .
+PI3K contrebalance l' action de la PI3-kinase .
+L' activation de cette protéine de 55 kd induit un arrêt du cycle cellulaire en G1 avec accumulation de la protéine p27 inhibitrice des cyclines A , D et de la kinase CDK2 .
+Elle induit une entrée en apoptose des cellules et un arrêt de la traduction protéique .
+Actuellement , les travaux de recherche portant sur l' inhibition de cette voie comportent trois axes .
+Inhibition de la PI3-kinase
+Nous disposons de deux composées inhibiteurs de la PI3-kinase .
+La wortmannin est un métabolite d' un champignon qui se fixe sur le site ATP de la PI3K de manière covalente , irréversible et non compétitive .
+Le deuxième composé , un dérivé du quercertin , est un inhibiteur réversible qui se fixe sur le même site que la wortmannin .
+Ces deux agents ne sont actuellement pas en expérimentation clinique .
+D' autres pistes sont à l' étude .
+Elles portent sur la neutralisation de la sous-unité catalytique en agissant sur son domaine Sh2 par les molécules IRS-1 ou bien sur la sous-unité régulatrice en favorisant sa déphosphorylation par l' action d' une phosphatase .
+Restauration de la fonction du gène PTEN
+Des modèles cellulaires visant à réintroduire le gène PTEN par thérapie cellulaire sont à l' étude .
+Neutralisation d' une des voies terminales de la transduction de ce signal , la voie mTor
+Si , à ce jour , nous ne pouvons disposer de molécules agissant sur PI3K ou sur PTEN , nous disposons d' agents capables d' agir sur une des voies terminales de cette cascade .
+En effet la rapamycine et ses dérivés ( CCI-779 ) inhibent la voie médiée par mTor ( mammaliam target of rapamycine aussi appelé FRAP , RAFT1 , RAPT1 ) .
+Il appartient à une famille de kinase : PI3 kinase-kinase .
+Cette kinase joue un rôle prépondérant dans la transduction de signaux de prolifération via la voie PI3K / AKT régulant l' initiation de la transduction protéique en activant , par phosphorylation , la protéine 4E-BP1 ( eucaryote initiation factor 4 E-binding protein ) et la protéine p70-S6K ( p70 kDa S3 kinase ) .
+La protéine 4E-BP sous sa forme non phosphorylée est associée à son inhibiteur eIF-4E ( ARNm cap binding sub-unit of the eucaryote initiation factor 4 ) .
+La phosphorylation du complexe induit sa dissociation et la protéine 4EB-BP va déclencher la traduction de la protéine cycline D1 et de l' ornithine décarboxylase .
+La protéine p70 phosphorylée induit la constitution du complexe ribosomique 40S-protéineS6 permettant la traduction .
+L' inhibition de la voie mTor abolit les signaux transduits par la voie PI3K / AKT engendrant un arrêt du cycle cellulaire en G1 et une entrée en apoptose de la cellule .
+Des agents ont été développés pour inhiber la voie mTor comme la rapamycine .
+La rapamycine est un macrolide qui dérive d' un champignon , Streptomyces hydroscopius , qui possède des propriétés immunosuppressives , antimicrobiennes et antitumorales .
+Les modèles précliniques ont démontré qu' elle agissait sur la croissance tumorale en inhibant l' initiation de la traduction : passage G1 / S .
+Sa cible protéique est un complexe intracellulaire dénommé FKBP .
+Un certain nombre de dérivés , tout particulièrement le CCI779 , ont une activité tumorale supérieure à celle de la rapamycine .
+Les essais thérapeutiques avec le CCI779 ont été réalisés aux États-Unis , perfusion de J1 à J5 en IV toutes les 2 semaines et en Europe selon un schéma hebdomadaire .
+Les DLT observées sont des rashs cutanés , mucites , neutropénies , thrombopénies , réactions d' hypersensibilité , hyperlipidémies .
+Il a été rapporté des réponses cliniques à tous les paliers de doses , dont une patiente présentant un cancer du sein en réponse partielle .
+Des associations avec la gemcitabine et le 5FU-LV2 sont en cours .
+Un essai thérapeutique de phase II dans le cancer du sein à la dose de 75 et 250 mg toutes les deux semaines est en cours .
+Les résultats sur les 16 premiers patients ont été présentés à l' Asco 2002 ( 85 inclusions sur les 110 prévues ) .
+Les auteurs rapportent une réponse partielle dans chaque groupe .
+Les toxicités de grade 3-4 décrites sont des leucopénies , infections , mucites , diarrhées , élévations des GT , hypokaliémie , syndromes dépressifs , hyperglycémie .
+L' étude se poursuit .
+Une seconde étude est en cours chez des patientes récepteurs hormonaux positifs , présentant une maladie localement avancée ou métastatique .
+Elle compare le létrozole seul à une association létrozole plus CCI ( 75 mg / j de J1 à J5 reprise à J14 ou prise continue à la dose de 25 mg / j ) .
+Conclusion
+Nos connaissances ces dernières années en sciences fondamentales nous ont permis de mieux connaître les étapes de la transduction du signal depuis la fixation d' un ligand à son récepteur jusqu' à la transcription de gènes impliqués dans la prolifération , la différenciation , l' invasion et l' angiogenèse cellulaire .
+La collaboration entre les chercheurs et les cliniciens a permis de mettre au point de nouveaux agents thérapeutiques biologiques .
+Un certain nombre de ces agents sont en cours d' évaluation .
+Actuellement , dans le cancer du sein métastatique , seul le trastuzumab a démontré son impact sur la survie des patientes et les essais en adjuvant débutent tout juste .
+Cependant , de nombreux points d' ombre restent à clarifier .
+Dans un certain nombre de localisations , ces nouveaux agents ne semblent pas donner en phase III les résultats tant espérés sur la survie : c' est le cas de l' Iressa® dans les cancers bronchopulmonaires non à petites cellules ou des anti-métalloprotéases , même au prix d' une toxicité accrue vis-à-vis du bras chimiothérapie seule .
+Cela doit nous conduire à nous interroger sur nos méthodes d' investigations .
+Ces agents sont dirigés contre une cible parfaitement identifiée in_vitro et in_vivo mais dont on ne tient pas forcément compte dans les études cliniques .
+Cela tient à plusieurs raisons à notre avis .
+Les modèles précliniques sont ils le reflet de la réalité ?
+Une tumeur est constituée de différentes populations cellulaires avec une carte génomique différente .
+Dans les études de phase I , actuellement , ces agents biologiques sont développés comme des agents cytotoxiques .
+Les études de phase I déterminent la dose maximale tolérée mais en_aucune_manière la dose biologique maximale .
+Nous avons vu_que , pour le CCI779 , les auteurs rapportent des réponses à tous les paliers de doses .
+Les essais de phase I conduits actuellement ne sont pas adaptés à ces nouveaux agents .
+Il faut définir des marqueurs de la réponse biologique .
+Il est actuellement difficile , pour des raisons techniques et éthiques , de réaliser des prélèvements tissulaires avant_tout traitement et après traitement de la tumeur des patients pour étudier la réponse en fonction de la dose .
+Des tests indirects ( cellules mononucléées sanguines , prélèvement de cellules de la cavité buccale ) ont été développés pour certaines de ces drogues mais il n' existe pas forcément de corrélation entre la neutralisation de ces marqueurs et la réponse biologique au sein de la tumeur .
+Des études devront être conduites pour valider la corrélation entre les données de pharmacogénomique , du TEP ( corrélation entre la dose de STI et la réponse au TEP réalisé au 5e jour ) , de l' IRM fonctionnelle ( corrélation entre IRM de perfusion et réponse à la combrastatine ) .
+Nous disposons à ce jour de l' Herceptest® mais_surtout du FISH , pour définir la probabilité de réponse au trastuzumab .
+Concernant les autres agents biologiques , nous ne disposons pas de technique diagnostique fiable ( mise en évidence de la cible ) et de test prédictif de réponse .
+Nous avons vu_que l' association entre inhibiteur de tyrosine kinase et agents cytotoxiques s' accompagnait d' une toxicité accrue .
+Il est fort probable qu' un traitement séquentiel serait préférable pour ces agents et que la sélection des patients n' est pas rationnelle dans ces études .
+Ces nombreuses questions vont demander un renforcement de la collaboration entre la recherche fondamentale et la clinique .
+Nous sommes devant un tournant de notre discipline avec la création d' une spécialité de transition entre les sciences fondamentale et la clinique : la biologie de transfert .

@@ -1,0 +1,108 @@
+While the incidence of breast cancer in women of African descent is lower than that of their white counterparts , paradoxically , the age adjusted breast cancer rates are higher .
+Black women have been shown to present with a more advanced stage of disease and at a younger age in published American and African studies .
+There are , however , no published data on breast cancer presentation in the British black population .
+From the American studies it appears that up to 35% of black breast cancer patients are under 50 years old , compared with only 20% of white women with breast cancer .
+__A-A__ women had significantly larger tumours , lower rates of localised disease and higher rates of oestrogen receptor ( ER ) and progesterone receptor ( PgR ) negativity , all of which confer a poorer prognosis .
+These __A-A__ women were more likely than white patients to present with poorly differentiated and medullary-like tumours , and they might have up to double the incidence of inflammatory carcinoma , the most aggressive form of breast cancer .
+Recent studies , analysing molecular subtypes , suggest there is a higher frequency of the poor-prognosis basal subgroup ( frequently referred to as triple negative ) in young black American women .
+Critics of the __A-A__ data dispute the contributory impact of factors such as socioeconomic differences and disparities in access to , and receipt of , health care between the ethnic groups .
+Although any such variations are more likely to contribute to outcome rather than age at presentation , the differences in health care systems between the USA and the UK have made it possible for us to control for these factors in a way that has not been possible in previously published studies .
+Until now there have been no data on the patterns of breast cancer in British black women .
+Similarities with the __A-A__ population have been assumed by most UK doctors , but this may well be an unwarranted assumption .
+It would seem prudent to review the biology of the disease in this group because of the potentially different genetic backgrounds between __A-A__ and British black women .
+For example , use of population-specific alleles has shown European admixture to be considerably higher in African-Americans than in their Jamaican counterparts , and Afro-Caribbean people make up a substantial proportion of the British black population .
+Whether or not the British black population have a higher frequency of basal tumours , or if they have distinct molecular characteristics , certainly has never been addressed , although this could have major implications for breast cancer care in the UK , including screening and treatment protocols .
+Because ethnicity often has not been noted in many Registry databases , we have conducted a pilot study on a single hospital where up to 25% of the local referral population is black .
+Supposing our results can be extrapolated to the general black population in the UK , our findings could have implications for both the detection and treatment of breast cancer in this group of women .
+In more general terms , the differences we have detected between breast cancer in this group of British black women and the disease as reported in __A-A__ women have significance for our understanding of its underlying biology .
+MATERIALS AND METHODS
+Women presenting at the Homerton University Hospital in Hackney , East London , between 1994 and 2005 , with a diagnosis of invasive breast cancer , were entered into a database following local ethics approval .
+Where possible , details of age at presentation , self-reported ethnicity , grade , lymph node status , stage , ER , PgR and ERBB2 ( v-erb-b2 erythroblastic leukaemia viral oncogene homologue 2 ) status were recorded .
+From 2001 onward the hospital routinely recorded all incident breast cancers in the BASO database ( British Association of Surgical Oncologists ) and this is used currently in clinical practice .
+No such routine centralized data collection existed before 2001 and therefore the hospital computerized discharge summaries between 1994 and 2000 were searched .
+Histological diagnosis was confirmed by review of histology reports .
+Where ethnicity was undisclosed or histological diagnosis unconfirmed , patients were excluded .
+Only invasive breast cancer was included .
+The tumour specimens for each patient were retrieved from pathology archives and stained for ER , PgR and ERBB2 by __IHC__ where this information was otherwise missing .
+Socioeconomic status was measured using the __IMD__ , a proxy for socioeconomic status , as determined by area of residence .
+The __IMD__ uses six domains to assess a given ward : income , employment , health deprivation and disability , education skills and training , housing and geographical access to services .
+Hackney was reported to be the most deprived area of London by __IMD__ 2004 .
+For comparative purposes the details of all black patients presenting to the same hospital with cancer of any type during 2000-2007 were also recorded .
+Statistical methods
+Age distributions of the black patients and white patients were compared using Poisson regression , adjusting for the different age distributions of the entire local populations .
+This was accomplished using the 2001 census figures for Hackney , London , where the majority of the patients resided ( , 2001 ) .
+These were available only in three broad age groups , 0-15 , 16-59 and 60 or more .
+Histological and biological features of the tumours were compared using logistic regression , adjusting for age in the first instance , and then for age and __IMD__ .
+Survival analysis was by proportional hazards regression , also adjusting for age and __IMD__ .
+We also tested for heterogeneity of results by tumour size and age , usually dichotomising age at a cut-off of 60 years , as this was the approximate median age in the two groups combined .
+RESULTS
+A total of 445 patients with a new diagnosis of breast cancer made between 1994 and 2005 were identified .
+Nine white women and one black woman were removed from the cohort because histological review revealed a diagnosis of only __DCIS__ .
+Sixteen white women were excluded because their initial diagnosis proved to have been before 1994 .
+There were 126 women from other ethnic groups ( 5 Greek , 35 Jewish , 9 Turkish , 2 Chinese / Vietnamese , 3 Arabic and 19 Indian women ) , or where ethnicity was undisclosed , who were excluded from the cohort analysis .
+Data were obtained from 102 black women and 191 white British women .
+The distributions of age at diagnosis in the black cohort and white cohort are demonstrated in Figure 1. This shows that the black patients were significantly younger ( P=0.001 ) , with a median age of 46 compared with 67 for the white patients .
+To address whether this difference in the age at presentation simply reflected differences in the age structure of the two ethnic populations locally , the patient cohorts were compared with the population census data of Hackney .
+No significant difference between the black and the white population structures was identified , confirming that there is a true increase in the frequency of breast cancer in young black women .
+Moreover , no other common cancer in the same population of black women revealed a comparable increase in frequency in younger women ( data not shown ) .
+The pathological and biological features of the tumours in the two patient cohorts were compared .
+Total numbers vary due to differing numbers of cases with missing data for each variable ; however , black patients had a greater frequency of grade 3 tumours , lymph node-positive disease and negative ER and PgR status , compared with white women .
+They also had higher proportions of tumours of basal or triple negative status ( as defined here by ER-negative , PgR-negative and ERBB2-negative status ) .
+The difference reached statistical significance only for histological grade ( P=0.02 ) .
+Results were unchanged when further adjusted for __IMD__ .
+There was borderline significant heterogeneity by age of the association of ethnicity with ER status ( P=0.05 ) such that in patients aged under 60 , the black patients were significantly more likely to have ER-negative disease ( OR=2.36 , 95% CI 1.06-5.00 , P=0.03 ) , but there was no significant difference in ER status by ethnicity in patients aged 60 years or above ( OR=0.71 , 95% CI 0.23-2.18 , P=0.5 ) .
+A similar heterogeneity of borderline significance was noted for basal status ( P=0.09 ) .
+In women aged under 60 years , black patients were more likely to have triple negative disease ( OR=2.33 , 95% CI 0.88-6.18 ) , whereas in women aged 60 or more , there were no significant or suggestive differences between the two ethnic groups ( OR=0.67 , 95% CI 0.13-3.39 ) .
+The ER and triple negative status by age group and ethnicity is shown in Table 3.
+For overall survival analysis , there was an average follow-up of 3 years and a maximum of 12 years .
+The number of patient deaths by age group and ethnicity is shown in Table 4. Adjusting for age and __IMD__ , no significant difference in survival was detected between black patients and white patients ( HR=0.98 , 95% CI 0.61-1.55 , P=0.9 ) .
+There was , however , significant heterogeneity of the effect of ethnic group in tumours of different sizes ( P=0.002 ) .
+In tumours of size 2 cm or less , black patients had poorer survival than white patients ( HR=2.90 , 95% CI 0.98-8.60 , P=0.05 ) , although for tumours greater than 2 cm , there was no significant or substantial difference in survival ( HR=0.86 , 95% CI 0.44-1.65 , P=0.6 ) .
+The result was not changed substantially when further adjusted for grade and ER status .
+Survival by ethnicity for average age ( 61 years ) and __IMD__ score ( 46 ) , in tumours of size 2 cm or less from the Cox regression , is shown in Figure 2.
+DISCUSSION
+This study has demonstrated a substantial difference in age at presentation for breast cancer between white women and black women living in a geographically restricted deprived area of London .
+Black women presented on average 21 years younger than their white counterparts ( a median age of 46 years ) , and this is earlier than the current threshold age of 50 years for entry to the UK National Health Service Breast Screening Programme ( NHS BSP ) .
+By selecting a single district hospital , the patients in this pilot study come from a limited geographical referral area , which controls , to a large extent , for the socioeconomic differences associated with risk of disease , accessibility to health resources and inequalities in receipt of treatment which might have accounted for these differences .
+This was further controlled for by generating an __IMD__ score for each patient and adjusting for this in the analysis .
+This approach has restricted the number of cases that can be included in the study , but it has meant that the results are not a consequence of these variables .
+Information on age of incidence of invasive breast cancer cases in London between 1994 and 2004 ( 41792 women inclusive of all ethnic origins ) is available .
+Twenty-five percent of all breast cancer cases in London presented at 45 years or younger compared with 45% of black women with breast cancer in our local population .
+It is crucial , therefore , to target this group of women to raise their awareness regarding the risks of breast cancer , the likelihood of early age at presentation and the importance of self-examination and early presentation with clinical signs .
+The UK NHS BSP is offered to all women between 50 and 70 years , with an invitation to mammography on a 3 yearly basis .
+Alterations to the screening services offered to black populations might be considered to better reflect the incidence patterns for this group , much as it has been for those individuals with a family history deemed to be at risk of breast cancer at a younger age .
+Additional resources required for the screening of black women from age 40 or 45 would be modest , but there could be organizational difficulties in identifying the relevant population for invitation .
+There has been much speculation regarding biological factors , which may underpin ethnic differences in breast cancer biology , presentation and outcome .
+In our cohort , 62% of black women had grade 3 tumours compared with 42% of white women .
+Women under 50 years tend to have an increased rate of higher grade tumours .
+However , even after adjusting for age , there were significantly more grade 3 tumours in black women .
+Thus , it is not simply a consequence of the higher representation of younger women in the black cohort .
+Also , among those women with smaller tumours ( 2 cm ) , black women were more than twice as likely to die of their disease ( P=0.05 ) .
+Review of the database has shown that black women received more adjuvant therapy ( chemotherapy , radiotherapy and , where appropriate , hormone therapy ) than their white counterparts .
+Thus , there is no evidence that observed differences are due to late presentation or inequalities in the receipt of therapy and , therefore , breast cancers arising in young black women appear to be biologically different ; an effect not attributable simply to the young age of affected individuals .
+It also is worth noting a particularly novel finding of our study that is , not only do British black women develop breast cancer at a younger age , but also smaller tumours ( 2 cm ) in young women show very different behaviour between the two ethnic groups .
+Tumours in younger women are considerably more aggressive in black women .
+Breast tumours in women over 60 years show similar behaviour regardless of ethnic origin .
+That the lymph node status and stage at presentation were similar between both ethnic groups also differs from reported findings in the __A-A__ populations .
+Factors such as obesity , family history , low parity , later age at first full-term pregnancy , not breast feeding and long duration of reproductive period all are known to increase the risk of developing breast cancer ( Collaborative Group on Hormonal Factors in Breast Cancer , 2002 ) and may differ significantly between ethnic groups .
+These risk factors have been associated with breast cancer in African women and may contribute to our observed differences to some extent .
+Much of the work done in this area has attempted to try to explain the variation in outcome between __A-A__ women and age- and stage-matched white Caucasians .
+Differences in receipt of optimal treatment have been cited as a possible cause .
+However , a pooled analysis of women treated within clinical trials , thus controlling for disease stage and receipt of treatment , still found significant differences in outcome for both pre- and post-menopausal __A-A__ women .
+Such data suggest that biological features of the tumours are , at least partly , responsible for these ethnic differences .
+Disease pattern variation between the ethnic groups is not explained by overexpression of the oncogene cerbB2+ , as this does not differ significantly across racial groups .
+Recent gene expression analyses of breast cancers have confirmed the existence of distinct molecular subgroups .
+There has been particular interest in the subgroup of basal-like tumours , which express many myoepithelium-associated genes , such as cytokeratin 5 , and which are both cerbB2- and ER-negative and are associated with a poor prognosis .
+The basal phenotype is more common in breast cancers arising in young women and in BRCA-1-mutated cancers , to which patterns of disease in black women bear many similarities .
+Of note , __A-A__ women do not appear to have a greater prevalence of high-risk BRCA mutations than the white Caucasian population , but the basal-like subtype is known to be more prevalent among young ( premenopausal ) __A-A__ women with breast cancer .
+We noted it to be more prevalent , based on immunohistochemical analysis , in the British black population ( 22% ) , albeit at a much lower level than in the __A-A__ population ( 39% ) .
+However , it also is apparent that the basal subtype is a heterogeneous group , and further analysis is required to more accurately define the precise nature of the tumours in these women .
+A detailed analysis of these tumours , using a more extensive panel of __IHC__ markers to delineate the basal phenotype , is warranted .
+Of note , basal and ERBB2 subgroups have been found to respond better to 5 fluorouarcil , doxorubicin and cyclophosphamide chemotherapy relative to other breast cancer subgroups .
+Studies have shown that most triple negative tumours are included within this basal subset ( Perou et al , 2000 ; Sorlie et al , 2001 , 2003 ; van't Veer et al , 2002 ) .
+These triple negative breast cancers are resistant to existing targeted treatments , such as hormonal treatments and trastuzumab , underscoring the clinical importance of defining new potential targets for treatment in this group .
+Interestingly , due to the characteristic defects in DNA repair seen in BRCA1 mutation-associated tumours , sensitivities to standard cytotoxic agents differ compared with other breast cancers .
+Novel targeted agents , being investigated in BRCA1 / triple negative tumours , may also be of benefit in black women .
+When specific gene expression signatures are anticipated to revolutionise the diagnosis and treatment of cancer , it may be important to recognise the distinct biological characteristics occurring within specific ethnic populations , and also the subtle differences between apparently similar populations , such as the __A-A__ and British black populations , which might impact on these profiles .
+In summary , we have shown that British black women , as often assumed by many UK clinicians , do share certain characteristics with their __A-A__ counterparts with regard to breast cancer .
+There are although certain differences between these two groups , as exemplified by the aggressive behaviour of small tumours , which indicate that the two cohorts cannot be considered identical .

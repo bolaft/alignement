@@ -1,0 +1,245 @@
+Les carcinomes mammaires se développent à partir des cellules épithéliales des galactophores .
+Les cellules tumorales gardent certaines caractéristiques des cellules initiales , notamment des récepteurs hormonaux , __RE__ et __RE__ , dont la présence les rend sensibles aux modifications du climat hormonal environnant .
+L' hormonothérapie est basée sur cette sensibilité .
+Quatre grandes étapes ont marqué son développement.En 1896 , Georges Thomas Beatson publie pour la première fois l' effet d' une castration chez des femmes porteuses d' un cancer du sein inopérable .
+La régression des tumeurs décrite dans l' article est rapportée à la baisse des hormones synthétisées dans les ovaires .
+Cette publication a été à l' origine de l' hormonothérapie .
+L' hormonothérapie s' est d'_abord limitée à la suppression ovarienne sous toutes les formes disponibles à l' époque : chirurgie ou radiothérapie .
+Puis d' autres hormones naturelles interférant avec les oestrogènes ont été utilisées : les progestatifs , les androgènes et les oestrogènes à forte dose .
+Si la suppression ovarienne a fait l' objet d' essais en adjuvant , les effets secondaires des autres molécules ne permettaient pas d' envisager leur utilisation en situation adjuvante.La mise en évidence des récepteurs d' oestradiol puis des récepteurs de progestérone dans les tumeurs mammaires a donné aux praticiens un facteur prédictif de réponse à l' hormonothérapie .
+Il est maintenant admis que l' hormonothérapie n' est proposée que si la tumeur contient des récepteurs hormonaux .
+Dans le cas contraire , le bénéfice apporté à la tumeur est négligeable.En 1974 , apparaissent les premières publications concernant le tamoxifène .
+Celui-ci se fixe sur les récepteurs d' oestradiol dont il empêche l' action sur ces récepteurs .
+Il est le chef de file d' une nouvelle classe thérapeutique : les anti-oestrogènes .
+La découverte d' effets agonistes a modifié la conception de cette classe thérapeutique et son appellation : __SERM__ .
+Les premières études dans le cancer du sein métastatique montraient que le tamoxifène avait une efficacité comparable à celle des hormonothérapies disponibles alors , avec des taux de réponse objective de l' ordre de 30 % .
+Il se caractérisait essentiellement par un excellent profil de tolérance .
+Il entraînait des bouffées de chaleur , mais non une prise de poids comme les progestatifs , des effets virilisants comme les androgènes , des effets thromboemboliques comme les progestatifs et les oestrogènes .
+De plus , il démontrait son efficacité chez la femme non ménopausée et était utilisé seul ou en association avec la suppression ovarienne .
+Sa bonne tolérance permettait son utilisation en adjuvant .
+Les premiers essais en adjuvant ont été commencés dès 1975 et les premiers résultats ont été publiés au début des années 1980 .
+Depuis cette date , il a régné en maître sur l' hormonothérapie du cancer du sein.Les inhibiteurs de l' aromatase empêchent la transformation de l' androstènedione en oestrone et de la testostérone en oestradiol .
+L' __AMG__ a été le premier inhibiteur de l' aromatase utilisé dans le cancer du sein .
+Son manque de spécificité et sa puissance insuffisante le limitaient aux seconde et troisième lignes d' hormonothérapie .
+Les inhibiteurs spécifiques utilisables actuellement , appelés inhibiteurs de troisième génération , sont dépourvus des effets endocriniens de l' __AMG__ ; de plus , ils montrent une puissance biologique bien supérieure qui se traduit par une meilleure efficacité clinique.Ils appartiennent à deux grandes classes :
+* - les inhibiteurs de type 1 , de structure stéroïdienne , entraînent une inhibition irréversible ( inhibiteurs suicides ) .
+Une molécule est disponible , l' exemestane ;
+* - les inhibiteurs de type 2 , de structure non stéroïdienne , entraînent une inhibition réversible .
+Les molécules disponibles sont le létrozole et l' anastrozole .
+L' arrivée des inhibiteurs va -t elle reléguer au second plan le tamoxifène qui a dominé l' hormonothérapie du cancer du sein pendant près_de 30 ans ?
+Nous étudierons les hormonothérapies disponibles chez les femmes non ménopausées puis chez les femmes ménopausées , en_premier_lieu dans le traitement de la maladie métastatique , puis en traitement adjuvant .
+Cancer du sein métastatique
+Femmes non ménopausées
+Le traitement hormonal du cancer du sein métastasé chez la femme jeune comprend la suppression ovarienne définitive ou temporaire et le tamoxifène .
+La suppression ovarienne définitive , décrite depuis 1896 , a été longtemps appliquée aux femmes sans tenir compte des récepteurs hormonaux .
+Le taux de réponse est alors de l' ordre de 35 % .
+Dans les études plus récentes qui ne concernaient que des tumeurs avec récepteurs d' oestradiol positifs ( RE+ ) ou inconnus , le taux de réponse objective est de l' ordre de 45 % .
+La suppression ovarienne temporaire utilise les analogues de LH-RH : goséréline , buséréline et triptoréline .
+Les taux de réponse sont comparables à ceux de la suppression ovarienne définitive : 35 à 45 % des tumeurs RE+ ou inconnu répondent au traitement ( tableau 1 ( Tableau 1 ) ) .
+Les modes de suppression ovarienne sont elles équivalentes ?
+Des comparaisons directes entre la SO définitive et les analogues de LH-RH [ 8 , 19 - 21 ] ont été effectuées dans des essais de petite taille qui leur donnaient une puissance insuffisante .
+Ils n' ont pas mis en évidence de différence d' efficacité entre les deux traitements .
+Toutefois , dans le cadre du traitement des métastases , les effets à long terme de la ménopause et la possibilité d' un retour de cycles normaux sont tout_à_fait hypothétiques .
+Seul le bénéfice psychologique d' une action réversible peut justifier les analogues de la LH-RH dans cette indication .
+Le bénéfice médico-économique est négatif .
+Les taux de réponse obtenus avec le tamoxifène sont du même ordre que ceux obtenus avec la SO .
+Les comparaisons directes regroupées dans la méta-analyse de Crump montrent une efficacité similaire entre SO et tamoxifène .
+Faut il associer tamoxifène et suppression ovarienne ?
+La suppression ovarienne , en diminuant le taux d' oestradiol , pourrait faciliter l' action du tamoxifène , d'_autant_plus_que celui-ci , par le biais d' une stimulation hypophysaire , induit une augmentation de la sécrétion ovarienne d' oestradiol .
+Outre les effets fonctionnels de la stimulation ovarienne , l' oestradiol ainsi sécrété entre en compétition avec le tamoxifène au niveau des récepteurs , ce qui est susceptible d' en diminuer l' efficacité .
+L' association d' une SO au tamoxifène permet d' annuler les effets de stimulation hypophysaire du tamoxifène et , dans le cas des analogues de LH-RH , de la supprimer .
+Par ailleurs , le tamoxifène peut compléter l' effet de la SO en limitant l' action de l' oestradiol circulant résiduel .
+Ces deux raisons font penser que le « blocage oestrogénique complet » serait plus efficace que l' un ou l' autre des traitements .
+Une méta-analyse de Klijn_et_al. regroupe quatre essais qui ont comparé analogue de LH-RH plus tamoxifène à analogue seul .
+Avec un recul médian de 6,8 années , le traitement combiné montre un avantage en termes de survie globale ( p = 0,02 ; hazard ratio [ HR ] = 0,78 ) et de survie sans progression ( p = 0,03 ; HR = 0,67 ) .
+Toutefois , les comparaisons se basent uniquement sur l' hormonothérapie de première ligne : taux de réponse et temps jusqu' à progression .
+Le temps jusqu' à progression , en incluant toutes les séquences possibles d' hormonothérapie ( suppression ovarienne puis tamoxifène ) , est une donnée à prendre en considération .
+Si l' association suppression ovarienne plus tamoxifène peut être recommandée pour les cancers du sein métastasés du fait de leur taux de réponse plus important , aucune étude n' a comparé les durées totales de réponse d' un traitement séquentiel SO puis tamoxifène et d' un traitement concomitant ; le traitement séquentiel est donc une alternative .
+Inhibiteurs de l' aromatase
+Les inhibiteurs de l' aromatase n' empêchent pas la synthèse ovarienne d' oestradiol .
+Seuls , ils ne sont pas efficaces chez les femmes non ménopausées .
+Associés à la SO , ils pourraient diminuer le taux d' oestradiol résiduel en supprimant la synthèse périphérique d' oestradiol .
+L' association SO plus IA est susceptible d' entraîner une baisse de l' oestradiol plus importante que la SO seule .
+Dans une étude portant sur 16 femmes traitées en seconde ligne après tamoxifène par l' association goséréline et anastrozole , Forward_et_al. observent 12 réponses ou stabilisations .
+Plusieurs études de phase II associant analogue de LH-RH et IA en première ligne d' hormonothérapie sont en cours .
+Femmes ménopausées
+Anti-oestrogènes
+Dans les cancers du sein métastatiques , le tamoxifène permet d' obtenir une réponse objective chez 34 % des patientes , avec une durée médiane de réponse de 24 mois .
+Le taux de réponse est corrélé à l' âge et au site métastatique .
+Inhibiteurs de l' aromatase
+Seuls les inhibiteurs spécifiques sont utilisés .
+Dans plusieurs essais randomisés , ils se sont montrés supérieurs à l' aminoglutéthimide ou aux progestatifs ( tableau 2 ( Tableau 2 ) ) .
+En première ligne , ils montrent une efficacité supérieure à celle du tamoxifène ( tableau 3 ( Tableau 3 ) ) avec des taux de réponse plus élevés et des durées de réponse plus longues .
+De plus , leur tolérance est équivalente à celle du tamoxifène .
+Progestatifs
+Les progestatifs utilisés actuellement sont le mégestrol ou la médroxyprogestérone ( MPA ) .
+Les taux de réponse obtenus sont comparables à ceux obtenus avec le tamoxifène .
+De par leur profil de tolérance , ils ne sont plus utilisés qu' en dernier recours d' hormonothérapie .
+Séquence optimale
+Dans le cadre des métastases , plusieurs lignes d' hormonothérapie , le_plus_souvent deux , peuvent être utilisées successivement .
+Ces deux lignes d' hormonothérapie permettent de reporter d' autant la chimiothérapie et de préserver la qualité de vie .
+Ainsi , l' hormonothérapie ne doit pas être analysée uniquement en termes de taux et de durée de réponse de chaque ligne , mais_aussi en durée de réponse et de stabilisation ( bénéfice clinique ) de l' ensemble des deux lignes de traitement .
+Ce temps est aussi appelé temps jusqu' à chimiothérapie .
+L' essai létrozole L025 qui comparait tamoxifène et létrozole en première ligne d' hormonothérapie dans le cancer du sein avancé prévoyait une permutation des traitements au moment de l' échappement à l' un ou l' autre des traitements étudiés .
+En seconde ligne après létrozole , le tamoxifène entraîne un taux de réponse significatif mais inférieur au létrozole après tamoxifène .
+Et si on considère les deux traitements successifs , la séquence létrozole puis tamoxifène permet de maintenir l' hormonothérapie plus longtemps que la séquence inverse .
+Les IA sont maintenant indiqués en hormonothérapie de première ligne dans les cancers du sein métastasés RE+ .
+Le tamoxifène vient en seconde ligne .
+Le fulvestrant , récemment disponible , n' a pas encore trouvé sa place dans la stratégie thérapeutique .
+Cet anti-oestrogène pur , aussi efficace que l' anastrozole après échec du tamoxifène , s' est avéré moins efficace que celui-ci en première ligne .
+Malgré ses caractéristiques biologiques intéressantes , ses résultats cliniques le limitent à une hormonothérapie de dernière ligne en concurrence avec les progestatifs .
+Hormonothérapie adjuvante
+Notre connaissance concernant le traitement adjuvant du cancer du sein est étroitement liée aux méta-analyses de l' __EBCTCG__ .
+En 1984 , à l' initiative de Richard Peto , l' __EBCTCG__ démarrait sa série de méta-analyses sur données individuelles .
+Depuis , des mises à jour régulières sont programmées tous les 5 ans .
+Les méta-analyses de l' __EBCTCG__ sont basées sur une recherche la plus exhaustive possible de tous les essais portant sur le sujet , sur le recueil des données individuelles de chaque patient inclus dans un essai .
+Les analyses de survie , de survie sans rechute , de survie sans métastase sont identiques pour tous les essais .
+La banque de données de l' __EBCTCG__ regroupe 9000 femmes incluses dans des essais de suppression ovarienne , 33000 femmes incluses dans des essais qui comparent tamoxifène pendant 1 ou 2 ans à une surveillance , 15000 femmes randomisées dans des essais avec 5 ans de tamoxifène .
+Les essais comparant deux durées de tamoxifène concernent 28000 femmes , 20000 dans des essais comparant 1 ou 2 ans à 5 ans et 8000 dans des essais comparant 5 ans à 10 ans .
+Les résultats de la méta-analyse ont permis de dégager les principales données concernant la suppression ovarienne et le tamoxifène .
+Femmes non ménopausées
+Suppression ovarienne définitive
+En l' absence de chimiothérapie , la suppression ovarienne définitive ( tableau 4 ( Tableau 4 ) ) réduit le risque de rechute de 31 % et le risque de décès de 28 % ; en présence de chimiothérapie , les réductions sont respectivement 7 % et - 3 % .
+Suppression ovarienne temporaire
+La suppression ovarienne transitoire par analogue de LH-RH réduit le risque de rechute de 15,3 % et le risque de décès de 15,1 % .
+L' effet des analogues de LH-RH est bien sûr lié à la présence des récepteurs hormonaux .
+Les modes de suppression ovarienne sont ils équivalents ?
+Dans le cadre du traitement adjuvant , il n' y a pas de comparaison directe publiée entre les deux méthodes de suppression ovarienne .
+Les essais utilisant les deux méthodes ( castration et analogues de LH-RH ) ne concernent pas des populations comparables , en_particulier en ce qui concerne la chimiothérapie adjuvante .
+Les essais de castration sont plus anciens .
+Une comparaison indirecte entre les traitements est , de ce fait , impossible .
+Les seules comparaisons directes concernaient des cancers du sein métastasés .
+Par ailleurs , aucune étude ne compare plusieurs durées d' analogues de LH-RH en traitement adjuvant .
+Tamoxifène
+Délivré pendant 5 ans , le tamoxifène réduit le risque de rechute de 34 % et de décès de 24 % chez les femmes de moins de 50 ans porteuses d' un cancer avec récepteurs d' oestradiol positifs .
+Faut il associer tamoxifène et SO ?
+Les données comparant l' association suppression ovarienne plus tamoxifène à la suppression ovarienne seule concernent essentiellement le stade métastatique de la maladie .
+Aucune publication ne concerne l' association suppression ovarienne plus tamoxifène au tamoxifène seul .
+Suppression ovarienne + inhibiteur de l' aromatase
+L' association SO et IA en traitement adjuvant repose sur les mêmes hypothèses que dans le traitement des métastases .
+Des essais randomisés sont en cours .
+L' essai Soft compare le tamoxifène seul , le tamoxifène associé à un analogue de LH-RH et l' exemestane associé à l' analogue de LH-RH .
+Il permettra de répondre à deux questions : l' intérêt d' associer une SO au tamoxifène chez la femme non ménopausée et l' apport des inhibiteurs de l' aromatase .
+L' essai Perch compare le tamoxifène associé à un analogue de LH-RH et l' exemestane associé à l' analogue de LH-RH .
+Les participants à cet essai considèrent que la SO seule n' est pas un standard .
+Ces essais viennent de démarrer ; aucun résultat n' est attendu avant plusieurs années .
+Au total , il n' y a actuellement aucune donnée justifiant l' utilisation des inhibiteurs de l' aromatase chez la femme non ménopausée ( même ) associés à la suppression ovarienne .
+En l' absence de comparaison entre tamoxifène et suppression ovarienne , on ne peut affirmer une supériorité de l' un ou l' autre des traitements .
+Les études portant sur les cancers métastasés suggèrent que la suppression ovarienne seule a une efficacité inférieure à celle de l' association suppression ovarienne + tamoxifène .
+Ainsi , chez la femme non ménopausée , le tamoxifène seul ou associé à une suppression ovarienne reste l' hormonothérapie de référence .
+Femmes ménopausées
+Tamoxifène
+Globalement , le tamoxifène réduit les risques de rechute de 31 % et de décès de 18 % .
+Le bénéfice dépend de la présence des récepteurs hormonaux .
+Le tamoxifène n' apporte aucun bénéfice lorsque les récepteurs sont négatifs .
+Si la réduction du risque de rechute est identique quel que soit le statut ganglionnaire ( tableau 5 ( Tableau 5 ) ) , le bénéfice absolu est plus grand en cas d' envahissement ganglionnaire .
+Contrairement à la castration , le tamoxifène apporte un bénéfice , qu' il y ait ou non une chimiothérapie adjuvante .
+Les comparaisons indirectes suggèrent que le traitement doit être poursuivi pendant 5 ans .
+Cependant , seules des comparaisons directes des différentes durées de traitement permettent de conclure .
+Plusieurs essais ont été commencés dans ce sens :
+- L' essai suédois a recruté 3887 femmes ; 3545 ( 91 % ) étaient vivantes et indemnes de rechute à 2 ans et ont pu contribuer à la comparaison entre 2 et 5 ans de traitement .
+Il retrouve une réduction de 18 % du risque de rechute et de décès avec le traitement plus long .
+- L' essai anglais du CRC comparait également 2 et 5 ans de tamoxifène .
+La randomisation était effectuée au terme de 2 ans de tamoxifène .
+Au 31 décembre 1994 , 2937 patientes avaient été randomisées .
+L' essai montre une réduction de 19 % du risque de rechute et une réduction non significative du risque de décès .
+- L' essai TAM01 comparait 2 à 3 ans de tamoxifène contre un traitement à vie sur une population de 3793 femmes incluses de 1986 à 1995 .
+L' analyse initiale à 70 mois de traitement le situe dans une comparaison 2 à 3 ans contre 5 ans .
+Elle met en évidence une réduction de risque de rechute de 23 % , mais ne retrouve aucune amélioration de la survie .
+Tous ces essais confirmaient les comparaisons indirectes des méta-analyses et l' intérêt d' un traitement de 5 ans .
+La plus grande durée de prescription et le recul supérieur ont permis de mettre en évidence la toxicité à long terme du tamoxifène .
+Le risque thromboembolique et une incidence du cancer de l' endomètre majorés ont été les principales toxicités mises en évidence .
+Les études ultérieures ont montré que le risque augmentait avec la durée du traitement .
+Inhibiteurs de l' aromatase
+Trois grands essais ont montré l' intérêt des inhibiteurs de l' aromatase en adjuvant .
+La stratégie est différente dans chacun d' eux : inhibiteur d'_emblée dans l' essai Atac , inhibiteur en substitution du tamoxifène dans l' essai IES , inhibiteur en relais du tamoxifène dans l' essai MA17 .
+L' étude Atac a inclus 9366 femmes : 3125 ont reçu 1 mg d' anastrozole pendant 5 ans , 3116 ont reçu 20 mg de tamoxifène et 3125 l' association des deux .
+Avec une médiane de suivi de 47 mois et une durée médiane de traitement de 36,9 mois , les survies sans rechute à 4 ans sont de 86,9 et 84,5 % , respectivement dans le groupe anastrozole et tamoxifène ( HR = 0,86 ; intervalle de confiance à 95 % [ IC ] = 0,76-0,99 ; p = 0,03 ) .
+Le bénéfice engendré par l' anastrozole est bien plus important dans la population avec récepteurs hormonaux positifs ( HR = 0,82 ; IC 95 % = 0,70-0,96 ; p = 0,014 ) .
+L' incidence du cancer du sein controlatéral est également en_faveur_de l' anastrozole ( odds ratio [ OR ] = 0,62 ; IC 95 % = 0,38-1,02 ; p = 0,062 ) ; il est statistiquement significatif dans le groupe avec récepteurs hormonaux positifs ( OR = 0,56 ; IC 95 % = 0,32-0,98 ; p = 0,042 ) .
+Les données concernant les effets secondaires confirment une réduction des cancers de l' endomètre ( p = 0,007 ) , des leucorrhées et saignements vaginaux ( p < 0,001 pour les deux ) , des accidents cérébraux ( p < 0,001 ) , des accidents thromboemboliques ( p < 0,001 ) , et des bouffées de chaleur ( p < 0,001 ) dans le bras anastrozole , alors_que les troubles musculosquelettiques et les fractures ( p < 0,001 pour les deux ) sont moins fréquents dans le bras tamoxifène .
+L' essai IES avait pour but de définir si , après 2 à 3 ans , remplacer le tamoxifène par l' exemestane était plus efficace que de continuer le tamoxifène pour la durée restante du traitement , au total 5 ans .
+Les femmes traitées pour un carcinome infiltrant du sein avec récepteurs d' oestradiol positifs ou inconnus pouvaient être incluses dans l' essai au_cours_de leur troisième année de tamoxifène adjuvant .
+Elles étaient randomisées entre exemestane ou tamoxifène pour le reste des 5 ans .
+Au moment de la randomisation , la majorité ( 97 % ) recevait 20 mg de tamoxifène , mais celles qui recevaient 30 mg étaient éligibles .
+Au total , 4742 femmes ont été incluses dans l' essai .
+Avec un recul médian de 30,6 mois , la seconde analyse intermédiaire dénombre 449 événements ( rechute locale ou métastatique , cancer controlatéral ou décès ) : 183 dans le groupe exemestane et 266 dans le groupe tamoxifène .
+Le hazard ratio est de 0,68 en_faveur_de l' exemestane ( p = 0,00005 ) , ce qui représente une réduction de 32 % du risque de récidive et se traduit par un bénéfice absolu de 4,7 % de survie sans récidive à 3 ans après la randomisation .
+Les décès étaient au nombre de 93 dans le groupe exemestane et de 106 dans le groupe tamoxifène .
+Les courbes de survie ne diffèrent pas de façon significative .
+Les effets secondaires observés dans le groupe exemestane étaient des arthralgies ( 5,4 % ) et des diarrhées ( 4,3 % ) .
+Le tamoxifène était associé à des symptômes gynécologiques ( 9,0 % ) , des saignements vaginaux ( 5,6 % ) , des crampes musculaires ( 4,4 % ) et des accidents thromboemboliques ( 2,4 % ) .
+Les fractures sont retrouvées plus fréquemment avec l' exemestane ( 3,1 contre 2,3 % ; p = 0,08 ) .
+Onze cancers de l' endomètre ont été observés chez les femmes qui poursuivaient le tamoxifène et 5 chez celles qui prenaient l' exemestane .
+Les cancers controlatéraux étaient moins fréquents sous exemestane ( 9 contre 20 ; p = 0,038 ) .
+Il est à noter qu' au moment de l' analyse 92 % des femmes ont terminé le traitement à l' étude .
+L' essai MA17 , randomisé en double aveugle avec placebo , a été conduit pour étudier l' effet de 5 ans de létrozole chez la femme ménopausée traitée par tamoxifène adjuvant pour un cancer du sein curable pendant 5 ans .
+Après 4,5 à 6 ans de tamoxifène ou dans les 3 mois qui suivaient , les femmes pouvaient être incluses dans l' essai pour recevoir du létrozole ou un placebo pour une durée de 5 ans .
+Au total , 5187 femmes ont été incluses .
+Le recul médian est de 2,4 ans .
+La première analyse intermédiaire montrait 207 rechutes locales ou métastatiques du cancer du sein ou controlatéral : 75 dans le groupe létrozole et 132 dans le groupe placebo .
+Les probabilités de survie sans rechute à 4 ans étaient respectivement de 93 et 87 % ( p 0,001 ) .
+Les décès étaient au nombre de 31 dans le groupe létrozole et de 42 dans le groupe placebo .
+Les courbes de survie ne différaient pas de façon significative .
+Les effets secondaires observés dans le groupe létrozole étaient : bouffées de chaleur , arthralgies , myalgies et arthrites .
+Les saignements vaginaux étaient moins fréquents dans le groupe létrozole .
+Le diagnostic d' ostéoporose a été porté chez 5,8 % des femmes du groupe létrozole et 4,5 % des femmes du groupe placebo ( p = 0,07 ) .
+Les fractures sont retrouvées dans 3,6 et 2,9 % des cas ( p = 0,24 ) .
+Au vu des résultats de cette analyse intermédiaire , un comité indépendant a recommandé l' arrêt de l' essai et une rapide communication des résultats aux participantes .
+Malgré des résultats précoces fondés sur des analyses intermédiaires , ces trois essais suggèrent qu' à tous les stades du traitement adjuvant , un inhibiteur doit être préféré au tamoxifène chez la femme ménopausée :
+- les résultats de l' essai Atac invitent à utiliser l' anastrozole d'_emblée au lieu du tamoxifène ( HR = 0,82 ) ;
+- l' essai IES montre que , si le traitement a été initié avec du tamoxifène , il est licite de l' interrompre et de le remplacer par l' exemestane ( HR = 0,68 ) ;
+- l' essai MA17 montre que , si le tamoxifène a été délivré pendant toute la durée du traitement adjuvant , une hormonothérapie complémentaire par le létrozole pendant au moins 2 ans peut diminuer les rechutes ( HR = 0,62 ) .
+L' hormonothérapie adjuvante doit donc comporter un inhibiteur de l' aromatase à un moment quelconque du traitement .
+Stratégie d' utilisation des inhibiteurs : reste -t il des indications du tamoxifène ?
+Les essais démontrent la supériorité des inhibiteurs de l' aromatase sur le tamoxifène ; ils ne permettent pas de définir si la séquence tamoxifène-inhibiteur est préférable à l' inhibiteur seul .
+Il n' est pas certain que les bénéfices observés dans les trois essais soient réellement différents et que ces différences soient liées à la stratégie .
+Les essais Atac et IES comparent un inhibiteur au tamoxifène ; l' essai MA17 compare le tamoxifène à un placebo .
+En outre , les essais Atac et IES se déroulent à durée constante d' hormonothérapie .
+Dans les deux cas , le bras de référence est le tamoxifène pendant 5 ans et la durée de l' hormonothérapie reste de 5 ans dans les bras étudiés .
+Dans l' essai MA17 , si le bras témoin reste la référence actuelle en hormonothérapie chez la femme ménopausée ( 5 ans de tamoxifène ) , dans le bras traité la durée d' hormonothérapie est supérieure à 5 ans .
+Il pose donc en_même_temps la question de la durée de l' hormonothérapie .
+Ainsi , les écarts entre les essais peuvent être liés à la séquence thérapeutique choisie mais_aussi au hasard , au choix de la population , en_particulier le pourcentage de récepteurs inconnus ou négatifs , à la sélection des patientes engendrée par les délais variables d' inclusion , à des différences de critère de jugement ou à des différences entre les inhibiteurs .
+Par ailleurs , les résultats doivent être analysés en termes de stratégie globale et il faut tenir compte des événements qui peuvent survenir avant la mise en route de l' inhibiteur .
+Une simulation des bénéfices apportés par les trois stratégies ( ( figure 1 ) ) montre que , à moyen terme , les résultats sont identiques .
+Seule une comparaison directe entre inhibiteur pendant 5 ans et séquence tamoxifène-inhibiteur permettra de répondre à la question .
+Faut il poursuivre l' hormonothérapie au-delà_de 5 ans ?
+La poursuite du tamoxifène au-delà_de 5 ans a été étudiée soit par des deuxièmes randomisations dans des essais qui posaient initialement une autre question , soit dans des essais spécifiques .
+Seuls les premiers ont présenté des résultats .
+La seconde randomisation de l' essai NSABP B14 concernait 1172 femmes qui avaient reçu 5 ans de tamoxifène et étaient indemnes de rechute au terme du traitement .
+Parmi elles , 593 ont poursuivi le traitement et 579 ont reçu un placebo .
+Quatre ans après la seconde randomisation , un avantage sur la survie sans rechute ( 92 contre 86 % ) et la survie globale ( 96 contre 90 % ) était détecté en faveur des femmes qui avaient arrêté le tamoxifène .
+Sept ans après la seconde randomisation , un petit avantage en survie sans rechute ( 82 contre 78 % ) et survie globale ( 94 contre 92 % ) est retrouvé chez les femmes qui avaient interrompu le tamoxifène .
+La seconde randomisation de l' essai écossais ne concernait que 342 femmes , 169 ont interrompu le tamoxifène et 173 ont poursuivi le traitement .
+L' analyse de cette seconde partie de l' essai ne retrouvait aucun bénéfice à la poursuite du tamoxifène .
+Les deux essais retrouvaient une augmentation des cancers de l' endomètre liée à la poursuite du tamoxifène .
+L' essai TAM01 comparait un traitement de 3 ans à un prolongement pour 10 années supplémentaires .
+Les résultats préliminaires confirmaient la nécessité de poursuivre le tamoxifène jusqu' à 5 ans mais , en l' absence d' analyse à plus long terme , il ne peut répondre à la question posée .
+Une analyse à long terme est en cours .
+De même , les essais Atlas et ATTom n' ont pas été publiés .
+La méta-analyse de l' __EBCTCG__ ne comprend que 6 essais comparant 5 et 10 ans de tamoxifène .
+Le nombre d' événements est insuffisant pour tirer une conclusion .
+Cependant , les effets secondaires du tamoxifène semblent augmentés de façon importante ( risque doublé de cancer de l' endomètre ) .
+L' essai MA 17 a été conduit pour étudier l' effet de 5 ans de létrozole après 5 ans de tamoxifène adjuvant .
+Il est le premier à montrer une réduction des rechutes avec la poursuite d' une hormonothérapie au-delà_de 5 ans .
+Il s' agit d' un changement d' hormonothérapie et non de la poursuite du même traitement , l' hormonothérapie initiale était le tamoxifène et non pas un inhibiteur de l' aromatase .
+Au total , l' essai compare un traitement séquentiel tamoxifène puis IA au tamoxifène seul pendant 5 ans et les résultats sont assez similaires à ceux de l' essai IES dans lequel l' hormonothérapie est limitée à 5 ans ( ( figure 1 ) ) .
+Les résultats de l' essai MA17 ne peuvent suffire pour justifier une hormonothérapie de longue durée .
+La même question de la durée de l' hormonothérapie se posera avec les IA .
+Que faut il faire après 5 ans d' IA ou de traitement séquentiel ?
+Il est urgent de mettre en place dès maintenant des essais qui répondront à la question .
+Enfin , que faire pour les femmes qui ont terminé le tamoxifène depuis plus de 3 mois et qui conservent un risque de rechute important ?
+Les données actuelles montrent qu' elles n' ont pas bénéficié de la meilleure hormonothérapie adjuvante .
+Une étude ancienne portant sur le tamoxifène montrait que la prise retardée d' hormonothérapie réduisait les rechutes .
+L' utilisation des inhibiteurs de l' aromatase pourrait alors être envisagée chez ces femmes à risque .
+Conclusion
+L' hormonothérapie du cancer du sein inclut aujourd'hui trois traitements majeurs : la suppression ovarienne ( analogue de LH-RH ) , le tamoxifène , les inhibiteurs de l' aromatase .
+Ceux-ci prennent chaque jour une importance plus grande dans le traitement du cancer du sein .
+Au stade métastatique , chez la femme ménopausée , ils représentent l' hormonothérapie de première ligne .
+La séquence IA puis tamoxifène est celle qui permet de maintenir l' hormonothérapie le plus longtemps .
+Dans le traitement adjuvant , l' utilisation des IA devient incontournable .
+La stratégie traitement séquentiel ou IA d'_emblée doit être testée dans un essai randomisé utilisant le même IA .
+L' essai BIG 98-01 pose exactement cette question .
+Chez la femme jeune , le tamoxifène et la SO restent les traitements de référence .
+Cependant , des études utilisant IA et SO sont en cours au stade métastatique et en adjuvant .
+Enfin , l' arrivée des IA pose d' autres questions : comment gérer les effets secondaires majeurs : douleurs ostéo-articulaires et fragilisation osseuse ? que faire pour les femmes qui ont reçu uniquement du tamoxifène pendant 5 ans ? que faire au terme de 5 ans de traitement adjuvant par inhibiteur de l' aromatase ?

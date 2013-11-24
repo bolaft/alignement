@@ -1,0 +1,186 @@
+La chimiothérapie néoadjuvante dite « première » ou encore d' induction correspond à l' utilisation d' un traitement cytotoxique systémique avant le traitement locorégional ( chirurgie et / ou radiothérapie ) .
+Mise en place dans les années 1970 , elle s' est progressivement imposée dans le traitement du cancer du sein localement avancé et / ou inflammatoire afin_d' améliorer le contrôle local et la survie en comparaison à un traitement local exclusif .
+Elle devait également permettre une chirurgie partielle en cas de réduction tumorale importante , évitant ainsi une mastectomie .
+Face aux résultats encourageants obtenus , les cliniciens ont utilisé , dès la deuxième partie des années 1980 , la chimiothérapie néoadjuvante dans le cancer du sein à tout stade , y_compris pour les tumeurs opérables d'_emblée [ 3 , 7-9 ] , dans l' objectif de : 1 ) avant_tout , permettre une chirurgie conservatrice plus fréquente ; 2 ) conceptuellement , obtenir une meilleure éradication de la maladie micrométastatique par un traitement précoce avant le développement de clones résistants et alors_que le facteur anti-angiogénique ( angiostatine ) potentiel sécrété par la tumeur primitive est toujours présent ; 3 ) également , tester la chimiosensibilité tumorale in vivo.Le cancer du sein est une maladie hétérogène , qui varie aussi_bien par ses caractéristiques cliniques que par son profil biologique .
+L' hétérogénéité des tumeurs se traduit par d' importantes différences de réponse thérapeutique .
+Il est donc primordial de pouvoir identifier des facteurs permettant d' évaluer la réponse à un traitement donné et , par_conséquent , de permettre au clinicien d' orienter sa décision thérapeutique .
+Dans le cadre d' une chimiothérapie néoadjuvante , ces facteurs peuvent être étudiés sur la biopsie préthérapeutique .
+Les facteurs prédictifs peuvent prédire une réponse ou une résistance à un traitement donné .
+Les seuls facteurs prédictifs validés à l' heure actuelle sont le statut des récepteurs hormonaux , et plus particulièrement la présence de récepteurs oestrogéniques et la surexpression d' Her2 .
+D' autres sont actuellement en cours d' étude tels_que le gène suppresseur de la tumeur p53 et le marqueur de prolifération cellulaire Ki67 ; mais les résultats restent contradictoires .
+Indications , contre-indications
+La chimiothérapie néoadjuvante pour cancer du sein opérable s' adresse à des tumeurs non métastatiques , non inflammatoires , de taille supérieure à 3 cm , ou plus petite mais de position centrale , de stade IIA , IIB et IIIA pour lesquelles une chirurgie conservatrice d'_emblée n' est pas envisageable .
+À ce jour , aucun critère biologique tumoral n' est pertinent pour indiquer ou contre-indiquer la chimiothérapie première , même s' il est admis par les thérapeutes que le cancer lobulaire invasif du sein , les grades histopronostiques bas ( grade I SBR ) et les tumeurs peu prolifératives ( Ki67 bas ) répondent moins bien à la chimiothérapie .
+À l' inverse , le profil biologique de réponse potentielle correspond aux tumeurs de grades II , III SBR avec récepteurs hormonaux négatifs , Ki67 élevé et Bcl2 négatif .
+Protocoles à base de vinorelbine
+- NE .
+L' étude Topic 2 a randomisé 6 cycles de vinorelbine à 25 mg / m2 en J1 et J8 associé à 60 mg / m2 d' épirubicine ( 227 patientes ) contre 6 __AC__ ( 184 patientes ) .
+Les deux bras de traitement ont permis d' obtenir les résultats suivants : 62 versus 57 % de cRO , 16 versus 13 % de cRC , 15 % de pRC dans les deux bras et 62 versus 65 % de conservation mammaire .
+Les différences observées ne sont pas significatives .
+- NEP .
+Une étude multicentrique italienne a utilisé 3 à 4 cycles d' une association comportant 25 mg / m2 de vinorelbine , 100 mg / m2 d' épirubicine et 50 mg / m2 de cisplatine .
+Elle concernait 92 patientes ( T2-3 / N0-2 ) .
+Même si cette chimiothérapie d' induction est brève , les résultats sont intéressants avec 75 % de cRO , 9 % de cRC , 18 % de pRC et 67 % de conservation mammaire .
+- NEM .
+Cent douze patientes ont reçu 6 cycles d' une combinaison NEM fractionnée sur 2 jours ( J1 et J8 ) à la posologie de 25 mg / m2 de vinorelbine , 35 mg / m2 d' épirubicine et 20 mg / m2 de méthotrexate .
+Quatorze pour cent de réponse complète histologique ont été obtenus selon la classification de B. Chevallier .
+- TNCF .
+Nous avons développé à Clermont-Ferrand l' association TNCF .
+Les résultats se sont avérés très encourageants avec une cRO de 86 % dont 52 % de cRC et 34 % de pRC selon Chevallier .
+Mais il a été appliqué aux tumeurs les plus agressives , ce qui explique vraisemblablement l' excellente chimiosensibilité , le nombre de cellules en cycle étant élevé .
+Les résultats n' ont cependant pas montré plus de rechute locale et à distance qu' avec les autres protocoles alors_que les patientes présentaient une forme grave de cancer du sein .
+Une étude randomisée serait indispensable pour mieux évaluer son intérêt thérapeutique , car la toxicité hématologique est nettement plus importante , ce traitement d'_ailleurs être toujours associé à l' administration de FCH de la lignée granulocytaire .
+Protocoles à base de paclitaxel
+- Taxol monothérapie .
+Une étude publiée en 2004 rapporte des résultats concernant l' efficacité d' une chimiothérapie hebdomadaire de type paclitaxel en néoadjuvant .
+Vingt-deux patientes présentant une tumeur de plus de 3 cm ont été traitées .
+Elles ont reçu du paclitaxel 175 mg / m2 .
+Après 3 semaines de repos , elles ont reçu du paclitaxel 80 mg / m2 pendant 2 fois 3 semaines , séparées d' une semaine de repos .
+Les auteurs enregistrent un taux de réponse objective de 80 % avec 20 % de réponses complètes .
+Le taux de réponse histologique complète était de 9 % .
+Une conservation mammaire a pu être réalisée dans 41 % des cas .
+- AT .
+Deux protocoles successifs ont été réalisés combinant 60 mg / m2 d' adriamycine et 200 mg / m2 de paclitaxel : le premier pour 4 cycles préopératoires contre 4 cycles d' __AC__ , le second dit Etna ( étude néo-adjuvante ) pour valider la supériorité de 6 cycles d' AT par_rapport_à 4 cycles du même protocole .
+Dans le premier protocole , 160 patientes ont reçu 4 AT avec un taux de pCR qui a évolué de 10 % dans la publication de V. Diéras à 16 % lorsque la relecture a été centralisée [ résultats non publiés ] .
+Le protocole Etna , quant_à lui , a inclus 117 patientes dans le bras 6 cycles d' AT et a permis d' obtenir 87 % de cRO dont 32 % de cRC , 64 % de conservation mammaire dont 17 % de pRC .
+- NET .
+Combiner les trois drogues majeures du traitement du cancer du sein semblait très intéressant pour optimiser la réponse tumorale .
+Les patients ont reçu 6 cycles de vinorelbine ( J1 et J8 ) , d' épirubicine ( J1 et J8 ) et de paclitaxel ( J9 ) .
+Cependant , alors qu' un taux important de réponse clinique ( cRO = 42 % dont 26 % de cRC ) et de réponse échographique ( 58 % ) a été observé , la pRC n' a été que de 12 % selon Chevallier .
+Selon la classification de Sataloff , le taux est de 18 % .
+Protocoles à base de docetaxel
+- Docetaxel monothérapie .
+Le docetaxel est souvent donné en monothérapie dans le cancer du sein métastatique .
+Il était donc logique de le tester à la posologie optimale de 100 mg / m2 pour une durée de 6 cycles en situation néoadjuvante .
+Les résultats sont tout_à_fait intéressants : 83 % de cRo , 43 % de cRC , 21 % de pRC et 71 % de conservateur chez 86 patientes .
+Une autre étude rapporte des résultats tout aussi intéressants avec une posologie à 40 mg / m2 .
+Le traitement a été administré en deux fois 6 semaines espacées de 2 semaines de repos .
+Les auteurs enregistrent un taux de réponse objective de 68 % dont 29 % de réponses complètes .
+Le taux de pRC atteignait 16 % .
+- Docetaxel 75 et épirubicine 75. Le bras E-TXT de l' étude réalisée par le Girec a permis de conserver le sein chez 85 % des 45 patientes traitées avec un taux de pRC selon Sataloff de 24 % .
+- Docetaxel séquentiel .
+Plusieurs études ont validé la place de 4 perfusions de paclitaxel faisant suite à 4 cycles de chimiothérapie à base d' anthracyclines .
+L' étude TAX301 d' Aberdeen a obtenu grâce_à 4 TXT à 100 mg / m2 un taux de réponse mammaire préopératoire de 94 % , dont 62 % de cRC chez 47 patientes ayant répondu à 4 cycles de __CVAP__ .
+La poursuite de la même chimiothérapie __CVAP__ pour 4 cycles supplémentaires n' a obtenu que 66 % de cRO , dont 34 % de cRC .
+Le taux de réponse complète histologique selon Miller et Payne est de 34 % dans le bras séquentiel ( 4 __CVAP__ suivis de 4 TXT ) contre 18 % pour le bras 8 cycles de __CVAP__ ( 50 patientes ) .
+Par ailleurs , les 48 patientes non répondeuses à 4 __CVAP__ qui ont reçu 4 TXT 100 ont répondu pour 55 % d' entre elles mais le taux de pCR n' a été que de 2 % .
+Quant à l' étude B27 du __NSABP__ , elle est très informative : 8 cycles de chimiothérapie néoadjuvante chez 805 patientes ( 4 __AC__ suivis de 4 TXT ) augmentent notablement le taux de cRC et doublent le taux de pRC par rapport à_moitié moins de cycles d' __AC__ ( 4 cycles ) appliqués chez 804 patientes ( 63,6 versus 40,2 % de cRC , 26,1 versus 12,9 % de pCR ) , ce qui indique qu' il est sûrement important de prolonger la chimiothérapie néoadjuvante jusqu' à 8 cycles et d' appliquer en séquentiel 4 cycles de paclitaxel après 4 cycles à base d' anthracyclines .
+Enfin , l' étude Geparduo a comparé également l' association de docetaxel et de doxorubicine ( ADoc ) toutes les 2 semaines pendant 4 cycles à un schéma séquentiel AC-Doc ( adriamycine-cyclophosphamide suivi de docetaxel ) chez 913 patientes .
+Les résultats montrent que l' addition de 4 cycles de docetaxel après 4 cycles d' __AC__ améliore significativement le taux de réponses histologiques complètes en comparaison avec 4 cycles de la combinaison AD réalisée toutes les 2 semaines ( 14 versus 7 % ) .
+Le taux de réponse objective est également meilleur dans le premier groupe que dans le deuxième : 85 versus 75,2 % , ainsi_que le taux de chirurgie conservatrice : 63,4 versus 58,1 % .
+Place du trastuzumab
+Le trastuzumab est le premier anticorps monoclonal dirigé contre Her2 qui a été autorisé par la __FDA__ aux Etats-Unis et par l' __FDA__ en Europe pour le traitement du cancer du sein métastatique surexprimant Her2 .
+Il s' agit d' un anticorps monoclonal humanisé dirigé contre le domaine extracellulaire du récepteur .
+Son mécanisme d' action est complexe .
+Il a été montré que cet anticorps monoclonal agit en diminuant l' expression d' Her2 à la surface des cellules .
+De plus , il a un effet synergique lorsqu' il est administré en combinaison avec des traitements cytotoxiques .
+Plusieurs travaux combinant une chimiothérapie à du trastuzumab chez des patientes Her2+ ont été publiés .
+Un des plus anciens a évalué l' emploi combiné de trastuzumab , de paclitaxel et de cisplatine chez 16 patientes .
+Les auteurs rapportent des résultats très intéressants avec un taux de réponse clinique complètes de 100 % et un taux de pRC de 25 % .
+Plus récemment , Burstein_et_al. ont publié une étude portant sur 40 patientes traitées par du trastuzumab et du paclitaxel Les taux de réponses cliniques et pathologiques complètes s' élèvent respectivement à 75 et à 18 % .
+Dernièrement , Coudert_et_al. ont réalisé une étude avec 33 patientes qui ont reçu , avant d' être opérées , 6 cycles de docetaxel-trastuzumab hebdomadaires .
+Ils rapportent un taux de réponses cliniques complètes de 73 % et un taux de pRC de 47 % .
+Bien que ces études aient été réalisées sur un faible nombre de patients , les résultats obtenus sont très prometteurs et méritent d' être approfondis .
+Un autre essai a été publié .
+À la différence des précédents , il s' agit d' un essai randomisé avec deux bras de traitements , l' un avec trastuzumab et l' autre sans .
+Il concerne 42 patientes traitées par paclitaxel et FEC75 , avec ou sans trastuzumab .
+Les taux de réponses s' avèrent significativement améliorés dans le bras trastuzumab : 47,4 versus 86,9 % pour les taux de réponses cliniques complètes et 26,9 versus 65,2 % pour la pRC .
+Ces résultats viennent confirmer ceux obtenus lors des essais précédents réalisés sans bras de contrôle .
+Durée de la chimiothérapie
+Dans l' expérience du Centre Jean-Perrin , la réponse tumorale a été régulièrement évaluée par trois méthodes : clinique , échographique et mammographique .
+Il a toujours été observé une majoration des réponses à 6 cycles par_rapport_à l' évaluation plus précoce [ communication non publiée ] .
+Seul le protocole Etna a valeur scientifique puisqu' il a randomisé 6 cycles ( 117 patientes ) contre 4 ( 115 patientes ) d' une combinaison adriamycine à 60 mg / m2 et paclitaxel à 200 mg / m2 .
+L' avantage revient bien sûr au bras 6 cycles avec 87 % de cRO , 32 % de cRC , 64 % de conservation mammaire contre 83 , 20 et 61 % respectivement .
+La réponse complète pathologique est alors de 17 % selon Chevallier et de 26 % selon Sataloff dans le bras 6 AT contre 11 et 15 % respectivement dans le bras 4 AT .
+Devant les résultats obtenus avec les essais d' Aberdeen , NSABP-B27 et Geparduo , 8 cycles de chimiothérapie selon le schéma séquentiel anthracyclines-taxanes semble donc s' imposer comme standard dans cette indication .
+Cela est également confirmé par les travaux de Rouzier_et_al. qui utilisent un nomogramme permettant de prédire , entre autres , la pRC en fonction de divers facteurs , dont le nombre de cures de traitement .
+Facteurs prédictifs de réponse à la chimiothérapie néoadjuvante
+Dans le cadre d' une chimiothérapie néoadjuvante , l' évaluation histopathologique des biopsies préthérapeutiques permet de démontrer l' existence de facteurs prédictifs .
+Les facteurs évalués sont soit morphologiques ( type histopathologique , grade SBR , envahissement ganglionnaire ... ) , soit immunohistochimiques ( récepteurs hormonaux , Her2 , p53 , Cox2 , Ki67 ... ) .
+Ces paramètres devraient nous permettre de sélectionner les patientes qui vont bénéficier de la chimiothérapie néoadjuvante et , ainsi , de ne pas proposer cette approche thérapeutique à celles potentiellement non répondeuses .
+L' évaluation de la valeur prédictive de nombreux paramètres établis sur la tumeur mammaire primaire a fait l' objet de nombreuses études .
+Les paramètres morphologiques sont souvent significatifs .
+C' est le cas notamment de la taille tumorale .
+De meilleurs taux de réponses histopathologiques et / ou cliniques sont observés pour les tumeurs de petite taille .
+C' est le cas également du grade histopronostique , du grade nucléaire et du type histopathologique .
+C' est ainsi_que les tumeurs de haut grade histopronostique et à fort taux de mitoses sont associées à de meilleurs taux de réponse ; il en est de_même pour les tumeurs présentant un grade nucléaire élevé .
+Concernant le type histopathologique , les carcinomes de type lobulaire présentent des taux de réponse à la chimiothérapie néoadjuvante inférieurs aux carcinomes de type canalaire .
+Ces paramètres présentent , en_outre , l' avantage d' être réalisés systématiquement puisqu' il s' agit des paramètres histopathologiques classiques évalués sur la biopsie initiale .
+Les paramètres immunohistochimiques possèdent une valeur prédictive plus variable .
+C' est ainsi_que la présence de récepteurs aux oestrogènes est liée à une moins bonne réponse à la chimiothérapie et que , inversement , la négativité des récepteurs aux oestrogènes apparaît liée à une meilleure réponse .
+Les autres facteurs prédictifs comme les marqueurs de prolifération , la surexpression d' Her2 et les marqueurs de l' apoptose semblent moins déterminés .
+Les marqueurs de prolifération peuvent être évalués par la mesure du pourcentage de cellules en phase S ou de cellules marquées par le Ki67 .
+D' après certains auteurs , une tumeur présentant un taux élevé de cellules en phase S n' est pas plus sensible à une chimiothérapie néoadjuvante qu' une tumeur ayant un taux plus faible .
+À l' inverse , d' autres équipes montrent qu' il existerait une tendance entre un pourcentage élevé de cellules en phase S et une meilleure réponse à la chimiothérapie néoadjuvante .
+Concernant le Ki67 , des taux élevés pourraient prédire une meilleure réponse à la chimiothérapie néoadjuvante .
+D' autres travaux rapportent des résultats contradictoires .
+Concernant la surexpression d' Her2 , les résultats sont contradictoires .
+Ainsi , MacGrogan_et_al. ne retrouvent pas de valeur prédictive , alors_que Rozan_et_al. concluent à une tendance prédictive .
+De plus , dans une étude rétrospective de Penault-Llorca_et_al. , les tumeurs Her2+ présentent 4 fois plus de chance de répondre à la chimiothérapie néoadjuvante que les autres .
+Enfin , concernant les marqueurs de l' apoptose , la_plupart des études ne retrouvent pas de corrélation entre la p53 et la réponse à la chimiothérapie .
+Seules quelques études rapportent une résistance des tumeurs p53 aux chimiothérapies à base d' anthracyclines .
+L' étude de Makris_et_al. montre une tendance entre la surexpression de Bcl2 et la réponse au traitement .
+À l' inverse , d' autres ne retrouvent pas cette tendance .
+Ainsi , les paramètres à déterminer sur la biopsie diagnostique initiale avant le traitement sont le type histopathologique , le grade histopronostique avec le compte des mitoses sur 10 champs au fort grandissement , le statut des récepteurs hormonaux , éventuellement le taux de cellules exprimant Ki67 ( selon les équipes ) et le statut Her2 si des protocoles néoadjuvants avec du trastuzumab sont envisagés .
+Les récentes avancées de la recherche ont permis d' identifier de nouveaux marqueurs prédictifs .
+Dans le cadre d' essais thérapeutiques , pour mieux identifier ces facteurs , un nombre particulièrement important de cas s' avère nécessaire pour des raisons de puissance statistique .
+Plusieurs méthodes répondant à ces besoins peuvent être utilisées .
+La technique récemment développée des __TMA__ autorise la fabrication d' un profil d' expression moléculaire sur des échantillons cliniques .
+Elle offre de nombreux avantages : un très grand nombre de cas analysés simultanément pour de très nombreux marqueurs , techniqués dans des conditions identiques , sur des quantités faibles de matériel d' archive , donnant une excellente corrélation avec les méthodes standard , tout en permettant une économie de temps et d' anticorps .
+Le __TMA__ s' avère donc être un partenaire « à haut débit » indispensable pour les futurs travaux de recherche .
+Une autre technique dite de puces à ADN ou encore DNA microarray permet de mesurer simultanément l' expression de très nombreux gènes .
+Depuis la première description d' une puce à ADN en 1995 , celles-ci sont devenues des outils majeurs , en_particulier pour l' étude des tumeurs .
+Plusieurs études réalisées en situation néoadjuvante ont été publiées récemment , notamment par les équipes du MD Anderson et du Baylor College of Medecine .
+Elles montrent qu' il existe des variations dans l' expression génétique d' une tumeur suivant qu' elle est sensible ou résistante à un traitement donné .
+Ayers_et_al. et Gianni_et_al. ont identifié des gènes prédictifs de réponse complète pathologique .
+Dans le cancer du sein , l' équipe de l' Institut Paoli-Calmettes a été l' une des premières à tester la corrélation entre les techniques de DNA microarray et de tissue microarray .
+Ce travail a été réalisé sur une série de 55 tumeurs mammaires pour 15 molécules .
+Un tiers des molécules testées présentaient une corrélation entre les deux méthodes , ce qui met en évidence la nécessité d' une approche complémentaire de ces deux méthodes .
+Dans un avenir proche , ces techniques devraient permettre de prévoir avec davantage de fiabilité que les paramètres aujourd'hui utilisés , quelles sont les patientes qui ont des chances ou non de bénéficier d' un traitement donné .
+Conclusion
+Après plus de vingt années de pratique , la chimiothérapie néoadjuvante du cancer du sein opérable est certainement arrivée aujourd'hui à maturité .
+Son principal objectif , qui reste la conservation mammaire , est atteint dans 60 à 90 % des cas dans les différentes séries , avec un gain de 10 % dans les essais randomisés .
+Ce résultat est obtenu en toute sécurité pour les malades , c' est-à-dire sans augmentation du risque de rechute locale et / ou à distance par_rapport_à l' application d' une stratégie thérapeutique classique .
+Il commence même à se dégager une amélioration de la survie sans rechute et peut-être même de la survie globale en cas d' augmentation du taux de réponse complète clinique et de réponse complète histologique .
+C' est pourquoi il convient d' utiliser le meilleur protocole de chimiothérapie permettant d' optimiser la réponse tumorale immédiate .
+Il semble aujourd'hui que cette chimiothérapie d' induction doit être appliquée pour au moins 6 cycles , probablement 8 , et comporter les familles de médicaments majeurs du traitement du cancer du sein que sont les anthracyclines et les taxanes selon une application séquentielle .
+Par ailleurs , avec l' arrivée de nouveaux traitements et notamment des thérapeutiques ciblées ( trastuzumab entre autres ) , se profilent de nouvelles associations possibles avec les médicaments majeurs de chimiothérapie déjà employés .
+La question du traitement adjuvant après chirurgie en cas de résidu tumoral important reste posée pour améliorer encore la survie .
+Et , parce_que la chimiothérapie néoadjuvante est un modèle d' étude in_vivo incomparable de la chimiosensibilité d' une tumeur et permet l' étude de facteurs prédictifs de réponse aux traitements , il apparaît indispensable de prévoir des études biologiques tumorales annexes , lesquelles pourraient , à terme , réorienter la thérapeutique , voire permettre demain des traitements à la carte .
+L' obligation d' une mammectomie malgré l' application du traitement médical systématique bien conduit devrait théoriquement exclure les malades porteuses de tumeurs plurifocales et / ou de microcalcifications diffuses .
+Cette contre-indication est toutefois relative puisque le fait d' intervenir le plus précocement possible sur la maladie micrométastatique peut justifier l' application d' une chimiothérapie première , même dans ces situations .
+Quant à l' âge des patientes , il doit sûrement être pris en compte dans la décision de chimiothérapie d' induction .
+Au-delà de 75 ans , celle-ci est rarement de mise .
+Toutefois , dans notre expérience , environ 10 % des patientes avec une tumeur localisée du sein prises en charge au __CJP__ ont plus de 75 ans et environ 5 % d' entre elles reçoivent une chimiothérapie première après concertation pluridisciplinaire dans laquelle il faudrait probablement faire intervenir un gériatre [ résultats non publiés ] .
+Résultats observés dans la littérature
+Pour les tumeurs opérables d'_emblée , les résultats de la chimiothérapie néoadjuvante se sont confirmés avec des taux de réponse objective et de conservation mammaire de_plus_en_plus élevés .
+Dans les différentes études non contrôlées de phase II [ 3 , 7 , 10 ) , il est classiquement observé des taux de réponse objective clinique ( cRO ) de 60 à 90 % , dont 15 à 30 % de réponse complète clinique ( cRC ) , autorisant une conservation mammaire de 60 à 80 % , avec un taux de réponse complète histologique ( pRC ) de 10 à 15 % , tandis_que le taux de chimiorésistance primaire est inférieur à 3-5 % .
+Les essais randomisés démontrent un avantage net du traitement néoadjuvant ( 10% ) sur le taux de chirurgie conservatrice .
+Celui-ci semble se maintenir à long terme .
+La chimiothérapie néoadjuvante semble donc répondre à son premier objectif , c' est-à-dire permettre un contrôle locorégional de la tumeur tout en conservant le sein .
+Il semble également acquis que la chimiothérapie première n' est pas délétère sur la survie .
+En revanche , aucune amélioration de la survie des patientes n' a été observée .
+L' essai B18 du __NSABP__ , numériquement le plus important de tous les essais contrôlés de chimiothérapie première , a traité 1523 patientes par 4 cycles de __AC__ soit en adjuvant , soit en néoadjuvant .
+Il a confirmé les résultats attendus de la chimiothérapie première du cance__SSR__ et de __SSR__ .
+Choix de la chimiothérapie et des thérapeutiques
+( Tableau 1 ) ( Tableau 2 ) Les protocoles retenus de la chimiothérapie néoadjuvante ont bien sûr évolué au fur et à_mesure de l' avènement des drogues majeures du cancer du sein que sont les anthracyclines , la vinorelbine et les taxanes .
+Plus récemment , sont apparues des thérapeutiques ciblées , telles_que le trastuzumab ( Herceptin® ) , qui offrent des résultats prometteurs .
+Protocoles à base d' anthracyclines
+- __AC__ .
+Il s' agit de la combinaison classique de 60 mg / m2 d' adriamycine et de 600 mg / m2 de cyclophosphamide utilisée aux Etats-Unis .
+Dans l' étude B18 du __NSABP__ , 4 cycles de cette combinaison ont été appliqués à 1558 patientes soit en néoadjuvant , soit en adjuvant .
+En chimiothérapie première , ils amènent à une réponse tumorale objective de 80 % , dont 36 % de cRC , autorisant une conservation mammaire dans 67 % des cas ( versus 60 % ; p = 0,002 ) avec l' obtention d' un taux de 12 % de pRC .
+Ce même protocole , aux mêmes doses , mais pour 6 cycles a été employé dans l' étude Topic 2 qui a comparé 6 __AC__ à 6 cycles de vinorelbine à la posologie de 25 mg / m2 en J1 et J8 et épirubicine à 60 mg / m2 en J1 .
+Les taux de réponse obtenus sont voisins des taux de réponse retrouvés dans l' étude B18 du __NSABP__ qui ne comportait que 4 cycles .
+- FAC .
+Le protocole FAC avec une dose de 50 mg / m2 d' adriamycine a été utilisé dans l' étude de phase III randomisée réalisée par l' Institut Curie de Paris avec 414 patientes préménopausées porteuses de tumeurs de 3 à 7 cm de diamètre ( moyenne 4,6 cm ) .
+Le groupe de patientes traité par 4 cycles de FAC néoadjuvant a obtenu un taux de cRO de 65 % autorisant un traitement conservateur dans 82 % des cas ( versus 77 % ; p = 0,09 ) mais sans avantage sur la survie .
+- FEC100 .
+Nous rappelons les résultats de notre équipe qui obtient chez 40 patientes avec 6 cycles de FEC100 en néoadjuvant 69 % de cRO , 33 % de cRC , 70 % de tumorectomies-curages et 15 % de pRC .
+Une autre étude a été publiée .
+Elle porte sur 119 patientes .
+Les auteurs rapportent 80 % de cRO , 19 % de cRC et 13 % de pRC suivant la classification de Sataloff .
+Le Groupe des investigateurs de la région est des centres ( Girec ) a utilisé le même protocole randomisé contre 6 cycles d' une combinaison épirubicine-docetaxel .
+Le FEC100 a obtenu 84 % de cRO , 69 % de conservation mammaire avec 24 % de pRC ( 18 ) chez 45 patientes .
+- AVCF ± MTX .
+C' est notre protocole de chimiothérapie néoadjuvante le plus ancien appliqué au __CJP__ sur 167 patientes avec des résultats intéressants sur la réponse tumorale ( 63 % de cRO , 27 % de cRC et 68 % de conservation ) mais le taux de pRC selon la classification de Chevallier est un des plus bas retrouvés dans la littérature , soit 7 % [ 4 , 7 , 10 , 20-22 ] .

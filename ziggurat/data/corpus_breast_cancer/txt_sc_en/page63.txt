@@ -1,0 +1,144 @@
+1. Introduction
+Angiogenesis is an essential component of tumour development and is tightly regulated by a network of pro-angiogenic and anti-angiogenic factors .
+The tumour itself is known to produce many of the proteins that drive the angiogenic process .
+Of the known angiogenic factors , __VEGF__ has been established as a potent inducer of tumour angiogenesis that can activate both endothelial cell proliferation and migration 3 and 4. __VEGF__ has been shown to exert a pro-angiogenic influence in a variety of human tumours 5 , 6 , 7 and 8 , and has been shown to act as an independent prognostic indicator for breast cancer patients 9 and 10. Placenta growth factor ( PlGF ) belongs to the __VEGF__ family and was originally identified from a term placenta cDNA library as a factor related to __VEGF__ , with the ability to promote endothelial cell proliferation .
+Presently , the biological role and signalling mechanisms mediating the cellular actions of PlGF remain poorly understood .
+__VEGF__ is able to interact and induce signalling events through both the VEGFR-1 ( Flt-1 ) and VEGFR-2 ( Flk-1 ) receptors , whereas PlGF only possesses the ability to bind to VEGFR-1 .
+However , a recent study demonstrated that activation of VEGFR-1 , by PlGF , also led to the intermolecular transphosphorylation of VEGFR-2 .
+Importantly , PlGF-mediated responses via VEGFR-1 differed from VEGF-driven events , as PlGF uniquely stimulated the phosphorylation of specific VEGFR-1 tyrosine residues and expression of distinct downstream target genes .
+Carmeliet and colleagues and Luttun and colleagues highlight the important role played by PlGF and VEGFR-1 in inducing the angiogenic switch in pathological conditions .
+PlGF is not produced by the majority of normal human tissues .
+However , PlGF can be found expressed in vascular endothelium , umbilical vein endothelial cells , trophoblasts , the eye , uterine natural killer cells and dentine matrix 16 , 17 , 18 , 19 , 20 and 21. Studies on cancer cell lines and tumour tissues so far indicate that PlGF expression was upregulated in human gastric adenocarcinoma , renal cell cancer , melanoma , cervical squamous cell carcinoma and meningiomas , whereas PlGF was found to be downregulated in thyroid carcinoma and cervical adenocarcinoma 22 , 23 , 24 , 25 , 26 , 27 , 28 and 29.
+To clarify the role of PlGF in human cancer , we examined the expression of PlGF , through real-time __Q-PCR__ and immunohistochemical studies , in a cohort of human breast cancer specimens .
+The degree to which PlGF was expressed in these breast tissues may correlate with clinical parameters and the prognosis of patients with breast cancer .
+2. Materials and methods
+2.1. Cell lines and culture
+All cell lines used in this st__UK__ ) .
+This study used human prostate cancer cells ( DU-145 , PC-3 , CA-HPV-10 ) , human breast cancer cells ( __MDA-MB-157__ ) , human colorectal cancer cells ( HRT-18 , HT-115 ) , human pancreatic cancer cells ( MIA PACA-2 ) , human bladder cancer cells ( EJ-138 , T-24 ) , human melanoma cells ( G-361 ) , human lung carcinoma cells ( A-549 ) , human hepatocellular carcinoma cells ( PLC-PRF-5 ) , human fibroblast cells ( MRC-5 , human fibroblasts ) , a human epithelial cell line ( ECV-304 ) and a human endothelial cell line ( HECV ) .
+Cells were routinely cultured with __DMEM__ supplemented with 10% foetal calf serum , penicillin and streptomycin ( Gibco BRC , Paisley , __UK__ ) .
+2.2. Human breast specimens
+A total of 152 breast samples were obtained from breast cancer patients ( 33 background normal breast tissue and 119 breast cancer tissue ) .
+These tissues were collected immediately after mastectomies , and snap-frozen in liquid nitrogen .
+Background normal mammary tissues were removed from the same patients .
+The pathologist verified normal background and cancer specimens , and it was confirmed that the background samples were free from tumour deposits .
+For patient clinical data see Table 1.
+2.3. Preparation of total cellular RNA
+Total cellular RNA was isolated from the homogenised breast samples and human cell lines using the AB Gene Total RNA Isolation Reagent ( Advanced Biotechnologies Ltd , Epsom , Surrey , __UK__ ) .
+The concentration of RNA was determined through spectrophotometric measurement ( WPA UV 1101 , Biotech Photometer , Cambridge , __UK__ ) .
+2.4. __RT-PCR__
+cDNA was prepared using 0.5 µg of the RNA sample and a reverse transcription kit ( Sigma , Poole , Dorset , __UK__ ) .
+The quality of DNA was verified using ß-actin. ß-actin forward and reverse primers were 5'-ATGATATCGCCGCGCTCGTC-3 and 5'-CGCTCGGTGAGGATCTTCA-3 , respectively , and gave products approximately 0.58 kb .
+PlGF forward and reverse primers were 5'-GGAGCTGACGTTCTCTCAG -3 and 5'-ACTGAACCTGACCGTACAGTTACCTCCGGGGAACAG-3 .
+PCR was performed in a GeneAmp PCR system 2400 thermocycler ( Perkin - Elmer , Norwalk CT , __USA__ ) .
+Conditions for PCR were 40 s at 94 °C , 60 s at 55 °C , 60 s at 72 °C ( 30 cycles ) .
+PCR products were loaded onto a 2% agarose gel and electrophoretically separated .
+The gel was then visualised under ultraviolet light following ethidium bromide staining .
+2.5. Real-time quantitative polymerase chain reaction
+The iCycler IQ system ( BioRad , Camberley , __UK__ ) was employed 30 and 31 , to quantify the level ( shown as copies / µl from internal standard ) of PlGF in the breast specimens .
+Breast cDNA samples were then examined for PlGF expression using the primers described above , along with a set of standards and negative controls .
+The __Q-PCR__ technique utilised the A__Q-PCR__ master mix ( ABgene , Surrey , __UK__ ) , in conjunction with a universal probe ( UniPrimerTM ) .
+Real-time __Q-PCR__ conditions were 95 °C for 12 min , followed by 65 cycles at 95 °C for 15 s , 55 °C for 60 s and 72 °C for 20 s .
+The results of the test molecules were normalised against levels of ß-actin , using a ß-actin quantitation kit from Perkin - Elmers ( Perkin - Elmers , Surrey , __UK__ ) .
+The epithelial content within the tumours was taken into account by normalising PlGF against cytokeratin19 .
+CK19 forward and reverse primers were 5'-CAGGTCCGAGGTTACTGAC-3 and 5'-ACTGAACCTGACCGTACACACTTTCTGCCAGTGTGTCTTC-3 , respectively .
+2.6. Immunohistochemical staining of breast specimens
+Frozen sections of breast tumour and background tissue were cut at a thickness of 6 µm using a cryostat .
+The sections were mounted on super frost plus microscope slides , air-dried and then fixed in a mixture of 50% acetone and 50% methanol .
+The sections were then placed in Optimax wash buffer ( Menerium , Oxford , __UK__ ) for 5 - 10 min to rehydrate .
+Sections were incubated for 20 min in a 0.6% __BSA__ blocking solution and probed with PlGF antibody , and without primary antibody as a negative control .
+Antibody to the PlGF epitope mapped to the C-terminus of human PlGF , and was purchased from Santa-Cruz Biotechnologies Inc. ( Santa-Cruz , CA , __USA__ ) .
+Following extensive washings , sections were incubated for 30 min in the secondary biotinylated antibody ( Multilink Swine anti-goat/mouse / rabbit immunoglobulin , Dako Inc. , Glostrup , Denmark ) .
+Following washings , the Avidin Biotin Complex ( Vector Laboratories , Peterborough , __UK__ ) was then applied to the sections , followed by extensive washing steps .
+Diamino-benzidine chromogen ( Vector Labs , Peterborough , __UK__ ) was then added to the sections , and incubated in the dark for 5 min .
+Sections were then counter stained in Gill 's haematoxylin and dehydrated in ascending grades of methanol before clearing in xylene and mounting under a cover slip ( staining was independently assessed by the authors ) .
+2.7. Wounding / migration assay
+The migration of transformed human endothelial cells ( HECV ) cells across a wounded surface was examined under different treatment combinations , and has been described in a previous study .
+Cells at a density of 50 000 / well were seeded into a 24 well plate and allowed to reach confluence .
+The layer of cells was then scraped with a fine gauge needle to create a wound of approximately 200 µm .
+Treatments consisted of recombinant human PlGF ( 30 ng / ml ) ( R&D systems , Abingdon , __UK__ ) , or a combination of recombinant PlGF and anti-VEGFR-1 ( 120 ng / ml ) ( Santa Cruz , CA , __USA__ ) .
+For details of treatment concentrations and ratios see previous studies .
+The movement of cells to close the wound was recorded and analysed as described previously using a time-lapsed video system .
+After the addition of a treatment , the cells motile qualities were monitored and recorded on video for 100 min .
+Wound closure / cell migration was evaluated with motion analysis software ( Optimus 6 ) and results were exported to a spreadsheet ( Excel ) for further evaluation and interpretation .
+2.8. Growth assay
+HECV were seeded in a 96 well plate at a density of 7000 cells / well , and allowed to adhere overnight .
+Following this incubation period , the treatments of PlGF ( 30 ng / ml ) and a combination of PlGF and anti-VEGFR-1 ( 120 ng / ml ) were added and incubated at 37 °C for 72 h .
+A solution of 3- [ 4,5-dimethylthiazol-2-yl ] -2,5-diphenyltetrazolium bromide ( MTT ) was added to the cells ( 200 µg / well ) and incubated for 4 h at 37 °C , then the cells were lysed with Triton ( 10% ) and the intensity of the colour released was determined by a plate reader ( Titertek Multiskan , Eflab , Finland ) .
+The number of cells was shown as absorbance units .
+2.9. Statistical analysis
+The results were assessed using non-paired ( two-sided ) Student 's t-test .
+PlGF transcript values obtained in the study are given as mean copy number ±SD .
+A P-value <0.05 was defined as statistically significant .
+3. Results
+3.1. Screening of human cell lines for PlGF
+A variety of 24 human normal and cancer cell lines were examined for PlGF expression through __RT-PCR__ .
+PlGF was expressed in the large majority of the human cancer cell lines examined .
+However , only 4 of the 9 breast cancer cell lines examined ( numbers 1 - 9 in Fig. 1 ) revealed any detectable level of PlGF transcripts .
+These breast cancer cell lines displayed weak to moderate levels of PlGF .
+Of the remaining human cancer cell lines , PlGF was found to be strongly expressed in the prostate ( numbers 10 - 12 ) , colorectal ( numbers 13 and 14 ) , bladder ( numbers 18 and 19 ) and melanoma ( number 21 ) .
+Human fibroblasts ( numbers 15 and 16 ) revealed little or no detectable levels of PlGF .
+The normal epithelial and endothelial cell lines expressed a moderate to low level of PlGF .
+3.2. Expression of PlGF in paired breast specimens ( normal versus cancer )
+We also performed conventional __RT-PCR__ on a panel of paired breast tissues ( n , normal ; t , tumour ) .
+Both normal breast tissue and breast cancer tissue were found to express PlGF mRNA , albeit at minimal levels in normal breast specimens .
+Overall , PlGF mRNA was expressed to a higher degree in the breast cancer samples when compared with normal breast tissue .
+3.3. Immunohistochemical staining of human breast specimens
+PlGF immunostaining was observed in the human breast tissue sections .
+We reveal that the PlGF protein level was dramatically elevated in the breast tumour specimens compared with the normal breast tissue .
+The patients tumour tissues displayed a more intense and widespread level of staining in the breast cancer cells compared with the very weak staining of epithelial cells in the normal breast tissue .
+These results confirm our __RT-PCR__ and __Q-PCR__ data in showing that breast cancer tissues have significantly enhanced PlGF levels .
+3.4. Quantification of PlGF expression in human breast tissues
+We quantified the PlGF transcript expression in the breast specimens ( tumour n = 119 , background n = 33 ) using real-time __Q-PCR__ ( all __Q-PCR__ values are displayed as mean transcript copies ) .
+We show that the PlGF expression value in tumours was 0.665 ± 0.35 , compared with 0.03 ± 0.017 in the normal tissue .
+Therefore , our results reveal that the breast cancer tissues express significantly higher levels of PlGF ( P = 0.028 ) , compared with the low levels observed in the normal background breast tissues .
+3.5. PlGF expression in relation to prognosis
+We examined the PlGF level between the __NPI__ groups of breast cancer patients ( __NPI-1__ ) .
+The __NPI-1__ group represented patients with a good prognosis and an __NPI__ index <3.4 , the NPI-2 group contained patients with a moderate prognosis and an __NPI__ index of 3.4 - 5.4 , whereas the NPI-3 patients had a poor prognosis with an __NPI__ index of >5.4 .
+An increased degree of lymph node involvement was associated with increasing levels of PlGF .
+The patients assigned to the __NPI-1__ group had a PlGF transcript value of 0.085 ± 0.028 , compared with the NPI-2 group with 0.312 ± 0.171 and NPI-3 with 3.76 ± 2.68. A Kruskal - Wallis test has shown that there is a significant association between increased levels of PlGF transcript and high __NPI__ status ( P = 0.022 ) .
+Overall , patients with node involvement had raised levels of PlGF compared with those without any degree of node involvement .
+However , this correlation between PlGF and prognosis did not reach statistical significance in these instances ( P = 0.13 ) .
+3.6. PlGF and breast tumour grade
+PlGF values in the moderate grade 2 ( 0.33 ± 0.171 , n = 41 ) and poorly differentiated and grade 3 ( 1.13 ± 0.75 , n = 55 ) tumours were elevated compared with well-differentiated grade-1 tumours ( 0.16 ± 0.02 , n = 23 ) .
+This trend linking PlGF to a poor patient outlook did not reach statistical significance with the current sample number ( grade 1 versus grade 2 , P = 0.27 ; grade 1 versus grade 3 , P = 0.22 ) .
+Additionally , we examined PlGF expression within the different tumour histological subtypes , although there was no apparent difference between the lobular , ductal or other tumour types .
+However , Kaplan - Meier survival analysis identified PlGF as a disease-free survival factor in oestrogen receptor ( ER ) negative tumours ( P = 0.013 ) .
+3.7. Tumour-node-metastasis classification of patients
+PlGF expression correlated with patient outlook through __TNM__ grouping ( __TNM__ 1 , n = 68 ; __TNM__ 2 , n = 39 ; __TNM__ 3 , n = 8 ; __TNM__ 4 , n = 4 ) .
+Levels of PlGF were found to be significantly elevated in tumours of patients who had an overall poor outlook ( __TNM__ 3 , 5.57 ± 5.47 ; __TNM__ 4 , 3.96 ± 3.91 ) , compared with those patients with a relatively good prognosis ( __TNM__ 1 , 0.084 ± 0.025 ; __TNM__ 2 , 0.41 ± 0.19 ) .
+We reveal that PlGF was expressed to significantly higher degree ( P = 0.044 ) in patients with an overall poor outlook ( __TNM__ 3 ) compared with those with a good outlook ( __TNM__ 1 ) .
+3.8. PlGF expression and survival status
+We assessed the survival status of the breast cancer patients in association with PlGF levels , with an average of a 6 year follow-up period .
+Patients were divided into two groups , those who remained disease-free were assigned to the good prognosis group ( n = 89 ) , whereas , the patients who had recurrence , metastasis to a distant site or had died as a result of breast cancer were allocated to the poor prognosis group ( n = 30 ) .
+The quantity of PlGF from each tumour specimen was assessed and we reveal that the patients with a poor prognosis had dramatically elevated levels of PlGF ( P = 0.017 ) .
+Our results show that the good prognosis group had low levels of PlGF ( 0.099 ± 0.042 ) compared with the statistically higher levels observed in the poor prognosis group ( 2.6 ± 1.51 ) .
+3.9. PlGF did not significantly enhance endothelial cell migration
+The cell motility assay utilised time-lapsed video monitoring to provide quantitative data on PlGF 's ability to enhance HECV cell migration .
+The mean distance moved for the cells over 100 min was determined for each treatment .
+The addition of PlGF slightly increased the degree of endothelial cell migration ; however , these results did not reach significance .
+Therefore , no significant differences in cell motility were observed with recombinant PlGF treatment .
+3.10. PlGF increased human endothelial cell proliferation
+The proliferation assay examined the effect of PlGF on the proliferation rate of HECV cells .
+The results showed that , over a 72 h period , there was a significant increase in the rate of proliferation in the endothelial cells cultured in PlGF compared with the control ( P = 0.036 ) .
+PlGF exerts its influence through its interaction with the VEGFR-1 receptor , however , when PlGF was added in combination with an antibody to VEGFR-1 , the influence of PlGF was significantly inhibited ( P = 0.027 ) .
+We confirm that PlGF plays a role in human endothelial cell proliferation , via VEGFR-1 signalling pathways .
+4. Discussion
+PlGF plays a putative role in tumour angiogenesis .
+Studies report that PlGF stimulates formation of mature , leakage-resistant vessels in a manner comparable in efficiency to __VEGF__ 34 and 35. However , it was recently discovered that PlGF switches on its own genetic program of angiogenic genes , separate to that of __VEGF__ .
+Recent studies in mice revealed that loss of PlGF impaired tumour angiogenesis , while an over-expression enhanced vascularisation and vessel permeability 35 and 36. PlGF , and its receptor VEGFR-1 ( Flt-1 ) , while being minimally expressed in quiescent vessels , are strongly upregulated in a variety of pathological conditions .
+Therefore , PlGF does appear to enhance tumour angiogenesis , although there are contrasting views whether this factor influences physiological angiogenesis .
+Our study is the first to quantitate PlGF expression in human breast tissue samples from breast cancer patients .
+This study also assessed PlGF levels in relation to patient clinical parameters .
+PlGF is not expressed in the majority of normal adult human tissues , and we confirm that PlGF was absent or at very low levels in the normal breast tissue from breast cancer patients .
+Screening a panel of 24 human cells lines revealed that PlGF was expressed in a large variety of human cancer cell lines , including breast , colorectal , bladder and prostate .
+This study demonstrates that PlGF was strongly expressed in the tumour tissue of the breast cancer patient specimens , and that a high degree of expression was indicative of a poor prognosis for the patient .
+We confirmed that PlGF was dramatically upregulated in the patients breast cancer tissue compared with the minimal levels observed within normal breast tissues via immunohistochemical staining , and both qualitative and quantitative PCR .
+Interestingly , a recent study also demonstrates that PlGF was over-expressed in nearly 90% of gastric cancers compared with non-tumour mucosa , and this expression correlated with patient clinical outcome , whereas __VEGF__ did not .
+Therefore , PlGF demonstrates strong prognostic potential .
+We also assessed the function PlGF in a series of in vitro assays and report that addition of recombinant PlGF enhanced endothelial cell proliferation through its interaction with VEGFR-1 ( Flt-1 ) ; however , PlGF did not significantly enhance endothelial cell migration or tubule formation in a 3-D culture system .
+Lack of significant results may be due to the fact that the endothelial cells themselves produce abundant levels of PlGF in culture , which reduces their sensitivity to exogenous PlGF .
+Our study demonstrates that PlGF expression correlates with breast cancer patient prognosis , as high levels of PlGF were significantly associated with a higher degree of lymph node involvement , poorly differentiated tumours and an overall poor outlook for the patient .
+Therefore , we show that PlGF may exercise its role only at specific fragments of the cancer progression pathway , such as the later stages of the disease , and that PlGF may also act in tumour specific manner .
+Following radio-immunotherapy , surviving tumour cells upregulate the expression of specific angiogenic factors depending on the type of tumour , and PlGF was shown to increase microvessel density but decrease the number of mature vessels 38 and 39. Therefore , it has been suggested that PlGF may play a role in the rapid restoration of a tumour blood supply after treatment , thus may enhance the possibly of recurrence .
+Tumour angiogenesis is a complex process ; therefore the reported responses from PlGF / VEGR-1 signalling will make PlGF a desirable potential therapeutic target .
+We conclude that PlGF is over-expressed in human breast cancer tissues and displays prognostic value in breast cancer patients .

@@ -1,0 +1,118 @@
+Le trastuzumab ( Herceptin® , Produits Roche ) , anticorps monoclonal ciblant directement l' oncorécepteur de surface HER2 , est commercialisé depuis août 2000 et les pathologistes sont de_plus_en_plus sollicités pour rechercher le statut HER2 d' une tumeur mammaire , en phase métastatique mais_aussi au diagnostic , en vue de l' inclusion des patientes dans des essais adjuvants .La détermination du statut HER2 peut être effectuée par la recherche de l' amplification du gène et / ou de la surexpression de la protéine codée par ce gène .
+De nombreuses méthodes peuvent être utilisées pour l' étude de HER2 .
+Le niveau d' amplification du gène est étudié en southern-blot , dot-blot , __FISH__ ou , plus récemment , en __FISH__ .
+Le niveau d' expression peut être étudié au niveau de l' ARN ( northern ,__IHC__ sur fragments frais congelés ou en paraffine.Si toutes ces méthodes ont été utilisées , les deux méthodes actuellement préconisées dans les études cliniques et en routine sont l' __IHC__ et la __FISH__ .
+Ces techniques présentent une grande spécificité puisqu' elles permettent un contrôle morphologique et une visualisation directe du signal recherché au niveau des cellules carcinomateuses infiltrantes .
+L' __IHC__ , quoi de neuf en 2004 ?
+Plusieurs anticorps spécifiques anti-HER2 sont commercialisés .
+Les plus utilisés sont l' anticorps monoclonal NCL-CB11 ( Novocastra® , Ventana ) , dirigé contre la partie intra-cytoplasmique de la protéine HER2 , et l' anticorps polyclonal A485 ( Dako ) .
+L' anticorps Tab250 ( Zymed ) reconnaît le domaine extracellulaire de HER2 .
+Il est très utilisé aux États-Unis .
+Afin de faciliter la standardisation de l' évaluation du statut HER2 par __IHC__ , plusieurs tests standardisés ont été commercialisés ( Herceptest® par Dako , puis Pathway® par Ventana ) .
+Ces kits sont constitués de réactifs prêts à l' emploi et adaptés à l' usage en automate .
+Par ailleurs , des échantillons provenant de lignées cellulaires sont proposés comme témoins positifs ou négatifs de la réaction .
+Le test Herceptest® a été au coeur d' une polémique autour_de la fiabilité de l' __IHC__ , à_partir_d' une publication de Jacobs_et_al. alléguant sa trop grande sensibilité et sa production de faux positifs .
+En fait , les conclusions étaient fondées sur des résultats obtenus à_partir_de tissus fixés en formol-alcool .
+Ce type de fixateur à base d' alcool , qui préserve très bien les sites antigéniques , n' est pas recommandé avec ce kit conçu pour une sensibilité optimale .
+Beaucoup d' études ont par_la_suite « réhabilité » le kit Herceptest® , en montrant son excellente corrélation avec la technique de __FISH__ .
+Il est important de rappeler ici qu' il est indispensable de suivre rigoureusement toutes les étapes et les consignes du protocole pour obtenir des résultats fiables .
+Pour les anticorps utilisés hors kit , les dilutions préconisées par les fabricants sont trop concentrées .
+Pour valider sa technique , le pathologiste peut suivre les recommandations du Gefpics .
+Les anticorps CB11 et A485 donnent des résultats équivalents moyennant l' adaptation des conditions techniques reposant principalement sur l' utilisation d' un démasquage antigénique en tampon citrate à pH 6 et sur une dilution importante de l' anticorps primaire ( CB11 de 1 / 500 à 1 / 800 ; A485 de 1 / 400 à 1 / 500 avec les nouveaux lots d' anticorps dont la titration est plus basse ) .
+Tous les fixateurs peuvent être utilisés à condition d' adapter la technique .
+Une vigilance importante est nécessaire concernant les lots d' anticorps et les réactifs en_général .
+Des problèmes récents ont surgi avec des lots d' anticorps polyclonaux Dako dont la concentration avait été diminuée de_moitié alors_que les références du produit et le prix n' avaient pas été modifiés .
+Une information réduite et peu lisible apparaissait sur les fiches techniques .
+Des problèmes ont également été notés avec des systèmes de révélation de chez Ventana , qui se sont avérés générateurs de faux positifs et qui ont par_la_suite , grâce_à la vigilance des pathologistes , été retirés de l' indication « test HER2 » .
+La nouvelle législation européenne concernant les réactifs de laboratoire et les procédures de réactovigilance devraient nous permettre à l' avenir d' éviter , au moins en_partie , ces problèmes .
+Le __FISH__ : quoi de neuf en 2004 ?
+Le principe est celui d' une hybridation de l' ADN tumoral en une étape , avec une sonde fluorescente reconnaissant le gène HER2 .
+Une deuxième sonde reconnaissant le centromère du chromosome 17 peut être couplée à la première ou être réalisée dans un second temps [ 2-4 , 12 , 13 ] .
+Trois tests sont principalement commercialisés : les kits Abott / Vysis ( sonde HER2 et centromère du chromosome 17 ) , Oncor / Ventana ( sonde HER2 ) et Dako ( sonde HER2 et centromère du chromosome 17 ) .
+Les deux premiers kits sont approuvés par la __FDA__ , le troisième est en cours d' approbation .
+Avec la sonde Oncor / Ventana , il n' est pas possible de faire un double marquage par co-hybridation de sondes , mais il est possible de réaliser une seconde hybridation avec la sonde du centromère du chromosome 17. La __FISH__ est une méthode indirecte de détection de la cible du trastuzumab .
+On détecte l' amplification du gène et non sa surexpression et , dans 5 à 10 % des cas , il peut y avoir surexpression sans amplification .
+Cette technique est réservée à des centres spécialisés .
+Au même titre que l' __IHC__ , des variations intra et inter-laboratoires sont possibles , liées à des variations techniques ( fixation , épaisseur des coupes , prétraitements ... ) et à des difficultés d' interprétation ( difficulté de repérage des zones invasives , autofluorescence ... ) .
+À ce jour , les techniques d' hybridation in_situ telles_que la __FISH__ n' ont pas encore de cotation dans la nomenclature des actes ACP français et ne peuvent être assimilées à des actes d' __IHC__ .
+La __FISH__ permet de rendre des résultats quantitatifs et les acides nucléiques seraient moins sensibles que les épitopes antigéniques à la fixation .
+Après une grande vague de discrédit concernant l' __IHC__ et la recommandation d' utiliser la __FISH__ comme seul test , il apparaît actuellement que ces deux techniques sont complémentaires .
+La __FISH__ permet de contrôler les cas douteux en __IHC__ et de standardiser l' __IHC__ .
+Elle a une place clé dans la démarche d' assurance qualité , l' __IHC__ permettant de contrôler les cas indéterminés ou non réalisables ( décollement , autofluorescence , fixateur non adéquat ) par la __FISH__ .
+Le 29 octobre 2004 , la Commission européenne a approuvé l' utilisation de la __FISH__ et de la __CISH__ ( qui sera détaillée plus loin ) comme techniques alternatives à l' __IHC__ pour la détermination du statut HER2 .
+Quel score de réponse ?
+Qui est HER2-positif ?
+Pour l' __IHC__ , le score actuellement utilisé dans les essais cliniques est le score de l' Herceptest® .
+Ce score est non optimal .
+Il a été initialement conçu pour séparer les cas considérés comme positifs ( 2+ et 3+ ) des cas négatifs ( 0 , 1+ ) .
+Mais les cas 2+ , on le sait maintenant , ne sont pas faiblement positifs et doivent être considérés comme négatifs jusqu' à preuve du contraire ( en_général par la recherche d' une amplification par __FISH__ , présente dans 5 à 20 % des cas ) .
+Les travaux du Gefpics ont montré qu' un seuil de positivité de plus de 60 % de cellules marquées augmentait le taux de concordance avec le statut du gène par __FISH__ .
+Ce nouveau score , confirmé en_partie par certains auteurs , est très prometteur .
+Cependant , il doit encore être validé dans des études cliniques , en_particulier par_rapport_à la réponse au trastuzumab .
+Pour la __FISH__ , en_théorie , un cas pourrait être considéré comme amplifié s' il présente plus de 2 copies du gène .
+Cependant , entre 2 et 4 copies , la cellule peut être en train de se diviser .
+Une cellule normale présente 2 copies du gène HER2 et 2 copies du centromère du chromosome 17. L' amplification est certaine à_partir_de 4 copies .
+Une amplification est considérée comme faible entre 4 à 10 copies et forte au-dessus_de 10. En général , on n' arrive plus ensuite à compter le nombre de spots HER2 , les points se groupant en paquets ( clusters ) .
+Lorsque l' on observe entre 5 à 6 copies de HER2 , il peut s' agir d' une aneuploïdie .
+Si l' on dispose de la sonde centromère 17 , on réalise le rapport gène HER2 / centromère du 17 , pour ne pas interpréter comme amplifiés des cas pour lesquels il existe une sur-représentation du gène HER2 par aneuploïdie du chromosome 17 ( il ne s' agit pas de vraies amplifications ) .
+Une amplification est ainsi définie par un rapport supérieur à 2,2 .
+De plus , les tumeurs mammaires présentent toujours des cellules en division et parfois un certain degré d' hétérogénéité tumorale .
+Il est donc recommandé de compter au moins 40 noyaux et 60 si l' on se trouve dans la zone borderline définie soit par un rapport HER2 / CH17 entre 1,8 et 2,2 , soit entre 3,5 et 4 signaux HER2 par cellules .
+Pour optimiser au mieux la __FISH__ , il convient de standardiser les conditions de fixation au sein d' une même structure , en_particulier d' abolir le Bouin aqueux , de standardiser l' épaisseur des coupes ( 4-5 µm ) , de veiller à l' étape de digestion des tissus ( ni sous-digestion génératrice d' autofluorescence , ni sur-digestion entraînant des noyaux « vides » et une absence de signal ) et , si possible , de sélectionner une coupe histopathologique sans carcinome in_situ ou bien de repérer les zones à évaluer afin_d' éviter les faux positifs .
+Enfin , il faut savoir que les noyaux normaux sont souvent moins sensibles à la digestion et que la présence de deux signaux dans le sein normal ( témoin interne ) n' est pas toujours obtenue .
+La __FISH__ peut être utilisée sur des préparations nucléaires , en_particulier sur des cellules tumorales circulantes .
+Corrélation entre la __FISH__ et l' __IHC__
+Depuis que les cas 2+ en __IHC__ ne sont plus considérés comme « positifs » , les données de la littérature montrent une forte corrélation entre l' amplification du gène HER2 et l' hyperexpression de la protéine HER2 , quelles que soient les méthodes utilisées .
+La comparaison entre les résultats des méthodes morphologiques ( __FISH__ et __IHC__ ) , est particulièrement intéressante et montre un niveau de concordance très élevé , supérieur à 90 % .
+Cependant , certains auteurs jugent la __FISH__ beaucoup plus fiable , moins sujette à des variations d' interprétation du score et plus sensible en raison d' une plus grande résistance du matériel génomique à la fixation par rapport aux épitopes antigéniques .
+Place des nouvelles techniques
+Parmi les trois techniques actuellement les plus utilisées ( __CISH__ , PCR et Elisa ) , la __CISH__ est la plus prometteuse .
+Le Gefpics a également été à l' initiative d' un travail de validation de la __CISH__ par_rapport_à la __FISH__ .
+L' étude a porté sur 79 carcinomes infiltrants du sein , préalablement testés pour leur statut HER2 par __IHC__ et __FISH__ .
+Quatre-vingt-quinze pour cent des cas ont été analysables en __CISH__ .
+Lorsque l' on compare les méthodes __FISH__ et __CISH__ en fonction du caractère non amplifié ou amplifié , l' agrément est de 96 % .
+Il est de 92,8 % dans les cas 2+ en __IHC__ .
+Ces résultats sont tout_à_fait superposables à ceux de la littérature et placent la __CISH__ comme une alternative intéressante à la __FISH__ pour la recherche d' une amplification du gène HER2 , ce qui vient d' être reconnu par la Commission européenne .
+La PCR est plus précise après microdissection , ce qui l' alourdit .
+Les taux circulants d' HER2 ne sont pas corrélés au niveau d' expression de la tumeur .
+L' Elisa ne peut donc pas servir à sélectionner les patientes en vue d' un traitement .
+Elle peut servir à suivre l' efficacité d' un traitement ( diminution des taux circulants ) ou à identifier une rechute précoce ( réascension des taux ) mais son intérêt comme marqueur prédictif de réponse au trastuzumab est actuellement trés débattu .
+Assurance qualité
+Une démarche d' assurance qualité est indispensable pour assurer la fiabilité globale d' un test .
+Le Gefpics a publié des recommandations permettant de calibrer et de contrôler une technique __IHC__ « maison » ( utilisation de témoins , évaluation d' une série de 100 cas et comparaison aux données de la littérature ... ) .
+Plusieurs procédures peuvent être utilisées :
+* - au sein de la même structure , vérification régulière des pourcentages de cas positifs en s' assurant qu' ils restent bien dans la fourchette des 15-25 % et / ou pratique de doubles évaluations avec un autre test ( __IHC__ ou __FISH__ ) ou par une autre structure ;
+* - participation à des tests multicentriques , régionaux , nationaux comme ceux de l' Association française pour l' assurance qualité en anatomie pathologique ( Afaqap ) permettant l' évaluation des protocoles techniques et de l' interprétation des résultats de différentes structures ; des tests nationaux et des études multicentriques ont également été réalisés pour l' __IHC__ et la __FISH__ aux États-Unis , au Canada et au Royaume Uni [ 10 , 27-30 ] ;
+* - utilisation de tissue arrays avec plusieurs cas sur le même bloc pour évaluation simultanée des protocoles techniques ;
+* - participation à des modules éducationnels , utilisation de CD-Rom , etc.
+Le collège des pathologistes américains a une attitude différente .
+Pour eux , la seule recommandation est d' utiliser un test approuvé ( __IHC__ et / ou __FISH__ ) par la __FDA__ , sous forme de kit .
+Dans le cas contraire , la responsabilité du pathologiste pourra être engagée .
+Ainsi , aucune recommandation n' est donnée pour valider un test maison .
+Recommandations actuelles
+En France et dans la_plupart des pays ( ) :
+* - à l' heure actuelle , il n' y a pas de réactif ni de méthode pouvant être recommandés pour le test ;
+* - dans le compte rendu , il faut rapporter la méthode et le réactif utilisés ; seul le contingent invasif doit être pris en compte dans le score ;
+* - pour l' __IHC__ , seul le marquage membranaire est considéré comme positif ; le compte rendu doit inclure le pourcentage estimé de cellules marquées plus_ou_moins l' intensité ; il faut définir le seuil choisi et comment il a été validé ;
+* - si un score particulier ou une valeur seuil de positivité sont utilisés , ils devront être définis ; les cas « douteux » devront être testés par une autre méthode , en_particulier la __FISH__ permettant d' évaluer les scores __IHC__ « douteux » ou incertains ;
+* - quels que soient la technique et le seuil utilisés , ils devront être corrélés avec les données cliniques et morphologiques ;
+* - les techniques de __CISH__ et de PCR sont en émergence .
+Aux États-Unis :
+* - il est recommandé d' utiliser des tests standardisés ( problèmes d' assurance médicale et de remboursement ) ;
+* - la __FISH__ est recommandée , comme l' __IHC__ , en première intention ( ) ;
+* - les cas limites en __FISH__ devront être contrôlés par __IHC__ ;
+Au Royaume-Uni :
+* - il recommandé d' effectuer au moins 250 tests __IHC__ par an pour être habilité ;
+* - il est recommandé d' utiliser des tests standardisés .
+Conclusion
+L' immunohistochimie est une méthode fiable et rapide de détermination du statut de HER2 .
+Elle peut être standardisée et calibrée en prenant la __FISH__ ou la __CISH__ comme technique de référence .
+Elle doit être soumise à des règles de contrôle de qualité interne et externe .
+Sa fiabilité est maximale pour les cas négatifs ou fortement positifs .
+Par contre , pour les cas dont l' expression est d' intensité intermédiaire et dont le pourcentage de cellules marquées se situe aux alentours de 50 à 80 % , une vérification par __FISH__ du statut de HER2 est justifiée .
+À l' inverse , si la __FISH__ ou la __CISH__ sont utilisées en première intention , les cas douteux et / ou polyploïdes devront être re-testés par __IHC__ .
+Les données cliniques concernant la survie indiquent que les patientes avec une tumeur surexprimant fortement HER2 ( score 3+ en __IHC__ ) ou amplifiée ( __FISH__ et __CISH__ positives ) tirent le meilleur bénéfice clinique du traitement par trastuzumab .
+La __CISH__ est une technique alternative fiable à la __FISH__ , avec des contraintes techniques plus adaptées aux structures de pathologie .
+La __FISH__ pourrait être utilisée sur des cellules tumorales circulantes et donner une information supplémentaire sur le statut HER2 des cellules métastatiques ( qui pourraient acquérir un phénotype HER2 positif au_cours_de l' évolution métastatique ) .
+Ces résultats demandent cependant à être confirmés par d' autres études .
+Dans tous les cas , l' adhésion à des procédures d' assurance qualité , internes et externes , est indispensable .

@@ -1,0 +1,227 @@
+Les cancers du sein sont les cancers les plus fréquents chez la femme , ils sont en inquiétante augmentation dans les pays économiquement développés .
+Des progrès thérapeutiques considérables ont été réalisés durant les quatre dernières décennies grâce_à de meilleures techniques opératoires , une radiothérapie plus sophistiquée et , surtout , à l' hormonothérapie et à la chimiothérapie .
+Malgré cela , plus de 40 % des malades en meurent et d' autres progrès sont nécessaires .
+Les découvertes biologiques sont également considérables dans le domaine de la carcinogenèse : en_particulier , les cyclo-oxygénases et leurs produits , les prostaglandines , ont fait l' objet de nombreux travaux attestant , à_côté_de leur action bien connue dans les processus inflammatoires , de leur rôle essentiel dans les cancers mammaires .
+Les inhibiteurs des cyclo-oxygénases sont des anti-inflammatoires largement diffusés dont on peut espérer un rôle thérapeutique original .
+Le celecoxib , un anti-Cox2 qui a déjà démontré une efficacité antinéoplasique dans la prévention des polypes de la polypose colique familiale , est maintenant en cours d' investigation dans les cancers du sein .
+Nous rapportons ci-après les travaux ayant conduit à ce développement .
+Généralités
+Les cellules tumorales et les cellules du microenvironnement tumoral ( cellules immunitaires et inflammatoires , macrophages , cellules dendritiques , polynucléaires , monocytes et lymphocytes ) sécrètent de nombreuses cytokines qui participent à la croissance cellulaire , à l' invasion tumorale et au potentiel métastatique : interférons , interleukines , __TNF__ , facteurs de transformation cellulaire , facteurs de croissance , facteurs angiogéniques et prostaglandines .
+Les prostaglandines sont synthétisées par la cyclo-oxygénase 1 ( Cox1 ) , ubiquitaire dans l' organisme , et la cyclo-oxygénase 2 ( Cox2 ) , indétectable dans la_plupart des tissus mais induite lors des processus inflammatoires et tumoraux et lors_de l' activation de certains oncogènes ( v-src , v-Ha-ras , HER2\neu , Wnt ) .
+Inversement , le gène répresseur de tumeur p53 inhibe l' expression de Cox2 et la mutation de p53 la favorise .
+La __PGE2__ , retrouvée à de fortes concentrations dans les tissus tumoraux , est un médiateur des signaux de transduction qui modulent la croissance et l' adhésion cellulaires , l' apoptose et la néo-angiogenèse .
+Les __AINS__ inhibent la sécrétion de prostaglandines en bloquant l' activité enzymatique des cyclo-oxygénases , ce qui leur confère un rôle anticancéreux ( d' autres voies peuvent également être empruntées par les __AINS__ ) .
+Les coxibs , que leur taille moléculaire volumineuse empêche de pénétrer dans le site actif étroit de Cox1 , inhibent sélectivement la Cox2 .
+Les coxibs , surtout le celecoxib , sont mieux tolérés que les __AINS__ classiques .
+Les prostaglandines , synthétisées par la Cox1 constitutionnelle , ont un rôle physiologique fondamental : action vasodilatatrice au niveau de la muqueuse gastrique la protégeant contre la sécrétion acide , action vasodilatatrice rénale nécessaire à la filtration glomérulaire , action bronchodilatatrice et action agrégante des plaquettes par le thromboxane A2 ou inhibante de l' agrégation par les prostacyclines ; la toxicité des __AINS__ résulte principalement de l' inhibition de ces fonctions physiologiques .
+En théorie , une inhibition spécifique de la Cox2 devrait être dénuée de toxicité .
+En pratique , des effets secondaires sont possibles , d'_une_part , parce_que la Cox2 est présente constitutionnellement dans certains tissus ( le cerveau et les reins et , d' autre_part , parce_que la sélectivité des molécules utilisées en thérapeutique n' est pas parfaite .
+La sélectivité des anti-Cox peut être étudiée biochimiquement in_vitro , sur l' activité enzymatique du sang total , ou par l' étude clinique des effets secondaires , notamment la recherche endoscopique d' ulcère gastroduodénal .
+Elle est exprimée par le rapport des capacités d' inhibition Cox2\Cox1 : le meloxicam est de 3 à 77 fois plus sélectif pour la Cox2 que la Cox1 , le milesumide de 5 à 16 , le celecoxib 375 ( par inhibition d' enzymes recombinants humains ) et le rofecoxib plus de 800 fois ( sur lignées cellulaires ) .
+On distingue trois groupes de médicaments , ceux inhibant surtout la Cox1 ( aspirine , indométacine , ibuprofène ) , ceux actifs de façon égale sur Cox1 et Cox2 ( diclofénac , naproxène ) et ceux qui inhibent préférentiellement la Cox2 : meloxicam et coxibs ( celecoxib , rofecoxib ) .
+L' effet clinique des __AINS__ et des coxibs dépend de multiples facteurs : de la molécule utilisée , de la dose , de la durée du traitement , de la concentration des Cox dans les tissus et du métabolisme des prostaglandines particulièrement complexe et qui différe selon les tissus ; ces multiples paramètres expliquent la variabilité des effets thérapeutiques et des toxicités observés .
+Pour une revue des molécules inhibitrices des Cox voir Dannhardt .
+Données épidémiologiques
+Les études épidémiologiques suggèrent un effet anticancéreux des __AINS__ dans le cancer du sein .
+Dans les indications rhumatologiques , l' utilisation des __AINS__ s' accompagne d' une réduction de risque de différents cancers , notamment du cancer du sein .
+La méta-analyse de 14 études montre une réduction du risque de cancer du sein de 18 % chez les malades prenant des __AINS__ ( RR 0,82 [ IC 95 % 0,75-0,89 ] ) .
+Pour les 6 études de cohorte , le risque relatif est de 0,78 tous __AINS__ confondus [ IC 95 % 0,62-0,99 ] et de 0,79 pour l' aspirine [ IC 95 % 0,59-1,06 ] .
+Pour les 8 études cas-témoins , la réduction de risque est de 13 % tous __AINS__ confondus ( RR 0,87 [ IC 95 % 0,84-0,91 ] ) et pour l' aspirine ( RR 0,70 [ IC 95 % 0,61-0,81 ] ) .
+Si la population générale est témoin , le RR sous __AINS__ est de 0,79 [ IC 95 % : 0,72-0,86 ] ; cependant , si les témoins sont porteurs de cancer , il n' est pas mis en évidence d' effet avantageux ( RR 0,96 [ IC 95 % 0,89-1,03 ] ) .
+L' effet est corrélé à la durée du traitement , il ne semble pas être corrélé à la dose .Tableau 1
+__AINS__ : anti-inflammatoire non stéroïdien ; IC95 % : intervalle de confiance 95 % .
+*Cette étude a été rapportée après la publication de la méta-analyse de Khuder .
+.
+Tableau 2
+.
+Études épidémiologiques cas-témoins .
+D' après Khuder et Mutgi
+__AINS__ : anti-inflammatoires non stéroïdiens ; IC95 % intervalle de confiance 95 % .
+.
+Cette méta-analyse suggère un effet préventif faible du cancer du sein par les __AINS__ , mais l' interprétation doit être prudente en raison d' un certain nombre de biais possibles signalés par les auteurs : biais de publication , de sélection des populations et de l' information recueillie ; de plus , aucun effet n' est observé quand la population témoin est cancéreuse .
+A contrario , la surexpression de Cox2 dans les tumeurs du sein n' étant pas particulièrement fréquente , les résultats des études épidémiologiques sont moins facilement démonstratifs .
+De plus , les __AINS__ pourraient prévenir le cancer du sein par d' autres effets qu' une inhibition des Cox : baisse de la synthèse des estrogènes par inhibition hypophysaire ou baisse de la fixation des estrogènes sur les récepteurs hormonaux , effets connus en expérimentation animale .
+Données expérimentales et animales
+Données biologiques et animales
+- Prostaglandines
+Des études anciennes ont montré , dans les tumeurs mammaires spontanées du rat , surtout les tumeurs les plus agressives et métastatiques , des taux élevés de __PGE2__ , ce qui a récemment été attribué à un taux élevé de Cox2 , lui-même corrélé au potentiel métastatique tumoral .
+Les tumeurs les plus agressives possèdent un récepteur à forte affinité pour __PGE2__ qui joue un rôle fonctionnel déterminant dans le pouvoir métastasiant ; plusieurs molécules pharmaceutiques pourraient avoir un intérêt clinique car elles peuvent se lier compétitivement à ce récepteur et bloquer la synthèse d' AMP cyclique dépendant de __PGE2__ ; à l' inverse , l' indométhacine , qui diminue chez l' animal le potentiel métastatique , entraîne en réaction une augmentation du taux du récepteur de __PGE2__ .
+Enfin , in_vitro , en présence d' __EGF__ , __PGE2__ stimule la croissance des cellules épithéliales mammaires de souris Balb\c .
+L' étude de lignées cellulaires tumorales confirme la présence de __PGE2__ , surtout dans les lignées les plus invasives alors_que les fibroblastes du stroma tumoral pourraient être source importante de __PGE2__ sous l' influence de médiateurs de l' inflammation .
+- Cyclo-oxygénases
+Chez le rat , la Cox2 est détectée dans les cellules carcinomateuses des tumeurs mammaires chimio-induites , dans les lignées cellulaires exprimant l' oncogène Wnt1 ainsi_que dans les tumeurs mammaires des souris transgéniques Wnt1 ou transfectées par d' autres oncogènes tels_que MMTV-ras , C3 ( 1 ) SV40 large T antigen , MMTV-neu et WAPT-antigen [ Kavanaugh C , AACR 2001 ] .
+Des concentrations importantes de Cox2 sont présentes dans les tumeurs mammaires de souris surexprimant HER2 , ce qui est à rapprocher des données cliniques ( voir plus loin ) .
+Par contre , il n' a pas été retrouvé de corrélation entre l' expression de Cox2 et le taux de récepteurs hormonaux dans différents modèles de tumeurs mammaires de souris [ Kavanaugh C , AACR 2001 ] .
+Contrairement à la polypose familiale , on ne dispose pas pour le cancer du sein de modèle animal expérimental déficitaire en gène de la Cox2 .
+Cependant , chez la souris , la transfection du gène humain de Cox2 lié au promoteur __MMTV__ entraîne , spécifiquement dans les glandes mammaires , la transcription du gène , un taux élevé de Cox2 , une forte activité enzymatique et une accumulation des produits de cette activité ( __PGE2__ , 6-kéto-PGF1a , PGD2 , PGF2a ) .
+Cette expression , induite au moment du développement des glandes mammaires , devient très élevée pendant la gestation pour être maximale pendant la lactation tout en disparaissant rapidement après le sevrage ; les souris vierges ne développent pas d' anomalies histologiques mammaires .
+Avec la répétition des périodes de gravidité se développent progressivement dans les glandes mammaires des foyers d' hyperplasie atypique , de dysplasie et de carcinome invasif et métastatique ; simultanément , on observe une baisse des protéines pro-apoptotiques Bax et Bcl-x ( L ) et une augmentation de la protéine anti-apoptotique Bcl2 évoquant une inhibition de l' apoptose , inhibition confirmée par_mesure_de la terminal nucleotidyl transferase .
+La carcinogenèse mammaire se constate dans trois générations successives de souris transfectées impliquant Cox2 , la protection par l' indométhacine impliquant les prostaglandines .
+Ces résultats témoignent du rôle direct de la Cox2 dans la carcinogenèse mammaire par dérégulation de l' apoptose cellulaire .
+La souris transfectée avec un gène humain de Cox2 est par_ailleurs un excellent modèle pour l' étude de molécules à visée thérapeutique .
+Par ailleurs , une alimentation riche en acides gras poly-insaturés ( PUFA ) provoque , chez le rat , la synthèse de Cox2 dans les glandes mammaires , ce qui pourrait expliquer partiellement l' effet carcinogène des PUFA .
+- Cyclo-oxygénases et HER2\neu
+Chez la souris , des concentrations élevées de Cox2 sont détectées dans les cancers mammaires surexprimant HER2\neu .
+Expérimentalement , HER2\neu entraîne la transformation maligne des cellules épithéliales mammaires et les souris transgéniques HER2\neu développent des tumeurs mammaires dont la prolifération est inhibée par des anticorps anti-HER2 .
+Dans les cellules épithéliales mammaires transformées par HER2\neu , on constate une activation de la voie Ras qui active Raf1 ( mitogen-activated protein kinase ou MAP KKK ) puis MEK ( MAPKK ) et la MAP kinase ( __ERK__ ) qui interagit avec les sites de transcription __AP-1__ et PEA3 de l' ADN pour activer , via l' élément de réponse AMP cyclique-dépendant , le promoteur de Cox2 ; le résultat de cette cascade d' activations est la transcription du gène de Cox2 , une forte concentration de son ARNm , de sa protéine Cox2 et de __PGE2__ .
+De plus , la transfection d' HER2 dans la lignée cellulaire MCF7 induit l' expression de Cox2 .
+On sait que l' activation de MAP kinase entraîne également l' activation par phosphorylation du __RE__ et de AIB1 , un des coactivateurs de __RE__ , ce qui explique en_partie la résistance au tamoxifène observée en cas de surexpression de HER2\neu .
+Ces données confèrent un solide rationnel pour l' association thérapeutique d' un inhibiteur de l' aromatase et d' un inhibiteur de Cox2 .
+- Cyclo-oxygénases et récepteurs hormonaux
+La lignée cellulaire estrogéno-dépendante MCF7 exprime fortement Cox1 et de façon marginale Cox2 , alors_que la lignée MDA-MB-231 , estrogéno-indépendante très invasive et au fort potentiel métastatique , exprime faiblement Cox1 et fortement Cox2 , l' ARMm de Cox2 et __PGE2__ .
+Ces observations suggèrent que l' expression de Cox2 pourrait être influencée par le statut hormonal tumoral .
+Au contraire , l' étude de différents modèles de souris transgéniques montre l' absence de corrélation entre Cox2 et la présence de récepteurs hormonaux [ Kavanaugh C. abstract 796 , AACR-NCI-EORTC 2001 ] .
+- Cox2 et RANKL ( receptor activator for nuclear factor-B ligand )
+Après injection chez la souris de la lignée cellulaire humaine de cancer mammaire MDA-MB-231 , on observe une sévère ostéolyse tibiale et fémorale et , dans les métastases osseuses , une surexpression de Cox2 et du ligand de l' activateur du récepteur nuclear factor B ou NFB ( RANKL ) .
+En culture , Cox2 induit la production de __PGE2__ responsable de la résorption osseuse par un mécanisme impliquant les MAP kinases et NFB ; cette activité est inhibée par l' indométhacine ; in_vivo , les cellules du stroma médullaire osseux , voisines des cellules métastatiques à l' origine de la destruction des travées osseuses , expriment Cox2 en immunohistochimie .
+- Cox2 et MDR1
+La comparaison d' épithélium mammaire normal et de la lignée MCF7 exprimant le gène MDR1 ( multidrug resistance ) et sa glycoprotéine Pgp170 de résistance à la chimiothérapie montre une forte corrélation de Cox2 à Pgp 170 , aux sous-unités __PKC__ et AP1 et aux gènes c-Jun11
+1.
+1 Le produit de c-jun est un composant du complexe de transcription AP1 .
+et c-Fos .
+Cela est interprété comme l' activation de c-Jun par la __PGE2__ produite par la Cox2 , qui entraîne à son tour l' induction de __PKC__ et la transcription de MDR .
+Les inhibiteurs de Cox2 pourraient être des facteurs de réversion de la résistance MDR .
+Données thérapeutiques chez l' animal
+- Facteurs alimentaires
+Le resveratrol ( trans-3,4' ,5-trihydroxydistilbène ) , présent dans les fruits , inhibe l' activation du facteur nucléaire B , prévient le cancer mammaire du rat induit par DMBA et supprime l' expression de Cox2 ( et de la métalloprotéase 9 ) .
+In vitro , il inhibe NFB et la phase S cellulaire dans la lignée humaine MCF7 .
+Il inhibe l' induction de Cox2 par le phorbol-ester ( PMA ) dans les celules mammaires humaines en empêchant l' activation de la protéine kinase C par PMA et l' activation du promoteur de Cox2 par c-Jun .
+Enfin , il bloque l' activation d' AP1 .
+Par ailleurs , une alimentation riche en acides gras n-3 réduit les taux de Cox1 et Cox2 des tumeurs induites par NMU chez le rat .
+- Anti-inflammatoires non stéroïdiens et celecoxib
+L' inhibition par les __AINS__ de la croissance des tumeurs transplantées chez le rat a très tôt été rapportée à une baisse de production de prostaglandines et non à un effet antitumoral direct .
+Une alimentation riche en acides gras -6 stimule la croissance et les métastases des xénogreffes tumorales de la lignée humaine estrogéno-indépendante MDA-MB-435 ; cet effet est réduit par l' indométhacine , inhibiteur de la cyclo-oxygénase .
+L' inhibition sélective de Cox2 par les __AINS__ et les coxibs a un effet préventif sur la carcinogenèse mammaire expérimentale chez le rat ; le type d' alimentation de l' animal et le moment où est introduit l' __AINS__ modulent cet effet préventif .
+Dans les cancers avérés du rat induits par DMBA , les __AINS__ , l' ibuprofène et le celecoxib réduisent le volume tumoral , montrant un effet thérapeutique potentiel ; le celecoxib réduit le volume tumoral dans 90 % des cas après 6 semaines de traitement et apparaît plus actif que l' ibuprofène .
+Par ailleurs , le celecoxib pourrait avoir un effet antitumoral indépendant de la voie des cyclo-oxygénases .Tableau 3
+.
+Prévention de la carcinogenèse* mammaire chez le rat par les __AINS__ .
+D' après Howe_et_al.
+*Dans certains cas , les animaux sont soumis à une alimentation riche en PUFA .
+DIMBA diméthylbenzanthracène ( per os ) ; PhIP phénylimidazopyridine ; MNU méthylnitroso-urée ( intrapéritonéal ) .
+.
+Chez la souris , l' administration intrapéritonéale d' un anti-Cox2 , le SC236 , ou d' indométhacine réduit le volume des tumeurs mammaires implantées et le nombre de métastases pulmonaires ; la densité des microvaisseaux est réduite alors_que l' apoptose cellulaire est restaurée , ce qui concorde avec la diminution de la production de __VEGF__ et l' augmentation de l' apoptose observées in_vitro par l' inhibition de la cyclo-oxygénase .
+La lignée cellulaire tumorale C3L5 , issue d' une tumeur mammaire spontanée de souris , exprime de fortes concentrations d' ARNm de Cox2 et de sa protéine ainsi_que de __PGE2__ ; l' indométhacine et , surtout , l' inhibiteur sélectif de Cox2 , le NS398 , retardent la progression des tumeurs implantées de C3L5 en inhibant la migration cellulaire , le pouvoir d' invasion et la néo-angiotensine ; l' administration de prostaglandines ne corrige que partiellement cette inhibition , laissant supposer des processus indépendants des prostaglandines .
+- Cox2 et gène ras
+L' expression de Cox2 est absente dans la lignée cellulaire épithéliale mammaire humaine récepteurs-négatifs MCF10A mais , dans cette même lignée transfectée avec un gène ras muté , Cox2 est surexprimée .
+Ce résultat est à rapprocher de la présence constitutive et inductive de Cox2 dans les lignées tumorales très invasives MDA-MB-231 et Hs578T qui possèdent respectivement une mutation des gène Ki-ras et H-ras et sécrètent de fortes quantités de __PGE2__ alors_que les lignées MDA-MB-435 et SK-BR-3 , peu prolifératives , expriment très peu Cox2 et produisent de faibles quantités de __PGE2__ .
+Les auteurs suggèrent que seules les tumeurs du sein avec mutation du gène ras pourraient bénéficier des anti-Cox2 .
+- Celecoxib et gène HER2\neu
+Chez la souris , le celecoxib réduit l' incidence des tumeurs mammaires induites par HER2\neu ( MMTV\neu ) et inhibe la production de __PGE2__ .
+Une potentialisation thérapeutique celecoxib-anti-HER2 peut être raisonnablement envisagée et les résultats thérapeutiques expérimentaux du cancer colique méritent d' être rappelés :
+-
+- La souris APCMin\+ développe des polypes intestinaux dans 100 % des cas ; le sulindac , à la dose de 20 mg\kg , réduit le nombre moyen de polypes de 70 % alors qu' il est sans effet à la dose de 5 mg\kg .
+L' EKI569 est un inhibiteur irréversible du récepteur d' __EGF__ qui réduit le nombre moyen de polypes de 87 % par rapport aux témoins ; le sulindac , à la dose de 5 mg\kg , potentialise l' EKI569 , réduisant de 96 % le nombre des polypes et prévenant totalement le développement de polypes chez plus de la moitié des animaux .
+-
+- La lignée tumorale colique HCA7 qui exprime HER2\neu est , in_vitro et in_vivo , inhibée par l' Herceptin® ou le celecoxib ; l' association Herceptin®-celecoxib a un effet additif qui inhibe presque complètement la croissance tumorale .
+L' extrapolation de ces résultats dans les cancer du sein surexprimant HER2\neu ( version tronquée de l' __EGF__ ) laisse entrevoir un avantage thérapeutique de l' association celecoxib-Herceptin® .
+Par ailleurs la croissance tumorale de la lignée mammaire MCF7 transfectée avec HER2\neu est inhibée par un anti-Cox2 de puissance équivalente au celecoxib , le SC236 ( Searle ) , ainsi_que par le docétaxel ; l' association in_vitro de SC236 et de docétaxel a un effet synergique [ Witters L , abstract 1686 , Asco 2001 ] .
+Données cliniques
+Prostaglandines
+Le rôle pronostique des prostaglandines était connu dans le cancer du sein , avant_même la découverte des cyclo-oxygénases , aussi_bien pour __PGE2__ que pour d' autres prostaglandines ( __PGE1__ ) ainsi_que le thromboxane ( TXB2 ) ; un taux élevé de prostaglandines est corrélé à la densité des cellules tumorales et à leur capacité d' adhésion , au grade tumoral , à la négativité des récepteurs stéroïdiens ; il a été proposé comme un marqueur métastatique potentiel ; le taux de __PGE2__ est retrouvé plus élevé dans les tumeurs de malades présentant des métastases osseuses .
+Cyclo-oxygénases
+- Expression de Cox2 dans les cancers du sein
+Plusieurs équipes ont étudié l' expression des cyclo-oxygénases dans les cancers du sein et nous rapportons les résultats des principales études publiées ( par ordre chronologique ) .
+Dans 13 cancers du sein , Cox2 est retrouvée par __RT-PCR__ dans le tissu carcinomateux sans expression dans le tissu mammaire normal ; l' intensité de l' expression est corrélée à la densité cellulaire .
+Sur 44 tumeurs du sein étudiées par immunoblot et immunohistochimie , une expression de Cox1 est présente dans 30 cas et une très forte concentration de Cox2 dans deux cas ; Cox1 est localisée dans les cellules du stroma et n' est pas retrouvée dans les cellules tumorales ; Cox2 est présente préférentiellement dans les cellules tumorales mais également dans les cellules normales voisines .
+De même , dans 21 cas , Cox2 est révélée par __RT-PCR__ dans le tissu carcinomateux sans expression dans le tissu mammaire normal ; son expression dans le tissu tumoral est hétérogène et fortement corrélée à la densité cellulaire .
+Par immunohistochimie , Cox2 est exprimée dans 16 des 18 tumeurs mammaires étudiées ( 88 % ) .
+Le marquage est variable : 5 à 70 % des cellules tumorales sont marquées sans marquage des cellules normales ; il est plus intense dans les tumeurs bien ou modérément différenciées que dans les indifférenciées ; celui des cellules endothéliales des néovaisseaux est observé dans plus de 50 % des cas .
+À la différence de Cox2 , il est observé un marquage de Cox1 aussi_bien dans les cellules néoplasiques que dans les cellules normales .
+Sur 42 cancers du sein , 37 présentent une expression immunohistochimique de Cox2 ( 88 % ) ; le degré d' expression est corrélé à la taille tumorale et l' expression dans les ganglions est corrélée à celle de la tumeur mammaire ( 20 cas sur 23 , r 0,4 , p 0,03 ) [ Arun B , abstract 1781 , Asco 2001 ] .
+Dans 20 carcinomes mammaires dont 16 carcinomes canalaires infiltrants ou CC__CLI__ et 3 __CLI__ étudiés par immunohistochimie , 56 % des cancers invasifs expriment Cox2 , le_plus_souvent diffusément avec une intensité modérée ou forte ; le marquage est rarement multifocal .
+Une expression de Cox2 est présente dans 80 % des carcinomes in_situ ; elle est semblable dans le carcinome invasif et le __CCIS__ adjacent , sauf dans un cas où elle est plus forte dans le __CCIS__ ; dans le seul cas d' analyse de tissu mammaire normal il n' y a pas d' expression de Cox2 ; dans de rares cas , une expression significative de Cox2 est présente dans les lobules et les canaux normaux périnéoplasiques .
+Les auteurs remarquent l' existence d' un gradient d' expression de Cox2 , absente dans le sein normal , modérée dans les tissus normaux adjacents au cancer et forte dans les cellules carcinomateuses , suggérant l' implication de Cox2 dans la carcinogenèse .
+Cox2 est exprimée par immunohistochimie dans le cytoplasme des cellules tumorales de 8 cancers canalaires invasifs sur 46 ; l' expression de Cox2 est corrélée en analyse univariée à une survie détériorée ( p 0,03 sur 26 malades avec un suivi minimum de 24 mois ) , à la présence de métastases ganglionnaires ( p 0,03 ) , à l' index apoptotique ( p 0,03 ) , à l' expression de sialyl-Tn22
+2.
+2 STn est un type d' antigène de mucine .
+( p 0,02 ) et à la densité des microvaisseaux détectés par l' antigène anti-FVII ( p 0,03 ) ; il n' y a pas de corrélation avec l' âge , le grade , l' index mitotique , le taux des récepteurs hormonaux , p53 , c-erbB2 , MIB1 et TGF .
+Dans 19 cas , l' analyse a été possible par western blot , les 8 cas positifs pour Cox2 étaient également positifs par immunohistochimie .
+Dans les deux cas où du tissu normal a pu être analysé , il n' a pas été décelé d' expression de Cox2 dans les cellules du stroma ( fibroblastes ou cellules endothéliales ) .
+Ces données mettent en_avant le rôle de Cox2 dans l' apoptose cellulaire , l' angiogenèse et l' envahissement ganglionnaire et suggèrent que son expression pourrait être un événement tardif plutôt qu' un événement précoce de la carcinogenèse mammaire .
+La valeur pronostique de la Cox2 détectée par immunohistochimie a été étudiée chez 1576 malades finlandaises avec un suivi médian de 6,8 ans , 57 % des malades de plus de 50 ans ayant reçu du tamoxifène en adjuvant et 37 % des moins de 50 ans une chimiothérapie .
+La réaction immunochimique est négative dans 8,4 % des tumeurs , faible dans 54,2 % , modérée dans 32,4 % et forte dans 5 % .
+Une forte positivité cytoplasmique de Cox2 est retrouvée dans les seules cellules cancéreuses , les cellules du stroma étant non marquées ou marquées faiblement .
+La survie à 5 ans est de 83 % lorsque la concentration tumorale de Cox2 est faible , 73 % quand elle est forte ou modérée ( p < 0,0001 ) .
+La concentration de Cox2 est corrélée aux facteurs pronostiques usuels : grande taille tumorale , envahissement ganglionnaire axillaire , grade histologique élevé , négativité des récepteurs hormonaux , fort indice de prolifération , mutation de p53 et surexpression de HER2 .
+Bien qu' elle n' ait pas de valeur pronostique indépendante , elle présente un intérêt dans certains sous-groupes exprimant des facteurs biologiques de bon pronostic : la survie est significativement détériorée ( p < 0,0001 ) quand Cox2 est fortement exprimée dans les tumeurs ER+ , les tumeurs qui ne surexpriment pas HER2 , qui ne présentent pas d' anomalie de P53 ou avec un taux bas de Ki67 .
+L' étude de 21 carcinomes du sein et des tissus normaux avoisinants montre une forte corrélation entre les taux de Cox2 et de __PCNA__ dans le tissu cancéreux mais non dans le tissu normal ( r 0,79 , p 0,00002 ) , ce qui implique Cox2 dans la prolifération tumorale [ Kirkpatrick KL , abstract 3090 , Asco 2001 ] .
+Sur un nombre plus important de tumeurs ( 40 cancers du sein ) , deux fois plus de copies d' ARNm de Cox2 sont retrouvées dans les tissus normaux que dans les tissus tumoraux ( p 0,001 ) et la concentration plus élevée de Cox2 dans le tissu normal suggère un effet carcinogène paracrine .
+L' expression immunohistochimique de Cox2 est détectée dans le cytoplasme des cellules tumorales de 43 % des cancers du sein invasifs étudiés ( 18\42 ) et de 62 % des __CCIS__ ( 10\16 ) ; dans 81 % des cas où Cox2 est surexprimée , on retrouve une expression dans le tissu mammaire normal adjacent mais en foyer et moins intensément .
+L' analyse en PCR met en évidence Cox2 dans les cellules tumorales et le tissu sain dans les 9 cas étudiés par cette méthode .
+Dans une autre étude , Cox2 est révélée par immunohistochimie dans 80 % de 86 tumeurs mammaires sans corrélation significative avec les récepteurs hormonaux , Ki67 , HER2\neu , la taille tumorale , le grade , le statut ganglionnaire et l' invasion vasculaire .
+D' après ces résultats , on peut présumer un effet thérapeutique additif des inhibiteurs de Cox2 aux autres traitements [ Davies G L , abstract 174 , Asco 2002 ] .
+L' étude immunohistochimique de 57 carcinomes mammaires conservés en paraffine montre la présence de Cox2 dans le tissu invasif avec une intensité modérée à forte dans 40 cas ( 70 % ) et dans la composante intracanalaire quand elle est présente dans 17 cas sur 27 ( 63 % ) .
+Il n' est pas mis en évidence de corrélation entre l' expression de Cox2 et HER2\neu ou p53 .
+Après un suivi médian de 86 mois , 5 rechutes ont été observées dont 4 exprimaient Cox2 et bcl2 dans la tumeur primitive [ Lobocki C , abstract 3617 , Asco 2003 ] .
+Chez 47 patientes , l' étude par __RT-PCR__ montre une expression de Cox2 dans 67 % des ganglions envahis , 60 % des tumeurs mammaires , 25 % des tissus normaux au voisinage des tumeurs et 14 % des tissus témoins de patientes opérées de lésion bénigne .
+Il y a une corrélation significative de la transcription de l' ARNm de Cox2 et la progression depuis le tissu normal témoin , normal voisin des tumeurs , carcinomateux et métastatique ( r 0,8 , p 0,05 ) .
+L' expression de Cox1 est par_contre identique dans tous les tissus .
+Vingt-cinq cancers du sein sans envahissement ganglionnaire ( N - ) et 20 N+ ont été étudiés par immunohistochimie , 14 des 25 N - exprimaient Cox2 ( 56 % ) et 6 des 20 N+ ( 30 % ) .
+Dans la composante intracanalaire , l' expression est retrouvée dans 58 % des cas ; Cox2 est exprimée dans le tissu normal voisin 6 fois sur les 22 tumeurs N - ( 27 % ) et 10 fois sur les 20 N+ ( 50 % ) .
+Elle est plus souvent exprimée dans les petites tumeurs ( p 0,03 ) et les tumeurs tubuleuses ( 80 % des cas ) ; il n' a pas été trouvé de corrélation entre son expression dans les ganglions et le grade tumoral , les récepteurs d' estradiol ou de progestérone , l' expression de HER2\neu [ Shoher A , abstract 102 , Asco 2003 ] .
+On constate , dans ces résultats , des discordances .
+Plusieurs explications sont possibles :
+-
+- des méthodologies expérimentales différentes ;
+-
+- la difficulté de caractériser une protéine très labile comme Cox2 ;
+-
+- l' absence de méthode de dosage validée , notamment immunohistochimique ;
+-
+- des cibles de dosage différentes : recherche d' ARNm ou de la protéine , présence de l' un n' étant pas forcément synonyme de la présence de l' autre ;
+-
+- une possible variabilité des tumeurs mammaires examinées .
+De ces résultats fragmentaires , on peut cependant retenir que :
+-
+- Cox2 est exprimée plus_ou_moins intensément dans les cellules tumorales invasives ;
+-
+- elle est présente aussi dans la composante intracanalaire , dans certaines cellules du stroma adjacentes aux cellules tumorales et dans les cellules néoendothéliales ;
+-
+- plus la tumeur avance en stade , plus forte est l' expression de Cox2 ;
+-
+- l' expression de Cox2 est corrélée au pronostic .
+- Cox2 et récepteurs hormonaux
+La plupart des études portant sur ce point montrent l' absence de corrélation entre Cox2 et la présence de récepteurs hormonaux .
+- Cyclo-oxygénase et aromatase
+Le mauvais pronostic associé à l' expression de Cox2 dans les tumeurs ER+ doit être rapproché de la régulation , par __PGE2__ , de l' expression de l' aromatase dont la fonction est de synthétiser l' estradiol à_partir_de l' androstènedione .
+On sait que , dans l' endométriose , les prostaglandines stimulent dans le stroma la synthèse d' aromatase .
+Dans le cancer du sein , dans 58 cas sur 102 tumeurs , l' aromatase est exprimée dans les cellules carcinomateuses , graisseuses et endothéliales en forte corrélation avec l' expression immunohistochimique de Cox2 ( p < 0,0001 ) ; plus précisément , il existe une corrélation linéaire entre le gène CYP19 de l' aromatase et les cyclo-oxygénases 1 et 2 : le promoteur II du gène CYP19 est activé par l' AMP cyclique et __PGE2__ augmente le taux d' AMP cyclique intracellulaire .
+L' __EGF__ , le TGFß ( tumor growth factor ß ) et le __TPA__ entraînent dans les cellules graisseuses du stroma une forte induction de Cox2 et , 24 heures plus_tard , par voie paracrine , une sécrétion d' aromatase .
+Dans les cellules tumorales des lignées MCF7 et MDA-MB-231 , les mêmes facteurs induisent l' aromatase par action autocrine .
+Par ailleurs , la __PGE2__ produite par les fibroblastes du tissu mammaire normal stimule l' activité de l' aromatase via l' IL6 .
+Ces données suggèrent que la __PGE2__ produite par la Cox2 accroît , par induction de l' aromatase , la production d' estrogène dans le micro-environnement tumoral .
+Les conséquences thérapeutiques potentielles sont immédiates .
+Cependant , les premiers résultats du traitement par anti-aromatase de 102 malades n' ont pas mis en évidence de corrélation entre la réponse tumorale et l' expression de Cox2 ( anticorps polyclonal ) , ni la concentration d' aromatase intratumorale ( contrairement aux résultats observés dans les xénogreffes de MCF7 chez la souris nude ) .
+La plupart des malades de cette modeste série étaient traitées en deuxième ligne ( 13 % de réponse objective et 44 % de stabilité au-delà_de 6 mois ) , ce qui pourrait expliquer l' absence de corrélation avec l' expression de Cox2 .
+- Cyclo-oxygénase et HER2\neu
+La surexpression de Cox2 est retrouvée par immunoblot dans 14 cancers du sein sur 15 surexprimant HER2\neu contre 4 cas seulement sur 14 tumeurs ne surexprimant pas HER2\neu ( p 0,0005 ) .
+Les cellules transformées par HER2\neu expriment fortement l' ARNm et la protéine de Cox2 et produisent 10 fois plus de prostaglandine __PGE2__ .
+La surexpression de PEA3 quand HER2\neu est surexprimé rend plausible une activation de Cox2 par HER2\neu via la voie Ras , mécanisme identique à celui décrit sur les lignées cellulaires de tumeurs mammaires de la souris ( cf. infra ) : HER2\neu active , par la voie Ras __ERK__ , les p38 MAP kinases et c-Jun N-terminal kinase ( JNK ) , ce qui détermine la transcription de Cox2 via l' élément de réponse AMP cyclique-dépendant .
+Dans la série de 58 tumeurs déjà rapportée ci-dessus , il n' a pas été trouvé de corrélation entre l' expression de Cox2 et l' amplification d' HER2 , mais les auteurs estiment qu' une activation post-transcriptionnelle d' HER2 est possible et que le niveau d' expression d' HER2 ne reflète pas forcément sa capacité d' induction de Cox2 .
+Ces données rendent rationnelle l' association d' un inhibiteur de Cox2 et d' un anti-HER2\neu dans le cancer du sein .
+- Cyclo-oxygénase , __VEGF__ et angiogenèse
+Dans 40 cancers du sein , la forte corrélation observée entre les taux d' ARNm de Cox2 et de __VEGF__ ( r 0,5528 , p 0,0076 ) implique Cox2 dans l' angiogenèse .
+Les mécanismes par lesquels Cox2 contribue à la néoangiogenèse tumorale ne sont pas parfaitement élucidés et font intervenir le thromboxane A2 , l' oxyde nitrique synthétase et le récepteur d' adhésion cellulaire Vß3 intégrine .
+L' effet anti-angiogénique de faibles doses de chimiothérapie associée au celecoxib ( vinblastine ou cyclophosphamide ) est en cours d' évaluation [ Stempack D , abstract 19 , AACR-NCI-EORTC 2001 ] .
+- Cyclo-oxygénase et __PPAR__
+Les __AINS__ sont capables d' activer la transcription de leur propre enzyme cible , notamment Cox2 ( mais pas Cox1 ) via l' activation de __PPAR__ .
+Les __PPAR__ sont des récepteurs de la superfamille des récepteurs stéroïdiens qui modulent la transcription de gènes contenant des éléments de réponse du proliférateur de peroxisome .
+Une intéressante const__PGJ2__ : les tumeurs exprimant fortement Cox2 , l' ARNm de Cox2 et __PGE2__ ont une faible expression de __PPAR__ , de l' ARNm de __PPAR__ et de __PGJ2__ .
+Ces altérations , qui sont plus marquées dans les cancers métastasés , ont un intérêt thérapeutique potentiel : l' association d' un inhibiteur de Cox2 et d' un agoniste de __PPAR__ pourrait avoir un effet synergique .
+- Cox2 et agents anti-microtubules
+Les agents anticancéreux interférant avec les microtubules cellulaires ( taxol , colchicine , nocodazole , vinblastine , vincristine , 17-ß-estradiol , 2-méthoxyestradiol ) stimulent la transcription de Cox2 en favorisant la liaison du facteur de transcription AP1 à l' élément de réponse de l' AMP cyclique du promoteur de Cox2 déclenchant __ERK__ , JNK et MAPK ; les inhibiteurs de MAPK kinase bloquent cette induction de Cox2 .
+L' association d' un anti-Cox2 et des antitubulines est rationnelle , notamment l' association avec un taxane .
+Conclusion
+Les travaux rapportés ci-dessus montrent l' implication de Cox2 et de la __PGE2__ dans la carcinogenèse mammaire .
+Même si ses mécanismes pathogéniques restent incomplètement compris , l' expression de Cox2 favorise la prolifération tumorale en inhibant l' apoptose , en stimulant la néo-angiogenèse et en favorisant le pouvoir invasif et métastasiant des cellules malignes .
+L' effet préventif des __AINS__ révélé par les études épidémiologiques suggère un rôle direct des cyclooxygénases dans la genèse des cancers du sein .
+Des recommandations alimentaires sont également envisageables pour la population générale .
+Cox2 est fréquemment exprimée dans les cancers du sein , ce qui est un facteur de mauvais pronostic , et ses inhibiteurs devraient être avantageux en cas de surexpression de HER2\neu , de mutation du gène ras ou de résistance MDR ; ils pourraient être potentialisés par des anticorps anti-HER2\neu , anti-EGF ou anti-VEGF , ou bien par un inhibiteur de RANKL ou un agoniste de __PPAR__ ; leur association à un inhibiteur de l' aromatase ou à des agents anticancéreux interférant avec les microtubules cellulaires ( taxanes , vinorelbine , vincristine , etc. ) paraît logique .
+Les interrogations et les inconnues restent cependant nombreuses : faut il réserver les __AINS__ ou les anti-Cox aux tumeurs exprimant Cox2 ?
+L' administration d' un anti-Cox2 ne risque -t elle pas d' entraîner une activité préférentielle de Cox1 , entravant le bénéfice potentiel du traitement ?
+Quelle est la durée optimale d' administration ?
+Quelle est la tolérance au long cours des coxibs , mieux tolérés que les __AINS__ mais non totalement dénués d' effets secondaires ?
+Quel est le rôle carcinologique de la fonction peroxydase des cyclo-oxygénases , fonction non inhibée par les __AINS__ ?
+Cependant , les indices sont suffisamment cohérents pour proposer une utilisation thérapeutique des inhibiteurs de Cox2 dans les cancers du sein : les coxibs , en_premier_lieu le celecoxib , plus sélectifs et mieux tolérés que les __AINS__ , sont les molécules de choix .
+Des essais thérapeutiques sont en cours ou projetés avec le celecoxib en prévention primaire dans des populations de femmes à risque de cancer du sein ( risque familial ou risque génétique ) , en prévention secondaire après chirurgie de lésions précancéreuses ( carcinome in_situ , canalaire ou lobulaire ) , en situation adjuvante en association avec une anti-aromatase stéroïdienne , l' exemestane , ou une chimiothérapie antitubuline , en utilisation séquentielle après le traitement adjuvant , en situation métastatique associé à une hormonothérapie ( anti-aromatase ) ou une chimiothérapie antitubuline ou , enfin , en néoadjuvant associé à l' exemestane avec étude biologique de l' aromatase intratumorale .

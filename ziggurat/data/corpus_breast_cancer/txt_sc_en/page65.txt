@@ -1,0 +1,87 @@
+1. Introduction
+The debate about whether psychological responses to breast cancer , such as fighting spirit , a helpless / hopeless attitude or the presence of depression are prognostic factors influencing survival is ongoing .
+A large population-based study of psychological response and survival with 5 years of follow-up published previously showed an effect of helpless / hopeless responses measured between 4 and 12 weeks after primary diagnosis on disease-free survival in patients with early-stage breast cancer .
+This effe__HR__ 1.55 , 95% __HR__ 1.07 - 2.25 ) after controlling for known prognostic factors ( histo-pathological grade , number of positive lymph nodes , pathological tumour size , type of surgery , treatment with radiotherapy , chemotherapy and / or endocrine therapy , oestrogen receptor status and age ) .
+Patients with a helpless / hopeless response are characterised by a feeling that there is nothing they can do to help themselves and a lack of hope for the future .
+The data also suggested an increased risk of death in those women with initial high scores for __HADS__ depression , an effect which was strengthened after controlling for known prognostic factors as above ( adjusted __HR__ for cases 3.59 , 95% __CI__ 1.39 - 9.24 ) .
+In this study , we found no statistically significant effect on either overall or event-free survival of a fighting spirit response , in contrast to the positive advantage of a high fighting spirit response at 5 and 10 years which had been reported previously in a smaller study 2 and 3. One consequence of such findings may be to encourage women with breast cancer to believe that a fighting spirit may improve their survival prospects .
+However , where patients find it difficult to maintain a fighting spirit , this may contribute to an increased burden of a sense of responsibility should the cancer relapse .
+It is therefore important to evaluate fully the evidence so that women with breast cancer may be properly advised .
+A few studies that were discussed in our previous publication have attempted to examine the question of whether psychological response impacts on survival , but none have reported data on very large samples using the same psychological responses as the present study .
+In the light of the above , it was considered important to clarify our previous results , taking into account the outcome for women with relapsed disease .
+Deaths from stage I and II breast cancer continue at a fairly constant rate to at least 10 years after initial diagnosis , thus suggesting that extension of follow-up to 10 years in our original cohort would help to crystallise the earlier results .
+We have therefore followed up this cohort for a further 5 years , giving 10 years of follow-up in all .
+We have investigate__MAC__ ) and depression ( as measured by __HADS__ ) will have a significant impact on both overall and disease-free survival by 10 years of follow-up , in addition to the already reported adverse impact on disease-free survival at 5 years .
+We also checked for any effect of a fighting spirit response by 10 years of follow-up , in order to clarify the previous results .
+2. Patients and methods
+All available follow-up information on the 578 patients studied previously was collected .
+These were all women with early-stage ( I and II ) breast cancer aged 18 - 75 years ( mean = 55 years , SD = 10.6 ) , who presented consecutively at the Royal Marsden Hospital , London and Sutton , UK and were aware of their diagnosis .
+They were assessed within 4 - 12 weeks post-diagnosis using the MAC and HAD scales .
+Study design and patient characteristics have been described fully elsewhere .
+For the extended follow-up , information on relapse , death and date last seen alive was gathered from the Royal Marsden Hospital information system , the Thames Cancer Registry , and the Office of National Statistics .
+If patients had moved , or up-to-date information was unavailable , general practitioners were contacted .
+Disease-free survival was defined as free from recurrence and not dying from breast cancer .
+For the analysis of overall survival all-cause mortality was used .
+All available data ( i.e. , no censoring ) were then analysed using Cox proportional hazards regression for disease-free and overall survival over the extended follow-up period , calculating the crude __HR__ for each individual psychological measure and the __HR__ adjusted for clinical prognostic factors ( histo-pathological grade , number of positive lymph nodes , pathological tumour size , type of surgery , treatment with radiotherapy , chemotherapy and / or endocrine therapy , oestrogen receptor status , and age ) .
+The significance of each effect was assessed using the likelihood ratio test statistic .
+To investigate whether the effect of psychological measures varies as follow-up increases , the analysis was repeated for overall survival on those women who were alive at 5 years to find out whether , having survived for the first 5 years , the initial psychological response still had any significant impact on prognosis .
+And similarly for disease-free survival , the analysis was repeated in only those women who were disease-free at 5 years .
+3. Results
+At 10 years only one patient was lost to follow-up .
+For 12 patients their relapse status was unknown at 10 years , but they were known to be relapse-free at 5 years , and so their follow-up was censored at the 5 year time point for the analysis of disease-free survival .
+Cause of death was known for all patients who had died .
+__IQR__ 10.5 - 11.9 ) .
+After 10 or more years of follow-up , 239 ( 41.3% ) women had relapsed ( compared with 171 relapses within first 5 years ) and the median time to relapse was 2.7 years ( __IQR__ 1.3 - 5.4 ) .
+A total of 221 ( 38.2% ) had died ( 135 within 5 years ) , of whom 184 ( 31.8% ) had died of breast cancer .
+None of the remaining non-breast cancer deaths had a distant relapse during follow-up .
+For the analyses of disease-free survival , 243 ( 47.2% ) had died from breast cancer or relapsed ( compared with 173 by 5 years ) .
+Therefore , after 10 years the overall status of patients was : 307 ( 53.1% ) alive and without relapse , 49 ( 8.5% ) alive with relapse and 221 ( 38.2% ) had died .
+Table 1 contains the crude and adjusted HRs for disease-free and overall survival at 10 years .
+After 10 years the risk of breast cancer death or relapse in women with high initial scores on the MAC helplessness / hopelessness scale was increased ( adjusted __HR__ = 1.53 , 95% __CI__ 1.11 - 2.11 ) ( see Fig. 1 ) .
+The statistical significance of this effect was greater than shown in the adjusted 5 year analysis , although the __HR__ estimate was very similar .
+There was no significant effect of HAD depression on disease-free survival .
+After 10 years there was an increased risk of death from all causes in women with high initial scores on the MAC helpless / hopeless scale , although not statistically significant .
+The effect of HAD depression on overall survival was weaker at 10 years ( adjusted __HR__ for cases = 2.43 , 95% __CI__ 0.97 - 6.10 ) than in the 5 year analysis ( adjusted __HR__ for cases = 3.59 , 95% __CI__ 1.39 - 9.24 ) .
+In addition , the finding that there is no significant effect on survival of maintaining a fighting spirit type of response was maintained at 10 years .
+Restricting the analysis to the follow-up period from 5 to 10 years gave very similar results from the complete 10 year analysis .
+As found with the analysis of the complete follow-up data , the only statistically significant effect was for helplessness / hopelessness and disease-free survival ( adjusted __HR__ = 2.00 , 95% __CI__ 1.09 - 3.65 ) .
+The __HR__ for helplessness / hopelessness and disease-free survival is consistent with the values obtained from the 0 - 5 years analysis ( adjusted __HR__ = 1.42 , 95% __CI__ 0.97 - 2.08 ) , and so there is no evidence that the effect of helplessness / hopelessness varies as follow-up increases .
+4. Discussion
+The present analysis updates the original result for a helpless / hopeless response , showing continuing adverse impact on long-term disease-free survival .
+The results for __HADS__ depression remain ambivalent due to small numbers of patients scoring in the clinical range and , if anything , the effect for depression was weaker at 10 years follow-up .
+It also supports the finding that a high fighting spirit response confers no significant survival advantage beyond 5 years of follow-up .
+In trying to understand the lack of effect for the fighting spirit response it is important to take account of how this is measured .
+The __MAC__ scale assesses helpless / hopeless and fighting spirit responses on two separate subscales .
+These measures while inversely correlated ( r = - 0.46 ) are not polar opposites , as the correlation value demonstrates .
+For patients it may not be what extra benefit is added to normal reactions by a fighting spirit , but rather what is left out for those who are helpless .
+The opposite of a helpless / hopeless response is not fighting spirit but rather a lack of helplessness and hopelessness ; these are qualitatively and quantitatively different .
+The data confirm that there is no benefit to survival of a fighting spirit beyond 5 years post-diagnosis .
+This is an important result as it may help to remove any continuing feelings of guilt or sense of blame for breast cancer relapse from those women who worry because they cannot always maintain a fighting spirit or a positive attitude .
+While emotional lability is common among breast cancer patients as a normal reaction to their diagnosis and treatment , the study underscores the need to assess the incidence of helplessness and hopelessness and offer appropriate psychological care .
+While there has been no clear effect of depression upon survival , as assessed here , this is difficult to assess reliably with small numbers scoring in the clinical range on the measure .
+The need to ascertain symptoms of depression remains and the impact of clinical depression on survival requires further investigation .
+Although we have shown a statistically significant effect of helplessness / hopelessness on disease-free survival , the size of the effect ( adjusted __HR__ = 1.53 ) suggests care is needed in interpreting this clinically .
+It could be argued that since the majority of events occurred in the first 5 years after diagnosis , it is not surprising that the 10 year analysis produced similar results .
+The purpose of analysing the subset of patients who were disease-free at 5 years was to investigate whether the effect of baseline psychological measures remained after 5 years .
+The results showed that in patients who were disease-free at 5 years , their baseline helpless / hopeless response still exerted a significant effect on disease-free survival beyond 5 ( and up to 10 ) years .
+The effect is therefore maintained for up to 10 years of follow-up .
+Although these data show an effect of early psychological response on long-term disease-free survival and reproduce the previously reported effect for helplessness / hopelessness , they in no way explain how or why a helpless / hopeless response to cancer impacts on disease-free survival .
+Various possible mechanisms have been suggested ; impact on immune status , effect on stress hormones , or behavioural changes associated with psychological response that may impede effective treatment ( e.g. , treatment stopped or delayed due to patients inability to cope ) .
+Evidence from general psychiatry may yield some clues concerning the latter mechanism .
+The Cognitive Distortion Scale ( John Briere ) defines helplessness as measuring the perception of being unable to control or influence important , typically negative , aspects of one 's life .
+He explains that individuals with high helplessness scores may be especially likely to assume that their efforts to change an unwanted or problematic situation will be unsuccessful , sometimes leading to passivity or avoidance in the face of challenge or danger .
+Hopelessness is defined as the extent to which the respondent believes that the future is bleak and that he or she is destined to suffer or fail 10 J. Briere In : F.L. Lutz , Editor , Cognitive Distortion Scales Professional Manual , Psychological Assessment Resources , Lutz , FL , USA ( 2000 ) . .
+Those with elevated hopelessness scores are often characterised as pessimistic , and may be especially likely to avoid ( or fail to persevere in ) activities that require an expectation of a potentially positive outcome .
+In addition , high hopelessness scores are usually suggestive of some level of depression .
+This gives credence to the idea that a helpless / hopeless response may impede effective cancer treatment .
+Cognitive therapy or cognitive-behavioural therapy often addresses feelings of hopelessness and helplessness in a direct manner .
+It has been shown by Greer and colleagues that a brief structured therapy of this nature ( adjuvant psychological therapy ) developed for use with cancer patients and previously tested within a randomised trial reduces helplessness / hopelessness .
+In this respect , there may be benefits of screening patients for helplessness early in the disease trajectory and offering psychological therapy to those who show high levels of helplessness and hopelessness .
+The question of whether psychosocial interventions prolong cancer survival generally has been addressed by a number of researchers , with contradictory results .
+While most studies show psychological benefit , especially for those who are anxious or depressed , an editorial by Speigel in 2001 reported that only 5 out of 10 published intervention trials showed that various forms of psychotherapy prolonged survival .
+A later meta-analysis of 14 controlled intervention trials showed inconclusive results , and therefore a definite conclusion about whether psychosocial interventions prolong cancer survival seemed premature .
+Three of these studies showed a benefit for individual treatment , while six studies suggested that group treatments were ineffective .
+More research is therefore needed to ascertain whether there is an effect of such therapy on survival .
+The present data on psychological response and survival require replication independently in other large studies , which should be randomised ( to avoid self-selection bias ) , focus the intervention on a single diagnosis , and describe such interventions thoroughly .
+5. Conclusion
+Having found evidence of an adverse impact on disease-free survival of a helpless / hopeless response at 10 years post-diagnosis , the aim now would be to clarify the mechanisms of action and develop suitable therapies in order to help improve outcomes in these women .

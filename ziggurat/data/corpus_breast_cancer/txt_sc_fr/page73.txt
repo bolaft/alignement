@@ -1,0 +1,221 @@
+Le cancer du sein métastatique demeure encore de_nos_jours une maladie incurable .
+L' objectif de tout traitement est d' améliorer la qualité de vie et , dans une certaine mesure , d' allonger la survie .
+Depuis trois décennies , des progrès significatifs ont été réalisés dans la compréhension des mécanismes impliqués dans l' acquisition d' un phénotype malin par une cellule normale ( par_exemple : identification de l' oncogène HER2 ) et dans le développement de nouveaux agents thérapeutiques cytotoxiques et cytostatiques .
+Les taxanes , paclitaxel et docétaxel , sont des poisons du fuseau qui agissent en inhibant la dépolymérisation des microtubules .
+Ces deux agents ont démontré leur efficacité chez des patientes métastatiques après échec des anthracyclines .
+Le trastuzumab est un anticorps monoclonal recombinant de type IgG1 humanisé dirigé contre le domaine extracellulaire d' un récepteur transmembranaire à activité tyrosine kinase , l' oncoprotéine HER2 : cette dernière est surexprimée à la surface des cellules néoplasiques dans 25 à 30 % des cancers du sein .
+L' activation de ce récepteur transduit des signaux impliqués dans la prolifération cellulaire , l' angiogenèse , la différenciation et la migration cellulaires .
+Les modèles précliniques démontrent que le trastuzumab possède des propriétés cytostatiques et qu' il interagit de façon additive ou synergique avec certains agents cytotoxiques , notamment les taxanes .
+Dans la première partie de cet article , seront développées les bases précliniques de l' association taxane-trastuzumab .
+Les données cliniques dans le cancer du sein feront l' objet de la seconde partie .
+Bases expérimentales
+HER2 / neu et trastuzumab
+Le gène HER2 / neu , également connu sous l' appellation neu ou c-ErbB2 , code pour un récepteur transmembranaire de 185 kD à activité tyrosine kinase appartenant à la famille des récepteurs à tyrosine kinase ( ErbB ou HER ) .
+HER2 possède une homologie partielle avec d' autres membres de la famille des récepteurs à l' __EGFR__ , appelé également HER1 ou ErbB1 .
+Le gène HER2 est situé sur le chromosome 17 dans la région 17q11.2-17q21 .
+D' autres membres de la famille erbB sont connus et comprennent l' __EGFR__ ainsi_que les récepteurs à HER3 ( ErbB3 ) et HER4 ( ErbB4 ) .
+Si des ligands endogènes ont été identifiés pour __EGFR__ ( EGF , TGF , HB-EGF , ß-celluline , épiréguline , amphiréguline ) , pour HER3 ( NRG1 et NRG2 ) et pour HER4 ( HB-EGF ) , ceux du récepteur à HER2 ne sont pas encore connus .
+Comme la_plupart des récepteurs à tyrosine kinase , HER2 / neu est un récepteur transmembranaire présentant un domaine de liaison extracellulaire , un domaine transmembranaire et un domaine intracellulaire à activité kinase .
+La liaison du ligand au domaine extracellulaire induit la formation d' homo et d' hétérodimères de récepteurs parmi les récepteurs de la famille ErbB comme __EGFR__ et HER2 / neu .
+La formation de dimères est essentielle à l' activation de la tyrosine kinase .
+L' hétérodimérisation de HER2 / neu avec d' autres membres de la famille ErbB ainsi_que l' homodimérisation de HER2 / neu en l' absence de ligand conduisent à l' autophosphorylation du domaine tyrosine kinase intracellulaire et à la phosphorylation de protéines cibles intracellulaires .
+Ce phénomène déclenche alors une cascade de signalisations complexes capables de piloter la prolifération cellulaire et la cancérogenèse .
+Les mécanismes contrôlant l' implication de HER2 / neu dans la progression du cycle cellulaire et la transformation des cellules n' ont pas été totalement élucidés à ce jour .
+Cependant , il est fortement suggéré que p27 et la cycline D1 jouent un rôle prépondérant dans la médiation de la prolifération cellulaire et la transformation contrôlées par HER2 / neu .
+La surexpression de HER2 / neu via l' activation des MAP kinases contournerait le blocage en G1 / S en induisant la cycline D1 et en déstabilisant p27 , inhibiteur de kinases dépendant des cyclines ( cdk ) .
+De plus , il a été montré que HER2 / neu induit AKT / PKB et inhibe les voies inductrices d' apoptose .
+HER2 est amplifiée dans 25 à 30 % ( en sachant que les chiffres actuellement reconnus sont plutôt proches de 20 % ) des cancers du sein et il a été montré que cette surexpression était associée à un taux de rechute et à une mortalité accrus ainsi_qu' à un potentiel métastatique supérieur in_vitro .
+Il a également été démontré que l' utilisation d' un anticorps monoclonal d' origine murine dirigé contre HER2 permettait d' inhiber la croissance de tumeurs et de cellules cancéreuses présentant une surexpression de cette protéine .
+Leur humanisation par insertion d' une IgG1 humaine a permis de réduire l' immunogénicité des anticorps murins anti-HER2 et de proposer un anticorps recombinant d' origine murine anti-HER2 pour une utilisation thérapeutique : le trastuzumab ( Herceptine® ) .
+Cet anticorps possède une affinité très marquée pour la protéine HER2 et inhibe la croissance de cellules cancéreuses mammaires qui surexpriment cette protéine .
+Le mode d' action du trastuzumab aboutissant à la répression de HER2 / neu n' est pas encore identifié .
+Toutefois , il semblerait que la fixation de l' anticorps induise l' internalisation et la dégradation du récepteur par le système du protéasome .
+Par analogie avec le récepteur à l' EGF , la voie moléculaire impliquant la protéine Cbl , qui a pour mission de recruter et d' activer les enzymes du système de l' ubiquitine , est actuellement suggérée .
+Intérêt de l' association du trastuzumab aux taxanes
+Le trastuzumab est également utilisé dans le but d' augmenter l' efficacité de la chimiothérapie en réprimant l' expression de HER2 .
+- Sensibilité cellulaire et surexpression de HER2
+De nombreuses études ont montré que la surexpression de HER2 est associée avec la résistance à la chimiothérapie .
+Dans un panel de cellules de cancer du sein humain exprimant différents niveaux de HER2 , il a été clairement montré que les niveaux d' expression les plus élevés de HER2 étaient corrélés à une sensibilité cellulaire moindre aux taxanes ( paclitaxel et docétaxel ) .
+Ces données ont été récemment confirmées sur trois lignées de cancer du sein humain ( MCF7 , MDAMB435 et SKBR3 ) exprimant HER2 à des niveaux assimilables aux niveaux détectées par immunohistochimie ( 1 + , 2 + , 3 + ) .
+La sensibilité cellulaire au paclitaxel et au docétaxel diminue en relation avec le niveau d' expression de HER2 .
+Dans une autre étude , il a été montré que la transfection de cellules MDAMB435 par HER2 induisait la surexpression de HER2 et , par_conséquent , rendait les cellules moins sensibles au paclitaxel et au docétaxel .
+Aucune modification d' expression de la glycoprotéine P ( MDR1 ) n' a été relevée , excluant ainsi toute influence du phénotype MDR sur le phénomène .
+Enfin , il a été montré que l' utilisation d' anticorps dirigés contre HER2 permettait de restaurer la sensibilité au paclitaxel de cellules surexprimant HER2 .
+Plusieurs anticorps ont permis d' obtenir des résultats concordants in_vitro et transposables in_vivo chez des souris porteuses de xénogreffes tumorales de cancer du sein surexprimant HER2 , pour lesquelles l' administration de trastuzumab a permis d' augmenter l' activité antitumorale du paclitaxel .
+- Niveau d' expression de HER2 et sensibilité cellulaire
+Les données publiées à ce sujet apparaissent contradictoires .
+Dans l' étude de Pegram_et_al. portant sur une série de lignées cellulaires de cancer du sein et d' ovaire transfectées par HER2 , il a été montré que la surexpression de HER2 ne suffisait pas pour induire la résistance au paclitaxel , en opposition avec l' étude de Yu_et_al. pour laquelle la transfection de HER2 aboutissait à une sensibilité cellulaire amoindrie au paclitaxel et au docétaxel .
+Une explication peut être avancée lorsque les niveaux d' expression de HER2 sont pris en compte .
+Dans l' étude de Pegram_et_al. , le niveau d' expression atteint après transfection était environ trois fois plus faible que dans l' étude de Yu_et_al. .
+Ces résultats suggèrent qu' il existerait un seuil au-delà duquel la surexpression de HER2 suffirait à conférer la résistance cellulaire au paclitaxel .
+Ces données sont à la base de l' indication du trastuzumab en association avec le paclitaxel dans les tumeurs surexprimant HER2 à un niveau élevé ( 3 + en immunohistochimie ou FISH + ) .
+Cependant , des résultats récents montrent que , avec le trastuzumab , un avantage peut être obtenu en matière de sensibilisation cellulaire aux taxanes ( paclitaxel et docétaxel ) pour des lignées cellulaires dont le niveau de surexpression est plus faible ( 2 + , voire même 1 + ) .
+- Mécanismes moléculaires
+La surexpression de HER2 peut influer sur le niveau de sensibilité cellulaire à la chimiothérapie de plusieurs manières .
+Il a ainsi été montré que la sensibilité accrue à la doxorubicine observée dans des tumeurs surexprimant HER2 était en_partie imputable ( 50 % des cas ) à la co-amplification de la topo-isomérase II .
+Àl' opposé , la surexpression de HER2 influe défavorablement sur la sensibilité cellulaire aux agents endommageant l' ADN , comme les sels de platine .
+Dans ce cas , il a été montré que la surexpression de HER2 était capable de conférer la résistance au cisplatine par l' altération des capacités de réparation de l' ADN , associée à des altérations du contrôle des points de restriction du cycle cellulaire et de la réponse apoptotique .
+Dans le cas du paclitaxel , il a été montré que les voies moléculaires de contrôle de l' induction d' apoptose étaient impliquées dans la baisse de sensibilité cellulaire associée à une surexpression de HER2 .
+En effet , l' induction de l' apoptose par le paclitaxel passe par l' activation de la kinase p34cdc2 .
+Dans le cas d' une surexpression de HER2 , l' induction de l' inhibiteur des kinases dépendantes des cyclines p21Cip1 inhibe l' activation de p34cdc2 par le paclitaxel et limite ainsi l' entrée des cellules en apoptose .
+La sensibilisation cellulaire au paclitaxel obtenue par son association avec le trastuzumab peut être expliquée par le même mécanisme .
+Le trastuzumab , en réprimant l' expression de HER2 , limite l' induction de p21Cip1 et permet de rétablir l' activation de p34cdc2 , ce qui a pour conséquence la restauration des capacités cellulaires à l' induction d' apoptose .
+La validation de cette hypothèse est en cours .
+- Évaluation préclinique des associations taxanes-trastuzumab
+Les bases expérimentales de ces associations reposent sur des essais in_vitro et in_vivo .
+Des résultats probants ont été largement diffusés concernant l' association paclitaxel-trastuzumab .
+Ils mettent en évidence une additivité des effets des deux molécules .
+En termes de justification des études cliniques associant docétaxel et trastuzumab , il est souvent fait état d' une synergie d' action entre ces deux molécules .
+La seule référence disponible est un résumé publié dans les actes du Breast Cancer Symposium de San Antonio en 1999 .
+Ces données concernent en fait l' association ternaire d' un taxane ( paclitaxel ou docétaxel ) avec le carboplatine et le trastuzumab .
+Une synergie d' action est rapportée mais ces données n' ont jamais été confirmées et publiées sous forme d' un article .
+Le travail de Pegram_et_al. est également parfois cité en référence comme une démonstration de la synergie observée entre le docétaxel et le trastuzumab , mais cette référence est en fait erronée puisque le docétaxel n' a pas été évalué dans les expérimentations .
+Il est , de plus , très dommage que cette erreur soit reproduite d' article en article .
+À ce jour et à notre connaissance , seuls les travaux de l' équipe de Nancy font état d' essais in_vitro associant le docétaxel ou le paclitaxel avec le trastuzumab sur les mêmes modèles cellulaires .
+Ces essais ont été menés sur trois lignées cellulaires de cancer du sein humain ( MCF7 , MDAMB453 et SKBR3 ) exprimant HER2 à différents niveaux .
+Les résultats obtenus sur la lignée SKBR3 , présentant le niveau d' expression de HER2 le plus élevé ( assimilable à une classification 3 + en immunohistochimie ) , confirment l' additivité des effets des deux molécules déjà rapportée par Pegram_et_al. sur la même lignée avec le paclitaxel .
+Des résultats similaires sont obtenus avec le docétaxel pour lequel nous mettons en évidence non une synergie d' action mais une additivité des effets .
+Pour la lignée MDAMB453 exprimant HER2 à un niveau intermédiaire ( assimilable à une classification 2 + en immunohistochimie ) , l' association du trastuzumab avec le paclitaxel est synergique tandis_que , avec le docétaxel , une additivité des effets est obtenue .
+Enfin , dans la lignée MCF7 exprimant HER2 à un niveau faible ( assimilable à une classification 1 + en immunohistochimie ) , les deux molécules produisent une synergie d' action avec le trastuzumab .
+Ces derniers résultats peuvent être discutés en fonction de l' expression de récepteurs aux estrogènes , à l' EGF et à l' IGF1 qui n' existent que dans la lignée MCF7 et qui interagissent avec les voies de signalisation de la phosphatidylinositol-3 kinase sur lesquelles agit également le trastuzumab .
+In vivo , les seuls résultats publiés concernent le paclitaxel dont l' association avec le trastuzumab induit une potentialisation des effets antitumoraux sur des souris athymiques porteuses de xénogreffes de lignées cellulaires de cancer de sein humain surexprimant HER2 .
+Sur ces bases , les associations taxanes-trastuzumab dans les cancers du sein métastatiques surexprimant fortement HER2 apparaissent pleinement justifiées .
+Les résultats obtenus dans les lignées pour lesquelles l' expression de HER2 est plus modérée pourraient suggérer une évaluation thérapeutique élargie .
+Études d' association trastuzumab et paclitaxel
+En situation métastatique
+Slamon_et_al. ont rapporté , dans le New England Journal of Medicine en 2001 , les résultats d' une étude de phase III internationale , multicentrique , prospective , conduite chez 469 patientes .
+Celles-ci présentaient toutes un cancer du sein métastatique , surexprimaient l' oncogène HER2 ( en immunohistochimie , 2 + et 3 + à l' Herceptest® ) en situation de première ligne métastatique .
+Les patientes étaient randomisées entre un bras chimiothérapie seul versus un bras chimiothérapie plus trastuzumab .
+Celles qui avaient reçu une chimiothérapie adjuvante par anthracycline recevaient un traitement par paclitaxel ( 175 mg / m2 toutes les 3 semaines ) .
+Quant aux autres ( pas d' anthracycline en adjuvant ) , elles recevaient une association d' anthracyclines : doxorubicine ( 60 mg / m2 ) ou épirubicine ( 75 mg / m2 ) et cyclophosphamide ( 600 mg / m2 ) .
+Les résultats de cette étude , en termes de réponse objective ( 50 versus 32 % , p < 0,001 ) , de durée de réponse ( 9,1 versus 6,1 mois , p < 0,001 ) et de survie ( 25,4 versus 20,3 mois , p = 0,046 ) , étaient en_faveur_de l' association chimiothérapie-trastuzumab , quel qu' ait été le régime de chimiothérapie ( paclitaxel ou anthracyclines-cyclophosphamide ) .
+Cependant , le taux d' insuffisance cardiaque congestive était plus fréquent dans le bras __AC__ + trastuzumab ( 16 % de grades 3-4 ) que dans le bras paclitaxel + trastuzumab ( 2 % ) .
+Le bénéfice de l' adjonction du trastuzumab au paclitaxel a été plus important chez les patientes qui présentaient une surexpression de l' oncogène à 3 + en immunohistochimie : un taux de réponse objective de 49 versus 17 % , un allongement du temps jusqu' à progression ( 7,1 versus 3 mois ) et une survie augmentée de 6,9 mois .
+Cette association thérapeutique est donc actuellement recommandée pour ces patientes en situation métastatique et bénéficie d' une autorisation de mise sur le marché .
+Au vu des résultats de l' association paclitaxel et trastuzumab , les équipes du __MSKCC__ et du MD Anderson ont mené une étude de phase II associant un schéma d' administration hebdomadaire du paclitaxel ( 90 mg / m2 en perfusion de 1 heure ) associé au trastuzumab ( schéma hebdomadaire , dose de charge de 4 mg / kg puis dose d' entretien à 2 mg / kg ) .
+Les objectifs de cet essai étaient d' améliorer l' index thérapeutique de cette association .
+Les 95 patientes incluses dans cette étude avaient reçu soit une chimiothérapie adjuvante ( 77 % ) , soit une chimiothérapie de première ligne métastatique ( 30 % ) , dont 65 % avaient bénéficié d' un traitement au préalable par anthracyclines et 12 % d' un traitement par taxanes .
+Les patientes incluses dans cette étude n' étaient pas sélectionnées sur la surexpression de l' oncogène HER2 .
+Le statut HER2 était déterminé en immunohistochimie ( quatre anticorps ont été retenus : Herceptest® , CB11 , PAB1 , TAB250 ) et par technique d' hybridation in_situ ( FISH ) .
+Le nombre médian de perfusions était de 25 ( 1-85 ) , avec une dose-intensité du paclitaxel de 82 mg/m2 / semaine .
+Le taux de réponse pour l' ensemble de la population ( en intention de traiter ) était de 56,3 % dont 4,2 % de réponse complète .
+La durée médiane de réponse était de 7 mois .
+Chez les 40 patientes HER2 positives en FISH , le taux de réponse objective était compris entre 67 et 81 % alors_que le taux de réponse était compris entre 41 et 46 % pour les patientes HER2 négatives .
+Il existe une parfaite corrélation , d'_une_part , entre la réponse et la mise en évidence d' une amplification du gène par technique de FISH et , d' autre_part , entre la mise en évidence de la surexpression de la protéine en immunohistochimie par l' anticorps monoclonal CB11 et la FISH .
+Le profil de tolérance était dans l' ensemble très acceptable .
+Sur les 2619 injections , les auteurs rapportaient 6 % de neutropénies de grades 3-4 et 2 % d' anémies de grade 3.
+Concernant la cardiotoxicité , un suivi était réalisé toutes les 8 semaines durant les deux premières évaluations de la réponse , puis toutes les 12 semaines .
+Les auteurs ont rapporté chez 7 patientes une baisse asymptomatique de la fraction d' éjection ventriculaire d' au moins 20 % par rapport aux valeurs lors_de l' inclusion ( 2 patientes ont nécessité la mise en route d' un traitement tonicardiaque ) .
+Mais 3 patientes ont présenté une insuffisance cardiaque ( une patiente avait reçu au préalable une dose cumulative de doxorubicine de 615 mg / m2 ) .
+Robert_et_al. ont rapporté à San Antonio , en 2002 , les résultats préliminaires d' une étude de phase III comparant l' association trastuzumab ( hebdomadaire , dose de charge de 4 mg / kg puis dose d' entretien de 2 mg / kg ) + paclitaxel ( 175 mg / m² , toutes les 3 semaines ) à l' association paclitaxel + trastuzumab + carboplatine ( AUC = 6 , toutes les 3 semaines ) chez 194 patientes atteintes d' un cancer localement avancé surexprimant l' oncogène HER2 au test de Dako .
+L' analyse portait sur les 160 premières patientes incluses .
+Les résultats de cette étude , en termes de réponse objective ( 57 versus 38 % , p < 0,01 ) et de temps jusqu' à progression ( 13 versus 9 mois , p = 0,002 ) , sont en_faveur_de l' association trastuzumab-paclitaxel et carboplatine .
+Les auteurs ne rapportaient pas de différence en termes de toxicité entre les deux bras de traitement en_dehors des nausées qui sont plus importantes avec l' association comportant le carboplatine ( 5 versus 1 % ) .
+En situation néoadjuvante
+Burstein et al. ont rapporté à l' Asco 2001 ( résultats préliminaires ) , puis à San Antonio de la même année , une étude de phase II d' association en néoadjuvant .
+Cette association comprenait le paclitaxel 175 mg / m2 toutes les 3 semaines ( 4 cycles ) et le trastuzumab ( dose de charge de 4 mg / kg puis dose d' entretien de 2 mg / kg , 11 semaines ) .
+Après chirurgie , un traitement de consolidation était réalisé .
+Il comprenait 4 cycles , toutes les 3 semaines , d' une association doxorubicine ( 60 mg / m2 ) et cyclophosphamide ( 600 mg / m2 ) .
+L' objectif principal de cette étude était de définir le taux de réponse histologique après chimiothérapie d' induction .
+La population incluse dans cette étude comprenait 55 % de stades II , 43 % de stades III ( IIIA : 23 % , IIIB : 20 % ) , 15 % de T4d .
+Le statut HER2 était défini en immunohistochimie : 3 + ( 80 % ) , 2 + ( 20 % ) .
+Sur les 41 patientes incluses , 40 étaient analysées pour la réponse histologique et clinique .
+Le taux de réponses cliniques ( RC et RP ) était de 75 % : 38 % ( 2 + ) et 84 % ( 3 + ) .
+Le taux de réponse complète histologique était de 18 % : 13 % ( 2 + ) et 19 % ( 3 + ) .
+Les auteurs n' ont rapporté aucune toxicité de grades 3-4 durant la phase néoadjuvante ( paclitaxel et trastuzumab ) et qu' un seul épisode de grade 3 durant la phase adjuvante par anthracycline ( nausées et vomissements ) .
+Une évaluation de la fonction cardiaque a été réalisée à l' inclusion , à la fin du traitement néoadjuvant , puis après les deux premières cures et à la fin du quatrième cycle d' anthracycline .
+Aucune toxicité de grades 3-4 n' était déplorée , 9 cas de toxicité de grade 1 ont été notifiés ( 4 cas durant le traitement néoadjuvant et 5 cas durant le traitement adjuvant ) et 5 cas de toxicité de grade 2 ( 1 cas au décours de la phase néoadjuvante et 4 au décours de la phase adjuvante ) .
+Études d' association trastuzumab et docétaxel
+Sur les données précliniques de l' association du docétaxel avec le trastuzumab , les essais cliniques ont débuté .
+Il s' agit essentiellement d' études de phase II .
+En situation métastatique
+La première étude est rapportée par l' équipe du Sarah Canon de Nashville .
+Cette étude de phase II portait sur l' association du docétaxel ( 75 mg / m2 toutes les 3 semaines , 6 cycles ) au trastuzumab ( dose de charge de 4 mg / kg puis 2 mg / kg en entretien ) , chez des patientes surexprimant HER2 en immunohistochimie ( 2 + = 25 % ou 3 + = 75 % , Herceptest® ) , en première ou deuxième ligne de chimiothérapie pour maladie métastatique .
+Étaient exclues les patientes qui avaient déjà reçu une chimiothérapie par taxanes et / ou par trastuzumab ou dont la dose cumulative de doxorubicine était supérieure à 250 mg / m2 .
+Nous ne disposons actuellement que des résultats préliminaires pour les 21 premières patientes parmi les 30 incluses .
+Le taux de réponse était de 44 % : 3 + ( 55 % ) , 2 + ( 20 % ) .
+Mais il n' y a actuellement que 16 patientes évaluables .
+Concernant le profil de tolérance , les auteurs ont rapporté comme événement indésirable , une toxicité sur la lignée granulocytaire .
+Cinq patientes avaient reçu des facteurs de croissance granulocytaire et une patiente a été hospitalisée pour neutropénie fébrile .
+Aucune cardiotoxicité asymptomatique ou symptomatique n' était rapportée .
+L' étude de l' ECOG de phase II a testé l' association hebdomadaire du trastuzumab au docétaxel ( 35 mg / m2 , 6 semaines sur 8 ) .
+Elle a inclus des patientes en première ligne de chimiothérapie en situation métastatique surexprimant HER2 ( 2 + ou 3 + , Herceptest® ) .
+Étaient exclues les patientes rechutant moins de 6 mois après un traitement adjuvant et celles ayant reçu une dose d' anthracycline supérieure à 250 mg / m2 et un traitement par taxanes et / ou par trastuzumab .
+Les résultats de cette étude , comme ceux de la première , ne sont que préliminaires .
+Quatorze patientes sont évaluables pour la toxicité .
+Les auteurs rapportent un seul épisode de toxicité de grade 3 ( nausées ) et une toxicité de grade 4 ( neutropénie fébrile ) .
+Aucune cardiotoxicité n' est rapportée .
+Le taux de réponse est de 54 % .
+L' étude se poursuit actuellement pour inclure un minimum de 34 patientes .
+La troisième étude de phase II est rapportée par l' équipe du MD Anderson .
+Elle a inclus 30 patientes présentant une maladie métastatique mesurable et surexprimant HER2 en immunohistochimie ou en FISH .
+Les patientes ne pouvaient avoir reçu plus de trois lignes de chimiothérapie en adjuvant , en néoadjuvant ou en métastatique ( 20 % ) .
+Elles pouvaient avoir reçu un traitement par taxanes si le délai de rechute était supérieur à 12 mois .
+Le schéma d' administration était conventionnel pour le trastuzumab ( dose de charge de 4 mg / kg puis dose d' entretien de 2 mg / kg toutes les semaines ) et , pour le docétaxel , 3 semaines sur 4 à la dose de 35 mg / m2 .
+L' évaluation de la réponse et de la toxicité était réalisée aux semaines 8 et 16 , puis tous les 3 cycles .
+Le nombre médian de cycles administrés était de 6 ( 2 à 16 ) .
+La dose-intensité médiane du docétaxel était de 24 mg/m2 / semaine .
+Les toxicités de grades 3-4 rapportées par les auteurs étaient les suivantes : neutropénie de grades 3-4 ( 10 % ) , neutropénie fébrile de grade 3 ( 3 % ) , asthénie de grade 3 ( 20 % ) , réactions d' hypersensibilité de grade 3 ( 6 % ) , diarrhées de grade 3 ( 6 % ) .
+Concernant la cardiotoxicité , 3 patientes ont présenté une toxicité de grade 1 , 5 patientes de grade 2. Une patiente a présenté une insuffisance cardiaque gauche symptomatique nécessitant l' emploi de drogues vasoactives .
+Aucune réponse complète n' est rapportée mais 19 réponses sont partielles et le taux de réponse objective est de 63 % .
+Le temps médian jusqu' à progression est de 9 mois .
+La dernière étude est rapportée par le __BCIRG__ .
+Ce groupe international a conduit de manière parallèle deux études portant sur la même population : première ligne de chimiothérapie en situation métastatique , maladie évaluable et patientes surexprimant l' oncogène HER2 ( 2 et 3 + , Herceptest® ) .
+En association avec les sels de platine
+La première étude a porté sur l' association docétaxel ( 75 mg / m2 toutes les 3 semaines , 6 cycles minimum ) , cisplatine ( 75 mg / m2 , toutes les 3 semaines , 6 cycles minimum ) et trastuzumab ( dose de charge de 4 mg / kg puis dose d' entretien de 2 mg / kg jusqu' à progression ) .
+Réalisée en Europe ( no 101 , ECCO 2001 ) , elle a inclus 62 patientes dont 52 % avaient bénéficié d' un traitement adjuvant et 32 % d' un régime comprenant une anthracycline .
+Le nombre médian de cycles de chimiothérapie par patiente était de 6 ( 3-8 ) .
+Les toxicités hématologiques de grades 3-4 rapportées par les auteurs étaient les suivantes : 13 % de neutropénies fébriles et 9 % d' anémies .
+Les toxicités non hématologiques de grades 3-4 étaient : asthénie ( 18 % ) , nausées ( 18 % ) , vomissements ( 11 % ) , altération de la fonction rénale ( 3 % , 2 cas ) , neurologiques ( 5 % ) .
+La fonction cardiaque avait fait l' objet d' un monitorage toutes les 12 semaines .
+Aucune toxicité de grade 4 n' est rapportée .
+Une patiente a présenté un trouble du rythme de grade 3. Le taux de réponse est de 79 % , dont 3 réponses complètes et 46 réponses partielles ( RO de 77 % pour les patientes FISH-positives et 84 % chez les patientes FISH-négatives ) .
+Le temps jusqu' à progression était de 9,9 mois pour l' ensemble de la population : 12,7 mois pour les patientes FISH-positives et 7,9 mois pour les patientes FISH-négatives .
+La deuxième étude ( no 102 , ECCO 2001 ) a été conduite sur le continent nord-américain .
+Elle a porté sur le même nombre de patientes ( 62 ) et la même association mais le cisplatine a été remplacé par le carboplatine ( AUC = 6 mg / ml × min , toutes les 3 semaines , 6 cycles minimum ) .
+En comparaison à la population incluse en Europe , 56 % des patientes avaient bénéficié d' un traitement adjuvant , dont 46 % un régime comportant une anthracycline , 15 % une taxane et 5 % une intensification thérapeutique .
+Le nombre médian de cycles de chimiothérapie était de 6 ( 2-13 ) .
+Les auteurs n' ont rapporté aucun décès toxique comme l' étude européenne .
+Les toxicités hématologiques de grades 3-4 comportaient 16 % de neutropénies fébriles , 6 % d' anémies et 12 % de thrombopénies .
+Les toxicités non hématologiques ( grades 3-4 ) étaient les suivantes : asthénie ( 18 % ) , nausées ( 11 % ) , vomissements ( 8 % ) , neurologiques ( 2 % ) ; aucune toxicité rénale ou otologique n' était relevée .
+Il n' y a eu aucune cardiotoxicité de grade 4. Deux patientes ont présenté une toxicité de grade 3 ( altération de la fonction myocardique et troubles du rythme ) .
+Le taux de réponses objectives était de 56 % ( 8 réponses complètes et 23 réponses partielles ) .
+Le taux de réponse était de 64 % chez les patientes FISH-positives et de 41 % chez les patientes FISH-négatives .
+Le temps juqu' à progression pour l' ensemble de la population était de 12 mois .
+Il était de 17 mois pour les patientes FISH-positives et de 7,4 mois pour les patientes FISH-négatives .
+À notre connaissance , il n' est pas actuellement rapporté de résultats en situation adjuvante ou néoadjuvante avec l' association trastuzumab et docétaxel .
+Essais prospectifs en cours
+Les essais cliniques de phase III actuellement entrepris par les différentes équipes à_travers le monde tentent de répondre à plusieurs questions : meilleur schéma d' administration des taxanes avec le trastuzumab ( hebdomadaire ou toutes les 3 semaines ) , intérêt de prescrire cette association chez les patientes HER2-négatives , intérêt d' associer un sel de platine , traitement séquentiel avec les anthracyclines , place du trastuzumab en situation adjuvante .
+Association paclitaxel et trastuzumab
+- En situation métastatique
+L' étude de phase III menée par le CALGB ( 9480 ) a pour objectif de répondre à deux questions importantes .
+L' augmentation de la dose-intensité / dose-densité du paclitaxel représentée par son administration hebdomadaire ( 80 mg/m2 / semaine ) , vis-à-vis d' une administration unique toutes les 3 semaines ( 175 mg / m2 ) , apporte -t elle un bénéfice en termes de survie sans maladie ainsi_que de survie globale , en première ligne ?
+La deuxième question à laquelle cette étude devra répondre est si l' adjonction ou non du trastuzumab à un schéma hebdomadaire ou toutes les 3 semaines chez les patientes HER2-négatives améliore ou non la survie sans maladie et la survie globale .
+Pour les patientes HER2-positives , cette étude déterminera le meilleur schéma d' association avec le trastuzumab hebdomadaire ou toutes les 3 semaines .
+L' étude de la Mayo Clinic va comparer un schéma hebdomadaire de paclitaxel-trastuzumab-carboplatine au même schéma toutes les 3 semaines .
+Le MD Anderson , dans son étude de phase III , va poser la question de l' intérêt d' adjoindre un sel de platine , en l' occurence le carboplatine , à un schéma de paclitaxel-trastuzumab toutes les 3 semaines .
+- En situation adjuvante
+L' étude de l' Intergroup / NCCTG 9831 devait comparer chez les patientes HER2-positives , après 4 cures de doxorubicine-cyclophosphamide , 12 cycles de paclitaxel hebdomadaire ( bras A ) versus 12 cycles de paclitaxel hebdomadaire suivis de 52 semaines de trastuzumab ( bras B ) versus 12 cycles de paclitaxel associés au trastuzumab suivis de 40 semaines de trastuzumab seul ( bras C ) .
+Cependant , des données récentes de cardiotoxicité ont conduit les investigateurs de cet essai à arrêter le bras paclitaxel et trastuzumab administrés de manière concomitante .
+L' étude B31 du NASBP pose la question de l' impact du trastuzumab sur la survie sans rechute après 4 cycles de l' association anthracyclines suivis de 4 cycles de paclitaxel .
+Le trastuzumab est prescrit durant les 12 semaines d' association avec le paclitaxel puis pendant 40 semaines seul .
+Association docétaxel et trastuzumab
+- En situation métastatique
+Découlant des études 101 et 102 du __BCIRG__ , l' étude 007 propose actuellement de valider ou non l' impact de l' adjonction d' un sel de platine , le carboplatine , à l' association docétaxel-trastuzumab .
+- En situation adjuvante
+Dans l' étude 006 du __BCIRG__ , ce groupe fédérateur propose de comparer trois régimes de chimiothérapie chez les patientes N + ou N- de mauvais pronostic surexprimant l' oncogène HER2 .
+Le bras de référence associe , après 4 cycles d' anthracycline , 4 cycles de docétaxel .
+Le premier bras expérimental adjoint , au décours de l' administration du docétaxel , le trastuzumab pour une durée de 1 an .
+Le deuxième bras expérimental ne comporte pas d' anthracycline mais l' association docétaxel-sel de platine-trastuzumab .
+Le groupe fédérateur français pose la question , chez les patientes N + , de l' intérêt pour les patientes HER2-positives d' adjoindre un traitement par trastuzumab en séquentiel , pour une durée de 1 an toutes les 3 semaines après une chimiothérapie adjuvante .
+Conclusion
+En reprenant l' historique de la chimiothérapie dans la prise en charge du cancer du sein , nous pouvons constater que les années 1970 ont permis de valider le concept d' une polychimiothérapie par alkylant .
+Puis , dans les années 1980 , un régime comportant une anthracycline était démontré comme supérieur à un régime sans anthracycline .
+Les années 1990 ont vu le développement d' une nouvelle classe d' agents thérapeutiques , les taxanes , qui ont permis d' améliorer la survie des patientes en situation métastatique .
+Depuis , grâce_à une meilleure connaissance des mécanismes impliqués dans la cancérogenèse , de nouvelles cibles thérapeutiques ont été découvertes .
+Une de ces cibles est un récepteur transmembranaire , l' oncogène HER2 , qui est amplifié dans 25 à 30 % des cas .
+Nous disposons depuis la fin des années 1990 d' un nouvel agent cytostatique , le trastuzumab , anticorps monoclonal dirigé contre ce récepteur .
+Les données in_vitro démontrent que , en association avec les taxanes , il existe une activité additive ou synergique .
+Ces données pré-cliniques ont été confirmées par des études cliniques qui ont permis l' obtention d' une autorisation de mise sur le marché pour l' association paclitaxel-trastuzumab .
+L' adjonction du trastuzumab à une chimiothérapie augmente la survie globale en situation métastatique .
+Ces résultats très encourageants font actuellement l' objet d' études pour valider ce concept en adjuvant et pour définir le meilleur schéma d' administration et la meilleure association .

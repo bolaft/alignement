@@ -1,0 +1,141 @@
+Le lymphoedème secondaire du membre supérieur après traitement du cancer du sein est une complication dont la fréquence dans la littérature est mal appréciée en raison des différentes définitions du lymphoedème .
+Le lymphoedème peut être défini , par rapport au membre controlatéral , soit par les sommes des différences périmétriques ( 6 mesures ) de plus de 5 % , soit par des différences périmétriques supérieures à 2 ou 2,5 cm ou enfin par une différence de volume de 200 , voire 250 ml .
+Sa « meilleure » définition semble être une différence volumétrique de 10 % par comparaison au membre sain .
+Avec ce critère , sa fréquence est comprise entre 14 et 28 % dans les études les plus récentes .
+Le délai de survenue d' un lymphoedème est variable , allant de la période postopératoire immédiate jusqu' à plus de 30 ans après le traitement .
+Sa fréquence augmente avec le temps ( de 1,4 % à 1 an à 11,2 % à 3 ans pour Liljegren_et_al. ) expliquant ainsi son faible taux lorsque le suivi est court .
+Dans la cohorte de Guedes Neto , 73 % des femmes qui auront un lymphoedème le développeront dans la première année .
+Pour Werner et al. , le lymphoedème survient avec un délai moyen de 14 mois après le traitement et 97 % des femmes l' ont avant la quatrième année .
+La tendance spontanée du lymphoedème se fait vers l' aggravation volumétrique avec apparition d' un épaississement et d' une « fibrose » cutanés , la survenue de complications esthétiques , psychologiques et infectieuses ( érysipèles ) .Dans cet article , nous détaillerons , d'_après les études publiées dans la littérature , les différents facteurs de risque de développement d' un lymphoedème du membre après traitement d' un cancer du sein ( tableau 1 ( Tableau 1 ) ) .
+Chirurgie
+Curage ganglionnaire
+L' ablation des ganglions axillaires fait partie intégrante du traitement du cancer du sein après l' exérèse de la tumeur .
+Le curage axillaire ( ou évidement ) enlève les relais ganglionnaires , interrompant ainsi le circuit lymphatique .
+Les ganglions axillaires sont divisés en trois étages ( ou niveaux ) de Berg définis selon la position des ganglions lymphatiques par rapport au muscle petit pectoral : I ( axillaire inférieur ) , II ( axillaire moyen ) et III ( axillaire supérieur ) .
+Seuls les niveaux I et II sont enlevés en_pratique courante .
+Le curage laisse en place quelques millimètres de tissus sous-veineux axillaire .
+Dans une étude composée de 381 femmes ayant un cancer du sein de stade I sans atteinte ganglionnaire , traitées par tumorectomie associée , dans 184 cas , à une radiothérapie locale , Liljegren_et_al. ont montré que le degré de dissection des ganglions axillaires influence la survenue d' une pathologie du membre supérieur ( faiblesse , douleur , réduction de la mobilité de l' épaule , engourdissement ) dont le lymphoedème .
+Le risque augmente avec le nombre de ganglions disséqués , avec un risque relatif de 1,11 par ganglion enlevé .
+Ainsi , il varie de 16 % lorsque le curage touche moins de 5 ganglions à 33 % lorsque celui-ci comporte plus de 10 ganglions après un suivi de 36 mois .
+Par ailleurs , il est plus important la première année .
+Herd-Smith_et_al. ont également estimé la fréquence du lymphoedème en fonction du nombre de ganglions enlevés : moins de 20 ( 14,5 % ) , de 20 à 30 ( 17,7 % ) et plus de 30 ( 22,1 % ) avec un risque relatif de 1,29 par ganglion enlevé .
+De plus , la fréquence augmente avec le temps .
+Ainsi après 1 an de suivi , 6 % des patientes développent un lymphoedème lorsque le curage intéresse moins de 10 ganglions contre 3 % si 15 ganglions ou plus sont enlevés .
+Après 3 ans de recul , la fréquence passe respectivement à 16 et 27 % dans ces deux groupes .
+En conclusion , plus le nombre de ganglions enlevés est élevé , plus le risque de lymphoedème est important , la fréquence augmentant avec le temps .
+Ganglion sentinelle
+La technique du ganglion sentinelle s' est développée pour diminuer la morbidité du curage axillaire classique .
+Il s' agit d' injecter un traceur lymphophile ( sulfocolloïde radiomarqué ou colorant bleu ) au contact de la tumeur .
+La diffusion de ce traceur dans les vaisseaux lymphatiques permet de repérer le premier relais ganglionnaire drainant la tumeur du sein et potentiellement métastatique .
+En cas de négativité du ganglion sentinelle , le curage ganglionnaire n' est pas pratiqué .
+Dans une étude comportant 35 femmes , Schrenk_et_al. ne retrouvent pas de lymphoedème après ablation du ganglion sentinelle comparativement aux 35 femmes ayant eu un curage axillaire sans envahissement ganglionnaire histologique , mais le recul n' était que de 17 mois .
+Cependant , le risque de lymphoedème n' est pas totalement aboli avec cette technique .
+Dans une série de 303 femmes suivies en moyenne 19 mois , la fréquence de survenue d' un lymphoedème après ablation du ganglion sentinelle est de 3 % avec un délai d' apparition médian de 4 mois , mais de 17,1 % chez les femmes ayant eu un curage axillaire après positivité du ganglion sentinelle .
+Cette étude retrouve également une fréquence supérieure des lymphoedèmes , après ablation du ganglion sentinelle , pour les tumeurs du quadrant supéro-externe par rapport aux autres localisations ( 5,1 versus 0,7 % ) .
+Une autre série plus récente retrouve des résultats similaires avec une fréquence d' apparition de lymphoedème après ablation du ganglion sentinelle de 2,6 et 27 % après curage axillaire .
+En conclusion , la technique du ganglion sentinelle permet de réduire sensiblement la fréquence du lymphoedème mais_aussi de diminuer la fréquence des douleurs et des troubles sensitifs du membre supérieur .
+Type d' intervention
+Dans les études les plus anciennes , les interventions de type Halstedt , qui ne sont plus pratiquées actuellement , entraînaient plus de 50 % de lymphoedèmes .
+Le type d' intervention chirurgicale ( tumorectomie / mammectomie ) est aussi considéré comme un facteur pouvant influencer la survenue d' un lymphoedème .
+Ainsi , dans l' étude de Shunemann et Willich , la mammectomie avec curage axillaire entraîne un lymphoedème dans 19,1 % des cas et dans 28,9 % en cas d' association avec la radiothérapie , alors_que la tumorectomie associée à un curage axillaire ne se complique que de 6,7 % de lymphoedèmes et de 10,1 % en association avec la radiothérapie .
+Pour Clark_et_al. , la mammectomie augmente ce risque par 2,2 .
+Pour d' autres auteurs , la mammectomie ne l' augmente pas mais aggrave seulement la sévérité du lymphoedème , appréciée par les différences centimétriques du membre atteint par rapport au membre controlatéral .
+Radiothérapie
+Le traitement du cancer du sein comprend , dans la quasi-totalité des cas , une irradiation externe en complément de la chirurgie ( tumorectomie ou mammectomie , curage ganglionnaire axillaire ) et éventuellement une chimiothérapie en cas de facteurs de mauvais pronostic .
+L' étude de Powell_et_al. portant sur 727 femmes ayant un cancer du sein de stades I et II , traitées par tumorectomie et curage axillaire , retrouve une fréquence de lymphoedème ( différence périmétrique de 2 cm par rapport au membre controlatéral ) de 2,9 % après un suivi moyen de 72 mois .
+Un groupe comprenant 68 % de ces femmes avait reçu une irradiation isolée sur le sein , l' autre groupe ( 32 % ) , à_la_fois sur le sein et sur les aires ganglionnaires sus-claviculaire et axillaire .
+Le risque de lymphoedème à 10 ans est supérieur dans le deuxième groupe ( 8,9 versus 1,8 % ) .
+Par ailleurs , comme l' ont montré Segerström et al. dans une étude concernant 136 femmes traitées par mammectomie et curage axillaire , le risque de lymphoedème ( défini par une différence de volume de 150 ml par rapport au membre controlatéral ) est plus important après radiothérapie sur les aires ganglionnaires axillaires qu' après irradiation sur le sein et les aires ganglionnaires sus-claviculaires ( 59,6 versus 16,7 % ) ou qu' après chirurgie seule ( 20,9 % ) .
+Herd-Smith_et_al. , dans une série comportant 1278 femmes traitées par chirurgie ( mammectomie : 24 % ) et curage axillaire associés ou non à une radiothérapie locale sans irradiation de la région axillaire , ont aussi montré que la fréquence du lymphoedème est plus importante dans le groupe recevant une radiothérapie que dans celui traité par chirurgie seule ( 17,9 versus 13,2 % ) après un suivi de 56 mois .
+De plus , quelques auteurs ont suggéré que l' hypofractionnement des doses augmenterait encore le risque de lymphoedème , de_même que le surdosage axillaire postérieur ou les chevauchements de champs .
+Si la radiothérapie est donc un facteur important de développer un lymphoedème , elle diminue toutefois significativement le risque de récidive locale et la mortalité par cancer du sein .
+En conclusion , la radiothérapie externe augmente le risque de développement d' un lymphoedème , particulièrement si elle comprend le creux axillaire .
+Les recommandations actuelles proposent une irradiation de la chaîne mammaire interne en cas de tumeur centrale ou d' envahissement ganglionnaire axillaire ; l' irradiation des ganglions sus et sous-claviculaires est indiquée en présence d' un envahissement ganglionnaire axillaire .
+L' irradiation du creux axillaire est de moins en moins pratiquée .
+Surcharge pondérale
+Il s' agit d' un facteur de risque important dans la survenue d' un lymphoedème .
+Dans une étude cas-témoins comprenant 71 femmes dans chaque groupe , l' __IMC__ - poids / taille2 - lors du traitement du cancer est significativement supérieur chez les femmes qui ont un lymphoedème par_rapport_à celles qui n' en ont pas ( 26,4 versus 25 kg / m2 ) .
+Ce facteur de risque a été confirmé par d' autres auteurs .
+Ozaslan_et_al. montrent que le risque de développer un lymphoedème est de 48 % lorsque l' __IMC__ est supérieur à 25 et de 14 % lorsque l' __IMC__ est inférieur à 20. Wermer_et_al. montrent également que la fréquence du lymphoedème augmente avec l' __IMC__ , mais_aussi que son volume est plus important lorsque l' __IMC__ est élevé .
+Cette étude , qui avait suivi pendant 5 ans 282 femmes traitées par tumorectomie , curage ganglionnaire , irradiation mammaire et parfois sus-claviculaire , montre que la fréquence de survenue du lymphoedème augmente avec le poids .
+Ainsi , celle-ci est de 27,4 % chez les femmes dont l' __IMC__ est supérieur à 27,3 et de 12,5 % chez les femmes dont l' __IMC__ est inférieur 27,3 .
+Elle passe à 36 % lorsque l' __IMC__ est supérieur à 29,2 contre 12 % pour un __IMC__ inférieur .
+Il n' y a pas de lymphoedème chez 94 % des femmes dont l' __IMC__ est compris entre 15,6 et 22,7 kg / m2 .
+En outre , on note 9,2 % de lymphoedèmes sévères ( différence périmétrique > 4 cm ) chez les obèses ( __IMC__ > 27,2 ) contre 2,3 % chez les autres patientes et aucun lorsque l' __IMC__ est inférieur à 22,7 .
+La prise de poids après le traitement du cancer du sein est aussi considérée comme un facteur de risque de lymphoedème .
+Petrek_et_al. , qui ont suivi pendant 20 ans 263 femmes traitées par mammectomie et curage axillaire , montrent que la fréquence du lymphoedème est supérieure chez les femmes dont la prise de poids depuis la fin du traitement est supérieure à 4,5 kg par_rapport_à celle dont le poids est resté stable ( 60 versus 39 % ) .
+La sévérité du lymphoedème est également liée à la prise de poids puisque 67 % des patientes ayant une atteinte sévère ont une augmentation de poids de plus de 4,5 kg .
+Exercice physique
+Il est très souvent recommandé aux patientes d' éviter les efforts physiques importants et / ou répétitifs et le port de charge lourde afin_de réduire le risque de survenue de lymphoedème du membre supérieur .
+Cependant , ces conseils sont le_plus_souvent empiriques .
+Certaines études peuvent apporter des éléments considérés comme « contradictoires » .
+Ainsi , Johansson_et_al. , dans une enquête cas-témoins comprenant 71 femmes traitées pour un cancer du sein ayant développé un lymphoedème et 71 femmes témoins traitées de façon similaire et qui n' en avaient pas développé , ont interrogé les femmes sur leur mode de vie , leurs loisirs , leur activité professionnelle et leur charge de travail quotidienne après le traitement du cancer et jusqu' à l' apparition du lymphoedème : les patientes atteintes d' un lymphoedème sont celles qui ont significativement réduit leurs activités physiques ( vélo , marche , gymnastique ... ) et leurs loisirs ( jardinage , couture ) après le traitement du cancer par rapport au groupe témoin .
+Cette étude montre également que la fréquence de survenue d' un lymphoedème n' augmente pas en fonction de la charge de travail puisqu' il n' y a pas de différence significative entre l' intensité de la charge de travail professionnel dans les deux groupes alors_que la quantité des tâches domestiques est diminuée de façon identique .
+L' étude de Petrek_et_al. confirme ces données puisque l' incidence du lymphoedème chez les patientes pratiquant une activité physique importante ( aérobic , jogging ) ou une activité professionnelle « à risque » ( port de charge lourde , risque de brûlure ou d' infection ) n' est pas plus importante que chez les autres patientes .
+De plus , toutes les études , excepté une , ne retrouvent pas d' association entre le lymphoedème et le membre supérieur dominant qui est le plus sollicité par les activités quotidiennes .
+Par ailleurs , Johansson_et_al. ont étudié l' influence d' exercices physiques de faible intensité chez 31 femmes atteintes d' un lymphoedème secondaire du membre supérieur .
+Les patientes pratiquaient une série de mouvements du membre supérieur avec et sans charge et le volume du lymphoedème était évalué par volumétrie à eau immédiatement après l' effort et à 24 heures .
+Les exercices avaient été réalisés avec et sans compression élastique .
+Si le volume augmentait après l' effort ( avec et sans compression élastique ) , il retournait aux mesures initiales après 24 heures .
+Dans la même optique , Harris_et_al. ont suivi 20 femmes traitées pour un cancer du sein ( dont 13 avaient un lymphoedème ou une lourdeur du membre supérieur ) avant , pendant et 7 mois après un entraînement intensif pour une compétition de dragon boat ( sorte de canoë de grande taille ) .
+La taille du lymphoedème était évaluée par des mesures centimétriques .
+Toutes les participantes avaient porté un manchon de compression pendant l' entraînement et la compétition .
+Seules deux ont eu une augmentation modérée de leur lymphoedème 7 mois après la compétition .
+Un suivi plus long serait intéressant afin_de déterminer les conséquences à long terme des exercices physiques sur le lymphoedème .
+Caractéristiques de la tumeur
+Envahissement ganglionnaire
+Les résultats des différentes études de la littérature sont discordants .
+L' existence d' un envahissement ganglionnaire représente un facteur de risque de développement d' un lymphoedème pour certains auteurs et non pour d' autres .
+Stade de la tumeur
+Les résultats des différentes études sont là encore contradictoires .
+En effet , pour certains auteurs , le stade et la taille de la tumeur n' apparaissent pas comme un facteur de risque de survenue d' un lymphoedème alors_que , pour d' autres , ils le sont .
+Dans l' étude de Herd-Smith_et_al. , il existe un risque accru de développer un lymphoedème pour les tumeurs de stade T2 par rapport aux tumeurs de stade T1 ( 19,8 versus 14,7 % ) .
+Pour Goffman_et_al. , dans une cohorte de 240 patientes traitées par chirurgie ( mammectomie ou tumorectomie ) et ganglion sentinelle ou curage axillaire suivi d' une radiothérapie locale , la taille de la tumeur est corrélée au_risque_de développer un lymphoedème après un suivi moyen de 18 mois .
+Autres
+Piqûres , injections
+Alors qu' il est toujours recommandé aux patientes d' éviter tout prélèvement , piqûre ou plaie sur le membre homolatéral au cancer du sein , ce risque a été très rarement évalué par les études .
+Clark_et_al. ont suivi 188 femmes traitées par chirurgie avec curage axillaire ganglionnaire parfois associé à une radiothérapie et confirment ce facteur de risque .
+En effet , 31 des 170 femmes ( 18,2 % ) indemnes de tout type de piqûre lors_de l' hospitalisation sur le membre homolatéral au traitement du cancer développaient un lymphoedème contre 8 des 18 patientes ( 44,4 % ) qui avaient été « piquées » .
+Il s' agissait de piqûres pour des prélèvements sanguins , des injections intraveineuses et des contrôles de glycémie capillaire .
+L' étude de Smith rapporte le cas de 10 patientes traitées pour un cancer du sein et qui avaient développé un lymphoedème dans les suites immédiates d' une piqûre sur le membre homolatéral au cancer .
+Cependant les autres facteurs de risque de développer un lymphoedème ne sont pas détaillés .
+Érysipèle
+L' érysipèle est la principale complication du lymphoedème .
+Trente pour cent des femmes ayant un lymphoedème du membre supérieur en ont au moins un épisode [ données personnelles ] .
+Au membre supérieur , les portes d' entrée sont rarement retrouvées ( griffures d' animaux , brûlures , soins de manucure ) à la différence des membres inférieurs ( intertrigos interorteils ) .
+L' érysipèle atteint la zone du lymphoedème et peut s' étendre au sein à partir du membre supérieur .
+Sa fréquence est variable , allant d' un épisode unique à de multiples récidives nécessitant une prophylaxie anti-infectieuse au long cours .
+Même si cette complication est connue , certains auteurs pensent qu' un érysipèle est un facteur de risque de développement d' un lymphoedème .
+Ainsi , dans l' étude de Petrek_et_al. sur les 55 femmes ayant eu au moins un érysipèle , 23 , soit 56 % , disent en avoir eu un avant ou lors_de l' apparition du lymphoedème .
+Il est possible que l' érysipèle complique un lymphoedème infraclinique et soit alors le facteur décompensant le lymphoedème .
+Complications postopératoires
+Peu d' études se sont intéressées à l' existence d' un lien entre les complications postopératoires immédiates , telles_que le lymphocèle , la lymphorrhée , les infections postopératoires et la survenue d' un lymphoedème .
+En revanche , certaines évoquent l' hypothèse qu' un lymphocèle pourrait favoriser l' apparition du lymphoedème .
+En effet , Schrenk_et_al. , qui montrent que la fréquence du lymphoedème est significativement plus importante dans le groupe curage axillaire que dans le groupe ganglion sentinelle , montrent également que la fréquence des lymphocèles est plus importante dans le groupe curage axillaire que dans le groupe ganglion sentinelle ( 43 versus 5,7 % ) .
+Bijek_et_al. confirment que le risque de lymphocèle est plus important après le curage ganglionnaire qu' après l' ablation du ganglion sentinelle .
+Ainsi , dans son étude , 40 % des femmes traitées par chirurgie et curage ganglionnaire développent un lymphocèle contre 18 % de celles traitées avec la technique du ganglion sentinelle .
+De plus , dans ce dernier groupe , une ponction évacuatrice unique suffisait à tarir le lymphocèle alors_que deux ponctions en moyenne étaient nécessaires pour assécher les lymphocèles secondaires au curage axillaire .
+Le suivi prospectif à la recherche de l' apparition d' un lymphoedème dans chacun des groupes serait intéressant afin_de déterminer s' il existe un lien entre la survenue d' un lymphoedème et un lymphocèle postopératoire .
+Dans une autre étude concernant 281 femmes suivies pendant 14 mois après un traitement pour un cancer du sein associant chirurgie , curage axillaire suivi d' une radiothérapie locale et du creux sus-claviculaire associé à une chimiothérapie en cas d' envahissement ganglionnaire , les auteurs ne confirment pas ce facteur de risque .
+Âge
+L' âge n' apparaît pas comme un facteur de risque individuel de développer un lymphoedème dans la majorité des études de la littérature .
+Seuls deux études montrent qu' il est un facteur de risque mais avec des résultats contradictoires .
+Ainsi pour Geller_et_al. , les sujets jeunes sont plus à risque de développer un lymphoedème alors_que , pour Kiel et Rademacker , les patientes de plus de 55 ans représentent la population à risque .
+L' étude de Geller_et_al. consistait en un interrogatoire téléphonique régulier de 145 femmes sur la survenue d' un lymphoedème pendant les 26 mois qui avaient suivi le diagnostic de leur cancer du sein .
+Elle retrouve que 57,7 % des femmes de moins de 50 ans ont développé un lymphoedème contre 26,9 % des femmes de plus de 50 ans .
+Cependant , aucune mesure centimétrique ou volumétrique n' a objectivement évalué le lymphoedème .
+Kiel et Rademacker montrent que 56 % des femmes de plus de 55 ans développent un lymphoedème contre 23 % des femmes de moins de 55 ans .
+Ménopause
+Peu d' études se sont intéressées à l' existence d' un lien entre l' apparition d' un lymphoedème et le statut hormonal des patientes .
+Les rares études sur le sujet ont des résultats contradictoires .
+Pour Van der Veen et al. , la ménopause serait un facteur de risque .
+Voyage en avion
+Il est possible que le voyage en avion soit un facteur de risque de développement d' un lymphoedème en raison d' une diminution de la pression dans la cabine .
+Casley-Smith_et_al. ont interrogé 163 femmes avec un lymphoedème secondaire du membre supérieur sur ce sujet .
+Parmi elles , 12 rapportent son apparition immédiatement après le voyage en avion .
+Conclusion
+Le curage axillaire représente le principal facteur de risque de développement d' un lymphoedème après le traitement d' un cancer du sein .
+La radiothérapie externe pratiquée après la chirurgie , en_particulier lorsqu' elle comprend les aires ganglionnaires axillaires , augmente encore ce risque .
+Les progrès du traitement chirurgical avec l' utilisation de la technique du ganglion sentinelle et l' amélioration des techniques de radiothérapie font diminuer ce risque .
+La connaissance des autres facteurs de risque permet d' envisager une réduction supplémentaire du nombre de lymphoedèmes dont les conséquences sont à_la_fois esthétiques , psychologiques et infectieuses .
+Les mesures à proposer doivent être personnalisées et peuvent comprendre le contrôle du poids , le maintien des activités physiques et la prévention des gestes invasifs sur le membre supérieur homolatéral au cancer du sein .

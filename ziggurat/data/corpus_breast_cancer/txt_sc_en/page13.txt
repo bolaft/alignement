@@ -1,0 +1,123 @@
+The optimal management of the axilla remains controversial despite the advent of sentinel node biopsy which is increasingly being embraced around the world as a standard of care for breast cancer patients .
+A national debate was convened at the Royal Society of Medicine in September 2005 to clarify current opinion and practices within the United Kingdom .
+The meeting , organized by Taylor and Francis was chaired by Prof. Gerald Westbury .
+A final vote on the " best " method for staging the axilla was provocative with a substantial body of support for blue-dye-assisted node sampling rather than conventional sentinel node biopsy with dual localization techniques .
+The debate focused on six key motions , each with speakers for and against , and opinions were sought from non-surgical specialists , a statistician and representatives from patient advocacy groups , including the Breakthrough Cancer Campaign .
+Motion 1 - has axillary dissection per se a survival advantage ? ( For : Professor Ian Fentiman. Against : Mr. Udi Chetty )
+If breast cancer remains confined to loco-regional tissues at the time of diagnosis without the presence of micrometastases at distant sites , __ALND__ should in theory have a survival advantage .
+Untreated disease in regional nodes would act as a source for distant metastatic foci with a worsening of prognosis .
+It is accepted that axillary nodal status remains the single most important determinant of prognosis in patients with operable breast cancer and axillary clearance maximizes local control .
+It was emphasized that the two trials showing no overall survival advantage from __ALND__ ( NSAPB B-041 and Kings / Cambridge2 ) were both under-powered and potentially confounded .
+A Bayesian meta-analysis of six randomized trials of almost 3000 patients treated over four decades all showed a survival benefit ranging from 4% to 16% ( average 5.4% ) .3 This meta-analysis was unaffected by any bias within individual trials and considered to be strong evidence in support of the contention that inadequate axillary surgery leads not only to increased loco-regional relapse but also to a significant mortality effect .
+Against this motion , Chetty cited long term follow-up from three large Edinburgh based studies ( >2000 patients ) examining axillary clearance with four node sampling.4 A combined analysis of separate trials involving mastectomy or breast conservation patients randomized to either clearance or sampling revealed no significant difference in 10 year survival ( irrespective of nodal status ) .
+There are limitations of meta-analyses and this issue remains unresolved .
+Nonetheless , more aggressive loco-regional treatment might be appropriate in younger women for whom a survival advantage could emerge in the longer term .
+The Edinburgh trials , however , did not demonstrate that axillary surgery does not affect survival ; they showed that axillary sampling is as good as axillary dissection both in terms of staging and local recurrence / survival .
+Motion 2 - is it always necessary to have an axillary staging procedure ? ( For : Mr. Gerald Gui. Against : Mr. John Benson )
+Arguments in favour of the motion centred around sentinel node biopsy which now provides a targeted means for staging the axilla with minimal morbidity .
+Only those patients who are sentinel node positive undergo formal axillary clearance .
+The information derived from axillary staging not only maximizes prognostication , but can also influence decisions on adjuvant therapies ( chemotherapy / radiotherapy ) and help women make an informed decision on treatment options .
+Against the motion , it was pointed out that prior to sentinel node practice , some post-menopausal women were spared axillary dissection.5 , 6 , 7 , 8 , 9 , 10 and 11 Though sampling and sentinel node biopsy are alternative methods for staging the axilla , observation alone may be an acceptable approach for a selected subgroup of women with small tumours of favourable histological grade and a low probability of nodal involvement .
+A group of patients can be identified for whom the probability of nodal metastases is of similar magnitude to the false negative rates reported for the sentinel node biopsy technique ( 5 - 10% ) .
+It seems likely that for older women with small tumours the risk:benefit ratio for determining the few node positive cases does not justify any form of axillary procedure ( be it staging or __ALND__ ) at the time of primary surgery .
+Whatever the degree of pathological involvement of the sentinel node , this tumour load will be clinically relevant in only a small proportion of these patients .
+Observation alone or a " wait and see " policy should be incorporated into the management spectrum as a cost-effective method.12 and 13 The costs for detecting a relatively small proportion of node positive cases who derive modest benefit from chemotherapy are high ; if the incidence of nodal metastases is between 2% and 11% , and the average cost of an axillary staging procedure is £3000 , the actual cost of every one to two patients benefiting form chemotherapy is estimated between £1.5 and £15 million ( current prices ) .
+Motions 3 , 4 and 5 addressed the question of which is the best way of staging the axilla and the various options of sampling and sentinel node biopsy were debated separately .
+Motion 3 - axillary sampling ( For : Mr. Jayant Vaidya. Against : Mr. Mark Kissin )
+In support of axillary sampling , Vaidya re-iterated results from the Edinburgh trials showing not only equivalent overall survival , but also local relapse rates when four node sampling is compared to axillary clearance .
+The technique , when properly performed by trained surgeons , has near to 100% accuracy in staging the axilla ( almost 100% detection rates with negligible false negative rates ) and low morbidity .
+Furthermore , there is no requirement for expensive equipment ( gamma probe ) , a nuclear medicine facility ( and ARSAC licence ) and no contamination of tissues with radiation which can be safely stored for future analysis ( e.g. gene micro-array ) .
+A mathematical model was presented which estimates the effects of false negative rates on mortality as a consequence of excess loco-regional recurrence and withholding adjuvant systemic therapy for presumed node negativity.13 This model predicts that for tumours less-than-or-equals , slant2 cm in size , a false negative rate of 9.7% leads to an absolute increment in 10 year mortality of less than 0.6% .
+In addition to having a modest impact on mortality , false negative rates do not improve with experience ( remaining between 8% and 10% ) thus questioning the biological underpinning of the sentinel node hypothesis which is based on sequential lymphatic spread .
+Up to one-quarter of patients undergoing sentinel node biopsy will be node positive and require a completion of __ALND__ - often as a second operation .
+Arguing against any form of blind sampling , Kissin emphasized the wide variation in node positivity rates amongst screening units , and attributed this " chaos " to problems with sampling techniques .
+Sampling was considered an inaccurate method for staging the axilla outside the context of a clinical trial , and is too " risky " and not reproducible .
+Sentinel node biopsy is a " high tech " form of sampling and why not use available technology ?
+Motion 4 - axillary sampling ( blue-dye guided ) ( For : Mr. Douglas Macmillan. Against : Mr. Richard Sainsbury )
+Despite widespread enthusiasm for the technique , sentinel node biopsy has some limitations .
+Macmillan pointed out that a survey done in 1999 revealed that 47% ( 119 respondents ) of surgeons performed sampling whilst in 2004 this figure had increased to 62% ( 371 respondents ) .
+This did not include those who purported to practice sentinel node biopsy and did not distinguish between blind and dye-assisted sampling .
+In a prospective comparison study involving 200 patients , Macmillan concluded that sentinel node biopsy may have little to offer four node samplers.14 and 15 The sentinel node was present in the four node sample in 77% of the cases , whilst no sentinel node was found in 4% of the cases .
+Moreover , there were eight cases where the sentinel node was negative for tumour , but other node ( s ) in the excised specimen were positive .
+False negative rates were 14% for sentinel biopsy and only 1.7% for sampling and at a median follow-up of 5.1 years only 1.5% of patients had axillary recurrence ( 0.3% per annum ) .
+A publication by H. Cody16 was cited in which additional sampling of tissue adjacent to hot and blue nodes was used to reduce false negative rates by 60% .
+We are dealing with degrees of sampling here ; the average number of sentinel nodes harvested is between two and three which is not much different from a four node sampling .
+When palpable nodes which are neither hot nor blue are removed the average number of nodes often exceeds four .
+Use of blue dye to assist sampling improves its accuracy and maximizes the chance that the true sentinel node is contained in the sample .
+Some consider pre-operative ultrasound guided node biopsy to be a more significant advance in the management of the axilla than sentinel node biopsy.17 This method can potentially identify between 40% and 50% of node positive patients and identify those patients who should have an axillary clearance at the outset .
+This will reduce the number of patients requiring further axillary surgery after sentinel node biopsy .
+Sainsbury argued that blue-dye-assisted sampling is neither " fish nor foul " and portrayed this technique as a " turkey " which represents an apology for not having established a sentinel node program .
+He conceded that sampling can be done well by those properly trained in the technique , in which case use of blue dye was superfluous .
+In terms of sentinel node detection , blue dye alone is insufficient and dual localization with both dye and isotope is optimal .
+Lymphoscintigraphy is recommended for pre-operative determination of numbers of lymph nodes , distinction between first and higher echelon nodes and for identification of extra-axillary nodal tissue .
+It is also helpful for marking the skin and as a guide to probe detection during surgery .
+Few sentinel nodes identified intra-operatively have not been visualized on lymphoscintigraphy .
+Within the ALMANAC audit phase,18 internal mammary nodes were seen in 10% of the patients .
+Sixteen percent of those undergoing open surgical biopsy had positive nodes and received local radiotherapy .
+Some centres employ __TIMC__ and if positive proceed to immediate axillary lymph node clearance .
+However , a meta-analysis of __TIMC__ questions the reliability of this technique with false negative rates varying from 2% to 39% .
+__TIMC__ has lower rates of sensitivity for micrometastases and frozen section done in conjunction with __TIMC__ may increase its accuracy .
+Motion 5 - sentinel node biopsy ( For : Professor Robert Mansel. Against : Mr. G. Querci della Rovere )
+Professor Robert Mansel is a leading proponent of sentinel node biopsy in the United Kingdom and spearheads the New Start programme which is a joint initiative between the Royal College of Surgeons of England and the Department of Health .
+This programme is being rolled out across the United Kingdom with the aim of training all breast surgeons in the technique of sentinel node biopsy using both dye and radioisotopic localization .
+Mansel is the principal investigator for the ALMANAC trial and believes that sentinel node biopsy should be the standard of care for breast cancer patients with clinically negative axillae .
+When patients have opted for no further treatment with a positive sentinel node , axillary recurrence rates are 1.4% .
+Pressure for change is being driven by lower incidence of node positivity in the screened population , less prognostic emphasis on nodal status per se and higher patient expectation .
+Evidence is now emerging from well conducted multicentre trials investigating sentinel node biopsy in series of 2000 - 3000 cases .
+Three randomized controlled trials have shown a reduction in morbidity with local recurrence rates for sentinel node biopsy negative axillae being very low ( 0.3% Milan ; 0.12% MSKCC ) .a By contrast , some of the other methods for staging the axilla ( blue-dye-assisted node sampling ) tend to be based on personal series .
+In a survey performed in 2001 - 2002 , only 10% of surgeons in the United Kingdom routinely performed sentinel node biopsy and axillary clearance though a further 17% practiced a combination of sentinel node biopsy , sampling and axillary clearance .
+The remaining comprise those surgeons who practice a combination of axillary sampling and axillary dissection without a formal Sentinel Node Biopsy .
+It is acknowledged that four node sampling can accurately predict nodal status , has lower morbidity than __ALND__ and low rates of recurrence .
+However , there is much variation in node retrieval and no standardization in terms of surgical boundaries and technique .
+Sentinel node biopsy is essentially a targeted form of sampling and several series have now reported false negative rates of <5% .
+Rates of arm morbidity ( lymphoedema , numbness , pain ) should intuitively be lower for sentinel node biopsy and this is now supported by evidence from non-randomized observational studies in addition to randomized controlled trials .
+The ALMANAC trial has shown significant reductions in morbidity and improvement in quality of life parameters .
+Longer term outcome data are awaited on rates of local recurrence and overall survival , though it should be remembered that __ALND__ has a finite rate of local recurrence .
+Finally , sentinel node biopsy may prove to be more cost-effective than other methods of axillary staging and save money for the health service .
+Querci della Rovere bravely opposed the view that sentinel node biopsy should become standard of care .
+It was claimed that the basic premise of the sentinel node hypothesis is wrong ; early anatomical studies revealed no evidence of a single first , or " sentinel " lymph node towards which all lymphatic channels converge before passing to more distal nodes .
+Instead , the lymphatics of the breast converge towards three to five lymph nodes at level I which is more consistent with the average number of nodes reported in sentinel node studies .
+Indeed , false negative rates are higher when only a single node is removed and significantly lower when multiple nodes are harvested at the time of sentinel node biopsy.20 At operation a sentinel node is defined as any node which is blue , hot , blue and hot or neither blue nor hot but simply palpable .
+False negative rates vary from 0% to 17% and there has been a tendency to view false negative rates as a contraindication to sentinel node biopsy in certain circumstances rather than as evidence falsifying the concept .
+Is the detection of more than one sentinel node attributable to technical limitations or variations in technique ?
+The flow of material within the lymphatic system is to some extent a passive and random event which may account for detection of multiple sentinel nodes - and perhaps the failure to sometimes find the " sentinel node " .
+It is suggested that the technique " works " and has become accepted for several reasons :
+( i ) the progressive spread from levels I through II and III nodes ;
+( ii ) more than one node is usually removed ;
+( iii ) the sentinel node is more highly scrutinized pathologically which favours concordance between sentinel and non-sentinel nodes ;
+( iv ) the low overall incidence of axillary node metastases favours correlation and reduces the chance of regional recurrence in the event of a false negative result .
+It was pointed out that sampling is not a new concept , having been introduced by Sir Patrick Forrest more than 30 years ago.21 Blue dye assistance is a recent development and may represent the most pragmatic method for identification of the relevant group of sentinel nodes .
+Motion 6 - should completion axillary lymph node dissection be performed in all cases of a positive sentinel node ? ( For : Mr. Stephen Ebbs. Against : Professor Anand Purushotham )
+In favour of the motion , Ebbs believed it was essential to remove all positive axillary nodes as adequate loco-regional control may translate into improved overall survival .
+Rates of axillary recurrence and uncontrolled relapse are 3% and 1% , respectively , following axillary dissection .
+The accuracy of sentinel node biopsy is increased when more than one node is removed ( false negative rate 16 - 25% ) and about four nodes seem optimal.22 Attempts to predict non-sentinel node involvement when the sentinel node is positive using mathematical formulae based on breast tumour and sentinel nodes characteristics have been unsuccessful ; though non-sentinel node involvement occurs in less than 50% of cases it is not possible to identify any subgroup with a very low risk .
+For example , a 1 cm , grade II , ER positive tumour with a 2 mm sentinel nodal deposit has a 40% risk of further nodal involvement .
+Even when only micrometastatic disease is found in the sentinel node , there is a 10% risk of non-sentinel node involvement which usually are solitary deposits , but may include macrometastases .
+Four node sampling in conjunction with blue dye sentinel node harvesting may aid prediction of status of the remaining nodes .
+When one out of four nodes contain micrometastases , there is less chance of any remaining disease than when only one out of two nodes are positive .
+In the case of an intra-operative positive node , an argument could be made for either no further surgery or axillary irradiation .
+A decision on systemic therapy may already have been taken and breast radiation tangents do encompass the lower axilla and may be therapeutic .
+Moreover , nodal metastases are predictors and not determinants of survival and there is no difference between immediate and delayed axillary dissection .
+However , local control is inferior , systemic therapy schedules may be modified by the degree of nodal involvement and a curative opportunity will be missed for disease confined to the loco-regional tissues .
+Purushotham challenged the view that it was inappropriate to recommend anything other than a completion of axillary dissection for sentinel node positive patients .
+The risk of non-sentinel node involvement is related to the volume of disease in the sentinel node , being greatest for macrometastases ( 50% ) , intermediate for micrometastases ( 20% ) and least for isolated tumour cells which are usually detected by immunohistochemistry ( 9% ) .23 , 24 and 25 Ongoing trials will help resolve the issue of whether further axillary treatment is mandatory when the sentinel node is positive with risk stratification based on metastatic load .
+The ACOSOG-2011 randomizes sentinel node positive patients to either completion __ALND__ or no further axillary treatment , whilst the IBCSG23-01 similarly randomizes patients when the sentinel node is positive for micrometastases only .
+It should be noted that completion axillary dissection may represent overtreatment for some patients should nodal micrometastases prove to have limited biological and clinical significance .
+Voting and conclusions
+Voting on each of the above six motions was undertaken both preceding and following the debate .
+These results are summarized below :
+Management of the axilla continues to present challenges for both patients and clinicians .
+These voting patterns indicate that some pre-existing views were modified by issues discussed and debated at the meeting .
+Support for a survival benefit from axillary dissection was reduced post debate and this was in line with a shift in favour of a selective policy for axillary staging ( 38 - 51% ) .
+Of particular interest , only 55% of attendees considered the concept of sentinel node biopsy to be true prior to the debate and this was marginally reduced further to 48% afterwards .
+The previously cited survey showing that only one-quarter of surgeons in the United Kingdom practiced sentinel node biopsy may partially reflect a degree of scepticism for the hypothesis in its pure form .
+Perhaps the most notable finding from the voting was the shift away from sentinel node biopsy with dual localization techniques to blue-dye-assisted sampling .
+This appears to indicate some loss of confidence in the sentinel node biopsy technique or perhaps a desire and respect for pragmatism !
+On the final motion , the voting strongly reinforced the majority opinion that a completion axillary dissection is necessary based on currently available evidence .
+Many questions remain to be answered ; these relate not only to fundamental conceptual issues such as the biological significance of lymph node metastases and what degree of pathological scrutiny is " enough " but also more practical matters of sentinel node methodology .
+The latter includes factors such as type of dye / isotope , when , where and how much to inject and use of lymphoscintigraphy .
+Longer term results of randomized controlled trials assessing loco-regional control and overall survival in sentinel node biopsy are crucial before this technique can be hailed as the " standard of care " .
+This debate encompassed the views of patients representatives ; it is likely that a tailored approach to management of the axilla will prove optimal which incorporates a spectrum of options based on risk:benefit as well as cost:benefit analysis together with patient choice .
+It should be remembered that sentinel node biopsy has been partly patient driven and some women may accept a slightly greater oncologic hazard in exchange for reduced upper limb morbidity .
+Conversely , others do not wish to risk a slight increment in mortality and may prefer formal axillary clearance with increased risk of upper limb complications .
+Ultimately , the final decision is a value judgement by both doctor and patient based on the available evidence .

@@ -2,6 +2,7 @@ package main;
 
 import java.io.File;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
@@ -31,7 +32,6 @@ public class Evaluator extends Resource {
 
 	@Override
 	public void load() {
-
 		try {
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
@@ -99,46 +99,33 @@ public class Evaluator extends Resource {
 		this.truth = truth;
 	}
 
-	public HashMap<String, Double> test(HashMap<String, Integer> sourceToTargetVector, HashMap<String, HashMap<String, Integer>> targetVector, int top) {
-		HashMap<String, Double> results = new HashMap<String, Double>();
-
-		Iterator<Entry<String, HashMap<String, Integer>>> it = targetVector.entrySet().iterator();
+	public ArrayList<String> findCandidates(HashMap<String, Integer> translatedSourceVector, HashMap<String, HashMap<String, Integer>> targetVectors, int top) {
+		HashMap<String, Double> cosines = new HashMap<String, Double>();
 		
-		while (it.hasNext()){
-	        Map.Entry<String, HashMap<String, Integer>> entry = (Entry<String, HashMap<String, Integer>>) it.next();
-	        double score = computeCosine(sourceToTargetVector, entry.getValue());
-	        
-	        Iterator<Entry<String, Integer>> trgit = entry.getValue().entrySet().iterator();
-	        
-	        while (trgit.hasNext()) {
-		        Map.Entry<String, Integer> trgEntry = (Entry<String, Integer>) trgit.next();
-		        
-		        if (results.size() <= top) {
-		        	results.put(trgEntry.getKey(), score);
-		        } else {
-			        Iterator<Entry<String, Double>> rit = results.entrySet().iterator();
-			        
-			        while (rit.hasNext()) {
-				        Map.Entry<String, Double> resultEntry = (Entry<String, Double>) rit.next();
-			        	
-				        if (resultEntry.getValue() < score) {
-				        	results.remove(resultEntry.getKey());
-				        	results.put(trgEntry.getKey(), score);
-				        	break;
-				        }
-			        }
-		        }
-	        }
+		for (String targetWord : targetVectors.keySet()){
+			double cosine = computeCosine(targetVectors.get(targetWord), translatedSourceVector);
+			
+			if (cosines.size() > top) {
+				for (String cosineKey : cosines.keySet()) {
+					if (cosines.get(cosineKey) < cosine) {
+						cosines.remove(cosineKey);
+						cosines.put(targetWord, cosine);
+						break;
+					}
+				}
+			} else {
+				cosines.put(targetWord, cosine);
+			}
 		}
 		
-		return results;
+		return new ArrayList<String>(cosines.keySet());
 	}
 	
-	public double evaluate(HashMap<String, HashMap<String, Double>> results) {
+	public double evaluate(HashMap<String, ArrayList<String>> results) {
 		int total = 0;
 		
 		for (String word : getWordsToTranslate()) {
-			if (results.containsKey(word) && results.get(word).containsKey(truth.get(word))){
+			if (results.containsKey(word) && results.get(word).contains(truth.get(word))){
 				total++;
 			}
 		}
@@ -146,60 +133,21 @@ public class Evaluator extends Resource {
 		return total / truth.size();
 	}
 	
-	public double computeCosine(HashMap<String, Integer> v1, HashMap<String, Integer> v2) {		
-		Iterator<Entry<String, HashMap<String, Integer>>> rit = matrix(v1, v2).entrySet().iterator();
+	public double computeCosine(HashMap<String, Integer> word1, HashMap<String, Integer> word2) {                
+
+        ArrayList<String> words = new ArrayList<String>(word1.keySet());
+        words.addAll(word2.keySet());
         
-		int total = 0;
-		
-		while (rit.hasNext()) {
-		    Map.Entry<String, HashMap<String, Integer>> rEntry = (Entry<String, HashMap<String, Integer>>) rit.next();
-		    
-		    int v1count = rEntry.getValue().get("vector1");
-		    int v2count = rEntry.getValue().get("vector2");
-		    
-		    total = total + v1count * v2count;
-		}
-		
-		return total / (Math.sqrt(v1.size()) * Math.sqrt(v2.size()));
-	}
-	
-	public HashMap<String, HashMap<String, Integer>> matrix(HashMap<String, Integer> v1, HashMap<String, Integer> v2) {
-		HashMap<String, HashMap<String, Integer>> matrix = new HashMap<String, HashMap<String, Integer>>();
-		
-		Iterator<Entry<String, Integer>> it1 = v1.entrySet().iterator();
-	        
-		while (it1.hasNext()) {
-		    Map.Entry<String, Integer> entry1 = (Entry<String, Integer>)it1.next();
-		    
-		    String word1 = entry1.getKey();
-		    Integer count1 = entry1.getValue();
-		    
-		    if (!matrix.containsKey(word1)){
-		    	HashMap<String, Integer> map1 = new HashMap<String, Integer>();
-		    	matrix.put(word1, map1);
-		    	matrix.get(word1).put("vector2", 0);
-		    }
-		    
-	    	matrix.get(word1).put("vector1", count1);
-		    
-		    Iterator<Entry<String, Integer>> it2 = v2.entrySet().iterator();
-	        
-			while (it2.hasNext()) {
-			    Map.Entry<String, Integer> entry2 = (Entry<String, Integer>)it2.next();
-			    String word2 = entry2.getKey();
-			    Integer count2 = entry2.getValue();
-			    
-			    if (!matrix.containsKey(word2)){
-			    	HashMap<String, Integer> map2 = new HashMap<String, Integer>();
-			    	matrix.put(word2, map2);
-			    	matrix.get(word2).put("vector1", 0);
-			    }
-			    
-		    	matrix.get(word2).put("vector2", count2);
-			}
-		}
-		
-		return matrix;
+        Double total = 0.0;
+        
+        for (String word : words) {
+        	Integer w1count = word1.get(word) == null ? 0 : word1.get(word);
+        	Integer w2count = word2.get(word) == null ? 0 : word2.get(word);
+        	
+            total += w1count * w2count;
+        }
+        
+        return total / (Math.sqrt(word1.size()) * Math.sqrt(word2.size()));
 	}
 	
 	@Override

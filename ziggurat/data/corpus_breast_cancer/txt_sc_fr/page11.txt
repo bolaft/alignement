@@ -1,0 +1,89 @@
+Malgré les controverses , le dépistage de masse organisé du cancer du sein est actuellement un des facteurs majeurs de l' amélioration de la survie des patientes atteintes de ce type de cancer .
+Classiquement , une amélioration de 30 % de survie est obtenue pour les cancers du sein dépistés , par rapport aux cancers non dépistés , dans les études randomisées .
+Celles-ci ont inclus environ 500000 femmes .
+Même si les techniques de dépistage ont été différentes suivant les pays , alliant une mammographie à l' examen clinique ou consistant en une mammographie seule avec 2 clichés ou 1 seule incidence d' une périodicité variable , les résultats sont majoritairement en faveur du dépistage .
+Le but du dépistage est de diagnostiquer des cancers à un stade précoce , permettant ainsi un traitement plus efficace et peut-être moins agressif.Nous rapportons une étude comparant les caractéristiques des cancers diagnostiqués grâce_à la campagne de dépistage et celles des cancers diagnostiqués hors dépistage pendant une période de 5 ans dans le département de la Haute-Vienne.En France , dès 1989 , certains départements ont mis en place un programme de dépistage de masse organisé .
+Les résultats épidémiologiques de plusieurs des programmes départementaux de dépistage du cancer du sein en France ont été publiés et , malgré des disparités , ils donnent des indicateurs de qualité et d' efficacité proches des références européennes du dépistage .
+La Haute-Vienne a rejoint ces programmes expérimentaux en 1996 , avec la proposition d' un cliché mammographique oblique externe tous les 3 ans aux femmes entre 50 et 69 ans .
+C' est en 1998 , alors_que la seconde campagne était lancée avec de nouvelles modalités , c' est-à-dire avec un intervalle de 2 ans entre deux campagnes et une extension de la cible à dépister ( les femmes jusqu' à 74 ans ) , que l' Association pour le dépistage du cancer du sein ( ADCS 87 ) met en place un recueil anatomopathologique de l' ensemble des cancers du sein du département tel qu' il est recommandé dans les normes nationales .
+Ce recueil nous permet aujourd'hui de comparer les principales caractéristiques anatomopathologiques des cancers diagnostiqués hors dépistage dans la tranche d' âge dépistée et en_dehors de cet âge.Les caractéristiques enregistrées sont la taille anatomopathologique de la tumeur , son type histologique , son grade , l' envahissement ganglionnaire anatomopathologique .
+Elles sont encore aujourd'hui les bases du traitement de ces tumeurs et font partie des principaux facteurs pronostiques .Nous avons inclus les cancers de l' intervalle dans le groupe des patientes dépistées .
+Ces cancers sont associés à un plus mauvais pronostic , car ils sont généralement diagnostiqués à un stade plus avancé et présentent un degré de différenciation moindre que les cancers dépistés .
+Il nous a cependant paru plus logique de les intégrer dans l' évaluation de la campagne de dépistage .
+Leur taux est un indicateur de qualité du dépistage .
+Matériel et méthodes
+La campagne mise en place en 1998 est conforme au cahier des charges du comité national de pilotage du dépistage des cancers du sein .
+L' évaluation du dépistage s' est faite selon les normes européennes .
+La population cible de la campagne de dépistage est d' environ 53000 femmes .
+Caractéristiques anatomopathologiques
+Nous avons différencié les cancers infiltrants des cancers canalaires in_situ purs .
+Les cancers montrant les deux composantes infiltrante et in_situ sont classés dans la catégorie des carcinomes infiltrants .
+Carcinomes canalaires in_situ ou CIS
+Comme le montre le tableau 2 ( Tableau 2 ) , dans le groupe 1 , parmi les 333 cancers , 43 , soit 12,91 % , sont des cancers in_situ .
+Dans cette catégorie des carcinomes in_situ , il n' existe pas de différence significative ( p = 0,44 ) entre les cancers dépistés ( 13,85 % ) et les cancers de l' intervalle ( 9,59 % ) .
+Il n' existe pas de différence en fonction de l' année de dépistage : 9 en 1998 puis 8 , 8 , 11 et 7 dans les années suivantes .
+Si des variations en fonction de l' âge sont à noter avec 13,40 % de 50 à 59 ans , 14,62 % de 60 à 69 ans et , surtout , 7,69 % de 70 à 74 ans , elles ne sont cependant pas significatives , sans_doute du fait d' un trop faible échantillonnage .
+Cette même variation est retrouvée pour le groupe 2 avec 12,16 , 10,43 et 5,26 % respectivement dans les mêmes tranches d' âge et cette fois une différence significative ( p = 0,02 ) entre les femmes de 50 à 59 ans et celles de 70 à 74 ans .
+Il n' existe pas de différence du nombre de carcinomes in_situ rapporté au nombre total de cancers dans le groupe 2 ( p = 0,16 ) ou dans le groupe 3 ( p = 0,61 ) par rapport au groupe 1.
+Le recueil anatomopathologique utilise plusieurs sources : les anatomopathologistes , les chirurgiens gynécologues et les oncologues de la Haute-Vienne ainsi_que le réseau de cancérologie du Limousin , Oncolim .
+À chaque donnée anatomopathologique recueillie , est attribué un numéro correspondant à l' identité de la femme dans le fichier unique des femmes du département de l' ADCS soigneusement épuré des doublons .
+Pour les femmes « hors tranche d' âge du dépistage » , un tri manuel soigneux a été effectué sur le nom , prénom , date de naissance et adresse de la patiente .
+Les cancers sont enregistrés au diagnostic et , pour_le_moment , aucune donnée sur l' évolution en termes de récidive ou de métastase n' est prévue .
+En ce qui concerne les malades opérées hors dépistage en_dehors du département , le recueil des données n' a pas été possible .
+Considérant que 1,90 % des patientes dont le cancer a été dépisté sont opérées en_dehors du département , on peut reporter cette marge d' erreur potentielle sur l' ensemble du recueil .
+Les critères retenus pour ce recueil sont le mode de détection : dépistage / hors dépistage , l' âge au diagnostic , le type histopathologique ( carcinome in_situ ou infiltrant , canalaire , lobulaire , mixte , autres ) , le grade SBR , la taille tumorale anatomopathologique et l' envahissement ganglionnaire .
+Trois groupes de population ont été définis :
+* - le groupe 1 comprend les femmes de 50 à 74 ans dépistées positives , ce qui correspond à 333 cancers regroupant les 260 cancers dépistés et les 73 cancers de l' intervalle ( vrais cancers de l' intervalle ou faux négatifs ) ;
+* - le groupe 2 comprend les 687 femmes de 50 à 74 ans n' ayant pas participé à la campagne mais présentant un cancer du sein ;
+* - le groupe 3 comprend les 315 femmes de moins de 50 ans , donc « hors tranche d' âge dépistage » , atteintes d' un cancer du sein ;
+Résultats
+Incidence
+Comme le montre le tableau 1 ( Tableau 1 ) , le taux de participation au dépistage de masse organisé a peu évolué de 1998 à 2002 , avec un chiffre d' environ 40 % ; ce taux de participation relativement faible est expliqué en_partie par un dépistage individuel très développé dans les villes .
+Le nombre de mammographies réalisées dans le département , toutes tranches d' âge confondues , pour les femmes affiliées à la CPAM , passe de 7658 à 19516 depuis la mise en place du dépistage organisé , soit une augmentation de 160 % en 7 ans .
+Nous ne disposons que des données de la CPAM car les autres organismes n' étaient pas en mesure de nous communiquer ces données .
+Soixante-deux pour cent des femmes du département sont affiliées à la CPAM .
+Pendant cette même période , il est intéressant de noter que cinq mammographes ont été remplacés après le contrôle de qualité instauré dans le cadre de la campagne .
+Au sein de la campagne de dépistage , le taux de rappel est inférieur à 5 % .
+Le taux de biopsies chirurgicales , correspondant au nombre de femmes opérées rapporté au nombre de femmes dépistées et qui , selon les normes européennes , doit être inférieur à 1,50 % , avoisine les 0,50 % .
+La __VPP__ , correspondant au nombre de cancers sur le nombre d' interventions générées par le dépistage et qui doit , selon les recommandations nationales , être supérieur ou égal à 50 % , se situe entre 70 et 80 % .
+Le nombre de cancers diagnostiqués est de 1335 , soit 333 , dans le groupe 1 avec 260 cancers dépistés et 73 cancers de l' intervalle , 687 dans le groupe 2 et 315 dans le groupe 3.
+Comme le montre la ( figure 1 ) , il n' y a pas de variation d' incidence , toutes tranches d' âge confondues , dans les groupes définis précédemment , au_cours_de ces 5 années d' exercice .
+En revanche , au sein du groupe de femmes dépistées , une variation d' incidence statistiquement significative ( p < 0,001 ) apparaît entre les femmes de 50 à 59 ans ( 4,95 ) et celles de 60 à 69 ans ( 8,07 ) ou celles de 70 à 74 ans ( 9,15 ) sur les cinq années d' étude .
+La variation d' incidence entre les femmes de 60 à 69 ans et celles de 70 à 74 ans n' est , en_revanche , pas significative avec un p à 0,38 .
+arcinomes infiltrants
+La répartition des différents types histopathologiques : canalaire infiltrant ( CCI ) , lobulaire infiltrant ( CLI ) , mixtes avec une composante canalaire et une composante lobulaire ( cancers mixtes ) et autres ( apocrine , colloïde , médullaire ) est identique dans les trois groupes ( tableau 3 ( Tableau 3 ) ) avec les proportions respectives suivantes 75,51 , 17,24 , 2,07 et 5,18 % dans le groupe 1 , 74,60 , 17,48 , 0,64 et 7,28 % dans le groupe 2 et 83,70 , 8,52 , 1,11 et 6,67 % dans le groupe 3 pour les CCI , CLI , mixtes et autres types respectivement .
+Le grade histologique défini dans la classification SBR est plus fréquemment SBR1 dans le groupe 1 ( 25,17 % ) que dans les groupes 2 ( 19,09 % ) et 3 ( 14,07 % ) ( p = 0,03 et p < 0,001 ) .
+Le pourcentage de grade SBR2 ne présente pas de différence significative dans les trois groupes puisqu' il est respectivement de 57,24 % dans le groupe 1 , 49,35 % dans le groupe 2 et 51,11 % dans le groupe 3. Le grade histologique est moins fréquemment 3 dans le groupe 1 ( 17,24 % ) que dans le groupe 3 ( 24,08 % ) ( p = 0,045 ) .
+En ce qui concerne la taille tumorale ( ( figure 2 ) , tableau 2 ) , toutes tranches d' âge confondues , 65,51 % des cancers dépistés sont inférieurs ou égaux à 20 mm dans le groupe 1 contre 50,16 % dans le groupe 2 , donc statistiquement différents ( p < 0,001 ) et cela est encore_plus significatif dans le groupe 3 avec 41,11 % ( p < 0,001 ) .
+On peut différencier la taille des cancers T1 en T1ab inférieurs ou égaux à 10 mm et T1c compris entre 10 et 20 mm , les premiers étant les critères d' efficience d' un dépistage , avec des chiffres respectifs de 22,41 % dans le groupe 1 , 16,34 % dans le groupe 2 et 11,11 % dans le groupe 3 pour les T1ab ( p = 0,02 pour les groupes 1 et 2 et p < 0,001 pour les groupes 1 et 3 ) et de 43,10 % dans le groupe 1 , 33,82 % dans le groupe 2 et 30 % dans le groupe 3 pour les T1c ( p = 0,006 pour les groupes 1 et 2 et p = 0,001 pour les groupes 1 et 3 ) .
+À l' inverse , 35,44 % des cancers du groupe 2 ont une taille comprise entre 20 et 50 mm contre seulement 26,90 % dans le groupe 1 , ce qui fait , pour les T2 , une différence significative ( p = 0,01 ) .
+De même , 12,78 % des cancers du groupe 2 ont une taille supérieure à 50 mm contre seulement 7,59 % dans le groupe 1 ( p = 0,02 ) .
+Dans le groupe 3 , 39,63 % des cancers sont détectés entre 20 et 50 mm ( p = 0,001 pour les groupes 1 et 3 ) et 17,41 % ont une taille qui excède 50 mm ( p < 0,001 pour groupes 1 et 3 ) .
+Quand on regarde au sein des différentes tranches d' âge , c' est entre 60 et 64 ans que les différences sont plus significatives avec 72,60 et 50,46 % de T1 respectivement dans les groupes 1 et 2 ( p = 0,002 ) .
+L' envahissement ganglionnaire est le facteur pronostique essentiel dans les cancers du sein .
+Les résultats obtenus sont montrés dans le tableau 2 et la ( figure 3 ) : 72,42 % des cancers dépistés en dépistage de masse organisé le sont sans envahissement ganglionnaire , contre seulement 56,64 % hors dépistage ( p < 0,001 ) .
+En ce qui concerne l' envahissement ganglionnaire des cancers du sein de la femme de moins de 50 ans , il est supérieur à celui des autres tranches d' âge puisque pratiquement une femme sur deux est métastatique sur le plan ganglionnaire au moment du diagnostic .
+Comme pour la taille tumorale , c' est dans la tranche d' âge 60-64 ans que la différence est la plus significative avec 80,82 % de N- dans le groupe 1 contre 61,47 % dans le groupe 2 ( p = 0,005 ) .
+Discussion
+L' impact du dépistage du cancer du sein sur la survie est reconnu avec l' amélioration globale de ce paramètre dans tous les pays pratiquant le dépistage de masse , non_seulement sur la tranche d' âge dépistée mais_aussi dans toutes les tranches d' âge .
+Le programme HIP , qui porte sur 31000 femmes âgées de 40 à 64 ans , dépistées tous les ans avec un suivi de 10 ans , montre un bénéfice de survie avec un risque relatif de 0,71 , tandis_que le programme suédois des deux comtés , qui porte sur 77000 femmes âgées de 40 à 74 ans , dépistées tous les 2 ans avec un suivi de 11 ans , montre un bénéfice de survie avec un risque relatif de 0,78 .
+Nous ne pourrons , dans le cadre de notre travail , étudier la mortalité .
+L' impact sur la mortalité d' une campagne de dépistage reste difficile à prouver , comme cela est montré dans le programme canadien NBSS2 , dans lequel , au cours du temps , la sensibilité des deux programmes passe de 46 à 72 % sans modifier la mortalité après 7 ans de suivi .
+Toutefois , les facteurs pronostiques du cancer du sein tels_que type anatomopathologique , taille de la tumeur , envahissement ganglionnaire , sont des facteurs essentiels de survie et d' indication de traitements plus_ou_moins lourds .
+Les critères d' efficacité des campagnes tiennent compte de ces éléments .
+Ils permettent la comparaison entre les différents programmes et indiquent les possibles améliorations à envisager .
+L' incidence des cancers in_situ a beaucoup augmenté depuis les années 1980 , en_partie grâce au dépistage .
+Le pourcentage de cancers canalaires in_situ est de 14 % dans le groupe 1 comme dans le groupe 2. Il est compris entre 8,4 et 15,8 % dans les différents programmes touchant cette tranche d' âge : 8,4 % dans le programme suédois des deux comtés , 10,1 % à Édimbourg et Stockholm , 12,8 % dans le programme HIP , 15,8 % dans celui de Malmö .
+Il est à noter des chiffres classiquement plus importants de CIS dans les tranches d' âge inférieures à 50 ans comme 18,9 % dans le programme canadien qui dépiste les femmes de 40 à 49 ans .
+Ce pourcentage peut évoluer au cours du temps dans une campagne .
+Dans certaines campagnes , il a clairement diminué .
+Par ailleurs , il est parfois , même au-delà_de 50 ans , relié à l' âge et augmente avec lui , ce qui n' est pas retrouvé dans notre étude .
+Ce pourcentage est expliqué par le fait que le carcinome canalaire in_situ est généralement associé à des microcalcifications ; Kerlikowske_et_al. ont montré que la sensibilité de la mammographie de dépistage était de 86 % pour les CIS alors qu' elle n' était que de 75 % pour les carcinomes infiltrants .
+La taille de la tumeur a été étudiée avec des différences significatives entre les groupes 2 et 3 par rapport au groupe 1 et cela est très significatif dans le groupe 1 entre les cancers dépistés et d' intervalle .
+Nous n' avons pas pu présenter de différence suivant les cancers prévalents , c' est-à-dire les cancers détectés lors_de la toute première campagne de dépistage et les cancers incidents détectés lors des campagnes suivantes sur une population déjà dépistée , n' ayant pas encore suffisamment de recul .
+Classiquement , les cancers prévalents sont de plus grande taille et le temps de doublement est plus lent que pour les cancers incidents .
+Les pourcentages de T1 varient de 32 % ( Édimbourg ) à 65 % ( Stockholm ) avec des moyennes à 50 % ( Malmö ) , 53 % ( 2 comtés ) et 56 % ( HIP ) .
+Toutefois , l' impact du diamètre des cancers dépistés est remis en question , le temps de doublement de ces tumeurs étant plus faible .
+L' envahissement ganglionnaire passe de 22 % dans les cancers dépistés à 44 % dans les cancers d' intervalle et à 40 % dans le groupe 2 , ce qui représente des chiffres particulièrement satisfaisants alors_que , dans les campagnes internationales , on retrouve 29 % dans le programme suédois des 2 comtés , 31 % dans le NBSS2 , 37 % à Édimbourg et 43 % dans le HIP .
+Des facteurs encore_plus pertinents seront nécessaires pour caractériser ces cancers dépistés par rapport aux cancers non dépistés , en_particulier des facteurs biologiques et surtout la survie de ces cancers .
+Ces premiers résultats confirment l' intérêt d' un dépistage organisé étendu à tout le territoire national et permettent de conclure sur l' efficacité du dépistage de masse organisé en attendant les études de survie françaises .

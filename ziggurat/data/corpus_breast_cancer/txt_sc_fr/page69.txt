@@ -1,0 +1,178 @@
+Le __THS__ est utilisé pour soulager les effets secondaires de la ménopause ( bouffées de chaleur , troubles de l' humeur , sécheresse vaginale , etc. ) ainsi_que pour prévenir et traiter l' ostéoporose ; il supprime les symptômes de la carence estrogénique .
+Ses bénéfices sont démontrés , mais il est par_ailleurs susceptible d' augmenter le risque d' autres maladies , dont le cancer du sein .
+Une méta-analyse d' enquêtes épidémiologiques publiée en 1997 dans le Lancet ( méta-analyse d' Oxford ) montrait une augmentation modérée du risque de cancer du sein consécutive à l' utilisation d' un __THS__ .
+Elle faisait la synthèse d' enquêtes d' observation , pour lesquelles l' absence de contrôle de la prise de traitement peut aboutir à une évaluation biaisée de l' effet du traitement .
+C' est pourquoi les conclusions d' essais thérapeutiques randomisés étaient très attendues .
+Ce type d' étude échappe en_effet aux nombreux biais potentiels inhérents aux enquêtes d' observation et fournit le meilleur niveau de preuve .
+Comparer le risque de cancer du sein dans une population de femmes ménopausées utilisant un __THS__ au_risque_de cancer du sein dans une population de femmes ménopausées ayant les mêmes caractéristiques mais ne prenant pas de __THS__ .
+Enquêtes d' observation
+Principe .
+Les enquêtes de cohorte prospectives consistent à suivre une population dans laquelle des femmes prenant un __THS__ seront comparées en termes de risque de cancer du sein à des femmes ne prenant pas de __THS__ .
+Les enquêtes cas-témoins consistent à comparer rétrospectivement les caractéristiques en termes de prise de __THS__ des femmes ayant développé un cancer du sein et des femmes de_même âge indemnes de cancer du sein .
+Ces études d' observation sont caractérisées par l' absence de contrôle du facteur étudié ( ici la prise de __THS__ ) de la part de l' investigateur .
+La population est donc observée telle qu' elle est , sans_que le chercheur intervienne .
+Biais d' auto-sélection .
+Les femmes qui choisissent de prendre un __THS__ ont des caractéristiques ( style de vie , facteurs liés à la santé ) différentes de celles des non-utilisatrices : elles sont généralement en meilleure santé , ont un meilleur niveau d' éducation , sont plus minces que les non-utilisatrices .
+Biais de contre-indication .
+Le biais de contre-indication consiste à ne pas prescrire ou à prescrire moins facilement des __THS__ aux femmes plus à risque de cancer du sein .
+On s' attend alors à observer moins de cancers du sein dans le groupe traité , sans_que cela traduise un effet protecteur de cette thérapeutique vis-à-vis du cancer du sein .
+Biais de dépistage .
+Le biais de dépistage consiste à rechercher de façon plus intensive une pathologie chez les femmes traitées par __THS__ .
+Ainsi , le recours plus fréquent à la mammographie des femmes sous __THS__ entraîne un biais de dépistage s' il permet de détecter plus_tôt des tumeurs ( qui de toutes façons seraient apparues ) , majorant ainsi artificiellement l' incidence du cancer pendant une période d' observation donnée .
+Appariement / ajustement .
+Ces procédures sont utilisées afin_de pallier l' absence de randomisation .
+Elles permettent de comparer les utilisatrices de __THS__ avec les non-utilisatrices qui ont les mêmes caractéristiques pour les facteurs d' ajustement .
+Essais randomisés
+Principe .
+Il s' agit d' étudier une population de femmes acceptant le principe de prendre soit un __THS__ , soit un traitement placebo , le choix du traitement se faisant par tirage au sort .
+On compare ensuite le risque de cancer du sein chez les femmes du groupe placebo et chez les femmes du groupe __THS__ .
+Comparabilité des groupes .
+L' attribution au hasard du traitement garantit la comparabilité initiale entre le groupe avec traitement et le groupe sans traitement : l' attribution n' est influencée ni par l' état de santé ni par toute autre caractéristique des sujets inclus .
+Par conséquent , les facteurs - connus ou inconnus - autres que le traitement étudié , et notamment les facteurs pronostiques du cancer du sein , sont également répartis entre les groupes .
+En juillet 2002 , les résultats d' un essai thérapeutique américain randomisé , comparant un placebo à un traitement combinant oestrogène et progestatif , ont été publiés dans le JAMA .
+Ils confirment les conclusions de la méta-analyse d' Oxford .
+Nous résumons ici les principaux résultats de cet essai thérapeutique et de la méta-analyse d' Oxford , ainsi_que ceux des enquêtes d' observation publiées depuis cette méta-analyse et étudiant séparément l' impact de la prise d' un oestrogène seul et l' impact de la prise d' une association oestrogène-progestatif sur le risque de cancer du sein .
+Résultats de l' essai __WHI__ oestrogène-progestatif
+Cet essai , mené dans le cadre de la __WHI__ , avait pour objet l' évaluation des effets de l' association continue oestrogène et progestatif sur la prévention des maladies cardio-vasculaires et des fractures du col du fémur , ainsi_que sur le risque de cancer du sein et du côlon , chez les femmes ménopausées .
+Les inclusions ont eu lieu entre 1993 et 1998 et il était prévu d' atteindre un suivi moyen de 8,5 années .
+Les résultats ont été publiés prématurément en mai 2002 , après 5,2 années de suivi en moyenne .
+On observait en_effet , dans le groupe traité par rapport au groupe placebo , une augmentation du risque de pathologie coronarienne , d' accident vasculaire cérébral et de thrombose veineuse profonde , ainsi_que du risque de cancer du sein .
+Les bénéfices du traitement consistaient en une diminution des nombres de fractures du col du fémur et de cancers du côlon , mais , au total , les risques apparaissaient dépasser les bénéfices .
+Matériel et méthodes
+Les femmes incluses dans l' essai étaient ménopausées , non hystérectomisées , âgées de 50 à 79 ans .
+Ces volontaires ont été recrutées dans 40 centres des États-Unis .
+Au total , 16608 femmes ont été randomisées dans l' essai , 8506 recevant une association d' oestrogène d' origine équine et d' acétate de médroxyprogestérone ( administration continue , par voie orale ) , 8102 autres un placebo .
+Le suivi des participantes était réalisé tous les 6 mois et une surveillance mammographique avait lieu annuellement .
+Ni la femme , ni le personnel soignant ne connaissait le traitement attribué , à_moins_que ne surviennent des problèmes de tolérance , auquel cas l' aveugle était levé .
+Plus de 98 % des cancers du sein décelés pendant l' essai ont été confirmés par des comptes rendus anatomopathologiques .
+L' analyse a été réalisée en intention de traiter , c' est-à-dire que toute patiente randomisée a été analysée dans le bras que lui a attribué le tirage au sort , quel que soit le traitement effectivement pris et quelle qu' en soit l' observance .
+Les __RR__ ont été estimés par des modèles de Cox stratifiés par centre , âge et antécédents de problèmes médicaux .
+Pour le risque relatif de cancer du sein , deux types d' intervalles de confiance ont été calculés : les intervalles de confiance nominaux habituels et les intervalles de confiance ajustés , prenant en compte l' existence d' analyses intermédiaires .
+Utilisation d' un traitement substitutif et risque de cancer du sein
+Précisons tout d'_abord que les taux de surveillance par mammographie ont été comparables dans les deux groupes de traitement .
+Dans le groupe placebo , 124 cancers du sein invasifs ont été observés ( pour un suivi de 41289 personnes-années ) , contre 166 dans le groupe oestrogène plus progestatif ( pour un suivi de 44075 personnes-années ) .
+Le risque de développer un cancer du sein invasif était 1,26 fois plus élevé parmi les femmes du groupe oestrogène plus progestatif que parmi les femmes du groupe placebo ( intervalle de confiance nominal à 95 % = [ 1,00-1,59 ] , intervalle de confiance ajusté à 95 % = [ 0,83-1,92 ] ) .
+Cette augmentation de risque n' était pas significativement modifiée en fonction de l' indice de masse corporelle , de l' âge ou de l' existence d' antécédents familiaux de cancer du sein .
+L' essai ne mettait pas en évidence de variation significative du risque de cancer du sein in_situ entre les femmes du groupe oestrogène plus progestatif et celles du groupe placebo .
+- Observance
+Quarante-deux pour cent des femmes du groupe oestrogène plus progestatif et 38 % des femmes du groupe placebo avaient arrêté leur traitement à un moment ou un autre de l' étude .
+Dans le groupe oestrogène plus progestatif , 6,2 % des femmes s' étaient vu prescrire un traitement hormonal de la ménopause par leur propre médecin , 10,7 % dans le groupe placebo .
+En limitant l' étude du risque de cancer du sein à la période d' observance du traitement ( définie comme l' utilisation d' au moins 80 % de la dose prévue dans le protocole ) augmentée des 6 mois suivant une éventuelle non-observance , l' augmentation du risque de cancer du sein associée à la prise de __THS__ passait de 26 % à 49 % .
+- Délai depuis la randomisation
+Les risques cumulés de cancer du sein invasif , estimés par la méthode de Kaplan-Meier , étaient comparables entre les deux groupes de traitement durant les quatre premières années de suivi .
+C' est à_partir_de la quatrième année que la courbe du groupe oestrogène plus progestatif commençait à s' écarter de celle du groupe placebo : le rapport des risques instantanés de cancer du sein augmentait significativement avec le délai depuis la randomisation ( test de tendance , p < 0,05 ) .
+- Utilisation antérieure d' un __THS__
+Environ 74 % des femmes n' avaient jamais utilisé de __THS__ avant l' entrée dans l' essai , 18 % avaient été traitées pendant moins de 5 années et 8 % plus de 5 années .
+L' augmentation du risque de cancer du sein liée à la prise de __THS__ mise en évidence dans l' essai __WHI__ était plus marquée pour les femmes ayant déjà pris un __THS__ avant l' entrée dans l' essai .
+Ainsi , pour les femmes du groupe oestrogène plus progestatif n' ayant jamais utilisé de __THS__ avant l' inclusion dans l' étude , celles en ayant pris pendant moins de 5 ans , celles en ayant pris pendant 5 à 10 ans et enfin celles en ayant pris plus de 10 années , le risque relatif de développer un cancer du sein invasif par rapport au groupe placebo était respectivement de 1,06 ( IC95 % = [ 0,81-1,38 ] , 114 cas versus 102 ) , 2,13 ( IC95 % = [ 1,15-3,94 ] , 32 cas versus 15 ) , 4,61 ( IC95 % = [ 1,01-21,02 ] , 11 cas versus 2 ) , et 1,81 ( IC95 % = [ 0,60-5,43 ] , 9 cas versus 5 ) ( test de tendance significatif , z = 2,17 ) .
+Cela appuie l' hypothèse d' un effet cumulatif de la prise de __THS__ sur le risque de cancer du sein .
+Caractéristiques des cancers du sein
+Les résultats de l' analyse des caractéristiques des cancers du sein diagnostiqués au_cours_de l' essai __WHI__ ont été publiés dans le JAMA en juin 2003 .
+Les types histologiques ( canalaires , lobulaires , tubulaires ) ainsi_que le grade des tumeurs invasives ne différaient pas significativement entre les deux groupes de traitement .
+Les cancers du sein invasifs diagnostiqués chez les femmes du groupe oestrogène plus progestatif , comparés à ceux diagnostiqués chez les femmes du groupe placebo , étaient significativement plus gros ( diamètre moyen : 1,7 versus 1,5 cm , p = 0,04 ) et diagnostiqués à un stade plus avancé ( extension régionale / métastases : 25,4 versus 16,0 % , p = 0,04 ) .
+Enfin , on trouvait un pourcentage plus élevé de mammographies anormales dans le groupe oestrogène plus progestatif que dans le groupe placebo dès la première année de suivi ( 9,4 versus 5,4 % , p < 0,001 ) .
+Impact sur d' autres pathologies
+L' essai mettait par_ailleurs en évidence une hausse de 22 % du risque de maladie cardiovasculaire en_général ( dont une hausse de 29 % du risque de pathologie coronarienne , de 41 % du risque d' accident vasculaire cérébral , et un risque multiplié par deux de thrombose veineuse profonde ) .
+On notait une réduction de 34 % du risque de fracture du col du fémur ( 24 % pour l' ensemble des fractures ) et de 37 % du risque de cancer du côlon .
+En ce qui concerne la mortalité globale , aucune différence n' était mise en évidence entre les groupes placebo et oestrogène plus progestatif .
+Autres essais
+Deux autres essais randomisés américains , qui comparaient le risque de cancer et de maladies cardiovasculaires chez les utilisatrices et les non-utilisatrices de traitements hormonaux substitutifs , ont été réalisés chez des femmes ayant des antécédents de maladie cardiovasculaire .
+L' étude HERS comparait une association d' oestrogène d' origine équine et d' acétate de médroxyprogestérone à un traitement placebo parmi 2763 femmes et a rapporté un risque relatif de cancer du sein de 1,27 ( IC95 % = [ 0,84-1,94 ] , 49 cas versus 39 ) chez les utilisatrices de __THS__ comparées aux non-utilisatrices , après un suivi moyen de 6,8 années .
+L' étude West comparait un traitement à base d' oestrogènes seuls à un placebo parmi 664 femmes et rapportait un risque identique de cancer du sein dans les groupes avec et sans __THS__ ( __RR__ = 1,00 , IC95 % = [ 0,30-3,50 ] , 5 cas versus 5 ) .
+Nous allons maintenant rappeler les résultats de la méta-analyse d' Oxford et présenter ceux d' enquêtes d' observation publiées depuis .
+Outre la confrontation des résultats d' enquêtes d' observation à ceux d' un vaste essai thérapeutique contrôlé , l' intérêt est de compléter les informations apportées par cet essai .
+En effet , les enquêtes d' observation ont souvent une durée de suivi plus longue et certaines étudient l' impact du délai depuis l' arrêt du traitement et / ou celui de différents types de traitements hormonaux , ce qui n' est pas le cas de l' essai __WHI__ .
+Résultats de la méta-analyse d' Oxford
+Nous rappelons ici dans leurs grandes lignes la méthodologie et les résultats de la méta-analyse publiée en 1997 dans le Lancet .
+La méta-analyse d' Oxford rassemblait 90 % des données épidémiologiques disponibles en 1997 sur la relation entre prise de __THS__ et risque de cancer du sein .
+Les données provenaient de 15 enquêtes de cohorte et de 36 enquêtes cas-témoins , réunissant près_de 53000 cas de cancer du sein invasif .
+La plupart de ces enquêtes avaient été réalisées en Amérique du Nord ou en Europe .
+Au total , 21 pays étaient représentés .
+Risque global de cancer du sein lié à la prise de traitement hormonal substitutif
+La méta-analyse permettait de conclure à un risque de cancer du sein invasif plus élevé chez les utilisatrices d' un __THS__ que chez les non-utilisatrices ( __RR__ = 1,14 , écart type = 0,003 ) .
+Durée d' utilisation et délai depuis la dernière utilisation du traitement substitutif
+L' excès de risque de cancer du sein invasif augmentait avec la durée du traitement , diminuait à l' arrêt du traitement et disparaissait presque complètement 5 années après l' arrêt .
+Ainsi , lorsque la dernière utilisation se situait dans les 5 ans avant le diagnostic , le risque augmentait de 2,3 % par année d' utilisation .
+Extension tumorale
+Comparées aux non-utilisatrices , les utilisatrices de __THS__ avaient moins souvent un cancer du sein métastatique d'_emblée et avec moins souvent des ganglions axillaires envahis .
+L' étude séparée du risque de cancer localisé et du risque de cancer étendu montrait que l' excès de risque lié à l' utilisation récente d' un __THS__ était limité aux tumeurs localisées .
+Composition des traitements substitutifs
+Par ailleurs , cette méta-analyse montrait que l' augmentation du risque de cancer du sein pourrait être plus élevée avec l' association oestrogène-progestatif qu' avec l' utilisation d' un oestrogène seul .
+Mais l' information sur le type des traitements utilisés n' était disponible que pour 39 % des femmes ; 80 % des utilisatrices de __THS__ pour lesquelles l' information était disponible étaient sous oestrogène seul , et la différence des effets du __THS__ selon son type ( oestrogène seul ou association oestrogène-progestatif ) était non significative .
+Études d' observation publiées depuis la méta-analyse
+Alors que l' association oestrogène-progestatif est devenue le traitement standard de la ménopause pour les femmes non hystérectomisées , la méta-analyse d' Oxford incluait majoritairement des femmes ayant utilisé un oestrogène seul .
+Il est vraisemblable que l' impact des __THS__ sur le risque de cancer du sein diffère lorsqu' un progestatif est associé à un oestrogène .
+Nous nous sommes donc intéressés ici aux enquêtes d' observation publiées depuis la méta-analyse d' Oxford et tenant compte du type de traitement utilisé ( oestrogène seul ou association oestrogène-progestatif ) dans l' analyse de la relation entre prise de __THS__ et risque de cancer du sein .
+Les principales caractéristiques de ces quinze enquêtes sont résumées dans le tableau 3. Elles ont été réalisées aux États-Unis , en Suède , au Canada ou en France et ajoutent environ 17000 cas de cancer du sein à ceux pris en compte dans la méta-analyse d' Oxford .
+Elles étudient le risque de cancer du sein lié à la prise de __THS__ en fonction de la composition des traitements ainsi_que , généralement , de la durée d' utilisation et / ou du délai depuis l' arrêt du traitement .
+Plusieurs d' entre elles ont également distingué les cancers du sein selon leur histologie ou leur extension .
+Parmi les neuf enquêtes ayant comparé le risque global de cancer du sein parmi les utilisatrices d' oestrogènes seuls au_risque_de cancer du sein parmi les non-utilisatrices de __THS__ , les risques relatifs estimés vont de 0,70 à 1,94 .
+Mais ces risques globaux ne prennent en compte ni la durée d' utilisation , ni le délai depuis l' arrêt du traitement , dont la répartition varie selon les études .
+La plupart des études mettent en évidence une tendance à l' augmentation du risque relatif avec la durée du traitement .
+L' utilisation à court terme d' oestrogènes seuls ( c' est-à-dire lorsque la durée d' utilisation est inférieure à 3 , 4 , 5 ou 6 ans , selon les études ) n' est pas associée à une augmentation significative du risque de cancer du sein , sauf dans l' étude de Magnusson_et_al. .
+Il est difficile de réaliser une synthèse des résultats concernant l' impact du délai depuis l' arrêt de la prise d' oestrogènes seuls sur le risque de cancer du sein dans la mesure où la notion d' utilisation « ancienne » varie entre les études ( de plus de 6 mois à plus de 5 années depuis l' arrêt du traitement ) .
+Les résultats sont néanmoins compatibles avec ceux de la méta-analyse d' Oxford , c' est-à-dire que l' augmentation du risque de cancer du sein semble limitée à la période d' utilisation du __THS__ et aux 5 années après l' arrêt .
+Risque de cancer du sein lié à la prise d' une association oestrogène-progestatif
+Parmi les dix enquêtes ayant comparé le risque global de cancer du sein parmi les utilisatrices d' un oestrogène en association avec un progestatif au_risque_de cancer du sein parmi les non-utilisatrices de __THS__ , les risques relatifs estimés vont de 0,7 à 1,63 , mais ils ne prennent en compte ni la durée de consommation , ni le délai depuis l' arrêt du traitement .
+Toutes les études évaluant l' effet de la durée de prise d' une association oestrogène-progestatif sur le risque de cancer du sein mettent en évidence une tendance à l' augmentation du risque relatif avec la durée du traitement .
+Dans deux des six études s' intéressant à l' impact du délai depuis l' arrêt du traitement sur le risque de cancer du sein , le risque n' a pu être évalué parmi les femmes ayant arrêté leur traitement depuis plus de 5 années , faute d' effectifs suffisants .
+Les quatre autres études concluent à un sur-risque limité à l' utilisation récente d' une association oestrogène-progestatif .
+OEstrogènes seuls versus association oestrogène-progestatif
+Comparer au sein d' une même enquête le risque relatif global de cancer du sein associé à la prise d' oestrogènes seuls et celui associé à la prise d' une association oestrogène-progestatif est délicat : l' ajout d' un progestatif ( pour les femmes non hystérectomisées ) est devenu le traitement standard assez tardivement .
+Les femmes traitées par oestrogènes seuls ont donc globalement , dans les enquêtes d' observation présentées , une durée de traitement plus longue que les femmes traitées par un oestrogène associé à un progestatif .
+Il faut donc comparer les risques relatifs à durée de traitement égale .
+Ainsi , le tableau 6 montre que la prise d' une association oestrogène-progestatif semble avoir un effet délétère plus rapide et plus marqué sur le risque de cancer du sein ( cf. notamment les risques relatifs par année d' utilisation ou par période de 5 années d' utilisation ) que la prise d' un oestrogène seul .
+Cinq enquêtes ont étudié l' impact de la prise de __THS__ sur les cancers du sein en fonction de leur histologie ou de leur extension .
+Globalement , l' augmentation du risque de cancer du sein ne semble pas clairement limitée à un type histologique particulier , ni à une extension tumorale précise ( l' impact de la prise de __THS__ sur l' extension tumorale n' ayant été évaluée que dans deux études ) .
+Cependant , en ce qui concerne les associations oestrogène-progestatif , l' augmentation du risque de cancer du sein semble plus marquée pour les tumeurs lobulaires que pour les autres types histologiques .
+Discussion
+Les preuves accumulées dans les différentes études menées jusqu' à_présent vont dans le sens d' une augmentation du risque de cancer du sein associée à la prise d' un __THS__ .
+Cette augmentation semble d' autant plus marquée que la durée d' utilisation est longue .
+Dans la méta-analyse d' Oxford , les traitements hormonaux utilisés étaient à 80 % environ des oestrogènes seuls .
+À l' issue de cette méta-analyse , on pouvait conclure que l' effet de la prise d' oestrogènes seuls sur le risque de cancer du sein était analogue à celui d' une ménopause retardée .
+Si , dans les enquêtes d' observation , l' excès de risque n' est généralement pas significatif pour une utilisation de courte durée ( moins de 5 ans ) des oestrogènes seuls , il semble apparaître plus rapidement et être plus important avec les associations oestrogène-progestatif ( qui constituent actuellement le traitement standard chez les femmes non hystérectomisées ) .
+La partie de l' essai __WHI__ comparant un traitement placebo à un traitement par oestrogènes seuls chez des femmes hystérectomisées est d'_ailleurs toujours en cours .
+Par ailleurs , que le traitement utilisé consiste en des oestrogènes seuls ou en une association oestrogène-progestatif , cette augmentation semble limitée à l' utilisation récente , puisque le sur-risque disparaît généralement après 5 années d' arrêt de la prise de traitement .
+Cela suggère un effet promoteur plutôt qu' initiateur du __THS__ sur le cancer du sein .
+L' hypothèse d' un biais de dépistage est souvent émise pour expliquer l' augmentation du risque de découvrir un cancer du sein chez les utilisatrices d' un __THS__ : les femmes traitées sont mieux suivies et se voient plus souvent prescrire des mammographies que les femmes non traitées .
+Dans les enquêtes dont nous venons de parler , pourtant , la surveillance mammographique a généralement été prise en compte soit dans l' analyse , soit par la sélection de la population d' étude , minimisant la portée d' un éventuel biais de dépistage .
+Quant aux femmes de l' essai __WHI__ , elles bénéficiaient toutes d' une surveillance mammographique annuelle : un tel biais de dépistage est donc exclu .
+En outre , on sait que , en_dehors des essais randomisés , les femmes prenant un __THS__ ont des caractéristiques différentes des autres femmes , notamment en ce qui concerne des facteurs de risque du cancer du sein .
+Ainsi , il pourrait y avoir un risque de confusion entre le rôle des __THS__ sur la survenue de cancer du sein et leur relation avec certains facteurs de risque de cancer du sein .
+Généralement cependant , dans les enquêtes publiées depuis la méta-analyse d' Oxford , la_plupart des principaux facteurs de confusion connus ont été pris en compte dans les analyses .
+De plus , ce biais est absent dans les essais randomisés __WHI__ , HERS et West .
+Au final , malgré l' existence de biais potentiels inhérents aux enquêtes d' observation , notamment le biais d' auto-sélection , les résultats de ces enquêtes et des essais randomisés sont globalement concordants en ce qui concerne le lien entre prise de __THS__ et risque de cancer du sein , contrairement aux résultats sur le lien entre prise de __THS__ et pathologies coronariennes .
+L' impact en termes de santé publique de l' augmentation du risque de cancer du sein associée à la prise de __THS__ est important puisque ce cancer est le plus fréquent des cancers chez la femme et que le __THS__ est de_plus_en_plus fréquemment utilisé : aujourd'hui , en France , plus du tiers des femmes ménopausées de moins de 65 ans en font usage .
+Il est essentiel de préciser l' impact de ces traitements sur le risque de cancer du sein , afin_de l' intégrer dans un bilan global des avantages et inconvénients à court et long terme du __THS__ .
+Beral_et_al. ont récemment évalué , d'_après les résultats des principaux essais randomisés étudiant les effets à long terme de certains traitements hormonaux substitutifs de la ménopause , les risques et bénéfices associés à ces traitements chez des femmes en bonne santé .
+Le tableau 8 indique la différence du nombre de cas attendus pour différentes maladies chez 10000 femmes ayant utilisé un __THS__ et chez 10000 femmes n' ayant pas utilisé un tel traitement , pour un suivi de 5 années .
+Le nombre total des cancers du sein , des accidents vasculaires cérébraux et des embolies pulmonaires ajoutés par la prise de __THS__ est plus élevé que le nombre total des cancers colorectaux et des fractures du col du fémur évités par la prise de __THS__ .
+Chez les femmes de 50 à 59 ans , ce sont les cancers du sein qui contribuent le plus à ce bilan global négatif .
+En ce qui concerne le cancer du sein , nombre de questions restent à approfondir :
+- Quel est l' effet de la voie d' administration sur le risque de cancer du sein ?
+Par exemple , y a -t il une différence si les oestrogènes sont administrés sous forme orale ou transdermique ?
+Doit on envisager que le progestatif soit délivré dans l' endomètre d' une manière qui affecte le moins possible le sein ?
+- Les différents types de progestatifs utilisés ( progestérone naturelle , dérivés prégnane ou nor-prégnane , dérivés de la 19-nor-testostérone ) et les différents schémas d' administration ( séquentiel ou continu ) ont ils un impact différent sur le risque de cancer du sein ?
+- Quel est l' effet des __THS__ sur l' agressivité des tumeurs ?
+Certaines études ont montré que la survie globale était meilleure chez les femmes ayant suivi auparavant un traitement hormonal substitutif de la ménopause .
+Dans l' essai __WHI__ cependant , l' augmentation du risque de cancer du sein observée dans le groupe __THS__ ne concernait pas principalement les tumeurs de pronostic favorable , contrairement à_ce_que suggérait la méta-analyse d' Oxford ( qui , rappelons-le , évaluait surtout l' impact de la prise d' estrogènes seuls sur le risque de cancer du sein ) .
+Les résultats de l' étude __WHI__ suggèrent que l' association oestrogène plus progestatif testée pourrait augmenter le risque de développer un cancer du sein tout en retardant sa détection .
+- Les résultats dont nous disposons actuellement ( qui portent essentiellement sur des traitements utilisés aux États-Unis et en Europe du Nord ) sont ils extrapolables aux traitements majoritairement utilisés en France ?
+En France , en_effet , les traitements prescrits sont le_plus_souvent composés de 17 bêta-estradiol , au lieu d' oestrogènes conjugués équins , et de divers progestatifs , parmi lesquels la progestérone naturelle et la dydrogestérone sont les plus courants .
+Par ailleurs , l' essai __WHI__ porte non_seulement sur des traitements peu utilisés en France mais également sur une population de femmes qui n' est pas représentative des femmes traitées en France ( plus âgées , puisque l' âge moyen des femmes incluses dans l' essai __WHI__ était de 63,3 ans , et de poids plus élevé , puisque leur indice de masse corporelle moyen était de 28,5 ) .
+Si l' effet délétère sur le sein des __THS__ utilisés aux États-Unis est , comme le suggèrent certaines enquêtes d' observation , plus marqué chez les femmes minces , l' excès de risque de cancer du sein mis en évidence dans l' essai __WHI__ pourrait être encore_plus important parmi les femmes françaises .
+Seule une étude sur les traitements utilisés en France a été publiée à ce jour .
+Il est indispensable de disposer d' autres données sur les effets à long terme de ces traitements .
+La mise en place d' un essai comparatif permettrait de mesurer , sans risque de biais , les effets du __THS__ sur le risque de cancer du sein et d' autres maladies , en évitant notamment le biais d' auto-sélection rencontré dans les enquêtes d' observation .
+Si 1 des 10 millions de femmes ménopausées françaises acceptaient de participer à un tel essai , cela donnerait un effectif de 10000 femmes incluses .
+Néanmoins , un tel essai poserait les problèmes suivants :
+1 ) La puissance de l' essai dépend de l' observance du traitement attribué par le tirage au sort .
+Or , un traitement prolongé nécessite souvent des ajustements de dose , de schéma ou de voie d' administration , voire une interruption .
+Dans l' essai __WHI__ , 40 % des femmes ont interrompu ( de façon temporaire ou définitive ) le traitement attribué par le tirage au sort .
+Par ailleurs , dans le groupe sans __THS__ , une partie des femmes peuvent décider de prendre un __THS__ au cours du suivi .
+2 ) Il faudrait décider si on inclut seulement des femmes n' ayant jamais pris de __THS__ ou si on évalue de façon plus pragmatique à_la_fois l' intérêt du __THS__ par_rapport_à l' absence de __THS__ et l' intérêt de la prolongation du __THS__ par_rapport_à un traitement de quelques années .
+Cette dernière question est tout aussi intéressante que la première puisque la question de la durée du traitement est un sujet de désaccord entre l' Afssaps et certains gynécologues .
+3 ) Il faudra s' attendre à inclure plus facilement des femmes ne souffrant pas ou souffrant peu de symptômes de la ménopause , les autres acceptant plus difficilement la possibilité de se voir attribuer un traitement placebo alors_que l' efficacité du __THS__ est démontrée pour soulager ces effets secondaires .
+4 ) Il faudrait évaluer les traitements utilisés en France dans leur ensemble , c' est-à-dire utiliser des types d' hormones , des voies et des schémas d' administration divers .
+Cela nécessite des effectifs plus importants que si l' on évaluait un seul traitement , si les résultats dépendent du type de traitement .
+Les avantages d' un tel essai resteraient la comparabilité initiale entre les groupes de traitement ainsi_que le suivi comparable entre ces groupes .
