@@ -1,10 +1,8 @@
 package main;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
-import java.util.Iterator;
-import java.util.Map;
-import java.util.Map.Entry;
 
 import resource.Corpus;
 
@@ -22,47 +20,50 @@ public class Context {
 	}
 	
 	public HashMap<String, HashMap<String, Integer>> vectorize(Corpus corpus){
-		ArrayList<String> tokens = corpus.getTokens();
+		ArrayList<Token> tokens = corpus.getTokens();
 		
-		ArrayList<String> heads = new ArrayList<String>();
+		for (int i = 0; i < tokens.size(); i++){
+			String head = tokens.get(i).getBase();
 		
-		for (String token : tokens){
-			for (String head : heads){
-				if (!vectors.containsKey(head)){
-					vectors.put(head, new HashMap<String, Integer>());
-				}
-				
-				if (!vectors.get(head).containsKey(token)){
-					vectors.get(head).put(token, 1);
-				} else {
-					vectors.get(head).put(token, vectors.get(head).get(token) + 1);
-				}
-				
-
-				if (!vectors.containsKey(token)){
-					vectors.put(token, new HashMap<String, Integer>());
-				}
-				
-				if (!vectors.get(token).containsKey(head)){
-					vectors.get(token).put(head, 1);
-				} else {
-					vectors.get(token).put(head, vectors.get(token).get(head) + 1);
-				}
-			}
-		
-			if (!heads.contains(token)){
-				heads.add(token);
+			if (!vectors.containsKey(head)){
+				vectors.put(head, new HashMap<String, Integer>());
 			}
 			
-			if (heads.size() > window){
-				heads.remove(heads.get(0));
+			for (int j = -window; j < window; j++){	
+				int pos = i + j;
+				
+				if (pos >= tokens.size() || pos < 0) continue;
+				
+				String contextToken = tokens.get(pos).getBase();
+				
+//				if (contextToken.equals("ENDLINE")) break;
+				
+				if (!vectors.get(head).containsKey(contextToken)){
+					vectors.get(head).put(contextToken, 1);
+				} else {
+					vectors.get(head).put(contextToken, vectors.get(head).get(contextToken) + 1);
+				}
 			}
 		}
+		
+//		for (String head : vectors.keySet()){
+//			ArrayList<String> toBeRemoved = new ArrayList<String>();
+//			
+//			for (String word : vectors.get(head).keySet()){
+//				if (vectors.get(head).get(word) < 2){
+//					toBeRemoved.add(word);
+//				}
+//			}
+//			
+//			for (String word : toBeRemoved){
+//				vectors.get(head).remove(word);
+//			}
+//		}
 		
 		return vectors;
 	}
 	
-	public HashMap<String, HashMap<String, Integer>> translateVectors(HashMap<String, ArrayList<String>> translations){
+	public HashMap<String, HashMap<String, Integer>> translateVectors(HashMap<String, ArrayList<String>> translations, Corpus targetCorpus){
 		for (String head : vectors.keySet()) {
 			translatedVectors.put(head, new HashMap<String, Integer>());
 			
@@ -71,6 +72,20 @@ public class Context {
 				
 				if (translations.containsKey(word)) {
 					translation = translations.get(word).get(0);
+					
+					int occ = 0;
+					
+					for (String t : translations.get(word)){
+						if (!targetCorpus.getOccurrences().containsKey(t)) break;
+						
+						int targetOcc = targetCorpus.getOccurrences().get(t);
+						
+						if (targetOcc > occ) {
+							translation = t;
+							occ = targetOcc;
+						}
+					}
+					
 				} else {
 					translation = word;
 				}

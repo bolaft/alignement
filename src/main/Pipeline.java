@@ -8,22 +8,22 @@ import java.util.Map.Entry;
 
 import resource.Corpus;
 import resource.Dictionary;
+import resource.Stopwords;
 
-public class Pipeline {
-
-	// Parameters
-	private static final int WINDOW = 4;
-	private static final int TOP = 100;
-	
+public class Pipeline {	
 	// Dictionary
-	private static final String DICTIONARY_PATH = "ziggurat/dico/elra_utf8.final";
+	private static String DICTIONARY_PATH = "ziggurat/dico/elra_utf8.final";
 
 	// XML translations
-	private static final String TRUTH_PATH = "ziggurat/data/corpus_breast_cancer/ts.xml";
+	private static String TRUTH_PATH = "ziggurat/data/corpus_breast_cancer/ts.xml";
 	
 	// Corpora
-	private static final String SOURCE_CORPUS_PATH = "ziggurat/data/corpus_breast_cancer/tmp_sc_fr/corpus.lem.utf8.tmp";
-	private static final String TARGET_CORPUS_PATH = "ziggurat/data/corpus_breast_cancer/tmp_sc_en/corpus.lem.utf8.tmp";
+	private static String SOURCE_CORPUS_PATH = "ziggurat/data/corpus_breast_cancer/tmp_sc_fr/corpus.lem.utf8.tmp";
+	private static String TARGET_CORPUS_PATH = "ziggurat/data/corpus_breast_cancer/tmp_sc_en/corpus.lem.utf8.tmp";
+	
+	// Stopwords
+	private static String SOURCE_STOPWORDS_PATH = "src_stopwords.txt";
+	private static String TARGET_STOPWORDS_PATH = "targ_stopwords.txt";
 
 	// POS
 	private static final String[] SOURCE_POS = {
@@ -31,103 +31,99 @@ public class Pipeline {
         "ADJ",
         "ADV",
         "VCJ",
-        "ADJ2PAR",
-        "ADJ1PAR",
+//        "ADJ2PAR",
+//        "ADJ1PAR",
         "VNCFF",
 //        "SYM",
-        "VNCNT",
+//        "VNCNT",
         "VPAR",
     };
-	
-	private static final String[] TARGET_POS = {
+        
+        private static final String[] TARGET_POS = {
         "JJ",
-        "JJR",
-        "JJS",
+//        "JJR",
+//        "JJS",
         "NN",
-        "NNS",
-        "NNP",
-        "NNPS",
-        "RB",
-        "RBR",
-        "RBS",
+//        "NNS",
+//        "NNP",
+//        "NNPS",
+//        "RB",
+//        "RBR",
+//        "RBS",
 //        "SYM",
         "VB",
-//        "VBD",
+        "VBD",
         "VBG",
-//        "VBN",
-//        "VBP",
-//        "VBZ",
+        "VBN",
+        "VBP",
+        "VBZ",
     };
 	
 	public static void main(String[] args) {
-		echo("Loading dictionary...");
+		HashMap<Integer, HashMap<Integer, String>> matrix = new HashMap<Integer, HashMap<Integer, String>>();
+
+		int[] windows = {1, 2, 4};
+		
+		for (int window : windows){
+			matrix.put(window, new HashMap<Integer, String>());
+			
+			int[] tops = {1, 10, 50, 100};
+			
+			for (int top : tops){
+				String rate = experiment(window, top);
+				matrix.get(window).put(top, rate);
+			}
+		}
+		
+		echo(matrix);
+	}
+	
+	public static String experiment(int window, int top) {
 		Dictionary dictionary = new Dictionary(DICTIONARY_PATH);
-		echo("Dictionary loaded.");
 		
-		echo("Loading source corpus...");
-		Corpus source = new Corpus(SOURCE_CORPUS_PATH, SOURCE_POS);
-		echo("Source corpus loaded.");
+		Stopwords sourceStopwords = new Stopwords(SOURCE_STOPWORDS_PATH);
+		Stopwords targetStopwords = new Stopwords(TARGET_STOPWORDS_PATH);
 		
-		echo("Loading target corpus...");
-		Corpus target = new Corpus(TARGET_CORPUS_PATH, TARGET_POS);
-		echo("Target corpus loaded.");
+		Corpus source = new Corpus(SOURCE_CORPUS_PATH, SOURCE_POS, sourceStopwords);
+		Corpus target = new Corpus(TARGET_CORPUS_PATH, TARGET_POS, targetStopwords);
 		
-//		ArrayList<String> tokens = new ArrayList<String>();
-//		tokens.add("Jean");
-//		tokens.add("cliqueter");
-//		tokens.add("parti");
-//		tokens.add("au");
-//		tokens.add("marché");
-//		tokens.add("hier");
-//		tokens.add("soir");
-//		tokens.add(".");
-//		source.setTokens(tokens);
+		Context sourceContext = new Context(source, window);
+		Context targetContext = new Context(target, window);
 		
-		echo("Vectorizing source tokens...");
-		Context sourceContext = new Context(source, WINDOW);
-		echo("Source tokens vectorized.");
+		HashMap<String, HashMap<String, Integer>> sourceToTargetVectors = sourceContext.translateVectors(dictionary.getMap(), target);
 		
-		echo("Vectorizing target tokens...");
-		Context targetContext = new Context(target, WINDOW);
-		echo("Target tokens vectorized.");
-
-		echo("Translating source to target vectors...");
-		HashMap<String, HashMap<String, Integer>> sourceToTargetVectors = sourceContext.translateVectors(dictionary.getMap());
-		echo("Source to target vectors translated.");
-		
-		echo("Translating target to source vectors...");
-		HashMap<String, HashMap<String, Integer>> targetToSourceVectors = targetContext.translateVectors(dictionary.getReverseMap());
-		echo("Target to source vectors translated.");
-
-		echo("Loading the truth...");
 		Evaluator evaluator = new Evaluator(TRUTH_PATH);
-		echo("Truth loaded.");
-
-		ArrayList<String> wordsToTranslate = evaluator.getWordsToTranslate();
-
-		echo("Words to translate: " + wordsToTranslate.size());
 		
-		Integer i = 0;
 		HashMap<String, ArrayList<String>> results = new HashMap<String, ArrayList<String>>();
 		
-		for (String word : wordsToTranslate) {
+		Integer i = 0;
+		
+		for (String word : evaluator.getWordsToTranslate()) {
 			if (sourceToTargetVectors.containsKey(word)) {
-				echo("Finding candidates for word \"" + word + "\"...");
-				results.put(word, evaluator.findCandidates(sourceToTargetVectors.get(word), targetContext.getVectors(), TOP));
-				echo("Candidates found.");
+				results.put(word, evaluator.findCandidates(sourceToTargetVectors.get(word), targetContext.getVectors(), top, word));
 				i++;
 			}
 		}
 		
+		echo("Top: " + top + " , Window: " + window);
+		
 		echo("Translation candidates: " + i);
 		
-		echo(results);
+		String rate = evaluator.evaluate(results);
 		
-		echo("Successful alignment rate (Top " + TOP + ": " + evaluator.evaluate(results) + "%");
+		Pipeline.echo("Successful alignment rate: " + rate + "%\n");
+		
+		return rate;
 	}
 	
-	public static void echo(String string){
-		System.out.println(string);
+	public static void echo(Object object){
+		System.out.println(object);
+	}
+	
+	public static void echo(ArrayList<String> list){
+		for (String string : list){
+			System.out.println(string);
+		}
 	}
 	
 	public static void echo(HashMap<?, ?> map){

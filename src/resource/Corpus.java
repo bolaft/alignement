@@ -5,22 +5,27 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.StringTokenizer;
 
+import main.Token;
+
 public class Corpus extends Resource {
 	protected HashMap<String, String> map = new HashMap<String, String>();
 	
 	public String[] pos;
+	public Stopwords stopwords;
 	
-	public ArrayList<String> tokens = new ArrayList<String>();
+	public ArrayList<Token> tokens = new ArrayList<Token>();
 	
 	protected HashMap<String, String> documents = new HashMap<String, String>();
+	protected HashMap<String, Integer> occurrences = new HashMap<String, Integer>();
 	
 	protected String documentName = "";
 	protected String documentContents = "";
 	
-	public Corpus(String path, String[] pos) {
+	public Corpus(String path, String[] pos, Stopwords stopwords) {
 		super(path);
 		
 		this.pos = pos;
+		this.stopwords = stopwords;
 		
 		load();
 	}
@@ -51,10 +56,35 @@ public class Corpus extends Resource {
 
 			String[] metadata = token.split("/");
 
-			if (metadata.length > 2 && !metadata[2].startsWith("__") && !metadata[2].equals("") && Arrays.asList(pos).contains(metadata[1])){
-			    tokens.add(metadata[2]);
+			if (metadata.length > 2) {
+				String POS = null;
+				
+				if (metadata[1].indexOf(":") > 0){
+					POS = metadata[1].substring(0, metadata[1].indexOf(":"));
+				} else {
+					POS = metadata[1];
+				}
+				
+				String word = metadata[0];
+				String base = metadata[2];
+
+				if (!word.startsWith("__") 
+						&& !word.equals("") 
+						&& Arrays.asList(pos).contains(POS)
+						&& !stopwords.getList().contains(word)
+						&& !stopwords.getList().contains(base)){
+				    tokens.add(new Token(word, base, POS));
+				    
+				    if (!occurrences.containsKey(base)){
+				    	occurrences.put(base, 1);
+				    } else {
+				    	occurrences.put(base, occurrences.get(base) + 1);
+				    }
+				}
 			}
-		};
+		}
+		
+//		tokens.add(new Token("ENDLINE", "ENDLINE", "ENDLINE"));
 	}
 	
 	protected String extractDocumentName(String line){
@@ -73,6 +103,22 @@ public class Corpus extends Resource {
 		return line.startsWith("__ENDFILE");
 	}
 
+	public Stopwords getStopwords() {
+		return stopwords;
+	}
+
+	public void setStopwords(Stopwords stopwords) {
+		this.stopwords = stopwords;
+	}
+
+	public HashMap<String, Integer> getOccurrences() {
+		return occurrences;
+	}
+
+	public void setOccurrences(HashMap<String, Integer> occurrences) {
+		this.occurrences = occurrences;
+	}
+
 	public HashMap<String, String> getMap() {
 		return map;
 	}
@@ -89,11 +135,11 @@ public class Corpus extends Resource {
 		this.pos = pos;
 	}
 
-	public ArrayList<String> getTokens() {
+	public ArrayList<Token> getTokens() {
 		return tokens;
 	}
 
-	public void setTokens(ArrayList<String> tokens) {
+	public void setTokens(ArrayList<Token> tokens) {
 		this.tokens = tokens;
 	}
 

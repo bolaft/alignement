@@ -1,12 +1,11 @@
 package main;
 
 import java.io.File;
+import java.text.DecimalFormat;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
-import java.util.Random;
 import java.util.StringTokenizer;
 import java.util.Map.Entry;
 
@@ -99,11 +98,11 @@ public class Evaluator extends Resource {
 		this.truth = truth;
 	}
 
-	public ArrayList<String> findCandidates(HashMap<String, Integer> translatedSourceVector, HashMap<String, HashMap<String, Integer>> targetVectors, int top) {
+	public ArrayList<String> findCandidates(HashMap<String, Integer> translatedSourceVector, HashMap<String, HashMap<String, Integer>> targetVectors, int top, String sourceWord) {
 		HashMap<String, Double> cosines = new HashMap<String, Double>();
 		
 		for (String targetWord : targetVectors.keySet()){
-			double cosine = computeCosine(targetVectors.get(targetWord), translatedSourceVector);
+			double cosine = computeCosine(targetVectors.get(targetWord), translatedSourceVector) * computeCosine(targetWord, sourceWord);
 			
 			if (cosines.size() > top) {
 				for (String cosineKey : cosines.keySet()) {
@@ -121,16 +120,23 @@ public class Evaluator extends Resource {
 		return new ArrayList<String>(cosines.keySet());
 	}
 	
-	public double evaluate(HashMap<String, ArrayList<String>> results) {
-		int total = 0;
+	public String evaluate(HashMap<String, ArrayList<String>> results) {
+		int found = 0;
 		
-		for (String word : getWordsToTranslate()) {
-			if (results.containsKey(word) && results.get(word).contains(truth.get(word))){
-				total++;
+		for (String q : results.keySet()) {			
+			if (results.get(q).contains(truth.get(q))) {
+				found++;
 			}
 		}
 		
-		return total / truth.size();
+		int tests = truth.size();
+		
+		double fraction = Double.valueOf(found) / Double.valueOf(tests) * 100;
+		
+		DecimalFormat df = new DecimalFormat("0.00"); 
+		String rate = df.format(fraction); 
+		
+		return rate;
 	}
 	
 	public double computeCosine(HashMap<String, Integer> word1, HashMap<String, Integer> word2) {                
@@ -148,6 +154,32 @@ public class Evaluator extends Resource {
         }
         
         return total / (Math.sqrt(word1.size()) * Math.sqrt(word2.size()));
+	}
+	
+	public double computeCosine(String word1, String word2) {
+		char [] chars1 = word1.toCharArray (); 
+		char [] chars2 = word2.toCharArray (); 
+		
+		ArrayList <Character> charList = new ArrayList <Character> (); 
+		
+		for (char c : chars1) charList.add (c);
+		for (char c : chars2) charList.add (c);
+		        
+        Double total = 0.0;
+        
+        for (char ch : charList) {
+        	int w1count = 0;
+        	
+        	for (char c : chars1) if (c == ch) w1count++;
+        	
+        	int w2count = 0;
+        	
+        	for (char c : chars2) if (c == ch) w2count++;
+        	
+            total += w1count * w2count;
+        }
+        
+        return total / (Math.sqrt(word1.length()) * Math.sqrt(word2.length()));
 	}
 	
 	@Override
