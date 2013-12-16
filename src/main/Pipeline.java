@@ -99,8 +99,18 @@ public class Pipeline {
 		Integer i = 0;
 		
 		for (String word : evaluator.getWordsToTranslate()) {
+			System.out.println("Candidates for: " + word);
+			
+			ArrayList<String> candidates = evaluator.findCandidates(sourceToTargetVectors.get(word), targetContext.getVectors(), top, word);
+			
+			echo(targetContext.getVectors().get(candidates.get(0)));
+			
+			for (String c : candidates){
+				System.out.println(c);
+			}
+			
 			if (sourceToTargetVectors.containsKey(word)) {
-				results.put(word, evaluator.findCandidates(sourceToTargetVectors.get(word), targetContext.getVectors(), top, word));
+				results.put(word, candidates);
 				i++;
 			}
 		}
